@@ -1,0 +1,327 @@
+{
+  "generatedAt": "2026-01-21T21:43:50.292Z",
+  "model": "gpt-5",
+  "profile": "balanced",
+  "threshold": 65,
+  "totalAnalyzed": 100,
+  "totalPublished": 12,
+  "publishTarget": "default",
+  "debug": {
+    "analysisFailed": true,
+    "usedLLM": false,
+    "useOpenAIEnv": true,
+    "hasOpenAIKey": false,
+    "minPublish": 12,
+    "weightsUsed": {
+      "research": 35,
+      "policy": 35,
+      "institution": 15,
+      "impact": 15
+    },
+    "labelsUsed": {
+      "research": "Recherche",
+      "policy": "Politiques",
+      "institution": "Institution",
+      "impact": "Impact"
+    },
+    "descUsed": {
+      "research": "articles/journaux, conférences, CFP, résultats scientifiques",
+      "policy": "lois, régulations, standards, cadres, gouvernance",
+      "institution": "communiqués des grandes agences et autorités (UNESCO, OCDE, CNIL, ministères…)",
+      "impact": "impact direct pour la classe/enseignants/universités/EdTech"
+    },
+    "keysUsed": {
+      "research": [
+        "arxiv",
+        "preprint",
+        "doi",
+        "journal",
+        "conference",
+        "proceedings",
+        "workshop",
+        "submission",
+        "cfp",
+        "acceptance",
+        "springer",
+        "wiley",
+        "nature",
+        "frontiers",
+        "acm",
+        "ieee"
+      ],
+      "policy": [
+        "ai act",
+        "regulation",
+        "régulation",
+        "policy",
+        "politique",
+        "standard",
+        "framework",
+        "guidance",
+        "law",
+        "act",
+        "ordonnance",
+        "décret",
+        "ethics",
+        "ethical"
+      ],
+      "institution": [
+        "unesco",
+        "oecd",
+        "ocde",
+        "cnil",
+        "edps",
+        "ncsc",
+        "minist",
+        "commission",
+        "nsf",
+        "ukri",
+        "ies",
+        "european commission"
+      ],
+      "impact": [
+        "school",
+        "education",
+        "teacher",
+        "enseignant",
+        "k-12",
+        "universit",
+        "student",
+        "pupil",
+        "mooc",
+        "classroom",
+        "edtech"
+      ]
+    }
+  },
+  "items": [
+    {
+      "title": "Prep for the SAT with practice tests in Gemini",
+      "url": "https://blog.google/products-and-platforms/products/education/practice-sat-gemini/",
+      "source": "Google for Education – Blog",
+      "published": "2026-01-21T08:00:00.000Z",
+      "score": 50,
+      "summary_en": "Gemini now offers full-length, no-cost practice SATs, featuring content from The Princeton Review.",
+      "summary_fr": "Gemini now offers full-length, no-cost practice SATs, featuring content from The Princeton Review.",
+      "resume_fr": "Gemini now offers full-length, no-cost practice SATs, featuring content from The Princeton Review.",
+      "tags": [],
+      "breakdown": {
+        "research": 0,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/024-BETT26-PracticeTests-Header-Resize-Social.width-1300.png"
+    },
+    {
+      "title": "Which Reasoning Trajectories Teach Students to Reason Better? A Simple Metric of Informative Alignment",
+      "url": "https://arxiv.org/abs/2601.14249v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-01-20T18:58:10.000Z",
+      "score": 65,
+      "summary_en": "Long chain-of-thought (CoT) trajectories provide rich supervision signals for distilling reasoning from teacher to student LLMs. However, both prior work and our experiments show that trajectories from stronger teachers do not necessarily yield better students, highlighting the importance of data-student suitability in distillation. Existing methods assess suitability primarily through student likelihood, favoring trajectories that closely align with the model's current behavior but overlooking more informative ones. Addressing this, we propose Rank-Surprisal Ratio (RSR), a simple metric that ",
+      "summary_fr": "Long chain-of-thought (CoT) trajectories provide rich supervision signals for distilling reasoning from teacher to student LLMs. However, both prior work and our experiments show that trajectories from stronger teachers do not necessarily yield better students, highlighting the importance of data-student suitability in distillation. Existing methods assess suitability primarily through student likelihood, favoring trajectories that closely align with the model's current behavior but overlooking more informative ones. Addressing this, we propose Rank-Surprisal Ratio (RSR), a simple metric that ",
+      "resume_fr": "Long chain-of-thought (CoT) trajectories provide rich supervision signals for distilling reasoning from teacher to student LLMs. However, both prior work and our experiments show that trajectories from stronger teachers do not necessarily yield better students, highlighting the importance of data-student suitability in distillation. Existing methods assess suitability primarily through student likelihood, favoring trajectories that closely align with the model's current behavior but overlooking more informative ones. Addressing this, we propose Rank-Surprisal Ratio (RSR), a simple metric that ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Jet-RL: Enabling On-Policy FP8 Reinforcement Learning with Unified Training and Rollout Precision Flow",
+      "url": "https://arxiv.org/abs/2601.14243v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-01-20T18:54:31.000Z",
+      "score": 70,
+      "summary_en": "Reinforcement learning (RL) is essential for enhancing the complex reasoning capabilities of large language models (LLMs). However, existing RL training pipelines are computationally inefficient and resource-intensive, with the rollout phase accounting for over 70% of total training time. Quantized RL training, particularly using FP8 precision, offers a promising approach to mitigating this bottleneck. A commonly adopted strategy applies FP8 precision during rollout while retaining BF16 precision for training. In this work, we present the first comprehensive study of FP8 RL training and demons",
+      "summary_fr": "Reinforcement learning (RL) is essential for enhancing the complex reasoning capabilities of large language models (LLMs). However, existing RL training pipelines are computationally inefficient and resource-intensive, with the rollout phase accounting for over 70% of total training time. Quantized RL training, particularly using FP8 precision, offers a promising approach to mitigating this bottleneck. A commonly adopted strategy applies FP8 precision during rollout while retaining BF16 precision for training. In this work, we present the first comprehensive study of FP8 RL training and demons",
+      "resume_fr": "Reinforcement learning (RL) is essential for enhancing the complex reasoning capabilities of large language models (LLMs). However, existing RL training pipelines are computationally inefficient and resource-intensive, with the rollout phase accounting for over 70% of total training time. Quantized RL training, particularly using FP8 precision, offers a promising approach to mitigating this bottleneck. A commonly adopted strategy applies FP8 precision during rollout while retaining BF16 precision for training. In this work, we present the first comprehensive study of FP8 RL training and demons",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Opportunities in AI/ML for the Rubin LSST Dark Energy Science Collaboration",
+      "url": "https://arxiv.org/abs/2601.14235v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-01-20T18:46:42.000Z",
+      "score": 50,
+      "summary_en": "The Vera C. Rubin Observatory's Legacy Survey of Space and Time (LSST) will produce unprecedented volumes of heterogeneous astronomical data (images, catalogs, and alerts) that challenge traditional analysis pipelines. The LSST Dark Energy Science Collaboration (DESC) aims to derive robust constraints on dark energy and dark matter from these data, requiring methods that are statistically powerful, scalable, and operationally reliable. Artificial intelligence and machine learning (AI/ML) are already embedded across DESC science workflows, from photometric redshifts and transient classification",
+      "summary_fr": "The Vera C. Rubin Observatory's Legacy Survey of Space and Time (LSST) will produce unprecedented volumes of heterogeneous astronomical data (images, catalogs, and alerts) that challenge traditional analysis pipelines. The LSST Dark Energy Science Collaboration (DESC) aims to derive robust constraints on dark energy and dark matter from these data, requiring methods that are statistically powerful, scalable, and operationally reliable. Artificial intelligence and machine learning (AI/ML) are already embedded across DESC science workflows, from photometric redshifts and transient classification",
+      "resume_fr": "The Vera C. Rubin Observatory's Legacy Survey of Space and Time (LSST) will produce unprecedented volumes of heterogeneous astronomical data (images, catalogs, and alerts) that challenge traditional analysis pipelines. The LSST Dark Energy Science Collaboration (DESC) aims to derive robust constraints on dark energy and dark matter from these data, requiring methods that are statistically powerful, scalable, and operationally reliable. Artificial intelligence and machine learning (AI/ML) are already embedded across DESC science workflows, from photometric redshifts and transient classification",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Exploring Learners' Expectations and Engagement When Collaborating with Constructively Controversial Peer Agents",
+      "url": "https://arxiv.org/abs/2601.13479v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-01-20T00:25:33.000Z",
+      "score": 50,
+      "summary_en": "Peer agents can supplement real-time collaborative learning in asynchronous online courses. Constructive Controversy (CC) theory suggests that humans deepen their understanding of a topic by confronting and resolving controversies. This study explores whether CC's benefits apply to LLM-based peer agents, focusing on the impact of agents' disputatious behaviors and disclosure of agents' behavior designs on the learning process. In our mixed-method study (n=144), we compare LLMs that follow detailed CC guidelines (regulated) to those guided by broader goals (unregulated) and examine the effects ",
+      "summary_fr": "Peer agents can supplement real-time collaborative learning in asynchronous online courses. Constructive Controversy (CC) theory suggests that humans deepen their understanding of a topic by confronting and resolving controversies. This study explores whether CC's benefits apply to LLM-based peer agents, focusing on the impact of agents' disputatious behaviors and disclosure of agents' behavior designs on the learning process. In our mixed-method study (n=144), we compare LLMs that follow detailed CC guidelines (regulated) to those guided by broader goals (unregulated) and examine the effects ",
+      "resume_fr": "Peer agents can supplement real-time collaborative learning in asynchronous online courses. Constructive Controversy (CC) theory suggests that humans deepen their understanding of a topic by confronting and resolving controversies. This study explores whether CC's benefits apply to LLM-based peer agents, focusing on the impact of agents' disputatious behaviors and disclosure of agents' behavior designs on the learning process. In our mixed-method study (n=144), we compare LLMs that follow detailed CC guidelines (regulated) to those guided by broader goals (unregulated) and examine the effects ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "PhysicsSolutionAgent: Towards Multimodal Explanations for Numerical Physics Problem Solving",
+      "url": "https://arxiv.org/abs/2601.13453v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-01-19T23:11:02.000Z",
+      "score": 50,
+      "summary_en": "Explaining numerical physics problems often requires more than text-based solutions; clear visual reasoning can substantially improve conceptual understanding. While large language models (LLMs) demonstrate strong performance on many physics questions in textual form, their ability to generate long, high-quality visual explanations remains insufficiently explored. In this work, we introduce PhysicsSolutionAgent (PSA), an autonomous agent that generates physics-problem explanation videos of up to six minutes using Manim animations. To evaluate the generated videos, we design an assessment pipel",
+      "summary_fr": "Explaining numerical physics problems often requires more than text-based solutions; clear visual reasoning can substantially improve conceptual understanding. While large language models (LLMs) demonstrate strong performance on many physics questions in textual form, their ability to generate long, high-quality visual explanations remains insufficiently explored. In this work, we introduce PhysicsSolutionAgent (PSA), an autonomous agent that generates physics-problem explanation videos of up to six minutes using Manim animations. To evaluate the generated videos, we design an assessment pipel",
+      "resume_fr": "Explaining numerical physics problems often requires more than text-based solutions; clear visual reasoning can substantially improve conceptual understanding. While large language models (LLMs) demonstrate strong performance on many physics questions in textual form, their ability to generate long, high-quality visual explanations remains insufficiently explored. In this work, we introduce PhysicsSolutionAgent (PSA), an autonomous agent that generates physics-problem explanation videos of up to six minutes using Manim animations. To evaluate the generated videos, we design an assessment pipel",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "ICo3D: An Interactive Conversational 3D Virtual Human",
+      "url": "https://arxiv.org/abs/2601.13148v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-01-19T15:30:08.000Z",
+      "score": 85,
+      "summary_en": "This work presents Interactive Conversational 3D Virtual Human (ICo3D), a method for generating an interactive, conversational, and photorealistic 3D human avatar. Based on multi-view captures of a subject, we create an animatable 3D face model and a dynamic 3D body model, both rendered by splatting Gaussian primitives. Once merged together, they represent a lifelike virtual human avatar suitable for real-time user interactions. We equip our avatar with an LLM for conversational ability. During conversation, the audio speech of the avatar is used as a driving signal to animate the face model, ",
+      "summary_fr": "This work presents Interactive Conversational 3D Virtual Human (ICo3D), a method for generating an interactive, conversational, and photorealistic 3D human avatar. Based on multi-view captures of a subject, we create an animatable 3D face model and a dynamic 3D body model, both rendered by splatting Gaussian primitives. Once merged together, they represent a lifelike virtual human avatar suitable for real-time user interactions. We equip our avatar with an LLM for conversational ability. During conversation, the audio speech of the avatar is used as a driving signal to animate the face model, ",
+      "resume_fr": "This work presents Interactive Conversational 3D Virtual Human (ICo3D), a method for generating an interactive, conversational, and photorealistic 3D human avatar. Based on multi-view captures of a subject, we create an animatable 3D face model and a dynamic 3D body model, both rendered by splatting Gaussian primitives. Once merged together, they represent a lifelike virtual human avatar suitable for real-time user interactions. We equip our avatar with an LLM for conversational ability. During conversation, the audio speech of the avatar is used as a driving signal to animate the face model, ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "A self-evolving multi-role collaborative framework with fine-grained difficulty guidance for innovative mathematical problem generation",
+      "url": "https://arxiv.org/abs/2601.11792v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-01-16T21:36:04.000Z",
+      "score": 85,
+      "summary_en": "Mathematical problem generation (MPG) is a significant research direction in the field of intelligent education. In recent years, the rapid development of large language models (LLMs) has enabled new technological approaches to problem-generation tasks. Although existing LLMs can achieve high correctness rates, they generally lack innovation and exhibit poor discrimination. In this paper, we propose the task of innovative math problem generation (IMPG). To solve the IMPG task, this paper proposes a self-evolving, multi-role collaborative framework with fine-grained difficulty guidance. First, ",
+      "summary_fr": "Mathematical problem generation (MPG) is a significant research direction in the field of intelligent education. In recent years, the rapid development of large language models (LLMs) has enabled new technological approaches to problem-generation tasks. Although existing LLMs can achieve high correctness rates, they generally lack innovation and exhibit poor discrimination. In this paper, we propose the task of innovative math problem generation (IMPG). To solve the IMPG task, this paper proposes a self-evolving, multi-role collaborative framework with fine-grained difficulty guidance. First, ",
+      "resume_fr": "Mathematical problem generation (MPG) is a significant research direction in the field of intelligent education. In recent years, the rapid development of large language models (LLMs) has enabled new technological approaches to problem-generation tasks. Although existing LLMs can achieve high correctness rates, they generally lack innovation and exhibit poor discrimination. In this paper, we propose the task of innovative math problem generation (IMPG). To solve the IMPG task, this paper proposes a self-evolving, multi-role collaborative framework with fine-grained difficulty guidance. First, ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "The importance of intentional child development practices in early childhood education and care settings",
+      "url": "https://oecdedutoday.com/the-importance-of-intentional-child-development-practices-in-early-childhood-education-and-care-settings/",
+      "source": "OECD Education & Skills Today",
+      "published": "2026-01-13T17:06:25.000Z",
+      "score": 65,
+      "summary_en": "By Andreas Schleicher, OECD Director for Education and Skills Despite efforts to strengthen education systems, each year many young adults … More",
+      "summary_fr": "By Andreas Schleicher, OECD Director for Education and Skills Despite efforts to strengthen education systems, each year many young adults … More",
+      "resume_fr": "By Andreas Schleicher, OECD Director for Education and Skills Despite efforts to strengthen education systems, each year many young adults … More",
+      "tags": [],
+      "breakdown": {
+        "research": 0,
+        "policy": 35,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=15, Impact=15.",
+      "image": "https://oecdedutoday.com/wp-content/uploads/2025/11/TALIS-Starting-Strong-cover.jpg"
+    },
+    {
+      "title": "Inferring spatial single-cell-level interactions through interpreting cell state and niche correlations learned by self-supervised graph transformer",
+      "url": "https://www.nature.com/articles/s42256-025-01161-0",
+      "source": "Nature Machine Intelligence",
+      "published": "2025-12-31T00:00:00.000Z",
+      "score": 85,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=0.",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-025-01161-0/MediaObjects/42256_2025_1161_Fig1_HTML.png"
+    },
+    {
+      "title": "Balancing Act",
+      "url": "https://learning-analytics.info/index.php/JLA/article/view/8761",
+      "source": "Journal of Learning Analytics (JLA)",
+      "published": "2025-11-26T08:00:00.000Z",
+      "score": 70,
+      "summary_en": "<p>Machine learning algorithms have been widely used for identifying at-risk students. Current research focuses on timeliness and accuracy of the predictions, leading to a heavy reliance on demographic data, which introduces severe bias issues. This study develops fairness-aware machine learning models to identify at-risk students in high school Advanced Placement (AP) statistics, where student performance is closely linked to demographic background. We evaluated the predictive performance and bias mitigation strategies of various machine learning algorithms. To determine the optimal time for ",
+      "summary_fr": "<p>Machine learning algorithms have been widely used for identifying at-risk students. Current research focuses on timeliness and accuracy of the predictions, leading to a heavy reliance on demographic data, which introduces severe bias issues. This study develops fairness-aware machine learning models to identify at-risk students in high school Advanced Placement (AP) statistics, where student performance is closely linked to demographic background. We evaluated the predictive performance and bias mitigation strategies of various machine learning algorithms. To determine the optimal time for ",
+      "resume_fr": "<p>Machine learning algorithms have been widely used for identifying at-risk students. Current research focuses on timeliness and accuracy of the predictions, leading to a heavy reliance on demographic data, which introduces severe bias issues. This study develops fairness-aware machine learning models to identify at-risk students in high school Advanced Placement (AP) statistics, where student performance is closely linked to demographic background. We evaluated the predictive performance and bias mitigation strategies of various machine learning algorithms. To determine the optimal time for ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=learning-analytics.info&sz=128"
+    },
+    {
+      "title": "Interpreting Predictive Learning Sequences in a College Math Course through a Self-Regulated Learning Framework",
+      "url": "https://learning-analytics.info/index.php/JLA/article/view/8865",
+      "source": "Journal of Learning Analytics (JLA)",
+      "published": "2025-11-26T08:00:00.000Z",
+      "score": 70,
+      "summary_en": "<p>Digital traces have been used to measure self-regulated learning (SRL), yet the validity of inferences made about these traces has often been questioned. Recently, researchers have used multiple channels of data — including digital traces, verbalizations, and self-reports — to validate inferences about individual SRL events. Research on the validation of inferences about sequences of multiple SRL events remains limited; however, investigating these sequences has the potential to refine SRL theories. To study the validation of sequences of SRL events, we collected multimodal data from 49 und",
+      "summary_fr": "<p>Digital traces have been used to measure self-regulated learning (SRL), yet the validity of inferences made about these traces has often been questioned. Recently, researchers have used multiple channels of data — including digital traces, verbalizations, and self-reports — to validate inferences about individual SRL events. Research on the validation of inferences about sequences of multiple SRL events remains limited; however, investigating these sequences has the potential to refine SRL theories. To study the validation of sequences of SRL events, we collected multimodal data from 49 und",
+      "resume_fr": "<p>Digital traces have been used to measure self-regulated learning (SRL), yet the validity of inferences made about these traces has often been questioned. Recently, researchers have used multiple channels of data — including digital traces, verbalizations, and self-reports — to validate inferences about individual SRL events. Research on the validation of inferences about sequences of multiple SRL events remains limited; however, investigating these sequences has the potential to refine SRL theories. To study the validation of sequences of SRL events, we collected multimodal data from 49 und",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=learning-analytics.info&sz=128"
+    }
+  ]
+}
