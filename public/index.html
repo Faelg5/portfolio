@@ -1,0 +1,533 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Raphaël Tuor — Accueil</title>
+
+  <link rel="icon" href="/favicon.ico">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="alternate" hreflang="fr" href="/index.html">
+  <link rel="alternate" hreflang="en" href="/index-en.html">
+  <link rel="alternate" hreflang="de" href="/index-de.html">
+  <link rel="alternate" hreflang="x-default" href="/index.html">
+  <meta name="theme-color" content="#1a120b" />
+
+  <style>
+    :root {
+      /* Palette Steampunk / Rétro */
+      --bg: #1a120b;
+      /* Marron très sombre */
+      --track: #5a3a2a;
+      /* Bronze oxydé */
+      --station: #ffb703;
+      /* Or/Laiton brillant */
+      --card-bg: #261a15;
+      /* Fond sombre chaud */
+      --card-border: #8c5e35;
+      /* Bordure cuivre */
+      --text: #e6dac3;
+      /* Couleur papier ancien */
+      --muted: #a3927d;
+      /* Beige grisé */
+      --shadow: 0 10px 30px rgba(0, 0, 0, .65);
+
+      --asideW: clamp(300px, 28vw, 420px);
+      --asideCollapsed: 64px;
+      --asideCurrent: var(--asideW);
+    }
+
+    body.panel-collapsed {
+      --asideCurrent: var(--asideCollapsed);
+    }
+
+    * {
+      box-sizing: border-box
+    }
+
+    html,
+    body {
+      height: 100%
+    }
+
+    body {
+      margin: 0;
+      /* Dégradé chaleureux type "lampe à huile" */
+      background: radial-gradient(circle at 50% 30%, #3e2723 0%, #0d0805 70%) fixed;
+      color: var(--text);
+      /* Police avec empattements pour le côté rétro */
+      font-family: 'Georgia', 'Times New Roman', serif;
+      overflow: hidden;
+    }
+
+    /* ===== Header : brand | boutons ===== */
+    :root {
+      --navH: 56px;
+    }
+
+    @media (max-width: 820px) {
+      :root {
+        --navH: 72px;
+      }
+    }
+
+    header:not(#nt-global-nav) {
+      position: fixed;
+      left: 18px;
+      right: 18px;
+      top: calc(18px + var(--nt-nav-h, 64px));
+      z-index: 5;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+    }
+
+    header:not(#nt-global-nav)>nav.site-nav {
+      display: none !important;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: .75rem;
+      padding: .6rem .8rem;
+      border-radius: 14px;
+      /* Fond translucide teinté sépia */
+      background: rgba(38, 26, 21, 0.85);
+      backdrop-filter: blur(6px);
+      border: 1px solid #8c5e35;
+      box-shadow: var(--shadow);
+      font-weight: 800;
+      letter-spacing: .5px;
+    }
+
+    .logo {
+      width: 32px;
+      height: 32px;
+      border-radius: 9px;
+      display: grid;
+      place-items: center;
+      background: linear-gradient(135deg, #8c5e35, #3e2723);
+      border: 1px solid #ffb703;
+      color: #ffecb3;
+      font-weight: 800;
+      box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .1);
+      flex: 0 0 32px;
+    }
+
+    /* Boutons style Steampunk */
+    .btn,
+    .panel-toggle-btn {
+      background: linear-gradient(180deg, #5d4037, #3e2723) !important;
+      border: 1px solid #8d6e63 !important;
+      color: #ffecb3 !important;
+      padding: .45rem .7rem;
+      border-radius: 10px;
+      font-weight: 600;
+      font-size: 14px;
+      display: inline-flex;
+      align-items: center;
+      gap: .4rem;
+      cursor: pointer;
+      text-decoration: none;
+      appearance: none;
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 4px 8px rgba(0, 0, 0, 0.4);
+      text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+    }
+
+    .btn:hover,
+    .panel-toggle-btn:hover {
+      filter: brightness(1.1);
+    }
+
+    .btn:active {
+      transform: translateY(1px);
+    }
+
+    /* ===== Layout ===== */
+    main {
+      height: 100%;
+      display: grid;
+      grid-template-columns: 1fr var(--asideCurrent);
+      gap: 18px;
+      padding: 90px 22px 22px 22px;
+      transition: grid-template-columns .25s ease;
+    }
+
+    /* ===== Scène rail ===== */
+    .scene {
+      position: relative;
+      border-radius: 18px;
+      overflow: hidden;
+      background: linear-gradient(180deg, rgba(255, 255, 255, .02), rgba(255, 255, 255, 0));
+      border: 1px solid #5a3a2a;
+      box-shadow: var(--shadow);
+      min-height: 480px;
+    }
+
+    svg {
+      width: 100%;
+      height: 100%;
+      display: block
+    }
+
+    .track {
+      stroke: var(--track);
+      stroke-width: 8;
+      fill: none;
+    }
+
+    .sleepers {
+      stroke: #3e2723;
+      stroke-width: 4;
+      stroke-linecap: round;
+    }
+
+    /* ===== Stations (Images) ===== */
+    .station {
+      cursor: pointer;
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+
+    /* L'image de la station */
+    .station .dot {
+      filter: drop-shadow(0 0 5px rgba(255, 183, 3, 0.4));
+      transition: transform .2s ease, filter .2s ease;
+    }
+
+    .station text {
+      fill: var(--muted);
+      font-size: 12px;
+      text-anchor: middle;
+      pointer-events: none;
+      font-family: sans-serif;
+      text-shadow: 0 2px 4px black;
+    }
+
+    .station:hover .dot {
+      filter: drop-shadow(0 0 10px rgba(255, 183, 3, 0.8));
+      transform: scale(1.2);
+    }
+
+    .hit-rect {
+      fill: transparent;
+      pointer-events: all;
+    }
+
+    /* ===== Train ===== */
+    .train {
+      filter: drop-shadow(0 10px 20px rgba(0, 0, 0, .6));
+    }
+
+    /* ===== Carte centrée sobre ===== */
+    .spotlight {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%) scale(.96);
+      width: min(620px, 76vw);
+      max-width: 620px;
+      background: rgba(26, 18, 11, 0.96);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      padding: 16px 18px;
+      box-shadow: var(--shadow);
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity .18s ease, transform .18s ease;
+      z-index: 6;
+    }
+
+    .spotlight.visible {
+      opacity: 1;
+      transform: translate(-50%, -50%) scale(1);
+      pointer-events: auto;
+    }
+
+    .spotlight h4 {
+      margin: .1rem 0 .2rem 0;
+      font-size: 22px;
+      color: #ffb703;
+    }
+
+    .spotlight p {
+      margin: 0;
+      color: var(--text);
+      font-size: 17px;
+      line-height: 1.5;
+    }
+
+    /* ===== Panneau détails ===== */
+    aside {
+      position: relative;
+      border-left: 1px solid rgba(255, 255, 255, .07);
+      background: linear-gradient(180deg, rgba(255, 255, 255, .02), transparent);
+      border-radius: 18px;
+      padding: 16px 14px 12px 14px;
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, .03);
+      overflow: hidden;
+    }
+
+    .panel {
+      position: sticky;
+      top: 90px;
+      max-height: calc(100vh - 120px);
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      overflow: auto;
+      scrollbar-width: thin;
+      scrollbar-color: #8c5e35 transparent;
+      opacity: 1;
+      transition: opacity .2s ease;
+    }
+
+    body.panel-collapsed .panel {
+      pointer-events: none;
+      opacity: 0;
+    }
+
+    .panel .card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 14px;
+      padding: 12px;
+      box-shadow: var(--shadow);
+    }
+
+    .panel .card h4 {
+      margin: .1rem 0 .35rem 0;
+      font-size: 16px;
+      color: #ffb703;
+    }
+
+    .panel .card p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 14px;
+      font-family: sans-serif;
+    }
+
+    .panel .list {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 10px;
+    }
+
+    .panel-toggle-btn {
+      position: absolute;
+      inset: auto auto 18px -12px;
+      z-index: 6;
+      user-select: none;
+      border-radius: 12px 0 0 12px;
+      padding-left: 1.1rem;
+    }
+
+    .panel-toggle-btn .chev {
+      font-size: 18px;
+      line-height: 1;
+    }
+
+    .panel-toggle-btn .txt {
+      font-size: 13px;
+    }
+
+    body.panel-collapsed .panel-toggle-btn .txt::after {
+      content: " Tout voir";
+    }
+
+    body:not(.panel-collapsed) .panel-toggle-btn .txt::after {
+      content: " Replier";
+    }
+
+    @media (max-width: 880px) {
+      main {
+        grid-template-columns: 1fr;
+        padding-right: 12px;
+        padding-left: 12px
+      }
+
+      aside {
+        order: -1;
+        height: var(--asideCollapsed);
+      }
+
+      body:not(.panel-collapsed) aside {
+        height: auto;
+      }
+
+      .panel-toggle-btn {
+        inset: -12px auto auto 18px;
+        border-radius: 12px;
+      }
+    }
+  </style>
+  <link rel="stylesheet" href="/style.css?v=broducer">
+  <script defer src="/assets/js/nav.js"></script>
+  <script defer src="/assets/js/feedback.js"></script>
+  <script defer src="/_vercel/insights/script.js"></script>
+</head>
+
+<body class="panel-collapsed">
+  <header aria-label="En-tête">
+    <nav class="site-nav" aria-label="Navigation">
+      <ul class="menu">
+        <li><a href="/index.html" aria-current="page">Accueil</a></li>
+        <li><a href="/cv.html">CV</a></li>
+        <li><a href="/portfolio.html">Portfolio</a></li>
+        <li><a href="/passions.html">Passions</a></li>
+      </ul>
+      <ul class="lang">
+        <li><a href="/index.html" aria-current="page">FR</a></li>
+        <li><a href="/index-en.html">EN</a></li>
+        <li><a href="/index-de.html">DE</a></li>
+      </ul>
+    </nav>
+
+    <div class="brand">
+      <div class="logo" aria-hidden="true">R·T</div>
+      <div style="font-size:14px">Raphaël Tuor — <span style="color:var(--muted)">PhD Computer Science • HCI Researcher
+          • Music Producer</span>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="scene" aria-label="Constellation of convictions">
+      <canvas id="canvas3d" style="width:100%;height:100%;display:block;outline:none"></canvas>
+
+      <!-- Hero Overlay -->
+      <div class="hero-overlay">
+        <h1 class="hero-title">RAPHAËL TUOR</h1>
+        <p class="hero-subtitle">Researcher <span style="color:var(--muted)">//</span> Engineer <span
+            style="color:var(--muted)">//</span> Producer</p>
+      </div>
+
+      <!-- Existing spotlight used by the 3D scene logic via callbacks -->
+      <div id="spotlight" class="spotlight" role="dialog" aria-live="polite" aria-label="Idée sélectionnée">
+        <h4 id="spotTitle"></h4>
+        <p id="spotText"></p>
+      </div>
+    </section>
+
+    <aside>
+      <div role="button" aria-pressed="false" tabindex="0" class="panel-toggle-btn" id="panelToggle">
+        <span class="chev">❯</span><span class="txt"></span>
+      </div>
+      <div class="panel" id="panel">
+        <div class="card">
+          <h3>Convictions & lignes directrices</h3>
+          <div class="meta" style="color:var(--muted);font-size:12px">
+            Utilisez le bouton pour ouvrir/fermer. Cliquez une station pour les détails.
+          </div>
+        </div>
+        <div class="list" id="detail-list"></div>
+      </div>
+    </aside>
+  </main>
+
+  <script type="module">
+    /* ===== Données des stations ===== */
+    /* ===== Données des stations (Broducer Constellation) ===== */
+    const STATIONS = [
+      { id: "phd", x: 0, y: 0, title: "PhD Computer Science", detail: "Visual Analytics in High-Stakes Decision Making. University of Fribourg, 2017-2023." },
+      { id: "hci", x: 100, y: -50, title: "HCI Research", detail: "Human-Computer Interaction, experimental system design, user studies." },
+      { id: "algepi", x: -100, y: 50, title: "ALGEPI Project", detail: "Senior Researcher at Human-IST Institute. SNSF-funded recommender systems research." },
+      { id: "dataviz", x: 150, y: 80, title: "Data Visualization", detail: "d3.js, parallel coordinates, mixed data representations, Colvis annotation system." },
+      { id: "unity", x: -140, y: -60, title: "Unity / C#", detail: "Interactive systems and game prototyping for research exhibitions." },
+      { id: "web", x: -180, y: 20, title: "Web Development", detail: "JavaScript, React Native, HTML/CSS, PHP. Cross-platform mobile apps." },
+      { id: "music", x: -50, y: -150, title: "Music Production", detail: "Electronic music producer (Edwan). FL Studio, sound design." },
+      { id: "writing", x: 200, y: 0, title: "Scientific Writing", detail: "Peer-reviewed publications at VISIGRAPP, AIAA SCITECH, Information journal." },
+      { id: "proto", x: -200, y: -100, title: "Research Prototyping", detail: "Rapid prototyping of experimental research systems and interfaces." }
+    ];
+
+    /* ===== Refs DOM ===== */
+    const panelToggle = document.getElementById('panelToggle');
+    const detailList = document.getElementById('detail-list');
+    const spotlight = document.getElementById('spotlight');
+    const spotTitle = document.getElementById('spotTitle');
+    const spotText = document.getElementById('spotText');
+    const panel = document.getElementById('panel');
+
+    /* ===== Utils ===== */
+    function esc(str) { return str.replace(/[&<>"']/g, m => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[m])); }
+
+    /* ===== Spotlight (Hover) ===== */
+    function showSpotDisplay(idx) {
+      if (idx === -1) {
+        spotlight.classList.remove('visible');
+        return;
+      }
+      const st = STATIONS[idx];
+      spotTitle.innerHTML = `<span style="font-size:12px;color:var(--accent);text-transform:uppercase;letter-spacing:1px;display:block;margin-bottom:2px">DETECTED</span> ${esc(st.title)}`;
+      spotText.textContent = st.detail;
+      spotlight.classList.add('visible');
+    }
+
+    /* ===== Detail Panel (Click) ===== */
+    function openDetail(i) {
+      document.body.classList.remove('panel-collapsed');
+      panelToggle.setAttribute('aria-pressed', 'true');
+
+      // Highlight in panel
+      const existing = panel.querySelectorAll('.card');
+      existing.forEach(c => c.style.borderColor = 'var(--border)');
+
+      // Log entry
+      const head = document.createElement('div');
+      head.className = 'card';
+      head.style.borderColor = 'var(--accent)';
+      head.style.borderLeft = '4px solid var(--accent)';
+      head.innerHTML = `<h4 style="color:var(--text)">➜ ${esc(STATIONS[i].title)}</h4><p style="color:var(--muted)">${esc(STATIONS[i].detail)}</p>`;
+
+      // Prepend to list (log style)
+      // Remove old if too many
+      if (detailList.children.length > 5) detailList.lastElementChild.remove();
+      detailList.prepend(head);
+
+      panel.scrollTop = 0;
+    }
+
+    /* ===== Panneau setup ===== */
+    function renderDetailList() {
+      // Init with some "system ready" message or empty
+      detailList.innerHTML = `<div class="card" style="opacity:0.6;border-style:dashed"><p>System Ready. Waiting for input...</p></div>`;
+    }
+
+    /* ===== Init 3D ===== */
+    import { Scene3D } from '/assets/js/scene-3d.js';
+
+    function init() {
+      renderDetailList();
+
+      const canvas = document.getElementById('canvas3d');
+      new Scene3D(canvas, STATIONS, {
+        onNodeClick: (idx) => openDetail(idx),
+        onNodeHover: (idx) => showSpotDisplay(idx),
+        onBgClick: () => document.body.classList.add('panel-collapsed')
+      });
+
+      // UI Toggles
+      panelToggle.addEventListener('click', () => {
+        const collapsed = document.body.classList.toggle('panel-collapsed');
+        panelToggle.setAttribute('aria-pressed', collapsed ? 'false' : 'true');
+      });
+      panelToggle.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); panelToggle.click(); }
+      });
+    }
+
+    // Start
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', init);
+    } else {
+      init();
+    }
+  </script>
+  <script src="/assets/js/site.js" defer></script>
+</body>
+
+</html>

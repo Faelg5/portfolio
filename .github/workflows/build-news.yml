@@ -1,0 +1,151 @@
+name: Build news feed
+run-name: Build news • ${{ inputs.run_key || 'manual' }}
+
+on:
+  workflow_dispatch:
+    inputs:
+      use_openai:
+        description: 'Utiliser OpenAI pour le scoring (true/false)'
+        type: choice
+        options: [ "true", "false" ]
+        default: "true"
+      model:
+        description: 'Modèle'
+        default: 'gpt-5'
+      profile:
+        description: 'Profil'
+        type: choice
+        options: [balanced, research, policy]
+        default: balanced
+      score_min:
+        description: 'Score minimum'
+        default: '65'
+      min_publish:
+        description: 'Minimum d’items publiés'
+        default: '12'
+      output_cap:
+        description: 'Cap d’items dans le feed'
+        default: '60'
+      custom_weights:
+        description: 'Poids R,P,I,M (ex: 45,25,15,15)'
+        default: ''
+      policy_overrides:
+        description: 'JSON: {"label":"…","desc":"…","keywords":"…"}'
+        default: ''
+      run_key:
+        description: 'Identifiant client (UI)'
+        default: ''
+      publish_target:
+        description: 'default | preview'
+        default: 'default'
+
+  schedule:
+    - cron: "7 6 * * *"   # tous les jours à 06:07 UTC
+
+  push:
+    branches: [ main ]
+    paths:
+      - 'tools/**'
+      - '.github/workflows/build-news.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-news
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          # ⚠️ pas de cache npm tant qu'il n'y a pas de lockfile dans le repo
+
+      - name: Install deps
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm i
+          fi
+          npm i --no-save rss-parser openai cheerio
+
+      # Décode policy_overrides JSON => exporte NEWS_LABEL_POLICY / NEWS_DESC_POLICY / NEWS_KEYS_POLICY
+      - name: Apply policy overrides (optional)
+        if: ${{ inputs.policy_overrides != '' }}
+        run: |
+          cat > /tmp/policy.json <<'JSON'
+          ${{ inputs.policy_overrides }}
+          JSON
+          if jq -e . >/dev/null 2>&1 < /tmp/policy.json; then
+            jq -r '"NEWS_LABEL_POLICY="+(.label//""), "NEWS_DESC_POLICY="+(.desc//""), "NEWS_KEYS_POLICY="+(.keywords//"")' /tmp/policy.json >> "$GITHUB_ENV"
+          else
+            echo "Policy overrides not valid JSON, skipping."
+          fi
+
+      - name: Build news feed (with log)
+        env:
+          # 👉 Toujours injecter la clé depuis le secret
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL:   ${{ inputs.model || 'gpt-5' }}
+          NEWS_PROFILE:     ${{ inputs.profile     || 'balanced' }}
+          NEWS_SCORE_MIN:   ${{ inputs.score_min   || '65' }}
+          NEWS_MIN_PUBLISH: ${{ inputs.min_publish || '12' }}
+          NEWS_OUTPUT_CAP:  ${{ inputs.output_cap  || '60' }}
+          # max_items retiré des inputs => valeur par défaut ici :
+          NEWS_MAX_ITEMS:   ${{ vars.NEWS_MAX_ITEMS || '100' }}
+          NEWS_CUSTOM_WEIGHTS: ${{ inputs.custom_weights || '' }}
+          # 👉 Pour schedule/push (pas d’inputs), on force "true" par défaut
+          NEWS_USE_OPENAI:   ${{ inputs.use_openai || 'true' }}
+          NEWS_PUBLISH_TARGET: ${{ inputs.publish_target || 'default' }}
+        run: |
+          set -o pipefail
+          mkdir -p logs
+          echo "== ENV DIAG ==" | tee -a logs/build-news.log
+          echo "MODEL=$OPENAI_MODEL" | tee -a logs/build-news.log
+          echo "PROFILE=$NEWS_PROFILE SCORE_MIN=$NEWS_SCORE_MIN MIN_PUBLISH=$NEWS_MIN_PUBLISH CAP=$NEWS_OUTPUT_CAP MAX=$NEWS_MAX_ITEMS" | tee -a logs/build-news.log
+          echo "CUSTOM_WEIGHTS=$NEWS_CUSTOM_WEIGHTS USE_OPENAI=$NEWS_USE_OPENAI PUBLISH_TARGET=$NEWS_PUBLISH_TARGET" | tee -a logs/build-news.log
+          if [ -z "$OPENAI_API_KEY" ] || [ "$NEWS_USE_OPENAI" != "true" ]; then
+            echo "OpenAI disabled for this run" | tee -a logs/build-news.log
+            export OPENAI_API_KEY=""
+          fi
+          node tools/build-news.mjs 2>&1 | tee -a logs/build-news.log
+        continue-on-error: true
+
+      - name: Ensure feed exists (never fail)
+        run: |
+          mkdir -p public/news
+          if [ ! -f public/news/feed.json ]; then
+            echo '{"generatedAt":"1970-01-01T00:00:00.000Z","model":"placeholder","threshold":65,"totalAnalyzed":0,"totalPublished":0,"items":[]}' > public/news/feed.json
+          fi
+          head -n 30 public/news/feed.json || true
+
+      - name: Commit feed(s) if changed
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add public/news/feed*.json || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "news: update feed(s)"
+            git push
+          fi
+
+      - name: Upload logs & feed (artifact)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: news-build-${{ github.run_id }}
+          path: |
+            logs/build-news.log
+            public/news/feed*.json
+          if-no-files-found: warn

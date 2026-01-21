@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>CV — Raphaël Tuor</title>
+  <meta name="theme-color" content="#0a1220" />
+  <link rel="icon" href="/favicon.ico" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <!-- UPDATE: hreflang -->
+  <link rel="alternate" hreflang="fr" href="/cv.html">
+  <link rel="alternate" hreflang="en" href="/cv-en.html">
+  <link rel="alternate" hreflang="de" href="/cv-de.html">
+  <link rel="alternate" hreflang="x-default" href="/cv.html">
+  <style>
+    /* === Nav styles copied from portfolio === */
+    body {
+      margin: 0
+    }
+
+    .site-header nav.wrap {
+      max-width: 1100px;
+      padding: 10px 16px;
+      margin: 0 auto;
+    }
+
+    .row {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      align-items: center
+    }
+
+    .btn {
+      padding: 8px 12px;
+      border: 1px solid #ffffff22;
+      border-radius: 10px;
+      background: #0b1f33;
+      color: #e6f1ff;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px
+    }
+
+    .btn.ghost {
+      background: transparent
+    }
+
+    .btn[aria-current="page"] {
+      background: #0b1f33
+    }
+
+    .muted {
+      opacity: .9
+    }
+
+    /* === Page-specific styles === */
+    :root {
+      --bg: #0a1220;
+      --panel: #0b1323;
+      --text: #eef3f8;
+      --muted: #9fb2c8;
+      --br: 14px;
+    }
+
+    html,
+    body {
+      height: 100%
+    }
+
+    body {
+      background: radial-gradient(1200px 700px at 20% 0%, #0b1930 0%, var(--bg) 55%) fixed;
+      color: var(--text);
+      font: 16px/1.45 system-ui, -apple-system, Segoe UI, Roboto, Inter, Arial, sans-serif;
+    }
+
+    main.wrap {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 20px 16px 60px
+    }
+
+    h1 {
+      margin: 8px 0 16px 0;
+      font-size: 32px
+    }
+
+    .actions {
+      display: flex;
+      gap: .6rem;
+      flex-wrap: wrap;
+      margin: 6px 0 12px
+    }
+
+    .viewer {
+      height: calc(100vh - 260px);
+      min-height: 420px;
+      border: 1px solid #ffffff22;
+      background: #0b1323;
+      border-radius: var(--br);
+      overflow: hidden
+    }
+
+    .viewer object {
+      width: 100%;
+      height: 100%;
+      border: 0;
+      display: block
+    }
+  </style>
+  <link rel="stylesheet" href="/style.css">
+  <script defer src="/assets/js/nav.js"></script>
+  <script defer src="/assets/js/feedback.js"></script>
+  <script defer src="/_vercel/insights/script.js"></script>
+</head>
+
+<body>
+
+  <!-- Unified header (same as portfolio) -->
+  <header class="site-header">
+    <!-- UPDATE: NAV LAYOUT ONLY -->
+    <nav class="site-nav" aria-label="Navigation">
+      <ul class="menu">
+        <li><a href="/index-en.html" class="btn ghost">Home</a></li>
+        <li><a href="/cv-en.html" class="btn" aria-current="page">CV</a></li>
+        <li><a href="/portfolio-en.html" class="btn ghost">Portfolio</a></li>
+        <li><a href="/passions-en.html" class="btn ghost">Passions</a></li>
+      </ul>
+      <ul class="lang">
+        <li><a href="/cv.html" class="btn ghost">FR</a></li>
+        <li><a href="/cv-en.html" class="btn" aria-current="page">EN</a></li>
+        <li><a href="/cv-de.html" class="btn ghost">DE</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="wrap">
+    <h1>CV — Raphaël Tuor</h1>
+
+    <a class="btn" href="/assets/cv/cv-en.pdf" target="_blank" rel="noopener">Open in new tab</a>
+    <a class="btn" href="/assets/cv/cv-en.pdf" download="Raphael_Tuor_CV_EN.pdf">Download PDF</a>
+    </div>
+
+    <div class="viewer">
+      <object data="/assets/cv/cv-en.pdf#view=FitH" type="application/pdf">
+        <div style="padding:18px">
+          Your browser cannot display the embedded PDF.<br>
+          <a class="btn" href="/assets/cv/cv-en.pdf" target="_blank" rel="noopener">Click to open the CV (EN)</a>
+        </div>
+      </object>
+    </div>
+  </main>
+
+</body>
+
+</html>

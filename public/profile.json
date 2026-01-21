@@ -1,0 +1,132 @@
+{
+  "name": "Raphaël Tuor",
+  "location": "Fribourg (CH)",
+  "cv_link": "/assets/cv/cv-fr.pdf",
+  "birth": "05.10.1992",
+  "summary": "Chercheur Senior HCI, Ingénieur React Native & Créateur de Contenu. Je construis des systèmes de recommandation de confiance et des workflows d'automatisation.",
+  "roles": [
+    "Senior Researcher (HCI) @ Human-IST",
+    "React Native Developer",
+    "Electronic Music Producer (Broducer)"
+  ],
+  "contact": {
+    "email": "raphael.tuor@bluewin.ch",
+    "phone": "+41 79 762 26 67",
+    "cv_pdf": "/assets/cv/cv-fr.pdf",
+    "site": "https://www.raphaeltuor.ch"
+  },
+  "education": [
+    {
+      "title": "Master en didactique disciplinaire – orientation informatique",
+      "school": "HEP Lausanne",
+      "years": "2020–2024",
+      "highlights": [
+        "Enseignement explicite du débogage et transfert de compétences",
+        "Bases Python / HTML-CSS / C++"
+      ]
+    },
+    {
+      "title": "Bachelor en enseignement préscolaire & primaire",
+      "school": "HEP Fribourg",
+      "years": "2015–2019",
+      "highlights": [
+        "Philosophie pour enfants (travail de bachelor)",
+        "Pratiques de classe et gestion pédagogique"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "name": "français",
+      "level": "natif (C2)"
+    },
+    {
+      "name": "anglais",
+      "level": "C2 (usage professionnel)"
+    },
+    {
+      "name": "allemand",
+      "level": "B2 (usage occasionnel)"
+    }
+  ],
+  "publications": [
+    "Tuor, N., El-Hamamsy, L., Chevalier, M., Brender, J., & Bumbacher, E. (2025). Explicitly Teaching Debugging in Primary School: Effectiveness, Transferability and Durability. Proceedings of the 25th Koli Calling International Conference on Computing Education Research. ACM. DOI: 10.1145/3769994.3769999"
+  ],
+  "values": [
+    "autonomie & pouvoir d'agir",
+    "respect & bienveillance",
+    "plaisir & créativité",
+    "rigueur scientifique"
+  ],
+  "skills": {
+    "research": [
+      "HCI & User-Centered Design",
+      "Recommender Systems (Transparency/Control)",
+      "Prototyping & Iteration",
+      "Academic Writing & Publishing"
+    ],
+    "tech": [
+      "React Native (Mobile Dev)",
+      "Web (HTML/CSS/JS)",
+      "Python",
+      "Automation (n8n, workflows)"
+    ],
+    "creative": [
+      "Music Production (FL Studio)",
+      "Video Editing (Premiere, Content Creation)",
+      "Community Building (Broducers)"
+    ]
+  },
+  "experience": [
+    {
+      "period": "Current",
+      "role": "Senior Researcher (HCI)",
+      "org": "University of Fribourg - Human-IST",
+      "focus": "Paper writing, News App Prototype (React Native), Student supervision"
+    },
+    {
+      "period": "Current",
+      "role": "Co-founder",
+      "org": "Frilance SNC",
+      "focus": "App development, Web hosting, App monetization (Je n’ai Jamais)"
+    },
+    {
+      "period": "Current",
+      "role": "Content Creator & Producer",
+      "org": "Edwan / Broducer Records",
+      "focus": "YouTube, Twitch, Coaching, Music Production"
+    }
+  ],
+  "projects": [
+    {
+      "id": "algepi",
+      "title": "ALGEPI — Epistemic Welfare",
+      "desc": "Research on algorithmic gatekeeping impact. Role: Researcher & Designer.",
+      "tags": [
+        "HCI",
+        "Research",
+        "Recommender Systems"
+      ]
+    },
+    {
+      "id": "newslens",
+      "title": "NewsLens Prototype",
+      "desc": "React Native news app exploring transparency & user control mechanisms.",
+      "tags": [
+        "Mobile",
+        "React Native",
+        "Product"
+      ]
+    },
+    {
+      "id": "n8n_cover",
+      "title": "AI Cover Art Automation",
+      "desc": "n8n workflow for Broducer Records: Generate -> Upload -> Log credits.",
+      "tags": [
+        "Automation",
+        "n8n",
+        "AI"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,590 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>CV — Raphaël Tuor</title>
+
+  <link rel="alternate" hreflang="fr" href="/cv.html">
+  <link rel="alternate" hreflang="en" href="/cv-en.html">
+  <link rel="alternate" hreflang="de" href="/cv-de.html">
+  <link rel="alternate" hreflang="x-default" href="/cv.html">
+
+  <meta name="theme-color" content="#0a1220" />
+  <link rel="icon" href="/favicon.ico">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+
+  <style>
+    :root {
+      --bg: #0a1220;
+      --panel: #0b1323;
+      --card: #0d1524;
+      --border: #162235;
+      --text: #eef3f8;
+      --muted: #a6b6c9;
+      --accent: #14b8a6;
+      --accent2: #3b82f6;
+      --shadow: 0 10px 28px rgba(0, 0, 0, .35);
+      --max: 1100px;
+      --br: 14px;
+    }
+
+    * {
+      box-sizing: border-box
+    }
+
+    html,
+    body {
+      height: 100%
+    }
+
+    body {
+      margin: 0;
+      color: var(--text);
+      font: 16px/1.6 system-ui, -apple-system, sans-serif;
+      background: radial-gradient(ellipse at 50% -20%, #132f4c 0%, var(--bg) 60%) fixed;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+      transition: color .2s
+    }
+
+    a:hover {
+      color: var(--accent2)
+    }
+
+    /* Layout */
+    .app {
+      display: grid;
+      grid-template-columns: 300px 1fr;
+      gap: 28px;
+      max-width: var(--max);
+      margin: 0 auto;
+      padding: 28px;
+    }
+
+    /* Sidebar */
+    .side {
+      background: linear-gradient(180deg, var(--panel) 0%, rgba(11, 19, 35, 0.95) 100%);
+      border: 1px solid var(--border);
+      border-radius: var(--br);
+      padding: 28px;
+      position: sticky;
+      top: 28px;
+      height: fit-content;
+      box-shadow: var(--shadow);
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+    }
+
+    .me {
+      text-align: center;
+    }
+
+    .me h1 {
+      margin: 14px 0 6px;
+      font-size: 26px;
+      color: #fff;
+      font-weight: 700;
+    }
+
+    .me .title {
+      margin: 0;
+      color: var(--accent);
+      font-weight: 600;
+      font-size: 15px;
+    }
+
+    .me .subtitle {
+      margin: 4px 0 0;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .avatar-ph {
+      width: 110px;
+      height: 110px;
+      margin: 0 auto;
+      border-radius: 50%;
+      background: linear-gradient(135deg, #1e293b, #334155);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--accent);
+      border: 3px solid var(--border);
+    }
+
+    .info-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      font-size: 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+
+    .info-list li {
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+    }
+
+    .info-list strong {
+      color: var(--muted);
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+    }
+
+    .section-title {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--accent);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin: 8px 0 12px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .skills-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .tag {
+      background: rgba(30, 41, 59, 0.8);
+      color: #e2e8f0;
+      padding: 5px 12px;
+      border-radius: 6px;
+      font-size: 12px;
+      border: 1px solid #334155;
+      transition: all 0.2s;
+    }
+
+    .tag:hover {
+      border-color: var(--accent);
+      background: rgba(20, 184, 166, 0.1);
+    }
+
+    /* Main Content */
+    .main {
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+    }
+
+    .card {
+      background: linear-gradient(180deg, var(--card) 0%, rgba(13, 21, 36, 0.95) 100%);
+      border: 1px solid var(--border);
+      border-radius: var(--br);
+      padding: 28px;
+      box-shadow: var(--shadow);
+      transition: border-color 0.3s;
+    }
+
+    .card:hover {
+      border-color: #2a3a52;
+    }
+
+    .h2 {
+      font-size: 18px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 20px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding-bottom: 14px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .h2::before {
+      content: '';
+      width: 4px;
+      height: 22px;
+      background: linear-gradient(180deg, var(--accent), var(--accent2));
+      border-radius: 2px;
+    }
+
+    /* Timeline */
+    .timeline {
+      display: flex;
+      flex-direction: column;
+      gap: 22px;
+    }
+
+    .item {
+      display: grid;
+      grid-template-columns: 90px 1fr;
+      gap: 18px;
+    }
+
+    .year {
+      font-weight: 700;
+      color: var(--accent);
+      font-feature-settings: "tnum";
+      text-align: right;
+      padding-top: 2px;
+      font-size: 14px;
+    }
+
+    .details h3 {
+      margin: 0 0 4px;
+      font-size: 16px;
+      color: #fff;
+      font-weight: 600;
+    }
+
+    .details .role {
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 500;
+      margin-bottom: 8px;
+      display: block;
+    }
+
+    .details p {
+      margin: 0;
+      font-size: 14px;
+      color: #cbd5e1;
+      line-height: 1.5;
+    }
+
+    .details ul {
+      margin: 8px 0 0 18px;
+      padding: 0;
+      color: #94a3b8;
+      font-size: 13px;
+    }
+
+    .details ul li {
+      margin-bottom: 4px;
+    }
+
+    /* Nav */
+    .nav-bar {
+      grid-column: 1/-1;
+      display: flex;
+      gap: 12px;
+      margin-bottom: 12px;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 10px;
+    }
+
+    .nav-btn {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      padding: 10px 18px;
+      border-radius: 10px;
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--muted);
+      transition: all 0.2s;
+    }
+
+    .nav-btn:hover,
+    .nav-btn.active {
+      background: var(--accent);
+      color: #000;
+      border-color: var(--accent);
+    }
+
+    .dl-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: linear-gradient(135deg, var(--accent), #0d9488);
+      color: #000;
+      font-weight: 600;
+      padding: 12px 20px;
+      border-radius: 10px;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .dl-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 20px rgba(20, 184, 166, 0.3);
+      color: #000;
+    }
+
+    /* Publications */
+    .pub-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .pub-list li {
+      margin-bottom: 14px;
+      padding-left: 16px;
+      border-left: 2px solid var(--border);
+      font-size: 13px;
+      color: #94a3b8;
+    }
+
+    .pub-list .pub-year {
+      color: var(--accent);
+      font-weight: 600;
+    }
+
+    @media(max-width:800px) {
+      .app {
+        grid-template-columns: 1fr;
+        padding: 16px;
+        gap: 16px;
+      }
+
+      .side {
+        position: static;
+      }
+
+      .item {
+        grid-template-columns: 1fr;
+        gap: 4px;
+      }
+
+      .year {
+        text-align: left;
+        font-size: 13px;
+        margin-bottom: 2px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="app">
+    <nav class="nav-bar">
+      <div class="nav-links">
+        <a href="/index.html" class="nav-btn">Accueil</a>
+        <a href="/portfolio.html" class="nav-btn">Portfolio</a>
+        <a href="/passions.html" class="nav-btn">Passions</a>
+      </div>
+      <div class="nav-links">
+        <a href="/cv.html" class="nav-btn active">FR</a>
+        <a href="/cv-en.html" class="nav-btn">EN</a>
+        <a href="/cv-de.html" class="nav-btn">DE</a>
+      </div>
+    </nav>
+
+    <aside class="side">
+      <div class="me">
+        <div class="avatar-ph">RT</div>
+        <h1>Raphaël Tuor</h1>
+        <p class="title">PhD en Informatique</p>
+        <p class="subtitle">Chercheur en début de carrière</p>
+      </div>
+
+      <ul class="info-list">
+        <li><strong>Localisation</strong> Fribourg, Suisse</li>
+        <li><strong>Téléphone</strong> +41 (0)78 632 46 53</li>
+        <li><strong>Email</strong> <a href="mailto:raphael.tuor@gmail.com">raphael.tuor@gmail.com</a></li>
+        <li><strong>Site web</strong> <a href="https://edwanmusic.com" target="_blank">edwanmusic.com</a></li>
+        <li><strong>Google Scholar</strong> <a href="https://scholar.google.com/citations?user=jfMzWhYAAAAJ"
+            target="_blank">Voir publications</a></li>
+        <li><strong>Langues</strong>
+          <span>Français (langue maternelle)</span>
+          <span>Allemand (courant)</span>
+          <span>Anglais (courant)</span>
+        </li>
+      </ul>
+
+      <div class="section-title">Compétences clés</div>
+      <div class="skills-tags">
+        <span class="tag">Conception de systèmes expérimentaux</span>
+        <span class="tag">Prototypage de recherche</span>
+        <span class="tag">JavaScript</span>
+        <span class="tag">C#</span>
+        <span class="tag">Python</span>
+        <span class="tag">Java</span>
+        <span class="tag">Visualisation de données</span>
+        <span class="tag">Rédaction scientifique</span>
+      </div>
+
+      <div class="section-title">Développement & Prototypage</div>
+      <div class="skills-tags">
+        <span class="tag">React Native</span>
+        <span class="tag">Xamarin</span>
+        <span class="tag">Unity (C#)</span>
+        <span class="tag">d3.js</span>
+        <span class="tag">HTML/CSS/JS</span>
+        <span class="tag">PHP</span>
+        <span class="tag">LaTeX</span>
+      </div>
+    </aside>
+
+    <main class="main">
+
+      <section class="card">
+        <div class="h2">Expérience professionnelle</div>
+        <div class="timeline">
+
+          <div class="item">
+            <div class="year">2023–2025</div>
+            <div class="details">
+              <h3>Chercheur Senior (100%)</h3>
+              <span class="role">Human-IST Institute, Université de Fribourg — Projet SNSF ALGEPI</span>
+              <ul>
+                <li>Conception et implémentation de prototypes de recherche expérimentaux</li>
+                <li>Développement de logiciels pour l'expérimentation de systèmes de recommandation</li>
+                <li>Évaluation de systèmes et analyse data-driven</li>
+                <li>Rédaction scientifique et activités de peer-review</li>
+                <li>Collaboration au sein d'équipes de recherche interdisciplinaires</li>
+              </ul>
+              <p>Superviseur : Prof. Denis Lalanne — <a href="https://www.algepi.com" target="_blank">www.algepi.com</a>
+              </p>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="year">2018–2022</div>
+            <div class="details">
+              <h3>Assistant de recherche / Chercheur Junior (100%)</h3>
+              <span class="role">Human-IST Institute, Université de Fribourg</span>
+              <ul>
+                <li>Activités de recherche en interaction homme-machine</li>
+                <li>Participation à des études expérimentales et projets de recherche</li>
+              </ul>
+              <p>Superviseur : Prof. Denis Lalanne</p>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="year">2018, 2020–21</div>
+            <div class="details">
+              <h3>Service Civil — Association St-Camille</h3>
+              <span class="role">Villars-sur-Glâne</span>
+              <ul>
+                <li>Instructeur assistant</li>
+                <li>Développement de systèmes interactifs expérimentaux avec Unity (C#)</li>
+                <li>Prototypes présentés dans des expositions et festivals publics</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="year">2020</div>
+            <div class="details">
+              <h3>Conférencier — VidSummit 2020</h3>
+              <span class="role">Événement en ligne</span>
+              <p>Présentation publique : "Comment passer de 0 à 100k abonnés et monétiser"</p>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="year">2015–2016</div>
+            <div class="details">
+              <h3>Membre du département IT</h3>
+              <span class="role">Junior Entreprise Fribourg</span>
+              <p>Gestion et développement de projets web pour divers clients</p>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="year">2013–2014</div>
+            <div class="details">
+              <h3>Collaboration de recherche — Université de Fribourg</h3>
+              <span class="role">Projet SNSF — Veni, Vidi, Ludique</span>
+              <ul>
+                <li>Création de jingles audio pour installations à code QR</li>
+                <li>Production musicale pour films d'exposition (Musée Romain de Nyon)</li>
+              </ul>
+              <p><a href="https://www.venividiludique.ch" target="_blank">www.venividiludique.ch</a></p>
+            </div>
+          </div>
+
+        </div>
+      </section>
+
+      <section class="card">
+        <div class="h2">Formation</div>
+        <div class="timeline">
+
+          <div class="item">
+            <div class="year">2017–2023</div>
+            <div class="details">
+              <h3>Doctorat en Informatique</h3>
+              <span class="role">Faculté des Sciences, Université de Fribourg</span>
+              <p>Thèse : "Visual Analytics in High-Stakes Decision Making: Insights from Design and Time-Critical
+                Domains"</p>
+              <p>Superviseur : Prof. Denis Lalanne</p>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="year">2014–2016</div>
+            <div class="details">
+              <h3>Master of Science en Informatique (Joint Swiss Master)</h3>
+              <span class="role">Faculté des Sciences, Université de Fribourg</span>
+              <p>Mémoire : "Enhancing the Visualization of Mixed Multidimensional Data in Parallel Coordinates" — Note :
+                6</p>
+              <p>Superviseurs : Prof. Denis Lalanne, Florian Evéquoz</p>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="year">2010–2014</div>
+            <div class="details">
+              <h3>Bachelor of Science en Informatique</h3>
+              <span class="role">Faculté des Sciences, Université de Fribourg</span>
+              <p>Travail de bachelor : "Data Processing and Visualization of Ecological Graphs" — Note : 5.5</p>
+              <p>Mineurs : Systèmes d'information de gestion ; Journalisme et études des médias</p>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="year">2006–2010</div>
+            <div class="details">
+              <h3>Maturité suisse</h3>
+              <span class="role">Collège St-Michel, Fribourg</span>
+              <p>Options : Latin, Philosophie — Projet final : "Biomécanique d'un geste sportif : l'aviron"</p>
+            </div>
+          </div>
+
+        </div>
+      </section>
+
+      <section class="card">
+        <div class="h2">Publications sélectionnées</div>
+        <ul class="pub-list">
+          <li><span class="pub-year">2024</span> — Fuchs, N., Vanhulst, P., Tuor, R., & Lalanne, D. Flowstrates++: An
+            Approach to Visualize Multi-Dimensional OD Data. <em>VISIGRAPP</em></li>
+          <li><span class="pub-year">2022</span> — Tuor, R., & Lalanne, D. Scenario-Based Simulation Platform for
+            Developing New Interfaces and Benchmarking Controller Performance. <em>AIAA SCITECH Forum</em></li>
+          <li><span class="pub-year">2021</span> — Vanhulst, P., Tuor, R., Évéquoz, F., & Lalanne, D. Colvis - A
+            Structured Annotation Acquisition System for Data Visualization. <em>Information</em>, 12(4)</li>
+          <li><span class="pub-year">2018</span> — Tuor, R., Évéquoz, F., & Lalanne, D. Parallel bubbles - Evaluation of
+            three techniques for representing mixed categorical and continuous data in parallel coordinates.
+            <em>VISIGRAPP</em>
+          </li>
+        </ul>
+      </section>
+
+      <section class="card">
+        <div class="h2">Téléchargement</div>
+        <a class="dl-btn" href="/assets/cv/cv-en.pdf" target="_blank" rel="noopener" download="Raphael_Tuor_CV.pdf">
+          📄 Télécharger le CV complet (PDF anglais)
+        </a>
+      </section>
+
+    </main>
+  </div>
+
+</body>
+
+</html>
