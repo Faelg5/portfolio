@@ -184,20 +184,26 @@ export class Scene3D {
             p.scale = scale;
             p.projX = this.cx + x1 * scale;
             p.projY = this.cy + y2 * scale;
-            p.zDepth = z2; // For z-sorting if needed
+            p.zDepth = z2; // For z-sorting and hit testing
 
             // Interaction check
-            // Only check if point is in front of camera (z2 > -fov roughly, but here z=0 is center)
             if (scale > 0 && z2 > -this.fov) {
                 const dx = this.mouse.x - p.projX;
                 const dy = this.mouse.y - p.projY;
                 const dist = Math.sqrt(dx * dx + dy * dy);
 
-                if (dist < bestDist * scale && dist < bestDist) { // Scale hit area too?
-                    // Keep the closest one in terms of distance, but also favour ones in front?
-                    // Actually just 2D distance is fine for UI feel
-                    bestDist = dist;
-                    bestIdx = p.idx;
+                // Hit radius that adapts slightly with scale
+                const hitRadius = bestDist * scale;
+
+                if (dist < 25 * scale && dist < 30) {
+                    // If multiple stars are close, prefer the one closer to the camera (smaller zDepth)
+                    // Note: in this system, z is positive away from camera, but z2 is calculated such that smaller is closer?
+                    // Let's re-verify z-sorting: draw() uses b.zDepth - a.zDepth (descending). 
+                    // Higher zDepth means further away. So we want the MINIMUM zDepth.
+                    if (bestIdx === -1 || z2 < this.nodes.find(n => n.idx === bestIdx).zDepth - 50 || dist < bestDist * 0.5) {
+                        bestDist = dist;
+                        bestIdx = p.idx;
+                    }
                 }
             }
         }
