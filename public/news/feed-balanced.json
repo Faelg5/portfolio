@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-01-21T21:43:50.292Z",
+  "generatedAt": "2026-01-22T06:55:15.423Z",
   "model": "gpt-5",
   "profile": "balanced",
   "threshold": 65,
   "totalAnalyzed": 100,
-  "totalPublished": 12,
+  "totalPublished": 25,
   "publishTarget": "default",
   "debug": {
     "analysisFailed": true,
@@ -96,6 +96,63 @@
   },
   "items": [
     {
+      "title": "MolecularIQ: Characterizing Chemical Reasoning Capabilities Through Symbolic Verification on Molecular Graphs",
+      "url": "https://arxiv.org/abs/2601.15279v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-01-21T18:58:01.000Z",
+      "score": 85,
+      "summary_en": "A molecule's properties are fundamentally determined by its composition and structure encoded in its molecular graph. Thus, reasoning about molecular properties requires the ability to parse and understand the molecular graph. Large Language Models (LLMs) are increasingly applied to chemistry, tackling tasks such as molecular name conversion, captioning, text-guided generation, and property or reaction prediction. Most existing benchmarks emphasize general chemical knowledge, rely on literature or surrogate labels that risk leakage or bias, or reduce evaluation to multiple-choice questions. We",
+      "summary_fr": "A molecule's properties are fundamentally determined by its composition and structure encoded in its molecular graph. Thus, reasoning about molecular properties requires the ability to parse and understand the molecular graph. Large Language Models (LLMs) are increasingly applied to chemistry, tackling tasks such as molecular name conversion, captioning, text-guided generation, and property or reaction prediction. Most existing benchmarks emphasize general chemical knowledge, rely on literature or surrogate labels that risk leakage or bias, or reduce evaluation to multiple-choice questions. We",
+      "resume_fr": "A molecule's properties are fundamentally determined by its composition and structure encoded in its molecular graph. Thus, reasoning about molecular properties requires the ability to parse and understand the molecular graph. Large Language Models (LLMs) are increasingly applied to chemistry, tackling tasks such as molecular name conversion, captioning, text-guided generation, and property or reaction prediction. Most existing benchmarks emphasize general chemical knowledge, rely on literature or surrogate labels that risk leakage or bias, or reduce evaluation to multiple-choice questions. We",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Taxonomy-Aligned Risk Extraction from 10-K Filings with Autonomous Improvement Using LLMs",
+      "url": "https://arxiv.org/abs/2601.15247v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-01-21T18:28:31.000Z",
+      "score": 70,
+      "summary_en": "We present a methodology for extracting structured risk factors from corporate 10-K filings while maintaining adherence to a predefined hierarchical taxonomy. Our three-stage pipeline combines LLM extraction with supporting quotes, embedding-based semantic mapping to taxonomy categories, and LLM-as-a-judge validation that filters spurious assignments. To evaluate our approach, we extract 10,688 risk factors from S&P 500 companies and examine risk profile similarity across industry clusters. Beyond extraction, we introduce autonomous taxonomy maintenance where an AI agent analyzes evaluation fe",
+      "summary_fr": "We present a methodology for extracting structured risk factors from corporate 10-K filings while maintaining adherence to a predefined hierarchical taxonomy. Our three-stage pipeline combines LLM extraction with supporting quotes, embedding-based semantic mapping to taxonomy categories, and LLM-as-a-judge validation that filters spurious assignments. To evaluate our approach, we extract 10,688 risk factors from S&P 500 companies and examine risk profile similarity across industry clusters. Beyond extraction, we introduce autonomous taxonomy maintenance where an AI agent analyzes evaluation fe",
+      "resume_fr": "We present a methodology for extracting structured risk factors from corporate 10-K filings while maintaining adherence to a predefined hierarchical taxonomy. Our three-stage pipeline combines LLM extraction with supporting quotes, embedding-based semantic mapping to taxonomy categories, and LLM-as-a-judge validation that filters spurious assignments. To evaluate our approach, we extract 10,688 risk factors from S&P 500 companies and examine risk profile similarity across industry clusters. Beyond extraction, we introduce autonomous taxonomy maintenance where an AI agent analyzes evaluation fe",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Tracing 3D Anatomy in 2D Strokes: A Multi-Stage Projection Driven Approach to Cervical Spine Fracture Identification",
+      "url": "https://arxiv.org/abs/2601.15235v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-01-21T18:15:47.000Z",
+      "score": 70,
+      "summary_en": "Cervical spine fractures are critical medical conditions requiring precise and efficient detection for effective clinical management. This study explores the viability of 2D projection-based vertebra segmentation for vertebra-level fracture detection in 3D CT volumes, presenting an end-to-end pipeline for automated analysis of cervical vertebrae (C1-C7). By approximating a 3D volume through optimized 2D axial, sagittal, and coronal projections, regions of interest are identified using the YOLOv8 model from all views and combined to approximate the 3D cervical spine area, achieving a 3D mIoU of",
+      "summary_fr": "Cervical spine fractures are critical medical conditions requiring precise and efficient detection for effective clinical management. This study explores the viability of 2D projection-based vertebra segmentation for vertebra-level fracture detection in 3D CT volumes, presenting an end-to-end pipeline for automated analysis of cervical vertebrae (C1-C7). By approximating a 3D volume through optimized 2D axial, sagittal, and coronal projections, regions of interest are identified using the YOLOv8 model from all views and combined to approximate the 3D cervical spine area, achieving a 3D mIoU of",
+      "resume_fr": "Cervical spine fractures are critical medical conditions requiring precise and efficient detection for effective clinical management. This study explores the viability of 2D projection-based vertebra segmentation for vertebra-level fracture detection in 3D CT volumes, presenting an end-to-end pipeline for automated analysis of cervical vertebrae (C1-C7). By approximating a 3D volume through optimized 2D axial, sagittal, and coronal projections, regions of interest are identified using the YOLOv8 model from all views and combined to approximate the 3D cervical spine area, achieving a 3D mIoU of",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
       "title": "Prep for the SAT with practice tests in Gemini",
       "url": "https://blog.google/products-and-platforms/products/education/practice-sat-gemini/",
       "source": "Google for Education – Blog",
@@ -113,6 +170,25 @@
       },
       "reason": "Heuristique: Recherche=0, Politiques=35, Institution=0, Impact=15.",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/024-BETT26-PracticeTests-Header-Resize-Social.width-1300.png"
+    },
+    {
+      "title": "IB-GRPO: Aligning LLM-based Learning Path Recommendation with Educational Objectives via Indicator-Based Group Relative Policy Optimization",
+      "url": "https://arxiv.org/abs/2601.14686v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-01-21T06:03:05.000Z",
+      "score": 85,
+      "summary_en": "Learning Path Recommendation (LPR) aims to generate personalized sequences of learning items that maximize long-term learning effect while respecting pedagogical principles and operational constraints. Although large language models (LLMs) offer rich semantic understanding for free-form recommendation, applying them to long-horizon LPR is challenging due to (i) misalignment with pedagogical objectives such as the Zone of Proximal Development (ZPD) under sparse, delayed feedback, (ii) scarce and costly expert demonstrations, and (iii) multi-objective interactions among learning effect, difficul",
+      "summary_fr": "Learning Path Recommendation (LPR) aims to generate personalized sequences of learning items that maximize long-term learning effect while respecting pedagogical principles and operational constraints. Although large language models (LLMs) offer rich semantic understanding for free-form recommendation, applying them to long-horizon LPR is challenging due to (i) misalignment with pedagogical objectives such as the Zone of Proximal Development (ZPD) under sparse, delayed feedback, (ii) scarce and costly expert demonstrations, and (iii) multi-objective interactions among learning effect, difficul",
+      "resume_fr": "Learning Path Recommendation (LPR) aims to generate personalized sequences of learning items that maximize long-term learning effect while respecting pedagogical principles and operational constraints. Although large language models (LLMs) offer rich semantic understanding for free-form recommendation, applying them to long-horizon LPR is challenging due to (i) misalignment with pedagogical objectives such as the Zone of Proximal Development (ZPD) under sparse, delayed feedback, (ii) scarce and costly expert demonstrations, and (iii) multi-objective interactions among learning effect, difficul",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
     },
     {
       "title": "Which Reasoning Trajectories Teach Students to Reason Better? A Simple Metric of Informative Alignment",
@@ -267,6 +343,25 @@
       "image": "https://oecdedutoday.com/wp-content/uploads/2025/11/TALIS-Starting-Strong-cover.jpg"
     },
     {
+      "title": "Fragmented learning from short videos modulates neural activity and connectivity during memory retrieval",
+      "url": "https://www.nature.com/articles/s41539-025-00399-y",
+      "source": "npj Science of Learning (Nature)",
+      "published": "2026-01-10T00:00:00.000Z",
+      "score": 70,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
+    },
+    {
       "title": "Inferring spatial single-cell-level interactions through interpreting cell state and niche correlations learned by self-supervised graph transformer",
       "url": "https://www.nature.com/articles/s42256-025-01161-0",
       "source": "Nature Machine Intelligence",
@@ -322,6 +417,158 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=learning-analytics.info&sz=128"
+    },
+    {
+      "title": "Beyond compliance: an onto-epistemic analysis of formative assessment practices in higher education",
+      "url": "https://www.frontiersin.org/articles/10.3389/feduc.2026.1706921",
+      "source": "Frontiers in Education",
+      "published": null,
+      "score": 85,
+      "summary_en": "Educational policies, aligned with the paradigm of change, position learning as the central axis of higher education, emphasizing assessment not only as a tool for measurement and monitoring but also as an object of pedagogical inquiry aimed at understanding students’ formative processes. This study sought to analyze the meaning of formative assessment in university settings from the perspective of research-oriented faculty, adopting an onto-epistemic approach. A qualitative methodology with a phenomenological design was employed, allowing for in-depth exploration consistent with the research ",
+      "summary_fr": "Educational policies, aligned with the paradigm of change, position learning as the central axis of higher education, emphasizing assessment not only as a tool for measurement and monitoring but also as an object of pedagogical inquiry aimed at understanding students’ formative processes. This study sought to analyze the meaning of formative assessment in university settings from the perspective of research-oriented faculty, adopting an onto-epistemic approach. A qualitative methodology with a phenomenological design was employed, allowing for in-depth exploration consistent with the research ",
+      "resume_fr": "Educational policies, aligned with the paradigm of change, position learning as the central axis of higher education, emphasizing assessment not only as a tool for measurement and monitoring but also as an object of pedagogical inquiry aimed at understanding students’ formative processes. This study sought to analyze the meaning of formative assessment in university settings from the perspective of research-oriented faculty, adopting an onto-epistemic approach. A qualitative methodology with a phenomenological design was employed, allowing for in-depth exploration consistent with the research ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/AB9B707F-75CF-4EDE-BD4C3423508B6E96/7E7950EB-A6B2-472E-968CE75A375A19E6/WebsiteWebP_XL-FEDUC_Main%20Visual_Cyan_Website.webp"
+    },
+    {
+      "title": "Designing a pilot model for fully digitalised internal examinations in urban secondary schools: a sustainable transition framework",
+      "url": "https://www.frontiersin.org/articles/10.3389/feduc.2026.1684055",
+      "source": "Frontiers in Education",
+      "published": null,
+      "score": 85,
+      "summary_en": "Many schools are using digital tools more frequently in day-to-day lessons, yet important national exams continue to be conducted on paper. This creates a practical tension: Students become familiar with digital work in class but are still required to perform in a paper-based setting during high-stakes assessments. This article introduces a small-scale change management initiative for schools that wish to explore a more sustainable way of integrating digital assessments. The focus is on urban secondary schools with students aged approximately 15 to 17 years. In developing the framework, Kotter",
+      "summary_fr": "Many schools are using digital tools more frequently in day-to-day lessons, yet important national exams continue to be conducted on paper. This creates a practical tension: Students become familiar with digital work in class but are still required to perform in a paper-based setting during high-stakes assessments. This article introduces a small-scale change management initiative for schools that wish to explore a more sustainable way of integrating digital assessments. The focus is on urban secondary schools with students aged approximately 15 to 17 years. In developing the framework, Kotter",
+      "resume_fr": "Many schools are using digital tools more frequently in day-to-day lessons, yet important national exams continue to be conducted on paper. This creates a practical tension: Students become familiar with digital work in class but are still required to perform in a paper-based setting during high-stakes assessments. This article introduces a small-scale change management initiative for schools that wish to explore a more sustainable way of integrating digital assessments. The focus is on urban secondary schools with students aged approximately 15 to 17 years. In developing the framework, Kotter",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/AB9B707F-75CF-4EDE-BD4C3423508B6E96/7E7950EB-A6B2-472E-968CE75A375A19E6/WebsiteWebP_XL-FEDUC_Main%20Visual_Cyan_Website.webp"
+    },
+    {
+      "title": "Voir les dernières actualités",
+      "url": "https://sigcse.org/sigcse/news",
+      "source": "SIGCSE (ACM) – News",
+      "published": null,
+      "score": 70,
+      "summary_en": "Flux non détecté automatiquement — ouverture de la page d’actualités.",
+      "summary_fr": "Flux non détecté automatiquement — ouverture de la page d’actualités.",
+      "resume_fr": "Flux non détecté automatiquement — ouverture de la page d’actualités.",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=sigcse.org&sz=128"
+    },
+    {
+      "title": "Voir les dernières actualités",
+      "url": "https://learningatscale.acm.org/",
+      "source": "ACM Learning @ Scale",
+      "published": null,
+      "score": 70,
+      "summary_en": "Flux non détecté automatiquement — ouverture de la page d’actualités.",
+      "summary_fr": "Flux non détecté automatiquement — ouverture de la page d’actualités.",
+      "resume_fr": "Flux non détecté automatiquement — ouverture de la page d’actualités.",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=learningatscale.acm.org&sz=128"
+    },
+    {
+      "title": "Voir les dernières actualités",
+      "url": "https://world-education-blog.org/",
+      "source": "UNESCO GEM – World Education Blog",
+      "published": null,
+      "score": 65,
+      "summary_en": "Flux non détecté automatiquement — ouverture de la page d’actualités.",
+      "summary_fr": "Flux non détecté automatiquement — ouverture de la page d’actualités.",
+      "resume_fr": "Flux non détecté automatiquement — ouverture de la page d’actualités.",
+      "tags": [],
+      "breakdown": {
+        "research": 0,
+        "policy": 35,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=world-education-blog.org&sz=128"
+    },
+    {
+      "title": "Measuring nonverbal immediacy across learning modes: psychometric properties of the 12-item VINI Scale (virtual and interpersonal nonverbal immediacy)",
+      "url": "https://www.frontiersin.org/articles/10.3389/feduc.2025.1726842",
+      "source": "Frontiers in Education",
+      "published": null,
+      "score": 65,
+      "summary_en": "Nonverbal immediacy, the set of communicative behaviors that reduce psychological distance between individuals, has been a cornerstone of instructional communication research for over half a century. However, the proliferation of online, hybrid, and blended learning environments has challenged traditional immediacy measurement, creating a need for a modernized tool. This study reports on the development and psychometric validation of the Virtual and Interpersonal Nonverbal Immediacy (VINI) Scale, a 12-item self-report instrument designed to measure instructor immediacy across contemporary lear",
+      "summary_fr": "Nonverbal immediacy, the set of communicative behaviors that reduce psychological distance between individuals, has been a cornerstone of instructional communication research for over half a century. However, the proliferation of online, hybrid, and blended learning environments has challenged traditional immediacy measurement, creating a need for a modernized tool. This study reports on the development and psychometric validation of the Virtual and Interpersonal Nonverbal Immediacy (VINI) Scale, a 12-item self-report instrument designed to measure instructor immediacy across contemporary lear",
+      "resume_fr": "Nonverbal immediacy, the set of communicative behaviors that reduce psychological distance between individuals, has been a cornerstone of instructional communication research for over half a century. However, the proliferation of online, hybrid, and blended learning environments has challenged traditional immediacy measurement, creating a need for a modernized tool. This study reports on the development and psychometric validation of the Virtual and Interpersonal Nonverbal Immediacy (VINI) Scale, a 12-item self-report instrument designed to measure instructor immediacy across contemporary lear",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/AB9B707F-75CF-4EDE-BD4C3423508B6E96/7E7950EB-A6B2-472E-968CE75A375A19E6/WebsiteWebP_XL-FEDUC_Main%20Visual_Cyan_Website.webp"
+    },
+    {
+      "title": "Does AI increase cognitive abilities, decrease them, or a little bit of each? And what are its implications for identification and development of the gifted?",
+      "url": "https://www.frontiersin.org/articles/10.3389/feduc.2026.1759062",
+      "source": "Frontiers in Education",
+      "published": null,
+      "score": 65,
+      "summary_en": "AI, and especially generative AI, may have an effect on the number of gifted people in the world. But whether this effect will be positive or negative is up to us, collectively, and to each individual. This essay opens with a consideration of possible effects of AI on the giftedness of a society taken as a whole. Then it presents a philosophical conundrum, that of the Chinese Room, that is relevant to assessing the effects of AI. Next it reviews some recent empirical literature relevant to the question of AI’s effects on cognition and cognitive gifts. Then it discusses these effects. Finally, ",
+      "summary_fr": "AI, and especially generative AI, may have an effect on the number of gifted people in the world. But whether this effect will be positive or negative is up to us, collectively, and to each individual. This essay opens with a consideration of possible effects of AI on the giftedness of a society taken as a whole. Then it presents a philosophical conundrum, that of the Chinese Room, that is relevant to assessing the effects of AI. Next it reviews some recent empirical literature relevant to the question of AI’s effects on cognition and cognitive gifts. Then it discusses these effects. Finally, ",
+      "resume_fr": "AI, and especially generative AI, may have an effect on the number of gifted people in the world. But whether this effect will be positive or negative is up to us, collectively, and to each individual. This essay opens with a consideration of possible effects of AI on the giftedness of a society taken as a whole. Then it presents a philosophical conundrum, that of the Chinese Room, that is relevant to assessing the effects of AI. Next it reviews some recent empirical literature relevant to the question of AI’s effects on cognition and cognitive gifts. Then it discusses these effects. Finally, ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/AB9B707F-75CF-4EDE-BD4C3423508B6E96/7E7950EB-A6B2-472E-968CE75A375A19E6/WebsiteWebP_XL-FEDUC_Main%20Visual_Cyan_Website.webp"
+    },
+    {
+      "title": "One size does not fit all: customizing teaching and learning strategies with Generative AI",
+      "url": "https://www.frontiersin.org/articles/10.3389/feduc.2026.1699228",
+      "source": "Frontiers in Education",
+      "published": null,
+      "score": 65,
+      "summary_en": "IntroductionHigher education institutions implementing Generative Artificial Intelligence (GenAI) often assume uniform student adoption; however, evidence shows substantial variation in how learners engage with AI technologies. To address this heterogeneity, this study develops and validates a student typology framework integrating Technological Pedagogical Content Knowledge (TPACK) and the Unified Theory of Acceptance and Use of Technology (UTAUT), moving beyond generic implementation toward targeted educational interventions in business education.MethodsUsing a hybrid theoretical–empirical a",
+      "summary_fr": "IntroductionHigher education institutions implementing Generative Artificial Intelligence (GenAI) often assume uniform student adoption; however, evidence shows substantial variation in how learners engage with AI technologies. To address this heterogeneity, this study develops and validates a student typology framework integrating Technological Pedagogical Content Knowledge (TPACK) and the Unified Theory of Acceptance and Use of Technology (UTAUT), moving beyond generic implementation toward targeted educational interventions in business education.MethodsUsing a hybrid theoretical–empirical a",
+      "resume_fr": "IntroductionHigher education institutions implementing Generative Artificial Intelligence (GenAI) often assume uniform student adoption; however, evidence shows substantial variation in how learners engage with AI technologies. To address this heterogeneity, this study develops and validates a student typology framework integrating Technological Pedagogical Content Knowledge (TPACK) and the Unified Theory of Acceptance and Use of Technology (UTAUT), moving beyond generic implementation toward targeted educational interventions in business education.MethodsUsing a hybrid theoretical–empirical a",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/AB9B707F-75CF-4EDE-BD4C3423508B6E96/7E7950EB-A6B2-472E-968CE75A375A19E6/WebsiteWebP_XL-FEDUC_Main%20Visual_Cyan_Website.webp"
     }
   ]
 }
