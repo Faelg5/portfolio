@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-01-22T06:55:15.423Z",
+  "generatedAt": "2026-01-23T06:52:16.887Z",
   "model": "gpt-5",
   "profile": "balanced",
   "threshold": 65,
   "totalAnalyzed": 100,
-  "totalPublished": 25,
+  "totalPublished": 30,
   "publishTarget": "default",
   "debug": {
     "analysisFailed": true,
@@ -95,6 +95,101 @@
     }
   },
   "items": [
+    {
+      "title": "Counterfactual Training: Teaching Models Plausible and Actionable Explanations",
+      "url": "https://arxiv.org/abs/2601.16205v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-01-22T18:56:14.000Z",
+      "score": 70,
+      "summary_en": "We propose a novel training regime termed counterfactual training that leverages counterfactual explanations to increase the explanatory capacity of models. Counterfactual explanations have emerged as a popular post-hoc explanation method for opaque machine learning models: they inform how factual inputs would need to change in order for a model to produce some desired output. To be useful in real-world decision-making systems, counterfactuals should be plausible with respect to the underlying data and actionable with respect to the feature mutability constraints. Much existing research has th",
+      "summary_fr": "We propose a novel training regime termed counterfactual training that leverages counterfactual explanations to increase the explanatory capacity of models. Counterfactual explanations have emerged as a popular post-hoc explanation method for opaque machine learning models: they inform how factual inputs would need to change in order for a model to produce some desired output. To be useful in real-world decision-making systems, counterfactuals should be plausible with respect to the underlying data and actionable with respect to the feature mutability constraints. Much existing research has th",
+      "resume_fr": "We propose a novel training regime termed counterfactual training that leverages counterfactual explanations to increase the explanatory capacity of models. Counterfactual explanations have emerged as a popular post-hoc explanation method for opaque machine learning models: they inform how factual inputs would need to change in order for a model to produce some desired output. To be useful in real-world decision-making systems, counterfactuals should be plausible with respect to the underlying data and actionable with respect to the feature mutability constraints. Much existing research has th",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "LLM Prompt Evaluation for Educational Applications",
+      "url": "https://arxiv.org/abs/2601.16134v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-01-22T17:31:25.000Z",
+      "score": 50,
+      "summary_en": "As large language models (LLMs) become increasingly common in educational applications, there is a growing need for evidence-based methods to design and evaluate LLM prompts that produce personalized and pedagogically aligned out-puts. This study presents a generalizable, systematic approach for evaluating prompts, demonstrated through an analysis of LLM-generated follow-up questions in a structured dialogue activity. Six prompt templates were designed and tested. The templates incorporated established prompt engineering patterns, with each prompt emphasizing distinct pedagogical strategies. T",
+      "summary_fr": "As large language models (LLMs) become increasingly common in educational applications, there is a growing need for evidence-based methods to design and evaluate LLM prompts that produce personalized and pedagogically aligned out-puts. This study presents a generalizable, systematic approach for evaluating prompts, demonstrated through an analysis of LLM-generated follow-up questions in a structured dialogue activity. Six prompt templates were designed and tested. The templates incorporated established prompt engineering patterns, with each prompt emphasizing distinct pedagogical strategies. T",
+      "resume_fr": "As large language models (LLMs) become increasingly common in educational applications, there is a growing need for evidence-based methods to design and evaluate LLM prompts that produce personalized and pedagogically aligned out-puts. This study presents a generalizable, systematic approach for evaluating prompts, demonstrated through an analysis of LLM-generated follow-up questions in a structured dialogue activity. Six prompt templates were designed and tested. The templates incorporated established prompt engineering patterns, with each prompt emphasizing distinct pedagogical strategies. T",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Bridging Qualitative Rubrics and AI: A Binary Question Framework for Criterion-Referenced Grading in Engineering",
+      "url": "https://arxiv.org/abs/2601.15626v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-01-22T03:57:47.000Z",
+      "score": 85,
+      "summary_en": "PURPOSE OR GOAL: This study investigates how GenAI can be integrated with a criterion-referenced grading framework to improve the efficiency and quality of grading for mathematical assessments in engineering. It specifically explores the challenges demonstrators face with manual, model solution-based grading and how a GenAI-supported system can be designed to reliably identify student errors, provide high-quality feedback, and support human graders. The research also examines human graders' perceptions of the effectiveness of this GenAI-assisted approach. ACTUAL OR ANTICIPATED OUTCOMES: The st",
+      "summary_fr": "PURPOSE OR GOAL: This study investigates how GenAI can be integrated with a criterion-referenced grading framework to improve the efficiency and quality of grading for mathematical assessments in engineering. It specifically explores the challenges demonstrators face with manual, model solution-based grading and how a GenAI-supported system can be designed to reliably identify student errors, provide high-quality feedback, and support human graders. The research also examines human graders' perceptions of the effectiveness of this GenAI-assisted approach. ACTUAL OR ANTICIPATED OUTCOMES: The st",
+      "resume_fr": "PURPOSE OR GOAL: This study investigates how GenAI can be integrated with a criterion-referenced grading framework to improve the efficiency and quality of grading for mathematical assessments in engineering. It specifically explores the challenges demonstrators face with manual, model solution-based grading and how a GenAI-supported system can be designed to reliably identify student errors, provide high-quality feedback, and support human graders. The research also examines human graders' perceptions of the effectiveness of this GenAI-assisted approach. ACTUAL OR ANTICIPATED OUTCOMES: The st",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "ALIGNAgent: Adaptive Learner Intelligence for Gap Identification and Next-step guidance",
+      "url": "https://arxiv.org/abs/2601.15551v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-01-22T00:45:15.000Z",
+      "score": 85,
+      "summary_en": "Personalized learning systems have emerged as a promising approach to enhance student outcomes by tailoring educational content, pacing, and feedback to individual needs. However, most existing systems remain fragmented, specializing in either knowledge tracing, diagnostic modeling, or resource recommendation, but rarely integrating these components into a cohesive adaptive cycle. In this paper, we propose ALIGNAgent (Adaptive Learner Intelligence for Gap Identification and Next-step guidance), a multi-agent educational framework designed to deliver personalized learning through integrated kno",
+      "summary_fr": "Personalized learning systems have emerged as a promising approach to enhance student outcomes by tailoring educational content, pacing, and feedback to individual needs. However, most existing systems remain fragmented, specializing in either knowledge tracing, diagnostic modeling, or resource recommendation, but rarely integrating these components into a cohesive adaptive cycle. In this paper, we propose ALIGNAgent (Adaptive Learner Intelligence for Gap Identification and Next-step guidance), a multi-agent educational framework designed to deliver personalized learning through integrated kno",
+      "resume_fr": "Personalized learning systems have emerged as a promising approach to enhance student outcomes by tailoring educational content, pacing, and feedback to individual needs. However, most existing systems remain fragmented, specializing in either knowledge tracing, diagnostic modeling, or resource recommendation, but rarely integrating these components into a cohesive adaptive cycle. In this paper, we propose ALIGNAgent (Adaptive Learner Intelligence for Gap Identification and Next-step guidance), a multi-agent educational framework designed to deliver personalized learning through integrated kno",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "LLM-based Multimodal Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback",
+      "url": "https://arxiv.org/abs/2601.15280v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-01-21T18:58:08.000Z",
+      "score": 50,
+      "summary_en": "Providing timely, targeted, and multimodal feedback helps students quickly correct errors, build deep understanding and stay motivated, yet making it at scale remains a challenge. This study introduces a real-time AI-facilitated multimodal feedback system that integrates structured textual explanations with dynamic multimedia resources, including the retrieved most relevant slide page references and streaming AI audio narration. In an online crowdsourcing experiment, we compared this system against fixed business-as-usual feedback by educators across three dimensions: (1) learning effectivenes",
+      "summary_fr": "Providing timely, targeted, and multimodal feedback helps students quickly correct errors, build deep understanding and stay motivated, yet making it at scale remains a challenge. This study introduces a real-time AI-facilitated multimodal feedback system that integrates structured textual explanations with dynamic multimedia resources, including the retrieved most relevant slide page references and streaming AI audio narration. In an online crowdsourcing experiment, we compared this system against fixed business-as-usual feedback by educators across three dimensions: (1) learning effectivenes",
+      "resume_fr": "Providing timely, targeted, and multimodal feedback helps students quickly correct errors, build deep understanding and stay motivated, yet making it at scale remains a challenge. This study introduces a real-time AI-facilitated multimodal feedback system that integrates structured textual explanations with dynamic multimedia resources, including the retrieved most relevant slide page references and streaming AI audio narration. In an online crowdsourcing experiment, we compared this system against fixed business-as-usual feedback by educators across three dimensions: (1) learning effectivenes",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
     {
       "title": "MolecularIQ: Characterizing Chemical Reasoning Capabilities Through Symbolic Verification on Molecular Graphs",
       "url": "https://arxiv.org/abs/2601.15279v1",
