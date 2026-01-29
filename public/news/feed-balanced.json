@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-01-28T06:55:24.906Z",
+  "generatedAt": "2026-01-29T07:04:16.795Z",
   "model": "gpt-5",
   "profile": "balanced",
   "threshold": 65,
   "totalAnalyzed": 100,
-  "totalPublished": 50,
+  "totalPublished": 54,
   "publishTarget": "default",
   "debug": {
     "analysisFailed": true,
@@ -95,6 +95,82 @@
     }
   },
   "items": [
+    {
+      "title": "Post-Training Fairness Control: A Single-Train Framework for Dynamic Fairness in Recommendation",
+      "url": "https://arxiv.org/abs/2601.20848v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-01-28T18:48:43.000Z",
+      "score": 70,
+      "summary_en": "Despite growing efforts to mitigate unfairness in recommender systems, existing fairness-aware methods typically fix the fairness requirement at training time and provide limited post-training flexibility. However, in real-world scenarios, diverse stakeholders may demand differing fairness requirements over time, so retraining for different fairness requirements becomes prohibitive. To address this limitation, we propose Cofair, a single-train framework that enables post-training fairness control in recommendation. Specifically, Cofair introduces a shared representation layer with fairness-con",
+      "summary_fr": "Despite growing efforts to mitigate unfairness in recommender systems, existing fairness-aware methods typically fix the fairness requirement at training time and provide limited post-training flexibility. However, in real-world scenarios, diverse stakeholders may demand differing fairness requirements over time, so retraining for different fairness requirements becomes prohibitive. To address this limitation, we propose Cofair, a single-train framework that enables post-training fairness control in recommendation. Specifically, Cofair introduces a shared representation layer with fairness-con",
+      "resume_fr": "Despite growing efforts to mitigate unfairness in recommender systems, existing fairness-aware methods typically fix the fairness requirement at training time and provide limited post-training flexibility. However, in real-world scenarios, diverse stakeholders may demand differing fairness requirements over time, so retraining for different fairness requirements becomes prohibitive. To address this limitation, we propose Cofair, a single-train framework that enables post-training fairness control in recommendation. Specifically, Cofair introduces a shared representation layer with fairness-con",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Structured Semantic Information Helps Retrieve Better Examples for In-Context Learning in Few-Shot Relation Extraction",
+      "url": "https://arxiv.org/abs/2601.20803v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-01-28T17:48:58.000Z",
+      "score": 70,
+      "summary_en": "This paper presents several strategies to automatically obtain additional examples for in-context learning of one-shot relation extraction. Specifically, we introduce a novel strategy for example selection, in which new examples are selected based on the similarity of their underlying syntactic-semantic structure to the provided one-shot example. We show that this method results in complementary word choices and sentence structures when compared to LLM-generated examples. When these strategies are combined, the resulting hybrid system achieves a more holistic picture of the relations of intere",
+      "summary_fr": "This paper presents several strategies to automatically obtain additional examples for in-context learning of one-shot relation extraction. Specifically, we introduce a novel strategy for example selection, in which new examples are selected based on the similarity of their underlying syntactic-semantic structure to the provided one-shot example. We show that this method results in complementary word choices and sentence structures when compared to LLM-generated examples. When these strategies are combined, the resulting hybrid system achieves a more holistic picture of the relations of intere",
+      "resume_fr": "This paper presents several strategies to automatically obtain additional examples for in-context learning of one-shot relation extraction. Specifically, we introduce a novel strategy for example selection, in which new examples are selected based on the similarity of their underlying syntactic-semantic structure to the provided one-shot example. We show that this method results in complementary word choices and sentence structures when compared to LLM-generated examples. When these strategies are combined, the resulting hybrid system achieves a more holistic picture of the relations of intere",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Learning to Live with AI: How Students Develop AI Literacy Through Naturalistic ChatGPT Interaction",
+      "url": "https://arxiv.org/abs/2601.20749v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-01-28T16:29:52.000Z",
+      "score": 85,
+      "summary_en": "How do students develop AI literacy through everyday practice rather than formal instruction? While normative AI literacy frameworks proliferate, empirical understanding of how students actually learn to work with generative AI remains limited. This study analyzes 10,536 ChatGPT messages from 36 undergraduates over one academic year, revealing five use genres -- academic workhorse, emotional companion, metacognitive partner, repair and negotiation, and trust calibration -- that constitute distinct configurations of student-AI learning. Drawing on domestication theory and emerging frameworks fo",
+      "summary_fr": "How do students develop AI literacy through everyday practice rather than formal instruction? While normative AI literacy frameworks proliferate, empirical understanding of how students actually learn to work with generative AI remains limited. This study analyzes 10,536 ChatGPT messages from 36 undergraduates over one academic year, revealing five use genres -- academic workhorse, emotional companion, metacognitive partner, repair and negotiation, and trust calibration -- that constitute distinct configurations of student-AI learning. Drawing on domestication theory and emerging frameworks fo",
+      "resume_fr": "How do students develop AI literacy through everyday practice rather than formal instruction? While normative AI literacy frameworks proliferate, empirical understanding of how students actually learn to work with generative AI remains limited. This study analyzes 10,536 ChatGPT messages from 36 undergraduates over one academic year, revealing five use genres -- academic workhorse, emotional companion, metacognitive partner, repair and negotiation, and trust calibration -- that constitute distinct configurations of student-AI learning. Drawing on domestication theory and emerging frameworks fo",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Evaluating Actionability in Explainable AI",
+      "url": "https://arxiv.org/abs/2601.20086v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-01-27T22:10:07.000Z",
+      "score": 85,
+      "summary_en": "A core assumption of Explainable AI (XAI) is that explanations are useful to users -- that is, users will do something with the explanations. Prior work, however, does not clearly connect the information provided in explanations to user actions to evaluate effectiveness. In this paper, we articulate this connection. We conducted a formative study through 14 interviews with end users in education and medicine. We contribute a catalog of information and associated actions. Our catalog maps 12 categories of information that participants described relying on to take 60 different actions. We show h",
+      "summary_fr": "A core assumption of Explainable AI (XAI) is that explanations are useful to users -- that is, users will do something with the explanations. Prior work, however, does not clearly connect the information provided in explanations to user actions to evaluate effectiveness. In this paper, we articulate this connection. We conducted a formative study through 14 interviews with end users in education and medicine. We contribute a catalog of information and associated actions. Our catalog maps 12 categories of information that participants described relying on to take 60 different actions. We show h",
+      "resume_fr": "A core assumption of Explainable AI (XAI) is that explanations are useful to users -- that is, users will do something with the explanations. Prior work, however, does not clearly connect the information provided in explanations to user actions to evaluate effectiveness. In this paper, we articulate this connection. We conducted a formative study through 14 interviews with end users in education and medicine. We contribute a catalog of information and associated actions. Our catalog maps 12 categories of information that participants described relying on to take 60 different actions. We show h",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
     {
       "title": "Identifying and Transferring Reasoning-Critical Neurons: Improving LLM Inference Reliability via Activation Steering",
       "url": "https://arxiv.org/abs/2601.19847v1",
@@ -288,7 +364,7 @@
     {
       "title": "\"Crash Test Dummies\" for AI-Enabled Clinical Assessment: Validating Virtual Patient Scenarios with Virtual Learners",
       "url": "https://arxiv.org/abs/2601.18085v1",
-      "source": "arXiv – cs.HC + education",
+      "source": "arXiv – cs.AI + education/MOOC",
       "published": "2026-01-26T02:47:28.000Z",
       "score": 65,
       "summary_en": "Background: In medical and health professions education (HPE), AI is increasingly used to assess clinical competencies, including via virtual standardized patients. However, most evaluations rely on AI-human interrater reliability and lack a measurement framework for how cases, learners, and raters jointly shape scores. This leaves robustness uncertain and can expose learners to misguidance from unvalidated systems. We address this by using AI \"simulated learners\" to stress-test and psychometrically characterize assessment pipelines before human use. Objective: Develop an open-source AI virtua",
