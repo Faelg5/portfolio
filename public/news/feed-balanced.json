@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-01-29T07:04:16.795Z",
+  "generatedAt": "2026-01-30T07:04:56.755Z",
   "model": "gpt-5",
   "profile": "balanced",
   "threshold": 65,
   "totalAnalyzed": 100,
-  "totalPublished": 54,
+  "totalPublished": 60,
   "publishTarget": "default",
   "debug": {
     "analysisFailed": true,
@@ -95,6 +95,177 @@
     }
   },
   "items": [
+    {
+      "title": "Discovering Hidden Gems in Model Repositories",
+      "url": "https://arxiv.org/abs/2601.22157v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-01-29T18:59:55.000Z",
+      "score": 50,
+      "summary_en": "Public repositories host millions of fine-tuned models, yet community usage remains disproportionately concentrated on a small number of foundation checkpoints. We investigate whether this concentration reflects efficient market selection or if superior models are systematically overlooked. Through an extensive evaluation of over 2,000 models, we show the prevalence of \"hidden gems\", unpopular fine-tunes that significantly outperform their popular counterparts. Notably, within the Llama-3.1-8B family, we find rarely downloaded checkpoints that improve math performance from 83.2% to 96.0% witho",
+      "summary_fr": "Public repositories host millions of fine-tuned models, yet community usage remains disproportionately concentrated on a small number of foundation checkpoints. We investigate whether this concentration reflects efficient market selection or if superior models are systematically overlooked. Through an extensive evaluation of over 2,000 models, we show the prevalence of \"hidden gems\", unpopular fine-tunes that significantly outperform their popular counterparts. Notably, within the Llama-3.1-8B family, we find rarely downloaded checkpoints that improve math performance from 83.2% to 96.0% witho",
+      "resume_fr": "Public repositories host millions of fine-tuned models, yet community usage remains disproportionately concentrated on a small number of foundation checkpoints. We investigate whether this concentration reflects efficient market selection or if superior models are systematically overlooked. Through an extensive evaluation of over 2,000 models, we show the prevalence of \"hidden gems\", unpopular fine-tunes that significantly outperform their popular counterparts. Notably, within the Llama-3.1-8B family, we find rarely downloaded checkpoints that improve math performance from 83.2% to 96.0% witho",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Trustworthy Intelligent Education: A Systematic Perspective on Progress, Challenges, and Future Directions",
+      "url": "https://arxiv.org/abs/2601.21837v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-01-29T15:17:25.000Z",
+      "score": 50,
+      "summary_en": "In recent years, trustworthiness has garnered increasing attention and exploration in the field of intelligent education, due to the inherent sensitivity of educational scenarios, such as involving minors and vulnerable groups, highly personalized learning data, and high-stakes educational outcomes. However, existing research either focuses on task-specific trustworthy methods without a holistic view of trustworthy intelligent education, or provides survey-level discussions that remain high-level and fragmented, lacking a clear and systematic categorization. To address these limitations, in th",
+      "summary_fr": "In recent years, trustworthiness has garnered increasing attention and exploration in the field of intelligent education, due to the inherent sensitivity of educational scenarios, such as involving minors and vulnerable groups, highly personalized learning data, and high-stakes educational outcomes. However, existing research either focuses on task-specific trustworthy methods without a holistic view of trustworthy intelligent education, or provides survey-level discussions that remain high-level and fragmented, lacking a clear and systematic categorization. To address these limitations, in th",
+      "resume_fr": "In recent years, trustworthiness has garnered increasing attention and exploration in the field of intelligent education, due to the inherent sensitivity of educational scenarios, such as involving minors and vulnerable groups, highly personalized learning data, and high-stakes educational outcomes. However, existing research either focuses on task-specific trustworthy methods without a holistic view of trustworthy intelligent education, or provides survey-level discussions that remain high-level and fragmented, lacking a clear and systematic categorization. To address these limitations, in th",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "A Unified XAI-LLM Approach for EndotrachealSuctioning Activity Recognition",
+      "url": "https://arxiv.org/abs/2601.21802v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-01-29T14:46:48.000Z",
+      "score": 85,
+      "summary_en": "Endotracheal suctioning (ES) is an invasive yet essential clinical procedure that requires a high degree of skill to minimize patient risk - particularly in home care and educational settings, where consistent supervision may be limited. Despite its critical importance, automated recognition and feedback systems for ES training remain underexplored. To address this gap, this study proposes a unified, LLM-centered framework for video-based activity recognition benchmarked against conventional machine learning and deep learning approaches, and a pilot study on feedback generation. Within this fr",
+      "summary_fr": "Endotracheal suctioning (ES) is an invasive yet essential clinical procedure that requires a high degree of skill to minimize patient risk - particularly in home care and educational settings, where consistent supervision may be limited. Despite its critical importance, automated recognition and feedback systems for ES training remain underexplored. To address this gap, this study proposes a unified, LLM-centered framework for video-based activity recognition benchmarked against conventional machine learning and deep learning approaches, and a pilot study on feedback generation. Within this fr",
+      "resume_fr": "Endotracheal suctioning (ES) is an invasive yet essential clinical procedure that requires a high degree of skill to minimize patient risk - particularly in home care and educational settings, where consistent supervision may be limited. Despite its critical importance, automated recognition and feedback systems for ES training remain underexplored. To address this gap, this study proposes a unified, LLM-centered framework for video-based activity recognition benchmarked against conventional machine learning and deep learning approaches, and a pilot study on feedback generation. Within this fr",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Preliminary Results of a Scoping Review on Assistive Technologies for Adults with ADHD",
+      "url": "https://arxiv.org/abs/2601.21791v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-01-29T14:39:48.000Z",
+      "score": 65,
+      "summary_en": "Attention Deficit Hyperactivity Disorder (ADHD), characterized by inattention, hyperactivity, and impulsivity, is prevalent in the adult population. Long perceived and treated as a childhood condition, ADHD and its characteristics nonetheless impact a significant portion of adults today. In contrast to children with ADHD, adults with ADHD face unique challenges in the workplace and in higher education. In this work-in-progress paper, we present a scoping review as a foundation to understand and explore existing technology-based approaches to support adults with ADHD. In total, our search retur",
+      "summary_fr": "Attention Deficit Hyperactivity Disorder (ADHD), characterized by inattention, hyperactivity, and impulsivity, is prevalent in the adult population. Long perceived and treated as a childhood condition, ADHD and its characteristics nonetheless impact a significant portion of adults today. In contrast to children with ADHD, adults with ADHD face unique challenges in the workplace and in higher education. In this work-in-progress paper, we present a scoping review as a foundation to understand and explore existing technology-based approaches to support adults with ADHD. In total, our search retur",
+      "resume_fr": "Attention Deficit Hyperactivity Disorder (ADHD), characterized by inattention, hyperactivity, and impulsivity, is prevalent in the adult population. Long perceived and treated as a childhood condition, ADHD and its characteristics nonetheless impact a significant portion of adults today. In contrast to children with ADHD, adults with ADHD face unique challenges in the workplace and in higher education. In this work-in-progress paper, we present a scoping review as a foundation to understand and explore existing technology-based approaches to support adults with ADHD. In total, our search retur",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "From Vulnerable to Resilient: Examining Parent and Teen Perceptions on How to Respond to Unwanted Cybergrooming Advances",
+      "url": "https://arxiv.org/abs/2601.21518v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-01-29T10:32:26.000Z",
+      "score": 50,
+      "summary_en": "Cybergrooming is a form of online abuse that threatens teens' mental health and physical safety. Yet, most prior work has focused on detecting perpetrators' behaviors, leaving a limited understanding of how teens might respond to such unwanted advances. To address this gap, we conducted an online survey with 74 participants -- 51 parents and 23 teens -- who responded to simulated cybergrooming scenarios in two ways: responses that they think would make teens more vulnerable or resilient to unwanted sexual advances. Through a mixed-methods analysis, we identified four types of vulnerable respon",
+      "summary_fr": "Cybergrooming is a form of online abuse that threatens teens' mental health and physical safety. Yet, most prior work has focused on detecting perpetrators' behaviors, leaving a limited understanding of how teens might respond to such unwanted advances. To address this gap, we conducted an online survey with 74 participants -- 51 parents and 23 teens -- who responded to simulated cybergrooming scenarios in two ways: responses that they think would make teens more vulnerable or resilient to unwanted sexual advances. Through a mixed-methods analysis, we identified four types of vulnerable respon",
+      "resume_fr": "Cybergrooming is a form of online abuse that threatens teens' mental health and physical safety. Yet, most prior work has focused on detecting perpetrators' behaviors, leaving a limited understanding of how teens might respond to such unwanted advances. To address this gap, we conducted an online survey with 74 participants -- 51 parents and 23 teens -- who responded to simulated cybergrooming scenarios in two ways: responses that they think would make teens more vulnerable or resilient to unwanted sexual advances. Through a mixed-methods analysis, we identified four types of vulnerable respon",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Are they just delegating? Cross-Sample Predictions on University Students' & Teachers' Use of AI",
+      "url": "https://arxiv.org/abs/2601.21490v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-01-29T10:09:38.000Z",
+      "score": 50,
+      "summary_en": "Mutual trust between teachers and students is a prerequisite for effective teaching, learning, and assessment in higher education. Accurate predictions about the other group's use of generative artificial intelligence (AI) are fundamental for such trust. However, the disruptive rise of AI has transformed academic work practices, raising important questions about how teachers and students use these tools and how well they can estimate each other's usage. While the frequency of use is well studied, little is known about how AI is used, and comparisons with similar practices are rare. This study ",
+      "summary_fr": "Mutual trust between teachers and students is a prerequisite for effective teaching, learning, and assessment in higher education. Accurate predictions about the other group's use of generative artificial intelligence (AI) are fundamental for such trust. However, the disruptive rise of AI has transformed academic work practices, raising important questions about how teachers and students use these tools and how well they can estimate each other's usage. While the frequency of use is well studied, little is known about how AI is used, and comparisons with similar practices are rare. This study ",
+      "resume_fr": "Mutual trust between teachers and students is a prerequisite for effective teaching, learning, and assessment in higher education. Accurate predictions about the other group's use of generative artificial intelligence (AI) are fundamental for such trust. However, the disruptive rise of AI has transformed academic work practices, raising important questions about how teachers and students use these tools and how well they can estimate each other's usage. While the frequency of use is well studied, little is known about how AI is used, and comparisons with similar practices are rare. This study ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "The Compliance Paradox: Semantic-Instruction Decoupling in Automated Academic Code Evaluation",
+      "url": "https://arxiv.org/abs/2601.21360v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-01-29T07:40:58.000Z",
+      "score": 50,
+      "summary_en": "The rapid integration of Large Language Models (LLMs) into educational assessment rests on the unverified assumption that instruction following capability translates directly to objective adjudication. We demonstrate that this assumption is fundamentally flawed. Instead of evaluating code quality, models frequently decouple from the submission's logic to satisfy hidden directives, a systemic vulnerability we term the Compliance Paradox, where models fine-tuned for extreme helpfulness are vulnerable to adversarial manipulation. To expose this, we introduce the Semantic-Preserving Adversarial Co",
+      "summary_fr": "The rapid integration of Large Language Models (LLMs) into educational assessment rests on the unverified assumption that instruction following capability translates directly to objective adjudication. We demonstrate that this assumption is fundamentally flawed. Instead of evaluating code quality, models frequently decouple from the submission's logic to satisfy hidden directives, a systemic vulnerability we term the Compliance Paradox, where models fine-tuned for extreme helpfulness are vulnerable to adversarial manipulation. To expose this, we introduce the Semantic-Preserving Adversarial Co",
+      "resume_fr": "The rapid integration of Large Language Models (LLMs) into educational assessment rests on the unverified assumption that instruction following capability translates directly to objective adjudication. We demonstrate that this assumption is fundamentally flawed. Instead of evaluating code quality, models frequently decouple from the submission's logic to satisfy hidden directives, a systemic vulnerability we term the Compliance Paradox, where models fine-tuned for extreme helpfulness are vulnerable to adversarial manipulation. To expose this, we introduce the Semantic-Preserving Adversarial Co",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Dynamic Framework for Collaborative Learning: Leveraging Advanced LLM with Adaptive Feedback Mechanisms",
+      "url": "https://arxiv.org/abs/2601.21344v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-01-29T07:14:43.000Z",
+      "score": 85,
+      "summary_en": "This paper presents a framework for integrating LLM into collaborative learning platforms to enhance student engagement, critical thinking, and inclusivity. The framework employs advanced LLMs as dynamic moderators to facilitate real-time discussions and adapt to learners' evolving needs, ensuring diverse and inclusive educational experiences. Key innovations include robust feedback mechanisms that refine AI moderation, promote reflective learning, and balance participation among users. The system's modular architecture featuring ReactJS for the frontend, Flask for backend operations, and effi",
+      "summary_fr": "This paper presents a framework for integrating LLM into collaborative learning platforms to enhance student engagement, critical thinking, and inclusivity. The framework employs advanced LLMs as dynamic moderators to facilitate real-time discussions and adapt to learners' evolving needs, ensuring diverse and inclusive educational experiences. Key innovations include robust feedback mechanisms that refine AI moderation, promote reflective learning, and balance participation among users. The system's modular architecture featuring ReactJS for the frontend, Flask for backend operations, and effi",
+      "resume_fr": "This paper presents a framework for integrating LLM into collaborative learning platforms to enhance student engagement, critical thinking, and inclusivity. The framework employs advanced LLMs as dynamic moderators to facilitate real-time discussions and adapt to learners' evolving needs, ensuring diverse and inclusive educational experiences. Key innovations include robust feedback mechanisms that refine AI moderation, promote reflective learning, and balance participation among users. The system's modular architecture featuring ReactJS for the frontend, Flask for backend operations, and effi",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "What Are Brands Telling You About Smishing? A Cross-Industry Evaluation of Customer Guidance",
+      "url": "https://arxiv.org/abs/2601.20999v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-01-28T19:48:22.000Z",
+      "score": 85,
+      "summary_en": "Phishing attacks through text, also known as smishing, are a prevalent type of social engineering tactic in which attackers impersonate brands to deceive victims into providing personal information and/or money. While smishing awareness and cyber education are a key method by which organizations communicate this awareness, the guidance itself varies widely. In this paper, we investigate the state of practice of how 149 well-known brands across 25 categories educate their customers about smishing and what smishing prevention and reporting advice they provide. After conducting a comprehensive co",
+      "summary_fr": "Phishing attacks through text, also known as smishing, are a prevalent type of social engineering tactic in which attackers impersonate brands to deceive victims into providing personal information and/or money. While smishing awareness and cyber education are a key method by which organizations communicate this awareness, the guidance itself varies widely. In this paper, we investigate the state of practice of how 149 well-known brands across 25 categories educate their customers about smishing and what smishing prevention and reporting advice they provide. After conducting a comprehensive co",
+      "resume_fr": "Phishing attacks through text, also known as smishing, are a prevalent type of social engineering tactic in which attackers impersonate brands to deceive victims into providing personal information and/or money. While smishing awareness and cyber education are a key method by which organizations communicate this awareness, the guidance itself varies widely. In this paper, we investigate the state of practice of how 149 well-known brands across 25 categories educate their customers about smishing and what smishing prevention and reporting advice they provide. After conducting a comprehensive co",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
     {
       "title": "Post-Training Fairness Control: A Single-Train Framework for Dynamic Fairness in Recommendation",
       "url": "https://arxiv.org/abs/2601.20848v1",
@@ -1063,63 +1234,6 @@
       },
       "reason": "Heuristique: Recherche=0, Politiques=35, Institution=15, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=world-education-blog.org&sz=128"
-    },
-    {
-      "title": "Measuring nonverbal immediacy across learning modes: psychometric properties of the 12-item VINI Scale (virtual and interpersonal nonverbal immediacy)",
-      "url": "https://www.frontiersin.org/articles/10.3389/feduc.2025.1726842",
-      "source": "Frontiers in Education",
-      "published": null,
-      "score": 65,
-      "summary_en": "Nonverbal immediacy, the set of communicative behaviors that reduce psychological distance between individuals, has been a cornerstone of instructional communication research for over half a century. However, the proliferation of online, hybrid, and blended learning environments has challenged traditional immediacy measurement, creating a need for a modernized tool. This study reports on the development and psychometric validation of the Virtual and Interpersonal Nonverbal Immediacy (VINI) Scale, a 12-item self-report instrument designed to measure instructor immediacy across contemporary lear",
-      "summary_fr": "Nonverbal immediacy, the set of communicative behaviors that reduce psychological distance between individuals, has been a cornerstone of instructional communication research for over half a century. However, the proliferation of online, hybrid, and blended learning environments has challenged traditional immediacy measurement, creating a need for a modernized tool. This study reports on the development and psychometric validation of the Virtual and Interpersonal Nonverbal Immediacy (VINI) Scale, a 12-item self-report instrument designed to measure instructor immediacy across contemporary lear",
-      "resume_fr": "Nonverbal immediacy, the set of communicative behaviors that reduce psychological distance between individuals, has been a cornerstone of instructional communication research for over half a century. However, the proliferation of online, hybrid, and blended learning environments has challenged traditional immediacy measurement, creating a need for a modernized tool. This study reports on the development and psychometric validation of the Virtual and Interpersonal Nonverbal Immediacy (VINI) Scale, a 12-item self-report instrument designed to measure instructor immediacy across contemporary lear",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
-      "image": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/AB9B707F-75CF-4EDE-BD4C3423508B6E96/7E7950EB-A6B2-472E-968CE75A375A19E6/WebsiteWebP_XL-FEDUC_Main%20Visual_Cyan_Website.webp"
-    },
-    {
-      "title": "Does AI increase cognitive abilities, decrease them, or a little bit of each? And what are its implications for identification and development of the gifted?",
-      "url": "https://www.frontiersin.org/articles/10.3389/feduc.2026.1759062",
-      "source": "Frontiers in Education",
-      "published": null,
-      "score": 65,
-      "summary_en": "AI, and especially generative AI, may have an effect on the number of gifted people in the world. But whether this effect will be positive or negative is up to us, collectively, and to each individual. This essay opens with a consideration of possible effects of AI on the giftedness of a society taken as a whole. Then it presents a philosophical conundrum, that of the Chinese Room, that is relevant to assessing the effects of AI. Next it reviews some recent empirical literature relevant to the question of AI’s effects on cognition and cognitive gifts. Then it discusses these effects. Finally, ",
-      "summary_fr": "AI, and especially generative AI, may have an effect on the number of gifted people in the world. But whether this effect will be positive or negative is up to us, collectively, and to each individual. This essay opens with a consideration of possible effects of AI on the giftedness of a society taken as a whole. Then it presents a philosophical conundrum, that of the Chinese Room, that is relevant to assessing the effects of AI. Next it reviews some recent empirical literature relevant to the question of AI’s effects on cognition and cognitive gifts. Then it discusses these effects. Finally, ",
-      "resume_fr": "AI, and especially generative AI, may have an effect on the number of gifted people in the world. But whether this effect will be positive or negative is up to us, collectively, and to each individual. This essay opens with a consideration of possible effects of AI on the giftedness of a society taken as a whole. Then it presents a philosophical conundrum, that of the Chinese Room, that is relevant to assessing the effects of AI. Next it reviews some recent empirical literature relevant to the question of AI’s effects on cognition and cognitive gifts. Then it discusses these effects. Finally, ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
-      "image": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/AB9B707F-75CF-4EDE-BD4C3423508B6E96/7E7950EB-A6B2-472E-968CE75A375A19E6/WebsiteWebP_XL-FEDUC_Main%20Visual_Cyan_Website.webp"
-    },
-    {
-      "title": "One size does not fit all: customizing teaching and learning strategies with Generative AI",
-      "url": "https://www.frontiersin.org/articles/10.3389/feduc.2026.1699228",
-      "source": "Frontiers in Education",
-      "published": null,
-      "score": 65,
-      "summary_en": "IntroductionHigher education institutions implementing Generative Artificial Intelligence (GenAI) often assume uniform student adoption; however, evidence shows substantial variation in how learners engage with AI technologies. To address this heterogeneity, this study develops and validates a student typology framework integrating Technological Pedagogical Content Knowledge (TPACK) and the Unified Theory of Acceptance and Use of Technology (UTAUT), moving beyond generic implementation toward targeted educational interventions in business education.MethodsUsing a hybrid theoretical–empirical a",
-      "summary_fr": "IntroductionHigher education institutions implementing Generative Artificial Intelligence (GenAI) often assume uniform student adoption; however, evidence shows substantial variation in how learners engage with AI technologies. To address this heterogeneity, this study develops and validates a student typology framework integrating Technological Pedagogical Content Knowledge (TPACK) and the Unified Theory of Acceptance and Use of Technology (UTAUT), moving beyond generic implementation toward targeted educational interventions in business education.MethodsUsing a hybrid theoretical–empirical a",
-      "resume_fr": "IntroductionHigher education institutions implementing Generative Artificial Intelligence (GenAI) often assume uniform student adoption; however, evidence shows substantial variation in how learners engage with AI technologies. To address this heterogeneity, this study develops and validates a student typology framework integrating Technological Pedagogical Content Knowledge (TPACK) and the Unified Theory of Acceptance and Use of Technology (UTAUT), moving beyond generic implementation toward targeted educational interventions in business education.MethodsUsing a hybrid theoretical–empirical a",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
-      "image": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/AB9B707F-75CF-4EDE-BD4C3423508B6E96/7E7950EB-A6B2-472E-968CE75A375A19E6/WebsiteWebP_XL-FEDUC_Main%20Visual_Cyan_Website.webp"
     }
   ]
 }
