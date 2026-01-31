@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-30T07:04:56.755Z",
+  "generatedAt": "2026-01-31T06:55:58.713Z",
   "model": "gpt-5",
   "profile": "balanced",
   "threshold": 65,
@@ -321,6 +321,25 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "GuideAI: A Real-time Personalized Learning Solution with Adaptive Interventions",
+      "url": "https://arxiv.org/abs/2601.20402v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-01-28T09:06:45.000Z",
+      "score": 50,
+      "summary_en": "Large Language Models (LLMs) have emerged as powerful learning tools, but they lack awareness of learners' cognitive and physiological states, limiting their adaptability to the user's learning style. Contemporary learning techniques primarily focus on structured learning paths, knowledge tracing, and generic adaptive testing but fail to address real-time learning challenges driven by cognitive load, attention fluctuations, and engagement levels. Building on findings from a formative user study (N=66), we introduce GuideAI, a multi-modal framework that enhances LLM-driven learning by integrati",
+      "summary_fr": "Large Language Models (LLMs) have emerged as powerful learning tools, but they lack awareness of learners' cognitive and physiological states, limiting their adaptability to the user's learning style. Contemporary learning techniques primarily focus on structured learning paths, knowledge tracing, and generic adaptive testing but fail to address real-time learning challenges driven by cognitive load, attention fluctuations, and engagement levels. Building on findings from a formative user study (N=66), we introduce GuideAI, a multi-modal framework that enhances LLM-driven learning by integrati",
+      "resume_fr": "Large Language Models (LLMs) have emerged as powerful learning tools, but they lack awareness of learners' cognitive and physiological states, limiting their adaptability to the user's learning style. Contemporary learning techniques primarily focus on structured learning paths, knowledge tracing, and generic adaptive testing but fail to address real-time learning challenges driven by cognitive load, attention fluctuations, and engagement levels. Building on findings from a formative user study (N=66), we introduce GuideAI, a multi-modal framework that enhances LLM-driven learning by integrati",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
     },
     {
@@ -1215,25 +1234,6 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=learningatscale.acm.org&sz=128"
-    },
-    {
-      "title": "Voir les dernières actualités",
-      "url": "https://world-education-blog.org/",
-      "source": "UNESCO GEM – World Education Blog",
-      "published": null,
-      "score": 65,
-      "summary_en": "Flux non détecté automatiquement — ouverture de la page d’actualités.",
-      "summary_fr": "Flux non détecté automatiquement — ouverture de la page d’actualités.",
-      "resume_fr": "Flux non détecté automatiquement — ouverture de la page d’actualités.",
-      "tags": [],
-      "breakdown": {
-        "research": 0,
-        "policy": 35,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=world-education-blog.org&sz=128"
     }
   ]
 }
