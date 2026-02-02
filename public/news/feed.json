@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-01T07:03:42.899Z",
+  "generatedAt": "2026-02-02T07:16:21.769Z",
   "model": "gpt-5",
   "profile": "balanced",
   "threshold": 65,
@@ -96,6 +96,139 @@
   },
   "items": [
     {
+      "title": "End-to-end Optimization of Belief and Policy Learning in Shared Autonomy Paradigms",
+      "url": "https://arxiv.org/abs/2601.23285v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-01-30T18:59:16.000Z",
+      "score": 70,
+      "summary_en": "Shared autonomy systems require principled methods for inferring user intent and determining appropriate assistance levels. This is a central challenge in human-robot interaction, where systems must be successful while being mindful of user agency. Previous approaches relied on static blending ratios or separated goal inference from assistance arbitration, leading to suboptimal performance in unstructured environments. We introduce BRACE (Bayesian Reinforcement Assistance with Context Encoding), a novel framework that fine-tunes Bayesian intent inference and context-adaptive assistance through",
+      "summary_fr": "Shared autonomy systems require principled methods for inferring user intent and determining appropriate assistance levels. This is a central challenge in human-robot interaction, where systems must be successful while being mindful of user agency. Previous approaches relied on static blending ratios or separated goal inference from assistance arbitration, leading to suboptimal performance in unstructured environments. We introduce BRACE (Bayesian Reinforcement Assistance with Context Encoding), a novel framework that fine-tunes Bayesian intent inference and context-adaptive assistance through",
+      "resume_fr": "Shared autonomy systems require principled methods for inferring user intent and determining appropriate assistance levels. This is a central challenge in human-robot interaction, where systems must be successful while being mindful of user agency. Previous approaches relied on static blending ratios or separated goal inference from assistance arbitration, leading to suboptimal performance in unstructured environments. We introduce BRACE (Bayesian Reinforcement Assistance with Context Encoding), a novel framework that fine-tunes Bayesian intent inference and context-adaptive assistance through",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Now You Hear Me: Audio Narrative Attacks Against Large Audio-Language Models",
+      "url": "https://arxiv.org/abs/2601.23255v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-01-30T18:23:02.000Z",
+      "score": 50,
+      "summary_en": "Large audio-language models increasingly operate on raw speech inputs, enabling more seamless integration across domains such as voice assistants, education, and clinical triage. This transition, however, introduces a distinct class of vulnerabilities that remain largely uncharacterized. We examine the security implications of this modality shift by designing a text-to-audio jailbreak that embeds disallowed directives within a narrative-style audio stream. The attack leverages an advanced instruction-following text-to-speech (TTS) model to exploit structural and acoustic properties, thereby ci",
+      "summary_fr": "Large audio-language models increasingly operate on raw speech inputs, enabling more seamless integration across domains such as voice assistants, education, and clinical triage. This transition, however, introduces a distinct class of vulnerabilities that remain largely uncharacterized. We examine the security implications of this modality shift by designing a text-to-audio jailbreak that embeds disallowed directives within a narrative-style audio stream. The attack leverages an advanced instruction-following text-to-speech (TTS) model to exploit structural and acoustic properties, thereby ci",
+      "resume_fr": "Large audio-language models increasingly operate on raw speech inputs, enabling more seamless integration across domains such as voice assistants, education, and clinical triage. This transition, however, introduces a distinct class of vulnerabilities that remain largely uncharacterized. We examine the security implications of this modality shift by designing a text-to-audio jailbreak that embeds disallowed directives within a narrative-style audio stream. The attack leverages an advanced instruction-following text-to-speech (TTS) model to exploit structural and acoustic properties, thereby ci",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Are you going to finish that? A Practical Study of the Tokenization Boundary Problem",
+      "url": "https://arxiv.org/abs/2601.23223v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-01-30T17:47:16.000Z",
+      "score": 70,
+      "summary_en": "Language models (LMs) are trained over sequences of tokens, whereas users interact with LMs via text. This mismatch gives rise to the partial token problem, which occurs when a user ends their prompt in the middle of the expected next-token, leading to distorted next-token predictions. Although this issue has been studied using arbitrary character prefixes, its prevalence and severity in realistic prompts respecting word boundaries remains underexplored. In this work, we identify three domains where token and \"word\" boundaries often do not line up: languages that do not use whitespace, highly ",
+      "summary_fr": "Language models (LMs) are trained over sequences of tokens, whereas users interact with LMs via text. This mismatch gives rise to the partial token problem, which occurs when a user ends their prompt in the middle of the expected next-token, leading to distorted next-token predictions. Although this issue has been studied using arbitrary character prefixes, its prevalence and severity in realistic prompts respecting word boundaries remains underexplored. In this work, we identify three domains where token and \"word\" boundaries often do not line up: languages that do not use whitespace, highly ",
+      "resume_fr": "Language models (LMs) are trained over sequences of tokens, whereas users interact with LMs via text. This mismatch gives rise to the partial token problem, which occurs when a user ends their prompt in the middle of the expected next-token, leading to distorted next-token predictions. Although this issue has been studied using arbitrary character prefixes, its prevalence and severity in realistic prompts respecting word boundaries remains underexplored. In this work, we identify three domains where token and \"word\" boundaries often do not line up: languages that do not use whitespace, highly ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "FACET: Multi-Agent AI Supporting Teachers in Scaling Differentiated Learning for Diverse Students",
+      "url": "https://arxiv.org/abs/2601.22788v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-01-30T10:08:43.000Z",
+      "score": 50,
+      "summary_en": "Classrooms are becoming increasingly heterogeneous, comprising learners with diverse performance and motivation levels, language proficiencies, and learning differences such as dyslexia and ADHD. While teachers recognize the need for differentiated instruction, growing workloads create substantial barriers, making differentiated instruction an ideal that is often unrealized in practice. Current AI educational tools, which promise differentiated materials, are predominantly student-facing and performance-centric, ignoring other aspects that shape learning outcomes. We introduce FACET, a teacher",
+      "summary_fr": "Classrooms are becoming increasingly heterogeneous, comprising learners with diverse performance and motivation levels, language proficiencies, and learning differences such as dyslexia and ADHD. While teachers recognize the need for differentiated instruction, growing workloads create substantial barriers, making differentiated instruction an ideal that is often unrealized in practice. Current AI educational tools, which promise differentiated materials, are predominantly student-facing and performance-centric, ignoring other aspects that shape learning outcomes. We introduce FACET, a teacher",
+      "resume_fr": "Classrooms are becoming increasingly heterogeneous, comprising learners with diverse performance and motivation levels, language proficiencies, and learning differences such as dyslexia and ADHD. While teachers recognize the need for differentiated instruction, growing workloads create substantial barriers, making differentiated instruction an ideal that is often unrealized in practice. Current AI educational tools, which promise differentiated materials, are predominantly student-facing and performance-centric, ignoring other aspects that shape learning outcomes. We introduce FACET, a teacher",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Beyond Abstract Compliance: Operationalising trust in AI as a moral relationship",
+      "url": "https://arxiv.org/abs/2601.22769v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-01-30T09:48:24.000Z",
+      "score": 85,
+      "summary_en": "Dominant approaches, e.g. the EU's \"Trustworthy AI framework\", treat trust as a property that can be designed for, evaluated, and governed according to normative and technical criteria. They do not address how trust is subjectively cultivated and experienced, culturally embedded, and inherently relational. This paper proposes some expanded principles for trust in AI that can be incorporated into common development methods and frame trust as a dynamic, temporal relationship, which involves transparency and mutual respect. We draw on relational ethics and, in particular, African communitarian ph",
+      "summary_fr": "Dominant approaches, e.g. the EU's \"Trustworthy AI framework\", treat trust as a property that can be designed for, evaluated, and governed according to normative and technical criteria. They do not address how trust is subjectively cultivated and experienced, culturally embedded, and inherently relational. This paper proposes some expanded principles for trust in AI that can be incorporated into common development methods and frame trust as a dynamic, temporal relationship, which involves transparency and mutual respect. We draw on relational ethics and, in particular, African communitarian ph",
+      "resume_fr": "Dominant approaches, e.g. the EU's \"Trustworthy AI framework\", treat trust as a property that can be designed for, evaluated, and governed according to normative and technical criteria. They do not address how trust is subjectively cultivated and experienced, culturally embedded, and inherently relational. This paper proposes some expanded principles for trust in AI that can be incorporated into common development methods and frame trust as a dynamic, temporal relationship, which involves transparency and mutual respect. We draw on relational ethics and, in particular, African communitarian ph",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "The Third-Party Access Effect: An Overlooked Challenge in Secondary Use of Educational Real-World Data",
+      "url": "https://arxiv.org/abs/2601.22472v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-01-30T02:36:44.000Z",
+      "score": 50,
+      "summary_en": "Secondary use of growing real-world data (RWD) in education offers significant opportunities for research, yet privacy practices intended to enable third-party access to such RWD are rarely evaluated for their implications for downstream analyses. As a result, potential problems introduced by otherwise standard privacy practices may remain unnoticed. To address this gap, we investigate potential issues arising from common practices by assessing (1) the re-identification risk of fine-grained RWD, (2) how communicating such risks influences learners' privacy behaviour, and (3) the sensitivity of",
+      "summary_fr": "Secondary use of growing real-world data (RWD) in education offers significant opportunities for research, yet privacy practices intended to enable third-party access to such RWD are rarely evaluated for their implications for downstream analyses. As a result, potential problems introduced by otherwise standard privacy practices may remain unnoticed. To address this gap, we investigate potential issues arising from common practices by assessing (1) the re-identification risk of fine-grained RWD, (2) how communicating such risks influences learners' privacy behaviour, and (3) the sensitivity of",
+      "resume_fr": "Secondary use of growing real-world data (RWD) in education offers significant opportunities for research, yet privacy practices intended to enable third-party access to such RWD are rarely evaluated for their implications for downstream analyses. As a result, potential problems introduced by otherwise standard privacy practices may remain unnoticed. To address this gap, we investigate potential issues arising from common practices by assessing (1) the re-identification risk of fine-grained RWD, (2) how communicating such risks influences learners' privacy behaviour, and (3) the sensitivity of",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "When LLM meets Fuzzy-TOPSIS for Personnel Selection through Automated Profile Analysis",
+      "url": "https://arxiv.org/abs/2601.22433v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-01-30T00:57:35.000Z",
+      "score": 50,
+      "summary_en": "In this highly competitive employment environment, the selection of suitable personnel is essential for organizational success. This study presents an automated personnel selection system that utilizes sophisticated natural language processing (NLP) methods to assess and rank software engineering applicants. A distinctive dataset was created by aggregating LinkedIn profiles that include essential features such as education, work experience, abilities, and self-introduction, further enhanced with expert assessments to function as standards. The research combines large language models (LLMs) wit",
+      "summary_fr": "In this highly competitive employment environment, the selection of suitable personnel is essential for organizational success. This study presents an automated personnel selection system that utilizes sophisticated natural language processing (NLP) methods to assess and rank software engineering applicants. A distinctive dataset was created by aggregating LinkedIn profiles that include essential features such as education, work experience, abilities, and self-introduction, further enhanced with expert assessments to function as standards. The research combines large language models (LLMs) wit",
+      "resume_fr": "In this highly competitive employment environment, the selection of suitable personnel is essential for organizational success. This study presents an automated personnel selection system that utilizes sophisticated natural language processing (NLP) methods to assess and rank software engineering applicants. A distinctive dataset was created by aggregating LinkedIn profiles that include essential features such as education, work experience, abilities, and self-introduction, further enhanced with expert assessments to function as standards. The research combines large language models (LLMs) wit",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
       "title": "Discovering Hidden Gems in Model Repositories",
       "url": "https://arxiv.org/abs/2601.22157v1",
       "source": "arXiv – cs.LG + learning analytics",
@@ -112,6 +245,25 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Game-Based and Gamified Robotics Education: A Comparative Systematic Review and Design Guidelines",
+      "url": "https://arxiv.org/abs/2601.22199v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-01-29T15:54:36.000Z",
+      "score": 50,
+      "summary_en": "Robotics education fosters computational thinking, creativity, and problem-solving, but remains challenging due to technical complexity. Game-based learning (GBL) and gamification offer engagement benefits, yet their comparative impact remains unclear. We present the first PRISMA-aligned systematic review and comparative synthesis of GBL and gamification in robotics education, analyzing 95 studies from 12,485 records across four databases (2014-2025). We coded each study's approach, learning context, skill level, modality, pedagogy, and outcomes (k = .918). Three patterns emerged: (1) approach",
+      "summary_fr": "Robotics education fosters computational thinking, creativity, and problem-solving, but remains challenging due to technical complexity. Game-based learning (GBL) and gamification offer engagement benefits, yet their comparative impact remains unclear. We present the first PRISMA-aligned systematic review and comparative synthesis of GBL and gamification in robotics education, analyzing 95 studies from 12,485 records across four databases (2014-2025). We coded each study's approach, learning context, skill level, modality, pedagogy, and outcomes (k = .918). Three patterns emerged: (1) approach",
+      "resume_fr": "Robotics education fosters computational thinking, creativity, and problem-solving, but remains challenging due to technical complexity. Game-based learning (GBL) and gamification offer engagement benefits, yet their comparative impact remains unclear. We present the first PRISMA-aligned systematic review and comparative synthesis of GBL and gamification in robotics education, analyzing 95 studies from 12,485 records across four databases (2014-2025). We coded each study's approach, learning context, skill level, modality, pedagogy, and outcomes (k = .918). Three patterns emerged: (1) approach",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
     },
     {
@@ -1082,158 +1234,6 @@
       },
       "reason": "Heuristique: Recherche=0, Politiques=35, Institution=15, Impact=15.",
       "image": "https://oecdedutoday.com/wp-content/uploads/2025/11/TALIS-Starting-Strong-cover.jpg"
-    },
-    {
-      "title": "Fragmented learning from short videos modulates neural activity and connectivity during memory retrieval",
-      "url": "https://www.nature.com/articles/s41539-025-00399-y",
-      "source": "npj Science of Learning (Nature)",
-      "published": "2026-01-10T00:00:00.000Z",
-      "score": 70,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
-    },
-    {
-      "title": "Inferring spatial single-cell-level interactions through interpreting cell state and niche correlations learned by self-supervised graph transformer",
-      "url": "https://www.nature.com/articles/s42256-025-01161-0",
-      "source": "Nature Machine Intelligence",
-      "published": "2025-12-31T00:00:00.000Z",
-      "score": 85,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=0.",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-025-01161-0/MediaObjects/42256_2025_1161_Fig1_HTML.png"
-    },
-    {
-      "title": "Balancing Act",
-      "url": "https://learning-analytics.info/index.php/JLA/article/view/8761",
-      "source": "Journal of Learning Analytics (JLA)",
-      "published": "2025-11-26T08:00:00.000Z",
-      "score": 70,
-      "summary_en": "<p>Machine learning algorithms have been widely used for identifying at-risk students. Current research focuses on timeliness and accuracy of the predictions, leading to a heavy reliance on demographic data, which introduces severe bias issues. This study develops fairness-aware machine learning models to identify at-risk students in high school Advanced Placement (AP) statistics, where student performance is closely linked to demographic background. We evaluated the predictive performance and bias mitigation strategies of various machine learning algorithms. To determine the optimal time for ",
-      "summary_fr": "<p>Machine learning algorithms have been widely used for identifying at-risk students. Current research focuses on timeliness and accuracy of the predictions, leading to a heavy reliance on demographic data, which introduces severe bias issues. This study develops fairness-aware machine learning models to identify at-risk students in high school Advanced Placement (AP) statistics, where student performance is closely linked to demographic background. We evaluated the predictive performance and bias mitigation strategies of various machine learning algorithms. To determine the optimal time for ",
-      "resume_fr": "<p>Machine learning algorithms have been widely used for identifying at-risk students. Current research focuses on timeliness and accuracy of the predictions, leading to a heavy reliance on demographic data, which introduces severe bias issues. This study develops fairness-aware machine learning models to identify at-risk students in high school Advanced Placement (AP) statistics, where student performance is closely linked to demographic background. We evaluated the predictive performance and bias mitigation strategies of various machine learning algorithms. To determine the optimal time for ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=learning-analytics.info&sz=128"
-    },
-    {
-      "title": "Interpreting Predictive Learning Sequences in a College Math Course through a Self-Regulated Learning Framework",
-      "url": "https://learning-analytics.info/index.php/JLA/article/view/8865",
-      "source": "Journal of Learning Analytics (JLA)",
-      "published": "2025-11-26T08:00:00.000Z",
-      "score": 70,
-      "summary_en": "<p>Digital traces have been used to measure self-regulated learning (SRL), yet the validity of inferences made about these traces has often been questioned. Recently, researchers have used multiple channels of data — including digital traces, verbalizations, and self-reports — to validate inferences about individual SRL events. Research on the validation of inferences about sequences of multiple SRL events remains limited; however, investigating these sequences has the potential to refine SRL theories. To study the validation of sequences of SRL events, we collected multimodal data from 49 und",
-      "summary_fr": "<p>Digital traces have been used to measure self-regulated learning (SRL), yet the validity of inferences made about these traces has often been questioned. Recently, researchers have used multiple channels of data — including digital traces, verbalizations, and self-reports — to validate inferences about individual SRL events. Research on the validation of inferences about sequences of multiple SRL events remains limited; however, investigating these sequences has the potential to refine SRL theories. To study the validation of sequences of SRL events, we collected multimodal data from 49 und",
-      "resume_fr": "<p>Digital traces have been used to measure self-regulated learning (SRL), yet the validity of inferences made about these traces has often been questioned. Recently, researchers have used multiple channels of data — including digital traces, verbalizations, and self-reports — to validate inferences about individual SRL events. Research on the validation of inferences about sequences of multiple SRL events remains limited; however, investigating these sequences has the potential to refine SRL theories. To study the validation of sequences of SRL events, we collected multimodal data from 49 und",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=learning-analytics.info&sz=128"
-    },
-    {
-      "title": "Beyond compliance: an onto-epistemic analysis of formative assessment practices in higher education",
-      "url": "https://www.frontiersin.org/articles/10.3389/feduc.2026.1706921",
-      "source": "Frontiers in Education",
-      "published": null,
-      "score": 85,
-      "summary_en": "Educational policies, aligned with the paradigm of change, position learning as the central axis of higher education, emphasizing assessment not only as a tool for measurement and monitoring but also as an object of pedagogical inquiry aimed at understanding students’ formative processes. This study sought to analyze the meaning of formative assessment in university settings from the perspective of research-oriented faculty, adopting an onto-epistemic approach. A qualitative methodology with a phenomenological design was employed, allowing for in-depth exploration consistent with the research ",
-      "summary_fr": "Educational policies, aligned with the paradigm of change, position learning as the central axis of higher education, emphasizing assessment not only as a tool for measurement and monitoring but also as an object of pedagogical inquiry aimed at understanding students’ formative processes. This study sought to analyze the meaning of formative assessment in university settings from the perspective of research-oriented faculty, adopting an onto-epistemic approach. A qualitative methodology with a phenomenological design was employed, allowing for in-depth exploration consistent with the research ",
-      "resume_fr": "Educational policies, aligned with the paradigm of change, position learning as the central axis of higher education, emphasizing assessment not only as a tool for measurement and monitoring but also as an object of pedagogical inquiry aimed at understanding students’ formative processes. This study sought to analyze the meaning of formative assessment in university settings from the perspective of research-oriented faculty, adopting an onto-epistemic approach. A qualitative methodology with a phenomenological design was employed, allowing for in-depth exploration consistent with the research ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/AB9B707F-75CF-4EDE-BD4C3423508B6E96/7E7950EB-A6B2-472E-968CE75A375A19E6/WebsiteWebP_XL-FEDUC_Main%20Visual_Cyan_Website.webp"
-    },
-    {
-      "title": "Designing a pilot model for fully digitalised internal examinations in urban secondary schools: a sustainable transition framework",
-      "url": "https://www.frontiersin.org/articles/10.3389/feduc.2026.1684055",
-      "source": "Frontiers in Education",
-      "published": null,
-      "score": 85,
-      "summary_en": "Many schools are using digital tools more frequently in day-to-day lessons, yet important national exams continue to be conducted on paper. This creates a practical tension: Students become familiar with digital work in class but are still required to perform in a paper-based setting during high-stakes assessments. This article introduces a small-scale change management initiative for schools that wish to explore a more sustainable way of integrating digital assessments. The focus is on urban secondary schools with students aged approximately 15 to 17 years. In developing the framework, Kotter",
-      "summary_fr": "Many schools are using digital tools more frequently in day-to-day lessons, yet important national exams continue to be conducted on paper. This creates a practical tension: Students become familiar with digital work in class but are still required to perform in a paper-based setting during high-stakes assessments. This article introduces a small-scale change management initiative for schools that wish to explore a more sustainable way of integrating digital assessments. The focus is on urban secondary schools with students aged approximately 15 to 17 years. In developing the framework, Kotter",
-      "resume_fr": "Many schools are using digital tools more frequently in day-to-day lessons, yet important national exams continue to be conducted on paper. This creates a practical tension: Students become familiar with digital work in class but are still required to perform in a paper-based setting during high-stakes assessments. This article introduces a small-scale change management initiative for schools that wish to explore a more sustainable way of integrating digital assessments. The focus is on urban secondary schools with students aged approximately 15 to 17 years. In developing the framework, Kotter",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/AB9B707F-75CF-4EDE-BD4C3423508B6E96/7E7950EB-A6B2-472E-968CE75A375A19E6/WebsiteWebP_XL-FEDUC_Main%20Visual_Cyan_Website.webp"
-    },
-    {
-      "title": "Voir les dernières actualités",
-      "url": "https://sigcse.org/sigcse/news",
-      "source": "SIGCSE (ACM) – News",
-      "published": null,
-      "score": 70,
-      "summary_en": "Flux non détecté automatiquement — ouverture de la page d’actualités.",
-      "summary_fr": "Flux non détecté automatiquement — ouverture de la page d’actualités.",
-      "resume_fr": "Flux non détecté automatiquement — ouverture de la page d’actualités.",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=sigcse.org&sz=128"
-    },
-    {
-      "title": "Voir les dernières actualités",
-      "url": "https://learningatscale.acm.org/",
-      "source": "ACM Learning @ Scale",
-      "published": null,
-      "score": 70,
-      "summary_en": "Flux non détecté automatiquement — ouverture de la page d’actualités.",
-      "summary_fr": "Flux non détecté automatiquement — ouverture de la page d’actualités.",
-      "resume_fr": "Flux non détecté automatiquement — ouverture de la page d’actualités.",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=learningatscale.acm.org&sz=128"
     }
   ]
 }
