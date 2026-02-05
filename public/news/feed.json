@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-04T07:08:15.836Z",
+  "generatedAt": "2026-02-05T07:13:58.681Z",
   "model": "gpt-5",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,139 @@
     }
   },
   "items": [
+    {
+      "title": "Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism",
+      "url": "https://arxiv.org/abs/2602.04870v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-02-04T18:57:19.000Z",
+      "score": 50,
+      "summary_en": "Large language models have transformed many applications but remain expensive to train. Sparse Mixture of Experts (MoE) addresses this through conditional computation, with Expert Parallel (EP) as the standard distributed training method. However, EP has three limitations: communication cost grows linearly with the number of activated experts $k$, load imbalance affects latency and memory usage, and data-dependent communication requires metadata exchange. We propose Multi-Head LatentMoE and Head Parallel (HP), a new architecture and parallelism achieving $O(1)$ communication cost regardless of",
+      "summary_fr": "Large language models have transformed many applications but remain expensive to train. Sparse Mixture of Experts (MoE) addresses this through conditional computation, with Expert Parallel (EP) as the standard distributed training method. However, EP has three limitations: communication cost grows linearly with the number of activated experts $k$, load imbalance affects latency and memory usage, and data-dependent communication requires metadata exchange. We propose Multi-Head LatentMoE and Head Parallel (HP), a new architecture and parallelism achieving $O(1)$ communication cost regardless of",
+      "resume_fr": "Large language models have transformed many applications but remain expensive to train. Sparse Mixture of Experts (MoE) addresses this through conditional computation, with Expert Parallel (EP) as the standard distributed training method. However, EP has three limitations: communication cost grows linearly with the number of activated experts $k$, load imbalance affects latency and memory usage, and data-dependent communication requires metadata exchange. We propose Multi-Head LatentMoE and Head Parallel (HP), a new architecture and parallelism achieving $O(1)$ communication cost regardless of",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Comparative Insights on Adversarial Machine Learning from Industry and Academia: A User-Study Approach",
+      "url": "https://arxiv.org/abs/2602.04753v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-02-04T16:51:50.000Z",
+      "score": 50,
+      "summary_en": "An exponential growth of Machine Learning and its Generative AI applications brings with it significant security challenges, often referred to as Adversarial Machine Learning (AML). In this paper, we conducted two comprehensive studies to explore the perspectives of industry professionals and students on different AML vulnerabilities and their educational strategies. In our first study, we conducted an online survey with professionals revealing a notable correlation between cybersecurity education and concern for AML threats. For our second study, we developed two CTF challenges that implement",
+      "summary_fr": "An exponential growth of Machine Learning and its Generative AI applications brings with it significant security challenges, often referred to as Adversarial Machine Learning (AML). In this paper, we conducted two comprehensive studies to explore the perspectives of industry professionals and students on different AML vulnerabilities and their educational strategies. In our first study, we conducted an online survey with professionals revealing a notable correlation between cybersecurity education and concern for AML threats. For our second study, we developed two CTF challenges that implement",
+      "resume_fr": "An exponential growth of Machine Learning and its Generative AI applications brings with it significant security challenges, often referred to as Adversarial Machine Learning (AML). In this paper, we conducted two comprehensive studies to explore the perspectives of industry professionals and students on different AML vulnerabilities and their educational strategies. In our first study, we conducted an online survey with professionals revealing a notable correlation between cybersecurity education and concern for AML threats. For our second study, we developed two CTF challenges that implement",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "AI in Education Beyond Learning Outcomes: Cognition, Agency, Emotion, and Ethics",
+      "url": "https://arxiv.org/abs/2602.04598v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-02-04T14:26:27.000Z",
+      "score": 85,
+      "summary_en": "Artificial intelligence (AI) is rapidly being integrated into educational contexts, promising personalized support and increased efficiency. However, growing evidence suggests that the uncritical adoption of AI may produce unintended harms that extend beyond individual learning outcomes to affect broader societal goals. This paper examines the societal implications of AI in education through an integrative framework with four interrelated dimensions: cognition, agency, emotional well-being, and ethics. Drawing on research from education, cognitive science, psychology, and ethics, we synthesize",
+      "summary_fr": "Artificial intelligence (AI) is rapidly being integrated into educational contexts, promising personalized support and increased efficiency. However, growing evidence suggests that the uncritical adoption of AI may produce unintended harms that extend beyond individual learning outcomes to affect broader societal goals. This paper examines the societal implications of AI in education through an integrative framework with four interrelated dimensions: cognition, agency, emotional well-being, and ethics. Drawing on research from education, cognitive science, psychology, and ethics, we synthesize",
+      "resume_fr": "Artificial intelligence (AI) is rapidly being integrated into educational contexts, promising personalized support and increased efficiency. However, growing evidence suggests that the uncritical adoption of AI may produce unintended harms that extend beyond individual learning outcomes to affect broader societal goals. This paper examines the societal implications of AI in education through an integrative framework with four interrelated dimensions: cognition, agency, emotional well-being, and ethics. Drawing on research from education, cognitive science, psychology, and ethics, we synthesize",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Tinker Tales: Supporting Child-AI Collaboration through Co-Creative Storytelling with Educational Scaffolding",
+      "url": "https://arxiv.org/abs/2602.04109v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-02-04T00:48:12.000Z",
+      "score": 50,
+      "summary_en": "Artificial intelligence (AI) is increasingly framed as a collaborative partner in creative activities, yet children's interactions with AI have largely been studied in AI-led instructional settings rather than co-creative collaboration. This leaves open questions about how children can meaningfully engage with AI through iterative co-creation. We present Tinker Tales, a tangible storytelling system designed with narrative and social-emotional scaffolding to support child-AI collaboration. The system combines a physical storytelling board, NFC-embedded toys representing story elements (e.g., ch",
+      "summary_fr": "Artificial intelligence (AI) is increasingly framed as a collaborative partner in creative activities, yet children's interactions with AI have largely been studied in AI-led instructional settings rather than co-creative collaboration. This leaves open questions about how children can meaningfully engage with AI through iterative co-creation. We present Tinker Tales, a tangible storytelling system designed with narrative and social-emotional scaffolding to support child-AI collaboration. The system combines a physical storytelling board, NFC-embedded toys representing story elements (e.g., ch",
+      "resume_fr": "Artificial intelligence (AI) is increasingly framed as a collaborative partner in creative activities, yet children's interactions with AI have largely been studied in AI-led instructional settings rather than co-creative collaboration. This leaves open questions about how children can meaningfully engage with AI through iterative co-creation. We present Tinker Tales, a tangible storytelling system designed with narrative and social-emotional scaffolding to support child-AI collaboration. The system combines a physical storytelling board, NFC-embedded toys representing story elements (e.g., ch",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "From Crafting Text to Crafting Thought: Grounding AI Writing Support to Writing Center Pedagogy",
+      "url": "https://arxiv.org/abs/2602.04047v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-02-03T22:30:45.000Z",
+      "score": 50,
+      "summary_en": "As AI writing tools evolve from fixing surface errors to creating language with writers, new capabilities raise concerns about negative impacts on student writers, such as replacing their voices and undermining critical thinking skills. To address these challenges, we look at a parallel transition in university writing centers from focusing on fixing errors to preserving student voices. We develop design guidelines informed by writing center literature and interviews with 10 writing tutors. We illustrate these guidelines in a prototype AI tool, Writor. Writor helps writers revise text by setti",
+      "summary_fr": "As AI writing tools evolve from fixing surface errors to creating language with writers, new capabilities raise concerns about negative impacts on student writers, such as replacing their voices and undermining critical thinking skills. To address these challenges, we look at a parallel transition in university writing centers from focusing on fixing errors to preserving student voices. We develop design guidelines informed by writing center literature and interviews with 10 writing tutors. We illustrate these guidelines in a prototype AI tool, Writor. Writor helps writers revise text by setti",
+      "resume_fr": "As AI writing tools evolve from fixing surface errors to creating language with writers, new capabilities raise concerns about negative impacts on student writers, such as replacing their voices and undermining critical thinking skills. To address these challenges, we look at a parallel transition in university writing centers from focusing on fixing errors to preserving student voices. We develop design guidelines informed by writing center literature and interviews with 10 writing tutors. We illustrate these guidelines in a prototype AI tool, Writor. Writor helps writers revise text by setti",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Exploring Emerging Norms of AI Disclosure in Programming Education",
+      "url": "https://arxiv.org/abs/2602.04023v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-02-03T21:14:19.000Z",
+      "score": 50,
+      "summary_en": "Generative AI blurs the lines of authorship in computing education, creating uncertainty around how students should attribute AI assistance. To examine these emerging norms, we conducted a factorial vignette study with 94 computer science students across 102 unique scenarios, systematically manipulating assessment type, AI autonomy, student activity, prior knowledge, and human refinement effort. This paper details how these factors influence students' perceptions of ownership and disclosure preferences. Our findings indicate that attribution judgments are primarily driven by different levels o",
+      "summary_fr": "Generative AI blurs the lines of authorship in computing education, creating uncertainty around how students should attribute AI assistance. To examine these emerging norms, we conducted a factorial vignette study with 94 computer science students across 102 unique scenarios, systematically manipulating assessment type, AI autonomy, student activity, prior knowledge, and human refinement effort. This paper details how these factors influence students' perceptions of ownership and disclosure preferences. Our findings indicate that attribution judgments are primarily driven by different levels o",
+      "resume_fr": "Generative AI blurs the lines of authorship in computing education, creating uncertainty around how students should attribute AI assistance. To examine these emerging norms, we conducted a factorial vignette study with 94 computer science students across 102 unique scenarios, systematically manipulating assessment type, AI autonomy, student activity, prior knowledge, and human refinement effort. This paper details how these factors influence students' perceptions of ownership and disclosure preferences. Our findings indicate that attribution judgments are primarily driven by different levels o",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "When AI Persuades: Adversarial Explanation Attacks on Human Trust in AI-Assisted Decision Making",
+      "url": "https://arxiv.org/abs/2602.04003v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-02-03T20:42:44.000Z",
+      "score": 50,
+      "summary_en": "Most adversarial threats in artificial intelligence target the computational behavior of models rather than the humans who rely on them. Yet modern AI systems increasingly operate within human decision loops, where users interpret and act on model recommendations. Large Language Models generate fluent natural-language explanations that shape how users perceive and trust AI outputs, revealing a new attack surface at the cognitive layer: the communication channel between AI and its users. We introduce adversarial explanation attacks (AEAs), where an attacker manipulates the framing of LLM-genera",
+      "summary_fr": "Most adversarial threats in artificial intelligence target the computational behavior of models rather than the humans who rely on them. Yet modern AI systems increasingly operate within human decision loops, where users interpret and act on model recommendations. Large Language Models generate fluent natural-language explanations that shape how users perceive and trust AI outputs, revealing a new attack surface at the cognitive layer: the communication channel between AI and its users. We introduce adversarial explanation attacks (AEAs), where an attacker manipulates the framing of LLM-genera",
+      "resume_fr": "Most adversarial threats in artificial intelligence target the computational behavior of models rather than the humans who rely on them. Yet modern AI systems increasingly operate within human decision loops, where users interpret and act on model recommendations. Large Language Models generate fluent natural-language explanations that shape how users perceive and trust AI outputs, revealing a new attack surface at the cognitive layer: the communication channel between AI and its users. We introduce adversarial explanation attacks (AEAs), where an attacker manipulates the framing of LLM-genera",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
     {
       "title": "Accelerating Scientific Research with Gemini: Case Studies and Common Techniques",
       "url": "https://arxiv.org/abs/2602.03837v1",
@@ -1100,139 +1233,6 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Information Representation Fairness in Long-Document Embeddings: The Peculiar Interaction of Positional and Language Bias",
-      "url": "https://arxiv.org/abs/2601.16934v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-01-23T17:48:31.000Z",
-      "score": 70,
-      "summary_en": "To be discoverable in an embedding-based search process, each part of a document should be reflected in its embedding representation. To quantify any potential reflection biases, we introduce a permutation-based evaluation framework. With this, we observe that state-of-the-art embedding models exhibit systematic positional and language biases when documents are longer and consist of multiple segments. Specifically, early segments and segments in higher-resource languages like English are over-represented, while later segments and segments in lower-resource languages are marginalized. In our fu",
-      "summary_fr": "To be discoverable in an embedding-based search process, each part of a document should be reflected in its embedding representation. To quantify any potential reflection biases, we introduce a permutation-based evaluation framework. With this, we observe that state-of-the-art embedding models exhibit systematic positional and language biases when documents are longer and consist of multiple segments. Specifically, early segments and segments in higher-resource languages like English are over-represented, while later segments and segments in lower-resource languages are marginalized. In our fu",
-      "resume_fr": "To be discoverable in an embedding-based search process, each part of a document should be reflected in its embedding representation. To quantify any potential reflection biases, we introduce a permutation-based evaluation framework. With this, we observe that state-of-the-art embedding models exhibit systematic positional and language biases when documents are longer and consist of multiple segments. Specifically, early segments and segments in higher-resource languages like English are over-represented, while later segments and segments in lower-resource languages are marginalized. In our fu",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "LLM-Based Adversarial Persuasion Attacks on Fact-Checking Systems",
-      "url": "https://arxiv.org/abs/2601.16890v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-01-23T16:57:16.000Z",
-      "score": 70,
-      "summary_en": "Automated fact-checking (AFC) systems are susceptible to adversarial attacks, enabling false claims to evade detection. Existing adversarial frameworks typically rely on injecting noise or altering semantics, yet no existing framework exploits the adversarial potential of persuasion techniques, which are widely used in disinformation campaigns to manipulate audiences. In this paper, we introduce a novel class of persuasive adversarial attacks on AFCs by employing a generative LLM to rephrase claims using persuasion techniques. Considering 15 techniques grouped into 6 categories, we study the e",
-      "summary_fr": "Automated fact-checking (AFC) systems are susceptible to adversarial attacks, enabling false claims to evade detection. Existing adversarial frameworks typically rely on injecting noise or altering semantics, yet no existing framework exploits the adversarial potential of persuasion techniques, which are widely used in disinformation campaigns to manipulate audiences. In this paper, we introduce a novel class of persuasive adversarial attacks on AFCs by employing a generative LLM to rephrase claims using persuasion techniques. Considering 15 techniques grouped into 6 categories, we study the e",
-      "resume_fr": "Automated fact-checking (AFC) systems are susceptible to adversarial attacks, enabling false claims to evade detection. Existing adversarial frameworks typically rely on injecting noise or altering semantics, yet no existing framework exploits the adversarial potential of persuasion techniques, which are widely used in disinformation campaigns to manipulate audiences. In this paper, we introduce a novel class of persuasive adversarial attacks on AFCs by employing a generative LLM to rephrase claims using persuasion techniques. Considering 15 techniques grouped into 6 categories, we study the e",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Make the Unhearable Visible: Exploring Visualization for Musical Instrument Practice",
-      "url": "https://arxiv.org/abs/2601.16708v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-01-23T12:52:50.000Z",
-      "score": 85,
-      "summary_en": "We explore the potential of visualization to support musicians in instrument practice through real-time feedback and reflection on their playing. Musicians often struggle to observe the patterns in their playing and interpret them with respect to their goals. Our premise is that these patterns can be made visible with interactive visualization: we can make the unhearable visible. However, understanding the design of such visualizations is challenging: the diversity of needs, including different instruments, skills, musical attributes, and genres, means that any single use case is unlikely to i",
-      "summary_fr": "We explore the potential of visualization to support musicians in instrument practice through real-time feedback and reflection on their playing. Musicians often struggle to observe the patterns in their playing and interpret them with respect to their goals. Our premise is that these patterns can be made visible with interactive visualization: we can make the unhearable visible. However, understanding the design of such visualizations is challenging: the diversity of needs, including different instruments, skills, musical attributes, and genres, means that any single use case is unlikely to i",
-      "resume_fr": "We explore the potential of visualization to support musicians in instrument practice through real-time feedback and reflection on their playing. Musicians often struggle to observe the patterns in their playing and interpret them with respect to their goals. Our premise is that these patterns can be made visible with interactive visualization: we can make the unhearable visible. However, understanding the design of such visualizations is challenging: the diversity of needs, including different instruments, skills, musical attributes, and genres, means that any single use case is unlikely to i",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Counterfactual Training: Teaching Models Plausible and Actionable Explanations",
-      "url": "https://arxiv.org/abs/2601.16205v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-01-22T18:56:14.000Z",
-      "score": 70,
-      "summary_en": "We propose a novel training regime termed counterfactual training that leverages counterfactual explanations to increase the explanatory capacity of models. Counterfactual explanations have emerged as a popular post-hoc explanation method for opaque machine learning models: they inform how factual inputs would need to change in order for a model to produce some desired output. To be useful in real-world decision-making systems, counterfactuals should be plausible with respect to the underlying data and actionable with respect to the feature mutability constraints. Much existing research has th",
-      "summary_fr": "We propose a novel training regime termed counterfactual training that leverages counterfactual explanations to increase the explanatory capacity of models. Counterfactual explanations have emerged as a popular post-hoc explanation method for opaque machine learning models: they inform how factual inputs would need to change in order for a model to produce some desired output. To be useful in real-world decision-making systems, counterfactuals should be plausible with respect to the underlying data and actionable with respect to the feature mutability constraints. Much existing research has th",
-      "resume_fr": "We propose a novel training regime termed counterfactual training that leverages counterfactual explanations to increase the explanatory capacity of models. Counterfactual explanations have emerged as a popular post-hoc explanation method for opaque machine learning models: they inform how factual inputs would need to change in order for a model to produce some desired output. To be useful in real-world decision-making systems, counterfactuals should be plausible with respect to the underlying data and actionable with respect to the feature mutability constraints. Much existing research has th",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "LLM Prompt Evaluation for Educational Applications",
-      "url": "https://arxiv.org/abs/2601.16134v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-01-22T17:31:25.000Z",
-      "score": 50,
-      "summary_en": "As large language models (LLMs) become increasingly common in educational applications, there is a growing need for evidence-based methods to design and evaluate LLM prompts that produce personalized and pedagogically aligned out-puts. This study presents a generalizable, systematic approach for evaluating prompts, demonstrated through an analysis of LLM-generated follow-up questions in a structured dialogue activity. Six prompt templates were designed and tested. The templates incorporated established prompt engineering patterns, with each prompt emphasizing distinct pedagogical strategies. T",
-      "summary_fr": "As large language models (LLMs) become increasingly common in educational applications, there is a growing need for evidence-based methods to design and evaluate LLM prompts that produce personalized and pedagogically aligned out-puts. This study presents a generalizable, systematic approach for evaluating prompts, demonstrated through an analysis of LLM-generated follow-up questions in a structured dialogue activity. Six prompt templates were designed and tested. The templates incorporated established prompt engineering patterns, with each prompt emphasizing distinct pedagogical strategies. T",
-      "resume_fr": "As large language models (LLMs) become increasingly common in educational applications, there is a growing need for evidence-based methods to design and evaluate LLM prompts that produce personalized and pedagogically aligned out-puts. This study presents a generalizable, systematic approach for evaluating prompts, demonstrated through an analysis of LLM-generated follow-up questions in a structured dialogue activity. Six prompt templates were designed and tested. The templates incorporated established prompt engineering patterns, with each prompt emphasizing distinct pedagogical strategies. T",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Bridging Qualitative Rubrics and AI: A Binary Question Framework for Criterion-Referenced Grading in Engineering",
-      "url": "https://arxiv.org/abs/2601.15626v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-01-22T03:57:47.000Z",
-      "score": 85,
-      "summary_en": "PURPOSE OR GOAL: This study investigates how GenAI can be integrated with a criterion-referenced grading framework to improve the efficiency and quality of grading for mathematical assessments in engineering. It specifically explores the challenges demonstrators face with manual, model solution-based grading and how a GenAI-supported system can be designed to reliably identify student errors, provide high-quality feedback, and support human graders. The research also examines human graders' perceptions of the effectiveness of this GenAI-assisted approach. ACTUAL OR ANTICIPATED OUTCOMES: The st",
-      "summary_fr": "PURPOSE OR GOAL: This study investigates how GenAI can be integrated with a criterion-referenced grading framework to improve the efficiency and quality of grading for mathematical assessments in engineering. It specifically explores the challenges demonstrators face with manual, model solution-based grading and how a GenAI-supported system can be designed to reliably identify student errors, provide high-quality feedback, and support human graders. The research also examines human graders' perceptions of the effectiveness of this GenAI-assisted approach. ACTUAL OR ANTICIPATED OUTCOMES: The st",
-      "resume_fr": "PURPOSE OR GOAL: This study investigates how GenAI can be integrated with a criterion-referenced grading framework to improve the efficiency and quality of grading for mathematical assessments in engineering. It specifically explores the challenges demonstrators face with manual, model solution-based grading and how a GenAI-supported system can be designed to reliably identify student errors, provide high-quality feedback, and support human graders. The research also examines human graders' perceptions of the effectiveness of this GenAI-assisted approach. ACTUAL OR ANTICIPATED OUTCOMES: The st",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "ALIGNAgent: Adaptive Learner Intelligence for Gap Identification and Next-step guidance",
-      "url": "https://arxiv.org/abs/2601.15551v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-01-22T00:45:15.000Z",
-      "score": 85,
-      "summary_en": "Personalized learning systems have emerged as a promising approach to enhance student outcomes by tailoring educational content, pacing, and feedback to individual needs. However, most existing systems remain fragmented, specializing in either knowledge tracing, diagnostic modeling, or resource recommendation, but rarely integrating these components into a cohesive adaptive cycle. In this paper, we propose ALIGNAgent (Adaptive Learner Intelligence for Gap Identification and Next-step guidance), a multi-agent educational framework designed to deliver personalized learning through integrated kno",
-      "summary_fr": "Personalized learning systems have emerged as a promising approach to enhance student outcomes by tailoring educational content, pacing, and feedback to individual needs. However, most existing systems remain fragmented, specializing in either knowledge tracing, diagnostic modeling, or resource recommendation, but rarely integrating these components into a cohesive adaptive cycle. In this paper, we propose ALIGNAgent (Adaptive Learner Intelligence for Gap Identification and Next-step guidance), a multi-agent educational framework designed to deliver personalized learning through integrated kno",
-      "resume_fr": "Personalized learning systems have emerged as a promising approach to enhance student outcomes by tailoring educational content, pacing, and feedback to individual needs. However, most existing systems remain fragmented, specializing in either knowledge tracing, diagnostic modeling, or resource recommendation, but rarely integrating these components into a cohesive adaptive cycle. In this paper, we propose ALIGNAgent (Adaptive Learner Intelligence for Gap Identification and Next-step guidance), a multi-agent educational framework designed to deliver personalized learning through integrated kno",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
     }
   ]
