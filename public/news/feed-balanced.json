@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-05T07:13:58.681Z",
+  "generatedAt": "2026-02-06T07:10:21.470Z",
   "model": "gpt-5",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,139 @@
     }
   },
   "items": [
+    {
+      "title": "Can vision language models learn intuitive physics from interaction?",
+      "url": "https://arxiv.org/abs/2602.06033v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-02-05T18:59:20.000Z",
+      "score": 70,
+      "summary_en": "Pre-trained vision language models do not have good intuitions about the physical world. Recent work has shown that supervised fine-tuning can improve model performance on simple physical tasks. However, fine-tuned models do not appear to learn robust physical rules that can generalize to new contexts. Based on research in cognitive science, we hypothesize that models need to interact with an environment to properly learn its physical dynamics. We train models that learn through interaction with the environment using reinforcement learning. While learning from interaction allows models to impr",
+      "summary_fr": "Pre-trained vision language models do not have good intuitions about the physical world. Recent work has shown that supervised fine-tuning can improve model performance on simple physical tasks. However, fine-tuned models do not appear to learn robust physical rules that can generalize to new contexts. Based on research in cognitive science, we hypothesize that models need to interact with an environment to properly learn its physical dynamics. We train models that learn through interaction with the environment using reinforcement learning. While learning from interaction allows models to impr",
+      "resume_fr": "Pre-trained vision language models do not have good intuitions about the physical world. Recent work has shown that supervised fine-tuning can improve model performance on simple physical tasks. However, fine-tuned models do not appear to learn robust physical rules that can generalize to new contexts. Based on research in cognitive science, we hypothesize that models need to interact with an environment to properly learn its physical dynamics. We train models that learn through interaction with the environment using reinforcement learning. While learning from interaction allows models to impr",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Curiosity is Knowledge: Self-Consistent Learning and No-Regret Optimization with Active Inference",
+      "url": "https://arxiv.org/abs/2602.06029v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-02-05T18:58:32.000Z",
+      "score": 70,
+      "summary_en": "Active inference (AIF) unifies exploration and exploitation by minimizing the Expected Free Energy (EFE), balancing epistemic value (information gain) and pragmatic value (task performance) through a curiosity coefficient. Yet it has been unclear when this balance yields both coherent learning and efficient decision-making: insufficient curiosity can drive myopic exploitation and prevent uncertainty resolution, while excessive curiosity can induce unnecessary exploration and regret. We establish the first theoretical guarantee for EFE-minimizing agents, showing that a single requirement--suffi",
+      "summary_fr": "Active inference (AIF) unifies exploration and exploitation by minimizing the Expected Free Energy (EFE), balancing epistemic value (information gain) and pragmatic value (task performance) through a curiosity coefficient. Yet it has been unclear when this balance yields both coherent learning and efficient decision-making: insufficient curiosity can drive myopic exploitation and prevent uncertainty resolution, while excessive curiosity can induce unnecessary exploration and regret. We establish the first theoretical guarantee for EFE-minimizing agents, showing that a single requirement--suffi",
+      "resume_fr": "Active inference (AIF) unifies exploration and exploitation by minimizing the Expected Free Energy (EFE), balancing epistemic value (information gain) and pragmatic value (task performance) through a curiosity coefficient. Yet it has been unclear when this balance yields both coherent learning and efficient decision-making: insufficient curiosity can drive myopic exploitation and prevent uncertainty resolution, while excessive curiosity can induce unnecessary exploration and regret. We establish the first theoretical guarantee for EFE-minimizing agents, showing that a single requirement--suffi",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "A Systematic Evaluation of Large Language Models for PTSD Severity Estimation: The Role of Contextual Knowledge and Modeling Strategies",
+      "url": "https://arxiv.org/abs/2602.06015v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-02-05T18:53:17.000Z",
+      "score": 50,
+      "summary_en": "Large language models (LLMs) are increasingly being used in a zero-shot fashion to assess mental health conditions, yet we have limited knowledge on what factors affect their accuracy. In this study, we utilize a clinical dataset of natural language narratives and self-reported PTSD severity scores from 1,437 individuals to comprehensively evaluate the performance of 11 state-of-the-art LLMs. To understand the factors affecting accuracy, we systematically varied (i) contextual knowledge like subscale definitions, distribution summary, and interview questions, and (ii) modeling strategies inclu",
+      "summary_fr": "Large language models (LLMs) are increasingly being used in a zero-shot fashion to assess mental health conditions, yet we have limited knowledge on what factors affect their accuracy. In this study, we utilize a clinical dataset of natural language narratives and self-reported PTSD severity scores from 1,437 individuals to comprehensively evaluate the performance of 11 state-of-the-art LLMs. To understand the factors affecting accuracy, we systematically varied (i) contextual knowledge like subscale definitions, distribution summary, and interview questions, and (ii) modeling strategies inclu",
+      "resume_fr": "Large language models (LLMs) are increasingly being used in a zero-shot fashion to assess mental health conditions, yet we have limited knowledge on what factors affect their accuracy. In this study, we utilize a clinical dataset of natural language narratives and self-reported PTSD severity scores from 1,437 individuals to comprehensively evaluate the performance of 11 state-of-the-art LLMs. To understand the factors affecting accuracy, we systematically varied (i) contextual knowledge like subscale definitions, distribution summary, and interview questions, and (ii) modeling strategies inclu",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Prompting Destiny: Negotiating Socialization and Growth in an LLM-Mediated Speculative Gameworld",
+      "url": "https://arxiv.org/abs/2602.05864v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-02-05T16:44:44.000Z",
+      "score": 50,
+      "summary_en": "We present an LLM-mediated role-playing game that supports reflection on socialization, moral responsibility, and educational role positioning. Grounded in socialization theory, the game follows a four-season structure in which players guide a child prince through morally charged situations and compare the LLM-mediated NPC's differentiated responses across stages, helping them reason about how educational guidance shifts with socialization. To approximate real educational contexts and reduce score-chasing, the system hides real-time evaluative scores and provides delayed, end-of-stage growth f",
+      "summary_fr": "We present an LLM-mediated role-playing game that supports reflection on socialization, moral responsibility, and educational role positioning. Grounded in socialization theory, the game follows a four-season structure in which players guide a child prince through morally charged situations and compare the LLM-mediated NPC's differentiated responses across stages, helping them reason about how educational guidance shifts with socialization. To approximate real educational contexts and reduce score-chasing, the system hides real-time evaluative scores and provides delayed, end-of-stage growth f",
+      "resume_fr": "We present an LLM-mediated role-playing game that supports reflection on socialization, moral responsibility, and educational role positioning. Grounded in socialization theory, the game follows a four-season structure in which players guide a child prince through morally charged situations and compare the LLM-mediated NPC's differentiated responses across stages, helping them reason about how educational guidance shifts with socialization. To approximate real educational contexts and reduce score-chasing, the system hides real-time evaluative scores and provides delayed, end-of-stage growth f",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "\"It Talks Like a Patient, But Feels Different\": Co-Designing AI Standardized Patients with Medical Learners",
+      "url": "https://arxiv.org/abs/2602.05856v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-02-05T16:38:51.000Z",
+      "score": 85,
+      "summary_en": "Standardized patients (SPs) play a central role in clinical communication training but are costly, difficult to scale, and inconsistent. Large language model (LLM) based AI standardized patients (AI-SPs) promise flexible, on-demand practice, yet learners often report that they talk like a patient but feel different. We interviewed 12 clinical-year medical students and conducted three co-design workshops to examine how learners experience constraints of SP encounters and what they expect from AI-SPs. We identified six learner-centered needs, translated them into AI-SP design requirements, and s",
+      "summary_fr": "Standardized patients (SPs) play a central role in clinical communication training but are costly, difficult to scale, and inconsistent. Large language model (LLM) based AI standardized patients (AI-SPs) promise flexible, on-demand practice, yet learners often report that they talk like a patient but feel different. We interviewed 12 clinical-year medical students and conducted three co-design workshops to examine how learners experience constraints of SP encounters and what they expect from AI-SPs. We identified six learner-centered needs, translated them into AI-SP design requirements, and s",
+      "resume_fr": "Standardized patients (SPs) play a central role in clinical communication training but are costly, difficult to scale, and inconsistent. Large language model (LLM) based AI standardized patients (AI-SPs) promise flexible, on-demand practice, yet learners often report that they talk like a patient but feel different. We interviewed 12 clinical-year medical students and conducted three co-design workshops to examine how learners experience constraints of SP encounters and what they expect from AI-SPs. We identified six learner-centered needs, translated them into AI-SP design requirements, and s",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Relying on LLMs: Student Practices and Instructor Norms are Changing in Computer Science Education",
+      "url": "https://arxiv.org/abs/2602.05506v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-02-05T10:06:53.000Z",
+      "score": 85,
+      "summary_en": "Prior research has raised concerns about students' over-reliance on large language models (LLMs) in higher education. This paper examines how Computer Science students and instructors engage with LLMs across five scenarios: \"Writing\", \"Quiz\", \"Programming\", \"Project-based learning\", and \"Information retrieval\". Through user studies with 16 students and 6 instructors, we identify 7 key intents, including increasingly complex student practices. Findings reveal varying levels of conflict between student practices and instructor norms, ranging from clear conflict in \"Writing-generation\" and \"(Prog",
+      "summary_fr": "Prior research has raised concerns about students' over-reliance on large language models (LLMs) in higher education. This paper examines how Computer Science students and instructors engage with LLMs across five scenarios: \"Writing\", \"Quiz\", \"Programming\", \"Project-based learning\", and \"Information retrieval\". Through user studies with 16 students and 6 instructors, we identify 7 key intents, including increasingly complex student practices. Findings reveal varying levels of conflict between student practices and instructor norms, ranging from clear conflict in \"Writing-generation\" and \"(Prog",
+      "resume_fr": "Prior research has raised concerns about students' over-reliance on large language models (LLMs) in higher education. This paper examines how Computer Science students and instructors engage with LLMs across five scenarios: \"Writing\", \"Quiz\", \"Programming\", \"Project-based learning\", and \"Information retrieval\". Through user studies with 16 students and 6 instructors, we identify 7 key intents, including increasingly complex student practices. Findings reveal varying levels of conflict between student practices and instructor norms, ranging from clear conflict in \"Writing-generation\" and \"(Prog",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Clinical Validation of Medical-based Large Language Model Chatbots on Ophthalmic Patient Queries with LLM-based Evaluation",
+      "url": "https://arxiv.org/abs/2602.05381v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-02-05T07:00:20.000Z",
+      "score": 65,
+      "summary_en": "Domain specific large language models are increasingly used to support patient education, triage, and clinical decision making in ophthalmology, making rigorous evaluation essential to ensure safety and accuracy. This study evaluated four small medical LLMs Meerkat-7B, BioMistral-7B, OpenBioLLM-8B, and MedLLaMA3-v20 in answering ophthalmology related patient queries and assessed the feasibility of LLM based evaluation against clinician grading. In this cross sectional study, 180 ophthalmology patient queries were answered by each model, generating 2160 responses. Models were selected for param",
+      "summary_fr": "Domain specific large language models are increasingly used to support patient education, triage, and clinical decision making in ophthalmology, making rigorous evaluation essential to ensure safety and accuracy. This study evaluated four small medical LLMs Meerkat-7B, BioMistral-7B, OpenBioLLM-8B, and MedLLaMA3-v20 in answering ophthalmology related patient queries and assessed the feasibility of LLM based evaluation against clinician grading. In this cross sectional study, 180 ophthalmology patient queries were answered by each model, generating 2160 responses. Models were selected for param",
+      "resume_fr": "Domain specific large language models are increasingly used to support patient education, triage, and clinical decision making in ophthalmology, making rigorous evaluation essential to ensure safety and accuracy. This study evaluated four small medical LLMs Meerkat-7B, BioMistral-7B, OpenBioLLM-8B, and MedLLaMA3-v20 in answering ophthalmology related patient queries and assessed the feasibility of LLM based evaluation against clinician grading. In this cross sectional study, 180 ophthalmology patient queries were answered by each model, generating 2160 responses. Models were selected for param",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
     {
       "title": "Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism",
       "url": "https://arxiv.org/abs/2602.04870v1",
@@ -1100,139 +1233,6 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "From Struggle to Success: Context-Aware Guidance for Screen Reader Users in Computer Use",
-      "url": "https://arxiv.org/abs/2601.18092v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-01-26T03:02:26.000Z",
-      "score": 85,
-      "summary_en": "Equal access to digital technologies is critical for education, employment, and social participation. However, mainstream interfaces are visually oriented, creating steep learning curves and frequent obstacles for screen reader users, and limiting their independence and opportunities. Existing support is inadequate -- tutorials mainly target sighted users, while human assistance lacks real-time availability. We introduce AskEase, an on-demand AI assistant that provides step-by-step, screen reader user-friendly guidance for computer use. AskEase manages multiple sources of context to infer user",
-      "summary_fr": "Equal access to digital technologies is critical for education, employment, and social participation. However, mainstream interfaces are visually oriented, creating steep learning curves and frequent obstacles for screen reader users, and limiting their independence and opportunities. Existing support is inadequate -- tutorials mainly target sighted users, while human assistance lacks real-time availability. We introduce AskEase, an on-demand AI assistant that provides step-by-step, screen reader user-friendly guidance for computer use. AskEase manages multiple sources of context to infer user",
-      "resume_fr": "Equal access to digital technologies is critical for education, employment, and social participation. However, mainstream interfaces are visually oriented, creating steep learning curves and frequent obstacles for screen reader users, and limiting their independence and opportunities. Existing support is inadequate -- tutorials mainly target sighted users, while human assistance lacks real-time availability. We introduce AskEase, an on-demand AI assistant that provides step-by-step, screen reader user-friendly guidance for computer use. AskEase manages multiple sources of context to infer user",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "\"Crash Test Dummies\" for AI-Enabled Clinical Assessment: Validating Virtual Patient Scenarios with Virtual Learners",
-      "url": "https://arxiv.org/abs/2601.18085v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-01-26T02:47:28.000Z",
-      "score": 65,
-      "summary_en": "Background: In medical and health professions education (HPE), AI is increasingly used to assess clinical competencies, including via virtual standardized patients. However, most evaluations rely on AI-human interrater reliability and lack a measurement framework for how cases, learners, and raters jointly shape scores. This leaves robustness uncertain and can expose learners to misguidance from unvalidated systems. We address this by using AI \"simulated learners\" to stress-test and psychometrically characterize assessment pipelines before human use. Objective: Develop an open-source AI virtua",
-      "summary_fr": "Background: In medical and health professions education (HPE), AI is increasingly used to assess clinical competencies, including via virtual standardized patients. However, most evaluations rely on AI-human interrater reliability and lack a measurement framework for how cases, learners, and raters jointly shape scores. This leaves robustness uncertain and can expose learners to misguidance from unvalidated systems. We address this by using AI \"simulated learners\" to stress-test and psychometrically characterize assessment pipelines before human use. Objective: Develop an open-source AI virtua",
-      "resume_fr": "Background: In medical and health professions education (HPE), AI is increasingly used to assess clinical competencies, including via virtual standardized patients. However, most evaluations rely on AI-human interrater reliability and lack a measurement framework for how cases, learners, and raters jointly shape scores. This leaves robustness uncertain and can expose learners to misguidance from unvalidated systems. We address this by using AI \"simulated learners\" to stress-test and psychometrically characterize assessment pipelines before human use. Objective: Develop an open-source AI virtua",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Co-Designing Digital Humans for Online Learning: A Framework for Human-AI Pedagogical Integration",
-      "url": "https://arxiv.org/abs/2601.17434v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-01-24T12:11:26.000Z",
-      "score": 85,
-      "summary_en": "Artificial intelligence (AI) and large language models (LLMs) are reshaping education, with virtual avatars emerging as digital teachers capable of enhancing engagement, sustaining attention, and addressing instructor shortages. Aligned with the Sustainable Development Goals (SDGs) for equitable quality education, these technologies hold promise yet lack clear guidelines for effective design and implementation in online learning. To fill this gap, we introduce a framework specifying when, what, and how digital teachers should be integrated. Our study combines (1) a design space analysis of 87 ",
-      "summary_fr": "Artificial intelligence (AI) and large language models (LLMs) are reshaping education, with virtual avatars emerging as digital teachers capable of enhancing engagement, sustaining attention, and addressing instructor shortages. Aligned with the Sustainable Development Goals (SDGs) for equitable quality education, these technologies hold promise yet lack clear guidelines for effective design and implementation in online learning. To fill this gap, we introduce a framework specifying when, what, and how digital teachers should be integrated. Our study combines (1) a design space analysis of 87 ",
-      "resume_fr": "Artificial intelligence (AI) and large language models (LLMs) are reshaping education, with virtual avatars emerging as digital teachers capable of enhancing engagement, sustaining attention, and addressing instructor shortages. Aligned with the Sustainable Development Goals (SDGs) for equitable quality education, these technologies hold promise yet lack clear guidelines for effective design and implementation in online learning. To fill this gap, we introduce a framework specifying when, what, and how digital teachers should be integrated. Our study combines (1) a design space analysis of 87 ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Do readers prefer AI-generated Italian short stories?",
-      "url": "https://arxiv.org/abs/2601.17363v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-01-24T08:15:13.000Z",
-      "score": 65,
-      "summary_en": "This study investigates whether readers prefer AI-generated short stories in Italian over one written by a renowned Italian author. In a blind setup, 20 participants read and evaluated three stories, two created with ChatGPT-4o and one by Alberto Moravia, without being informed of their origin. To explore potential influencing factors, reading habits and demographic data, comprising age, gender, education and first language, were also collected. The results showed that the AI-written texts received slightly higher average ratings and were more frequently preferred, although differences were mo",
-      "summary_fr": "This study investigates whether readers prefer AI-generated short stories in Italian over one written by a renowned Italian author. In a blind setup, 20 participants read and evaluated three stories, two created with ChatGPT-4o and one by Alberto Moravia, without being informed of their origin. To explore potential influencing factors, reading habits and demographic data, comprising age, gender, education and first language, were also collected. The results showed that the AI-written texts received slightly higher average ratings and were more frequently preferred, although differences were mo",
-      "resume_fr": "This study investigates whether readers prefer AI-generated short stories in Italian over one written by a renowned Italian author. In a blind setup, 20 participants read and evaluated three stories, two created with ChatGPT-4o and one by Alberto Moravia, without being informed of their origin. To explore potential influencing factors, reading habits and demographic data, comprising age, gender, education and first language, were also collected. The results showed that the AI-written texts received slightly higher average ratings and were more frequently preferred, although differences were mo",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Beyond Factual QA: Mentorship-Oriented Question Answering over Long-Form Multilingual Content",
-      "url": "https://arxiv.org/abs/2601.17173v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-01-23T21:08:02.000Z",
-      "score": 85,
-      "summary_en": "Question answering systems are typically evaluated on factual correctness, yet many real-world applications-such as education and career guidance-require mentorship: responses that provide reflection and guidance. Existing QA benchmarks rarely capture this distinction, particularly in multilingual and long-form settings. We introduce MentorQA, the first multilingual dataset and evaluation framework for mentorship-focused question answering from long-form videos, comprising nearly 9,000 QA pairs from 180 hours of content across four languages. We define mentorship-focused evaluation dimensions ",
-      "summary_fr": "Question answering systems are typically evaluated on factual correctness, yet many real-world applications-such as education and career guidance-require mentorship: responses that provide reflection and guidance. Existing QA benchmarks rarely capture this distinction, particularly in multilingual and long-form settings. We introduce MentorQA, the first multilingual dataset and evaluation framework for mentorship-focused question answering from long-form videos, comprising nearly 9,000 QA pairs from 180 hours of content across four languages. We define mentorship-focused evaluation dimensions ",
-      "resume_fr": "Question answering systems are typically evaluated on factual correctness, yet many real-world applications-such as education and career guidance-require mentorship: responses that provide reflection and guidance. Existing QA benchmarks rarely capture this distinction, particularly in multilingual and long-form settings. We introduce MentorQA, the first multilingual dataset and evaluation framework for mentorship-focused question answering from long-form videos, comprising nearly 9,000 QA pairs from 180 hours of content across four languages. We define mentorship-focused evaluation dimensions ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Do We Know What They Know We Know? Calibrating Student Trust in AI and Human Responses Through Mutual Theory of Mind",
-      "url": "https://arxiv.org/abs/2601.16960v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-01-23T18:27:32.000Z",
-      "score": 50,
-      "summary_en": "Trust and reliance are often treated as coupled constructs in human-AI interaction research, with the assumption that calibrating trust will lead to appropriate reliance. We challenge this assumption in educational contexts, where students increasingly turn to AI for learning support. Through semi-structured interviews with graduate students (N=8) comparing AI-generated and human-generated responses, we find a systematic dissociation: students exhibit high trust but low reliance on human experts due to social barriers (fear of judgment, help-seeking anxiety), while showing low trust but high r",
-      "summary_fr": "Trust and reliance are often treated as coupled constructs in human-AI interaction research, with the assumption that calibrating trust will lead to appropriate reliance. We challenge this assumption in educational contexts, where students increasingly turn to AI for learning support. Through semi-structured interviews with graduate students (N=8) comparing AI-generated and human-generated responses, we find a systematic dissociation: students exhibit high trust but low reliance on human experts due to social barriers (fear of judgment, help-seeking anxiety), while showing low trust but high r",
-      "resume_fr": "Trust and reliance are often treated as coupled constructs in human-AI interaction research, with the assumption that calibrating trust will lead to appropriate reliance. We challenge this assumption in educational contexts, where students increasingly turn to AI for learning support. Through semi-structured interviews with graduate students (N=8) comparing AI-generated and human-generated responses, we find a systematic dissociation: students exhibit high trust but low reliance on human experts due to social barriers (fear of judgment, help-seeking anxiety), while showing low trust but high r",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Strategies for Span Labeling with Large Language Models",
-      "url": "https://arxiv.org/abs/2601.16946v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-01-23T18:03:10.000Z",
-      "score": 50,
-      "summary_en": "Large language models (LLMs) are increasingly used for text analysis tasks, such as named entity recognition or error detection. Unlike encoder-based models, however, generative architectures lack an explicit mechanism to refer to specific parts of their input. This leads to a variety of ad-hoc prompting strategies for span labeling, often with inconsistent results. In this paper, we categorize these strategies into three families: tagging the input text, indexing numerical positions of spans, and matching span content. To address the limitations of content matching, we introduce LogitMatch, a",
-      "summary_fr": "Large language models (LLMs) are increasingly used for text analysis tasks, such as named entity recognition or error detection. Unlike encoder-based models, however, generative architectures lack an explicit mechanism to refer to specific parts of their input. This leads to a variety of ad-hoc prompting strategies for span labeling, often with inconsistent results. In this paper, we categorize these strategies into three families: tagging the input text, indexing numerical positions of spans, and matching span content. To address the limitations of content matching, we introduce LogitMatch, a",
-      "resume_fr": "Large language models (LLMs) are increasingly used for text analysis tasks, such as named entity recognition or error detection. Unlike encoder-based models, however, generative architectures lack an explicit mechanism to refer to specific parts of their input. This leads to a variety of ad-hoc prompting strategies for span labeling, often with inconsistent results. In this paper, we categorize these strategies into three families: tagging the input text, indexing numerical positions of spans, and matching span content. To address the limitations of content matching, we introduce LogitMatch, a",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
     }
   ]
