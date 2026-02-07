@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-06T07:10:21.470Z",
+  "generatedAt": "2026-02-07T06:59:04.400Z",
   "model": "gpt-5",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,44 @@
     }
   },
   "items": [
+    {
+      "title": "Video Friday: Autonomous Robots Learn By Doing in This Factory",
+      "url": "https://spectrum.ieee.org/autonomous-warehouse-robots",
+      "source": "IEEE Spectrum – AI",
+      "published": "2026-02-06T17:00:02.000Z",
+      "score": 70,
+      "summary_en": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. ICRA 2026: 1–5 June 2026, VIENNA Enjoy today’s videos! To train the next generation of autonomous robots, scientists at Toyota Research Institute are working with Toyota Manufacturing to deploy them on the factory floor. [ Toyota Research Institute ] Thanks, Erin! This is just one story (of many) about how we tried, failed, and learned how to improve ‪d",
+      "summary_fr": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. ICRA 2026: 1–5 June 2026, VIENNA Enjoy today’s videos! To train the next generation of autonomous robots, scientists at Toyota Research Institute are working with Toyota Manufacturing to deploy them on the factory floor. [ Toyota Research Institute ] Thanks, Erin! This is just one story (of many) about how we tried, failed, and learned how to improve ‪d",
+      "resume_fr": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. ICRA 2026: 1–5 June 2026, VIENNA Enjoy today’s videos! To train the next generation of autonomous robots, scientists at Toyota Research Institute are working with Toyota Manufacturing to deploy them on the factory floor. [ Toyota Research Institute ] Thanks, Erin! This is just one story (of many) about how we tried, failed, and learned how to improve ‪d",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=63907821&width=1200&height=600&coordinates=0%2C110%2C0%2C110"
+    },
+    {
+      "title": "Identifying spatial single-cell-level interactions with graph transformer",
+      "url": "https://www.nature.com/articles/s42256-026-01191-2",
+      "source": "Nature Machine Intelligence",
+      "published": "2026-02-06T00:00:00.000Z",
+      "score": 85,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=0.",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-026-01191-2/MediaObjects/42256_2026_1191_Fig1_HTML.png"
+    },
     {
       "title": "Can vision language models learn intuitive physics from interaction?",
       "url": "https://arxiv.org/abs/2602.06033v1",
@@ -1187,44 +1225,6 @@
       "summary_en": "The rise of Large Language Models (LLMs) has enabled a new paradigm for bridging authorial intent and player agency in interactive narrative. We consider this paradigm through the example of Dramamancer, a system that uses an LLM to transform author-created story schemas into player-driven playthroughs. This extended abstract outlines some design techniques and evaluation considerations associated with this system.",
       "summary_fr": "The rise of Large Language Models (LLMs) has enabled a new paradigm for bridging authorial intent and player agency in interactive narrative. We consider this paradigm through the example of Dramamancer, a system that uses an LLM to transform author-created story schemas into player-driven playthroughs. This extended abstract outlines some design techniques and evaluation considerations associated with this system.",
       "resume_fr": "The rise of Large Language Models (LLMs) has enabled a new paradigm for bridging authorial intent and player agency in interactive narrative. We consider this paradigm through the example of Dramamancer, a system that uses an LLM to transform author-created story schemas into player-driven playthroughs. This extended abstract outlines some design techniques and evaluation considerations associated with this system.",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Multi-Objective Reinforcement Learning for Efficient Tactical Decision Making for Trucks in Highway Traffic",
-      "url": "https://arxiv.org/abs/2601.18783v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-01-26T18:50:21.000Z",
-      "score": 70,
-      "summary_en": "Balancing safety, efficiency, and operational costs in highway driving poses a challenging decision-making problem for heavy-duty vehicles. A central difficulty is that conventional scalar reward formulations, obtained by aggregating these competing objectives, often obscure the structure of their trade-offs. We present a Proximal Policy Optimization based multi-objective reinforcement learning framework that learns a continuous set of policies explicitly representing these trade-offs and evaluates it on a scalable simulation platform for tactical decision making in trucks. The proposed approa",
-      "summary_fr": "Balancing safety, efficiency, and operational costs in highway driving poses a challenging decision-making problem for heavy-duty vehicles. A central difficulty is that conventional scalar reward formulations, obtained by aggregating these competing objectives, often obscure the structure of their trade-offs. We present a Proximal Policy Optimization based multi-objective reinforcement learning framework that learns a continuous set of policies explicitly representing these trade-offs and evaluates it on a scalable simulation platform for tactical decision making in trucks. The proposed approa",
-      "resume_fr": "Balancing safety, efficiency, and operational costs in highway driving poses a challenging decision-making problem for heavy-duty vehicles. A central difficulty is that conventional scalar reward formulations, obtained by aggregating these competing objectives, often obscure the structure of their trade-offs. We present a Proximal Policy Optimization based multi-objective reinforcement learning framework that learns a continuous set of policies explicitly representing these trade-offs and evaluates it on a scalable simulation platform for tactical decision making in trucks. The proposed approa",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "POPE: Learning to Reason on Hard Problems via Privileged On-Policy Exploration",
-      "url": "https://arxiv.org/abs/2601.18779v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-01-26T18:47:21.000Z",
-      "score": 70,
-      "summary_en": "Reinforcement learning (RL) has improved the reasoning abilities of large language models (LLMs), yet state-of-the-art methods still fail to learn on many training problems. On hard problems, on-policy RL rarely explores even a single correct rollout, yielding zero reward and no learning signal for driving improvement. We find that natural solutions to remedy this exploration problem from classical RL, such as entropy bonuses, more permissive clipping of the importance ratio, or direct optimization of pass@k objectives, do not resolve this issue and often destabilize optimization without impro",
-      "summary_fr": "Reinforcement learning (RL) has improved the reasoning abilities of large language models (LLMs), yet state-of-the-art methods still fail to learn on many training problems. On hard problems, on-policy RL rarely explores even a single correct rollout, yielding zero reward and no learning signal for driving improvement. We find that natural solutions to remedy this exploration problem from classical RL, such as entropy bonuses, more permissive clipping of the importance ratio, or direct optimization of pass@k objectives, do not resolve this issue and often destabilize optimization without impro",
-      "resume_fr": "Reinforcement learning (RL) has improved the reasoning abilities of large language models (LLMs), yet state-of-the-art methods still fail to learn on many training problems. On hard problems, on-policy RL rarely explores even a single correct rollout, yielding zero reward and no learning signal for driving improvement. We find that natural solutions to remedy this exploration problem from classical RL, such as entropy bonuses, more permissive clipping of the importance ratio, or direct optimization of pass@k objectives, do not resolve this issue and often destabilize optimization without impro",
       "tags": [],
       "breakdown": {
         "research": 35,
