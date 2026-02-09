@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-08T07:05:18.937Z",
+  "generatedAt": "2026-02-09T07:20:00.258Z",
   "model": "gpt-5",
   "profile": "balanced",
   "threshold": 65,
@@ -96,6 +96,82 @@
   },
   "items": [
     {
+      "title": "Learning a Generative Meta-Model of LLM Activations",
+      "url": "https://arxiv.org/abs/2602.06964v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-02-06T18:59:56.000Z",
+      "score": 70,
+      "summary_en": "Existing approaches for analyzing neural network activations, such as PCA and sparse autoencoders, rely on strong structural assumptions. Generative models offer an alternative: they can uncover structure without such assumptions and act as priors that improve intervention fidelity. We explore this direction by training diffusion models on one billion residual stream activations, creating \"meta-models\" that learn the distribution of a network's internal states. We find that diffusion loss decreases smoothly with compute and reliably predicts downstream utility. In particular, applying the meta",
+      "summary_fr": "Existing approaches for analyzing neural network activations, such as PCA and sparse autoencoders, rely on strong structural assumptions. Generative models offer an alternative: they can uncover structure without such assumptions and act as priors that improve intervention fidelity. We explore this direction by training diffusion models on one billion residual stream activations, creating \"meta-models\" that learn the distribution of a network's internal states. We find that diffusion loss decreases smoothly with compute and reliably predicts downstream utility. In particular, applying the meta",
+      "resume_fr": "Existing approaches for analyzing neural network activations, such as PCA and sparse autoencoders, rely on strong structural assumptions. Generative models offer an alternative: they can uncover structure without such assumptions and act as priors that improve intervention fidelity. We explore this direction by training diffusion models on one billion residual stream activations, creating \"meta-models\" that learn the distribution of a network's internal states. We find that diffusion loss decreases smoothly with compute and reliably predicts downstream utility. In particular, applying the meta",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Optimal Derivative Feedback Control for an Active Magnetic Levitation System: An Experimental Study on Data-Driven Approaches",
+      "url": "https://arxiv.org/abs/2602.06944v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-02-06T18:42:01.000Z",
+      "score": 70,
+      "summary_en": "This paper presents the design and implementation of data-driven optimal derivative feedback controllers for an active magnetic levitation system. A direct, model-free control design method based on the reinforcement learning framework is compared with an indirect optimal control design derived from a numerically identified mathematical model of the system. For the direct model-free approach, a policy iteration procedure is proposed, which adds an iteration layer called the epoch loop to gather multiple sets of process data, providing a more diverse dataset and helping reduce learning biases. ",
+      "summary_fr": "This paper presents the design and implementation of data-driven optimal derivative feedback controllers for an active magnetic levitation system. A direct, model-free control design method based on the reinforcement learning framework is compared with an indirect optimal control design derived from a numerically identified mathematical model of the system. For the direct model-free approach, a policy iteration procedure is proposed, which adds an iteration layer called the epoch loop to gather multiple sets of process data, providing a more diverse dataset and helping reduce learning biases. ",
+      "resume_fr": "This paper presents the design and implementation of data-driven optimal derivative feedback controllers for an active magnetic levitation system. A direct, model-free control design method based on the reinforcement learning framework is compared with an indirect optimal control design derived from a numerically identified mathematical model of the system. For the direct model-free approach, a policy iteration procedure is proposed, which adds an iteration layer called the epoch loop to gather multiple sets of process data, providing a more diverse dataset and helping reduce learning biases. ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Optimal Turkish Subword Strategies at Scale: Systematic Evaluation of Data, Vocabulary, Morphology Interplay",
+      "url": "https://arxiv.org/abs/2602.06942v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-02-06T18:41:14.000Z",
+      "score": 50,
+      "summary_en": "Tokenization is a pivotal design choice for neural language modeling in morphologically rich languages (MRLs) such as Turkish, where productive agglutination challenges both vocabulary efficiency and morphological fidelity. Prior studies have explored tokenizer families and vocabulary sizes but typically (i) vary vocabulary without systematically controlling the tokenizer's training corpus, (ii) provide limited intrinsic diagnostics, and (iii) evaluate a narrow slice of downstream tasks. We present the first comprehensive, principled study of Turkish subword tokenization; a \"subwords manifest\"",
+      "summary_fr": "Tokenization is a pivotal design choice for neural language modeling in morphologically rich languages (MRLs) such as Turkish, where productive agglutination challenges both vocabulary efficiency and morphological fidelity. Prior studies have explored tokenizer families and vocabulary sizes but typically (i) vary vocabulary without systematically controlling the tokenizer's training corpus, (ii) provide limited intrinsic diagnostics, and (iii) evaluate a narrow slice of downstream tasks. We present the first comprehensive, principled study of Turkish subword tokenization; a \"subwords manifest\"",
+      "resume_fr": "Tokenization is a pivotal design choice for neural language modeling in morphologically rich languages (MRLs) such as Turkish, where productive agglutination challenges both vocabulary efficiency and morphological fidelity. Prior studies have explored tokenizer families and vocabulary sizes but typically (i) vary vocabulary without systematically controlling the tokenizer's training corpus, (ii) provide limited intrinsic diagnostics, and (iii) evaluate a narrow slice of downstream tasks. We present the first comprehensive, principled study of Turkish subword tokenization; a \"subwords manifest\"",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Endogenous Resistance to Activation Steering in Language Models",
+      "url": "https://arxiv.org/abs/2602.06941v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-02-06T18:41:12.000Z",
+      "score": 70,
+      "summary_en": "Large language models can resist task-misaligned activation steering during inference, sometimes recovering mid-generation to produce improved responses even when steering remains active. We term this Endogenous Steering Resistance (ESR). Using sparse autoencoder (SAE) latents to steer model activations, we find that Llama-3.3-70B shows substantial ESR, while smaller models from the Llama-3 and Gemma-2 families exhibit the phenomenon less frequently. We identify 26 SAE latents that activate differentially during off-topic content and are causally linked to ESR in Llama-3.3-70B. Zero-ablating t",
+      "summary_fr": "Large language models can resist task-misaligned activation steering during inference, sometimes recovering mid-generation to produce improved responses even when steering remains active. We term this Endogenous Steering Resistance (ESR). Using sparse autoencoder (SAE) latents to steer model activations, we find that Llama-3.3-70B shows substantial ESR, while smaller models from the Llama-3 and Gemma-2 families exhibit the phenomenon less frequently. We identify 26 SAE latents that activate differentially during off-topic content and are causally linked to ESR in Llama-3.3-70B. Zero-ablating t",
+      "resume_fr": "Large language models can resist task-misaligned activation steering during inference, sometimes recovering mid-generation to produce improved responses even when steering remains active. We term this Endogenous Steering Resistance (ESR). Using sparse autoencoder (SAE) latents to steer model activations, we find that Llama-3.3-70B shows substantial ESR, while smaller models from the Llama-3 and Gemma-2 families exhibit the phenomenon less frequently. We identify 26 SAE latents that activate differentially during off-topic content and are causally linked to ESR in Llama-3.3-70B. Zero-ablating t",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
       "title": "Video Friday: Autonomous Robots Learn By Doing in This Factory",
       "url": "https://spectrum.ieee.org/autonomous-warehouse-robots",
       "source": "IEEE Spectrum – AI",
@@ -113,6 +189,25 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
       "image": "https://spectrum.ieee.org/media-library/image.png?id=63907821&width=1200&height=600&coordinates=0%2C110%2C0%2C110"
+    },
+    {
+      "title": "ClassAid: A Real-time Instructor-AI-Student Orchestration System for Classroom Programming Activities",
+      "url": "https://arxiv.org/abs/2602.06734v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-02-06T14:29:32.000Z",
+      "score": 100,
+      "summary_en": "Generative AI is reshaping education, but it also raises concerns about instability and overreliance. In programming classrooms, we aim to leverage its feedback capabilities while reinforcing the educator's role in guiding student-AI interactions. We developed ClassAid, a real-time orchestration system that integrates TA Agents to provide personalized support and an AI-driven dashboard that visualizes student-AI interactions, enabling instructors to dynamically adjust TA Agent modes. Instructors can configure the Agent to provide technical feedback (direct coding solutions), heuristic feedback",
+      "summary_fr": "Generative AI is reshaping education, but it also raises concerns about instability and overreliance. In programming classrooms, we aim to leverage its feedback capabilities while reinforcing the educator's role in guiding student-AI interactions. We developed ClassAid, a real-time orchestration system that integrates TA Agents to provide personalized support and an AI-driven dashboard that visualizes student-AI interactions, enabling instructors to dynamically adjust TA Agent modes. Instructors can configure the Agent to provide technical feedback (direct coding solutions), heuristic feedback",
+      "resume_fr": "Generative AI is reshaping education, but it also raises concerns about instability and overreliance. In programming classrooms, we aim to leverage its feedback capabilities while reinforcing the educator's role in guiding student-AI interactions. We developed ClassAid, a real-time orchestration system that integrates TA Agents to provide personalized support and an AI-driven dashboard that visualizes student-AI interactions, enabling instructors to dynamically adjust TA Agent modes. Instructors can configure the Agent to provide technical feedback (direct coding solutions), heuristic feedback",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
     },
     {
       "title": "Identifying spatial single-cell-level interactions with graph transformer",
@@ -1130,101 +1225,6 @@
       "summary_en": "Neural scaling laws predict how language model performance improves with increased compute. While aggregate metrics like validation loss can follow smooth power-law curves, individual downstream tasks exhibit diverse scaling behaviors: some improve monotonically, others plateau, and some even degrade with scale. We argue that predicting downstream performance from validation perplexity suffers from two limitations: averaging token-level losses obscures signal, and no simple parametric family can capture the full spectrum of scaling behaviors. To address this, we propose Neural Neural Scaling L",
       "summary_fr": "Neural scaling laws predict how language model performance improves with increased compute. While aggregate metrics like validation loss can follow smooth power-law curves, individual downstream tasks exhibit diverse scaling behaviors: some improve monotonically, others plateau, and some even degrade with scale. We argue that predicting downstream performance from validation perplexity suffers from two limitations: averaging token-level losses obscures signal, and no simple parametric family can capture the full spectrum of scaling behaviors. To address this, we propose Neural Neural Scaling L",
       "resume_fr": "Neural scaling laws predict how language model performance improves with increased compute. While aggregate metrics like validation loss can follow smooth power-law curves, individual downstream tasks exhibit diverse scaling behaviors: some improve monotonically, others plateau, and some even degrade with scale. We argue that predicting downstream performance from validation perplexity suffers from two limitations: averaging token-level losses obscures signal, and no simple parametric family can capture the full spectrum of scaling behaviors. To address this, we propose Neural Neural Scaling L",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Voice-Based Chatbots for English Speaking Practice in Multilingual Low-Resource Indian Schools: A Multi-Stakeholder Study",
-      "url": "https://arxiv.org/abs/2601.19304v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-01-27T07:44:52.000Z",
-      "score": 85,
-      "summary_en": "Spoken English proficiency is a powerful driver of economic mobility for low-income Indian youth, yet opportunities for spoken practice remain scarce in schools. We investigate the deployment of a voice-based chatbot for English conversation practice across four low-resource schools in Delhi. Through a six-day field study combining observations and interviews, we captured the perspectives of students, teachers, and principals. Findings confirm high demand across all groups, with notable gains in student speaking confidence. Our multi-stakeholder analysis surfaced a tension in long-term adoptio",
-      "summary_fr": "Spoken English proficiency is a powerful driver of economic mobility for low-income Indian youth, yet opportunities for spoken practice remain scarce in schools. We investigate the deployment of a voice-based chatbot for English conversation practice across four low-resource schools in Delhi. Through a six-day field study combining observations and interviews, we captured the perspectives of students, teachers, and principals. Findings confirm high demand across all groups, with notable gains in student speaking confidence. Our multi-stakeholder analysis surfaced a tension in long-term adoptio",
-      "resume_fr": "Spoken English proficiency is a powerful driver of economic mobility for low-income Indian youth, yet opportunities for spoken practice remain scarce in schools. We investigate the deployment of a voice-based chatbot for English conversation practice across four low-resource schools in Delhi. Through a six-day field study combining observations and interviews, we captured the perspectives of students, teachers, and principals. Findings confirm high demand across all groups, with notable gains in student speaking confidence. Our multi-stakeholder analysis surfaced a tension in long-term adoptio",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "XR Design Framework for Early Childhood Education",
-      "url": "https://arxiv.org/abs/2601.18979v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-01-26T21:32:35.000Z",
-      "score": 85,
-      "summary_en": "Extended Reality in early childhood education presents high-risk challenges due to children's rapid developmental changes. While augmented and virtual reality offer immersive pedagogical benefits, they often impose excessive cognitive load or sensory conflict. We introduce the Augmented Human Development (AHD) framework to model these interactions through cognitive, sensory, environmental, and developmental parameters. To ground this framework, we conducted a Systematization of Knowledge (SoK) of 111 peer-reviewed studies involving children aged 3 - 8. Our findings, interpreted through the AHD",
-      "summary_fr": "Extended Reality in early childhood education presents high-risk challenges due to children's rapid developmental changes. While augmented and virtual reality offer immersive pedagogical benefits, they often impose excessive cognitive load or sensory conflict. We introduce the Augmented Human Development (AHD) framework to model these interactions through cognitive, sensory, environmental, and developmental parameters. To ground this framework, we conducted a Systematization of Knowledge (SoK) of 111 peer-reviewed studies involving children aged 3 - 8. Our findings, interpreted through the AHD",
-      "resume_fr": "Extended Reality in early childhood education presents high-risk challenges due to children's rapid developmental changes. While augmented and virtual reality offer immersive pedagogical benefits, they often impose excessive cognitive load or sensory conflict. We introduce the Augmented Human Development (AHD) framework to model these interactions through cognitive, sensory, environmental, and developmental parameters. To ground this framework, we conducted a Systematization of Knowledge (SoK) of 111 peer-reviewed studies involving children aged 3 - 8. Our findings, interpreted through the AHD",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "IEEE Brings Hands-On STEM Activities to India’s Rural Areas",
-      "url": "https://spectrum.ieee.org/ieee-stem-activities-rural-india",
-      "source": "IEEE Spectrum – AI",
-      "published": "2026-01-26T19:00:03.000Z",
-      "score": 85,
-      "summary_en": "“Until we get equality in education, we won’t have an equal society.” Spoken by Sonia Sotomayor, associate justice of the U.S. Supreme Court, the words echo sharply across regions of the world where education is not guaranteed. In the far northeastern corner of India—where villages are located in forests, on mountains, and along riverbanks—rural classrooms often operate with limited resources and even fewer opportunities. In districts such as Dhemaji, Assam, and the rural areas of Kharagpur and West Bengal, learning STEM often is just a distant dream. I grew up in rural areas, and I saw how cu",
-      "summary_fr": "“Until we get equality in education, we won’t have an equal society.” Spoken by Sonia Sotomayor, associate justice of the U.S. Supreme Court, the words echo sharply across regions of the world where education is not guaranteed. In the far northeastern corner of India—where villages are located in forests, on mountains, and along riverbanks—rural classrooms often operate with limited resources and even fewer opportunities. In districts such as Dhemaji, Assam, and the rural areas of Kharagpur and West Bengal, learning STEM often is just a distant dream. I grew up in rural areas, and I saw how cu",
-      "resume_fr": "“Until we get equality in education, we won’t have an equal society.” Spoken by Sonia Sotomayor, associate justice of the U.S. Supreme Court, the words echo sharply across regions of the world where education is not guaranteed. In the far northeastern corner of India—where villages are located in forests, on mountains, and along riverbanks—rural classrooms often operate with limited resources and even fewer opportunities. In districts such as Dhemaji, Assam, and the rural areas of Kharagpur and West Bengal, learning STEM often is just a distant dream. I grew up in rural areas, and I saw how cu",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=0.",
-      "image": "https://spectrum.ieee.org/media-library/group-of-higher-secondary-school-students-in-india-holding-up-an-ieee-banner-inside-their-classroom.jpg?id=63278514&width=1200&height=600&coordinates=0%2C98%2C0%2C99"
-    },
-    {
-      "title": "Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes",
-      "url": "https://arxiv.org/abs/2601.18795v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-01-26T18:57:00.000Z",
-      "score": 70,
-      "summary_en": "Typical reinforcement learning (RL) methods for LLM reasoning waste compute on hard problems, where correct on-policy traces are rare, policy gradients vanish, and learning stalls. To bootstrap more efficient RL, we consider reusing old sampling FLOPs (from prior inference or RL training) in the form of off-policy traces. Standard off-policy methods supervise against off-policy data, causing instabilities during RL optimization. We introduce PrefixRL, where we condition on the prefix of successful off-policy traces and run on-policy RL to complete them, side-stepping off-policy instabilities. ",
-      "summary_fr": "Typical reinforcement learning (RL) methods for LLM reasoning waste compute on hard problems, where correct on-policy traces are rare, policy gradients vanish, and learning stalls. To bootstrap more efficient RL, we consider reusing old sampling FLOPs (from prior inference or RL training) in the form of off-policy traces. Standard off-policy methods supervise against off-policy data, causing instabilities during RL optimization. We introduce PrefixRL, where we condition on the prefix of successful off-policy traces and run on-policy RL to complete them, side-stepping off-policy instabilities. ",
-      "resume_fr": "Typical reinforcement learning (RL) methods for LLM reasoning waste compute on hard problems, where correct on-policy traces are rare, policy gradients vanish, and learning stalls. To bootstrap more efficient RL, we consider reusing old sampling FLOPs (from prior inference or RL training) in the form of off-policy traces. Standard off-policy methods supervise against off-policy data, causing instabilities during RL optimization. We introduce PrefixRL, where we condition on the prefix of successful off-policy traces and run on-policy RL to complete them, side-stepping off-policy instabilities. ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Design Techniques for LLM-Powered Interactive Storytelling: A Case Study of the Dramamancer System",
-      "url": "https://arxiv.org/abs/2601.18785v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-01-26T18:51:20.000Z",
-      "score": 70,
-      "summary_en": "The rise of Large Language Models (LLMs) has enabled a new paradigm for bridging authorial intent and player agency in interactive narrative. We consider this paradigm through the example of Dramamancer, a system that uses an LLM to transform author-created story schemas into player-driven playthroughs. This extended abstract outlines some design techniques and evaluation considerations associated with this system.",
-      "summary_fr": "The rise of Large Language Models (LLMs) has enabled a new paradigm for bridging authorial intent and player agency in interactive narrative. We consider this paradigm through the example of Dramamancer, a system that uses an LLM to transform author-created story schemas into player-driven playthroughs. This extended abstract outlines some design techniques and evaluation considerations associated with this system.",
-      "resume_fr": "The rise of Large Language Models (LLMs) has enabled a new paradigm for bridging authorial intent and player agency in interactive narrative. We consider this paradigm through the example of Dramamancer, a system that uses an LLM to transform author-created story schemas into player-driven playthroughs. This extended abstract outlines some design techniques and evaluation considerations associated with this system.",
       "tags": [],
       "breakdown": {
         "research": 35,
