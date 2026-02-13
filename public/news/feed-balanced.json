@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-12T07:16:33.121Z",
+  "generatedAt": "2026-02-13T07:13:48.152Z",
   "model": "gpt-5",
   "profile": "balanced",
   "threshold": 65,
@@ -96,6 +96,139 @@
   },
   "items": [
     {
+      "title": "On-Policy Context Distillation for Language Models",
+      "url": "https://arxiv.org/abs/2602.12275v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-02-12T18:58:28.000Z",
+      "score": 70,
+      "summary_en": "Context distillation enables language models to internalize in-context knowledge into their parameters. In our work, we propose On-Policy Context Distillation (OPCD), a framework that bridges on-policy distillation with context distillation by training a student model on its own generated trajectories while minimizing reverse Kullback-Leibler divergence against a context-conditioned teacher. We demonstrate the effectiveness of OPCD on two important applications: experiential knowledge distillation, where models extract and consolidate transferable knowledge from their historical solution trace",
+      "summary_fr": "Context distillation enables language models to internalize in-context knowledge into their parameters. In our work, we propose On-Policy Context Distillation (OPCD), a framework that bridges on-policy distillation with context distillation by training a student model on its own generated trajectories while minimizing reverse Kullback-Leibler divergence against a context-conditioned teacher. We demonstrate the effectiveness of OPCD on two important applications: experiential knowledge distillation, where models extract and consolidate transferable knowledge from their historical solution trace",
+      "resume_fr": "Context distillation enables language models to internalize in-context knowledge into their parameters. In our work, we propose On-Policy Context Distillation (OPCD), a framework that bridges on-policy distillation with context distillation by training a student model on its own generated trajectories while minimizing reverse Kullback-Leibler divergence against a context-conditioned teacher. We demonstrate the effectiveness of OPCD on two important applications: experiential knowledge distillation, where models extract and consolidate transferable knowledge from their historical solution trace",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Olmix: A Framework for Data Mixing Throughout LM Development",
+      "url": "https://arxiv.org/abs/2602.12237v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-02-12T18:16:05.000Z",
+      "score": 70,
+      "summary_en": "Data mixing -- determining the ratios of data from different domains -- is a first-order concern for training language models (LMs). While existing mixing methods show promise, they fall short when applied during real-world LM development. We present Olmix, a framework that addresses two such challenges. First, the configuration space for developing a mixing method is not well understood -- design choices across existing methods lack justification or consensus and overlook practical issues like data constraints. We conduct a comprehensive empirical study of this space, identifying which design",
+      "summary_fr": "Data mixing -- determining the ratios of data from different domains -- is a first-order concern for training language models (LMs). While existing mixing methods show promise, they fall short when applied during real-world LM development. We present Olmix, a framework that addresses two such challenges. First, the configuration space for developing a mixing method is not well understood -- design choices across existing methods lack justification or consensus and overlook practical issues like data constraints. We conduct a comprehensive empirical study of this space, identifying which design",
+      "resume_fr": "Data mixing -- determining the ratios of data from different domains -- is a first-order concern for training language models (LMs). While existing mixing methods show promise, they fall short when applied during real-world LM development. We present Olmix, a framework that addresses two such challenges. First, the configuration space for developing a mixing method is not well understood -- design choices across existing methods lack justification or consensus and overlook practical issues like data constraints. We conduct a comprehensive empirical study of this space, identifying which design",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Commencing-Student Enrolment Forecasting Under Data Sparsity with Time Series Foundation Models",
+      "url": "https://arxiv.org/abs/2602.12120v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-02-12T16:10:42.000Z",
+      "score": 65,
+      "summary_en": "Many universities face increasing financial pressure and rely on accurate forecasts of commencing enrolments. However, enrolment forecasting in higher education is often data-sparse; annual series are short and affected by reporting changes and regime shifts. Popular classical approaches can be unreliable, as parameter estimation and model selection are unstable with short samples, and structural breaks degrade extrapolation. Recently, TSFMs have provided zero-shot priors, delivering strong gains in annual, data-sparse institutional forecasting under leakage-disciplined covariate construction.",
+      "summary_fr": "Many universities face increasing financial pressure and rely on accurate forecasts of commencing enrolments. However, enrolment forecasting in higher education is often data-sparse; annual series are short and affected by reporting changes and regime shifts. Popular classical approaches can be unreliable, as parameter estimation and model selection are unstable with short samples, and structural breaks degrade extrapolation. Recently, TSFMs have provided zero-shot priors, delivering strong gains in annual, data-sparse institutional forecasting under leakage-disciplined covariate construction.",
+      "resume_fr": "Many universities face increasing financial pressure and rely on accurate forecasts of commencing enrolments. However, enrolment forecasting in higher education is often data-sparse; annual series are short and affected by reporting changes and regime shifts. Popular classical approaches can be unreliable, as parameter estimation and model selection are unstable with short samples, and structural breaks degrade extrapolation. Recently, TSFMs have provided zero-shot priors, delivering strong gains in annual, data-sparse institutional forecasting under leakage-disciplined covariate construction.",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "CSEval: A Framework for Evaluating Clinical Semantics in Text-to-Image Generation",
+      "url": "https://arxiv.org/abs/2602.12004v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-02-12T14:35:31.000Z",
+      "score": 85,
+      "summary_en": "Text-to-image generation has been increasingly applied in medical domains for various purposes such as data augmentation and education. Evaluating the quality and clinical reliability of these generated images is essential. However, existing methods mainly assess image realism or diversity, while failing to capture whether the generated images reflect the intended clinical semantics, such as anatomical location and pathology. In this study, we propose the Clinical Semantics Evaluator (CSEval), a framework that leverages language models to assess clinical semantic alignment between the generate",
+      "summary_fr": "Text-to-image generation has been increasingly applied in medical domains for various purposes such as data augmentation and education. Evaluating the quality and clinical reliability of these generated images is essential. However, existing methods mainly assess image realism or diversity, while failing to capture whether the generated images reflect the intended clinical semantics, such as anatomical location and pathology. In this study, we propose the Clinical Semantics Evaluator (CSEval), a framework that leverages language models to assess clinical semantic alignment between the generate",
+      "resume_fr": "Text-to-image generation has been increasingly applied in medical domains for various purposes such as data augmentation and education. Evaluating the quality and clinical reliability of these generated images is essential. However, existing methods mainly assess image realism or diversity, while failing to capture whether the generated images reflect the intended clinical semantics, such as anatomical location and pathology. In this study, we propose the Clinical Semantics Evaluator (CSEval), a framework that leverages language models to assess clinical semantic alignment between the generate",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "How partnerships between youth activists and politicians are improving prospects for Brazil’s youngest learners",
+      "url": "https://world-education-blog.org/2026/02/12/how-partnerships-between-youth-activists-and-politicians-are-improving-prospects-for-brazils-youngest-learners/",
+      "source": "UNESCO GEM – World Education Blog",
+      "published": "2026-02-12T13:55:19.000Z",
+      "score": 65,
+      "summary_en": "By João Davi de Morais Barbosa Saraiva, Theirworld Global Youth Ambassador and undergraduate student; José Salmito Filho, State Representative, Ceará, Brazil; and Vilma Freire, State Secretary of the Environment and Climate Change, Ceará, Brazil. Our home state, Ceará, has taken a big step forward for its youngest citizens, recently announcing the construction of 30 new […] The post How partnerships between youth activists and politicians are improving prospects for Brazil’s youngest learners appeared first on World Education Blog.",
+      "summary_fr": "By João Davi de Morais Barbosa Saraiva, Theirworld Global Youth Ambassador and undergraduate student; José Salmito Filho, State Representative, Ceará, Brazil; and Vilma Freire, State Secretary of the Environment and Climate Change, Ceará, Brazil. Our home state, Ceará, has taken a big step forward for its youngest citizens, recently announcing the construction of 30 new […] The post How partnerships between youth activists and politicians are improving prospects for Brazil’s youngest learners appeared first on World Education Blog.",
+      "resume_fr": "By João Davi de Morais Barbosa Saraiva, Theirworld Global Youth Ambassador and undergraduate student; José Salmito Filho, State Representative, Ceará, Brazil; and Vilma Freire, State Secretary of the Environment and Climate Change, Ceará, Brazil. Our home state, Ceará, has taken a big step forward for its youngest citizens, recently announcing the construction of 30 new […] The post How partnerships between youth activists and politicians are improving prospects for Brazil’s youngest learners appeared first on World Education Blog.",
+      "tags": [],
+      "breakdown": {
+        "research": 0,
+        "policy": 35,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=15, Impact=15.",
+      "image": "https://world-education-blog.org/wp-content/uploads/2026/02/Picture1.jpg"
+    },
+    {
+      "title": "Understanding Persuasive Interactions between Generative Social Agents and Humans: The Knowledge-based Persuasion Model (KPM)",
+      "url": "https://arxiv.org/abs/2602.11483v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-02-12T01:53:28.000Z",
+      "score": 85,
+      "summary_en": "Generative social agents (GSAs) use artificial intelligence to autonomously communicate with human users in a natural and adaptive manner. Currently, there is a lack of theorizing regarding interactions with GSAs, and likewise, few guidelines exist for studying how they influence user attitudes and behaviors. Consequently, we propose the Knowledge-based Persuasion Model (KPM) as a novel theoretical framework. According to the KPM, a GSA's self, user, and context-related knowledge drives its persuasive behavior, which in turn shapes the attitudes and behaviors of a responding human user. By syn",
+      "summary_fr": "Generative social agents (GSAs) use artificial intelligence to autonomously communicate with human users in a natural and adaptive manner. Currently, there is a lack of theorizing regarding interactions with GSAs, and likewise, few guidelines exist for studying how they influence user attitudes and behaviors. Consequently, we propose the Knowledge-based Persuasion Model (KPM) as a novel theoretical framework. According to the KPM, a GSA's self, user, and context-related knowledge drives its persuasive behavior, which in turn shapes the attitudes and behaviors of a responding human user. By syn",
+      "resume_fr": "Generative social agents (GSAs) use artificial intelligence to autonomously communicate with human users in a natural and adaptive manner. Currently, there is a lack of theorizing regarding interactions with GSAs, and likewise, few guidelines exist for studying how they influence user attitudes and behaviors. Consequently, we propose the Knowledge-based Persuasion Model (KPM) as a novel theoretical framework. According to the KPM, a GSA's self, user, and context-related knowledge drives its persuasive behavior, which in turn shapes the attitudes and behaviors of a responding human user. By syn",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Reusability Report: Evaluating the performance of a meta-learning foundation model on predicting the antibacterial activity of natural products",
+      "url": "https://www.nature.com/articles/s42256-026-01187-y",
+      "source": "Nature Machine Intelligence",
+      "published": "2026-02-12T00:00:00.000Z",
+      "score": 70,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-026-01187-y/MediaObjects/42256_2026_1187_Fig1_HTML.png"
+    },
+    {
       "title": "SCRAPL: Scattering Transform with Random Paths for Machine Learning",
       "url": "https://arxiv.org/abs/2602.11145v1",
       "source": "arXiv – cs.LG + learning analytics",
@@ -112,6 +245,25 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "How to check in continually over 4,000 days on an online learning platform? An empirical experience and a practical solution",
+      "url": "https://arxiv.org/abs/2602.11249v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-02-11T18:18:08.000Z",
+      "score": 85,
+      "summary_en": "The check-in service is often provided as an incentive system by online learning platforms to help users establish a learning routine and achieve accomplishment. However, according to the questionnaire conducted in this study, 82.5% of users of online English learning platforms that feature a check-in service have failed to maintain the daily check-in behavior for long-term language learning, mainly by reason of demotivation, forgetfulness, boredom, and insufficient time. As a language learner, I have an empirical experience in maintaining a record of over 4,000 daily check-ins on China's lead",
+      "summary_fr": "The check-in service is often provided as an incentive system by online learning platforms to help users establish a learning routine and achieve accomplishment. However, according to the questionnaire conducted in this study, 82.5% of users of online English learning platforms that feature a check-in service have failed to maintain the daily check-in behavior for long-term language learning, mainly by reason of demotivation, forgetfulness, boredom, and insufficient time. As a language learner, I have an empirical experience in maintaining a record of over 4,000 daily check-ins on China's lead",
+      "resume_fr": "The check-in service is often provided as an incentive system by online learning platforms to help users establish a learning routine and achieve accomplishment. However, according to the questionnaire conducted in this study, 82.5% of users of online English learning platforms that feature a check-in service have failed to maintain the daily check-in behavior for long-term language learning, mainly by reason of demotivation, forgetfulness, boredom, and insufficient time. As a language learner, I have an empirical experience in maintaining a record of over 4,000 daily check-ins on China's lead",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
     },
     {
@@ -1081,158 +1233,6 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "DrawSim-PD: Simulating Student Science Drawings to Support NGSS-Aligned Teacher Diagnostic Reasoning",
-      "url": "https://arxiv.org/abs/2602.01578v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-02-02T03:15:51.000Z",
-      "score": 50,
-      "summary_en": "Developing expertise in diagnostic reasoning requires practice with diverse student artifacts, yet privacy regulations prohibit sharing authentic student work for teacher professional development (PD) at scale. We present DrawSim-PD, the first generative framework that simulates NGSS-aligned, student-like science drawings exhibiting controllable pedagogical imperfections to support teacher training. Central to our approach are apability profiles--structured cognitive states encoding what students at each performance level can and cannot yet demonstrate. These profiles ensure cross-modal cohere",
-      "summary_fr": "Developing expertise in diagnostic reasoning requires practice with diverse student artifacts, yet privacy regulations prohibit sharing authentic student work for teacher professional development (PD) at scale. We present DrawSim-PD, the first generative framework that simulates NGSS-aligned, student-like science drawings exhibiting controllable pedagogical imperfections to support teacher training. Central to our approach are apability profiles--structured cognitive states encoding what students at each performance level can and cannot yet demonstrate. These profiles ensure cross-modal cohere",
-      "resume_fr": "Developing expertise in diagnostic reasoning requires practice with diverse student artifacts, yet privacy regulations prohibit sharing authentic student work for teacher professional development (PD) at scale. We present DrawSim-PD, the first generative framework that simulates NGSS-aligned, student-like science drawings exhibiting controllable pedagogical imperfections to support teacher training. Central to our approach are apability profiles--structured cognitive states encoding what students at each performance level can and cannot yet demonstrate. These profiles ensure cross-modal cohere",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Are Security Cues Static? Rethinking Warning and Trust Indicators for Life Transitions",
-      "url": "https://arxiv.org/abs/2602.01544v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-02-02T02:22:28.000Z",
-      "score": 50,
-      "summary_en": "Security cues, such as warnings and trust signals, are designed as stable interface elements, even though people's lives, contexts, and vulnerabilities change over time. Life transitions including migration, aging, or shifts in institutional environments reshape how risk and trust are understood and acted upon. Yet current systems rarely adapt their security cues to these changing conditions, placing the burden of interpretation on users. In this Works-in-Progress paper, we argue that the static nature of security cues represents a design mismatch with transitional human lives. We draw on prio",
-      "summary_fr": "Security cues, such as warnings and trust signals, are designed as stable interface elements, even though people's lives, contexts, and vulnerabilities change over time. Life transitions including migration, aging, or shifts in institutional environments reshape how risk and trust are understood and acted upon. Yet current systems rarely adapt their security cues to these changing conditions, placing the burden of interpretation on users. In this Works-in-Progress paper, we argue that the static nature of security cues represents a design mismatch with transitional human lives. We draw on prio",
-      "resume_fr": "Security cues, such as warnings and trust signals, are designed as stable interface elements, even though people's lives, contexts, and vulnerabilities change over time. Life transitions including migration, aging, or shifts in institutional environments reshape how risk and trust are understood and acted upon. Yet current systems rarely adapt their security cues to these changing conditions, placing the burden of interpretation on users. In this Works-in-Progress paper, we argue that the static nature of security cues represents a design mismatch with transitional human lives. We draw on prio",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Living Contracts: Beyond Document-Centric Interaction with Legal Agreements",
-      "url": "https://arxiv.org/abs/2602.01396v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-02-01T19:05:04.000Z",
-      "score": 85,
-      "summary_en": "User interaction with legal contracts has been limited to document reading, which is often complicated by complex, ambiguous legal language. We explore possible futures where contract interfaces go beyond single document interfaces to (1) educate users with legal rights not stated in the contract, (2) transform legal language into alternative representations to aid information tasks before, during, and after signing, and (3) proactively supply contractual information at relevant moments. We refer to these future interfaces collectively as Living Contracts. Using residential leases as a case st",
-      "summary_fr": "User interaction with legal contracts has been limited to document reading, which is often complicated by complex, ambiguous legal language. We explore possible futures where contract interfaces go beyond single document interfaces to (1) educate users with legal rights not stated in the contract, (2) transform legal language into alternative representations to aid information tasks before, during, and after signing, and (3) proactively supply contractual information at relevant moments. We refer to these future interfaces collectively as Living Contracts. Using residential leases as a case st",
-      "resume_fr": "User interaction with legal contracts has been limited to document reading, which is often complicated by complex, ambiguous legal language. We explore possible futures where contract interfaces go beyond single document interfaces to (1) educate users with legal rights not stated in the contract, (2) transform legal language into alternative representations to aid information tasks before, during, and after signing, and (3) proactively supply contractual information at relevant moments. We refer to these future interfaces collectively as Living Contracts. Using residential leases as a case st",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "How well can VLMs rate audio descriptions: A multi-dimensional quantitative assessment framework",
-      "url": "https://arxiv.org/abs/2602.01390v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-02-01T18:51:07.000Z",
-      "score": 85,
-      "summary_en": "Digital video is central to communication, education, and entertainment, but without audio description (AD), blind and low-vision audiences are excluded. While crowdsourced platforms and vision-language-models (VLMs) expand AD production, quality is rarely checked systematically. Existing evaluations rely on NLP metrics and short-clip guidelines, leaving questions about what constitutes quality for full-length content and how to assess it at scale. To address these questions, we first developed a multi-dimensional assessment framework for uninterrupted, full-length video, grounded in professio",
-      "summary_fr": "Digital video is central to communication, education, and entertainment, but without audio description (AD), blind and low-vision audiences are excluded. While crowdsourced platforms and vision-language-models (VLMs) expand AD production, quality is rarely checked systematically. Existing evaluations rely on NLP metrics and short-clip guidelines, leaving questions about what constitutes quality for full-length content and how to assess it at scale. To address these questions, we first developed a multi-dimensional assessment framework for uninterrupted, full-length video, grounded in professio",
-      "resume_fr": "Digital video is central to communication, education, and entertainment, but without audio description (AD), blind and low-vision audiences are excluded. While crowdsourced platforms and vision-language-models (VLMs) expand AD production, quality is rarely checked systematically. Existing evaluations rely on NLP metrics and short-clip guidelines, leaving questions about what constitutes quality for full-length content and how to assess it at scale. To address these questions, we first developed a multi-dimensional assessment framework for uninterrupted, full-length video, grounded in professio",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "End-to-end Optimization of Belief and Policy Learning in Shared Autonomy Paradigms",
-      "url": "https://arxiv.org/abs/2601.23285v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-01-30T18:59:16.000Z",
-      "score": 70,
-      "summary_en": "Shared autonomy systems require principled methods for inferring user intent and determining appropriate assistance levels. This is a central challenge in human-robot interaction, where systems must be successful while being mindful of user agency. Previous approaches relied on static blending ratios or separated goal inference from assistance arbitration, leading to suboptimal performance in unstructured environments. We introduce BRACE (Bayesian Reinforcement Assistance with Context Encoding), a novel framework that fine-tunes Bayesian intent inference and context-adaptive assistance through",
-      "summary_fr": "Shared autonomy systems require principled methods for inferring user intent and determining appropriate assistance levels. This is a central challenge in human-robot interaction, where systems must be successful while being mindful of user agency. Previous approaches relied on static blending ratios or separated goal inference from assistance arbitration, leading to suboptimal performance in unstructured environments. We introduce BRACE (Bayesian Reinforcement Assistance with Context Encoding), a novel framework that fine-tunes Bayesian intent inference and context-adaptive assistance through",
-      "resume_fr": "Shared autonomy systems require principled methods for inferring user intent and determining appropriate assistance levels. This is a central challenge in human-robot interaction, where systems must be successful while being mindful of user agency. Previous approaches relied on static blending ratios or separated goal inference from assistance arbitration, leading to suboptimal performance in unstructured environments. We introduce BRACE (Bayesian Reinforcement Assistance with Context Encoding), a novel framework that fine-tunes Bayesian intent inference and context-adaptive assistance through",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Now You Hear Me: Audio Narrative Attacks Against Large Audio-Language Models",
-      "url": "https://arxiv.org/abs/2601.23255v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-01-30T18:23:02.000Z",
-      "score": 50,
-      "summary_en": "Large audio-language models increasingly operate on raw speech inputs, enabling more seamless integration across domains such as voice assistants, education, and clinical triage. This transition, however, introduces a distinct class of vulnerabilities that remain largely uncharacterized. We examine the security implications of this modality shift by designing a text-to-audio jailbreak that embeds disallowed directives within a narrative-style audio stream. The attack leverages an advanced instruction-following text-to-speech (TTS) model to exploit structural and acoustic properties, thereby ci",
-      "summary_fr": "Large audio-language models increasingly operate on raw speech inputs, enabling more seamless integration across domains such as voice assistants, education, and clinical triage. This transition, however, introduces a distinct class of vulnerabilities that remain largely uncharacterized. We examine the security implications of this modality shift by designing a text-to-audio jailbreak that embeds disallowed directives within a narrative-style audio stream. The attack leverages an advanced instruction-following text-to-speech (TTS) model to exploit structural and acoustic properties, thereby ci",
-      "resume_fr": "Large audio-language models increasingly operate on raw speech inputs, enabling more seamless integration across domains such as voice assistants, education, and clinical triage. This transition, however, introduces a distinct class of vulnerabilities that remain largely uncharacterized. We examine the security implications of this modality shift by designing a text-to-audio jailbreak that embeds disallowed directives within a narrative-style audio stream. The attack leverages an advanced instruction-following text-to-speech (TTS) model to exploit structural and acoustic properties, thereby ci",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Are you going to finish that? A Practical Study of the Tokenization Boundary Problem",
-      "url": "https://arxiv.org/abs/2601.23223v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-01-30T17:47:16.000Z",
-      "score": 70,
-      "summary_en": "Language models (LMs) are trained over sequences of tokens, whereas users interact with LMs via text. This mismatch gives rise to the partial token problem, which occurs when a user ends their prompt in the middle of the expected next-token, leading to distorted next-token predictions. Although this issue has been studied using arbitrary character prefixes, its prevalence and severity in realistic prompts respecting word boundaries remains underexplored. In this work, we identify three domains where token and \"word\" boundaries often do not line up: languages that do not use whitespace, highly ",
-      "summary_fr": "Language models (LMs) are trained over sequences of tokens, whereas users interact with LMs via text. This mismatch gives rise to the partial token problem, which occurs when a user ends their prompt in the middle of the expected next-token, leading to distorted next-token predictions. Although this issue has been studied using arbitrary character prefixes, its prevalence and severity in realistic prompts respecting word boundaries remains underexplored. In this work, we identify three domains where token and \"word\" boundaries often do not line up: languages that do not use whitespace, highly ",
-      "resume_fr": "Language models (LMs) are trained over sequences of tokens, whereas users interact with LMs via text. This mismatch gives rise to the partial token problem, which occurs when a user ends their prompt in the middle of the expected next-token, leading to distorted next-token predictions. Although this issue has been studied using arbitrary character prefixes, its prevalence and severity in realistic prompts respecting word boundaries remains underexplored. In this work, we identify three domains where token and \"word\" boundaries often do not line up: languages that do not use whitespace, highly ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "FACET: Multi-Agent AI Supporting Teachers in Scaling Differentiated Learning for Diverse Students",
-      "url": "https://arxiv.org/abs/2601.22788v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-01-30T10:08:43.000Z",
-      "score": 50,
-      "summary_en": "Classrooms are becoming increasingly heterogeneous, comprising learners with diverse performance and motivation levels, language proficiencies, and learning differences such as dyslexia and ADHD. While teachers recognize the need for differentiated instruction, growing workloads create substantial barriers, making differentiated instruction an ideal that is often unrealized in practice. Current AI educational tools, which promise differentiated materials, are predominantly student-facing and performance-centric, ignoring other aspects that shape learning outcomes. We introduce FACET, a teacher",
-      "summary_fr": "Classrooms are becoming increasingly heterogeneous, comprising learners with diverse performance and motivation levels, language proficiencies, and learning differences such as dyslexia and ADHD. While teachers recognize the need for differentiated instruction, growing workloads create substantial barriers, making differentiated instruction an ideal that is often unrealized in practice. Current AI educational tools, which promise differentiated materials, are predominantly student-facing and performance-centric, ignoring other aspects that shape learning outcomes. We introduce FACET, a teacher",
-      "resume_fr": "Classrooms are becoming increasingly heterogeneous, comprising learners with diverse performance and motivation levels, language proficiencies, and learning differences such as dyslexia and ADHD. While teachers recognize the need for differentiated instruction, growing workloads create substantial barriers, making differentiated instruction an ideal that is often unrealized in practice. Current AI educational tools, which promise differentiated materials, are predominantly student-facing and performance-centric, ignoring other aspects that shape learning outcomes. We introduce FACET, a teacher",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
     }
   ]
