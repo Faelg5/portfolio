@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-15T07:04:44.429Z",
+  "generatedAt": "2026-02-16T07:18:55.963Z",
   "model": "gpt-5",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,63 @@
     }
   },
   "items": [
+    {
+      "title": "Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos",
+      "url": "https://arxiv.org/abs/2602.13197v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-02-13T18:59:10.000Z",
+      "score": 70,
+      "summary_en": "The ability to learn manipulation skills by watching videos of humans has the potential to unlock a new source of highly scalable data for robot learning. Here, we tackle prehensile manipulation, in which tasks involve grasping an object before performing various post-grasp motions. Human videos offer strong signals for learning the post-grasp motions, but they are less useful for learning the prerequisite grasping behaviors, especially for robots without human-like hands. A promising way forward is to use a modular policy design, leveraging a dedicated grasp generator to produce stable grasps",
+      "summary_fr": "The ability to learn manipulation skills by watching videos of humans has the potential to unlock a new source of highly scalable data for robot learning. Here, we tackle prehensile manipulation, in which tasks involve grasping an object before performing various post-grasp motions. Human videos offer strong signals for learning the post-grasp motions, but they are less useful for learning the prerequisite grasping behaviors, especially for robots without human-like hands. A promising way forward is to use a modular policy design, leveraging a dedicated grasp generator to produce stable grasps",
+      "resume_fr": "The ability to learn manipulation skills by watching videos of humans has the potential to unlock a new source of highly scalable data for robot learning. Here, we tackle prehensile manipulation, in which tasks involve grasping an object before performing various post-grasp motions. Human videos offer strong signals for learning the post-grasp motions, but they are less useful for learning the prerequisite grasping behaviors, especially for robots without human-like hands. A promising way forward is to use a modular policy design, leveraging a dedicated grasp generator to produce stable grasps",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "\"It's More of a Lifestyle'': Design Considerations for Supporting Everyday Practices in Community-Based Farming",
+      "url": "https://arxiv.org/abs/2602.13119v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-02-13T17:16:48.000Z",
+      "score": 85,
+      "summary_en": "Farming plays a significant role in the economy by supporting related industries such as food, retail, and local services. Community-based small farms, while offering unique social and cultural benefits, face persistent challenges, including limited access to formal education and underdeveloped infrastructure, which have been discussed in prior research. This study focuses on community-driven factors, such as workarounds for recording critical information and practices for passing down farming knowledge across generations. Through 11 semi-structured interviews with farmers from a small ethnic ",
+      "summary_fr": "Farming plays a significant role in the economy by supporting related industries such as food, retail, and local services. Community-based small farms, while offering unique social and cultural benefits, face persistent challenges, including limited access to formal education and underdeveloped infrastructure, which have been discussed in prior research. This study focuses on community-driven factors, such as workarounds for recording critical information and practices for passing down farming knowledge across generations. Through 11 semi-structured interviews with farmers from a small ethnic ",
+      "resume_fr": "Farming plays a significant role in the economy by supporting related industries such as food, retail, and local services. Community-based small farms, while offering unique social and cultural benefits, face persistent challenges, including limited access to formal education and underdeveloped infrastructure, which have been discussed in prior research. This study focuses on community-driven factors, such as workarounds for recording critical information and practices for passing down farming knowledge across generations. Through 11 semi-structured interviews with farmers from a small ethnic ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "SoK: Understanding the Pedagogical, Health, Ethical, and Privacy Challenges of Extended Reality in Early Childhood Education",
+      "url": "https://arxiv.org/abs/2602.12749v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-02-13T09:25:56.000Z",
+      "score": 85,
+      "summary_en": "Extended Reality (XR) combines dense sensing, real-time rendering, and close-range interaction, making its use in early childhood education both promising and high risk. To investigate this, we conduct a Systematization of Knowledge (SoK) of 111 peer-reviewed studies with children aged 3-8, quantifying how technical, pedagogical, health, privacy, and equity challenges arise in practice. We found that AR dominates the landscape (73%), focusing primarily on tablets or phones, while VR remains uncommon and typically relies on head mounted displays (HMDs). We integrate these quantitative patterns ",
+      "summary_fr": "Extended Reality (XR) combines dense sensing, real-time rendering, and close-range interaction, making its use in early childhood education both promising and high risk. To investigate this, we conduct a Systematization of Knowledge (SoK) of 111 peer-reviewed studies with children aged 3-8, quantifying how technical, pedagogical, health, privacy, and equity challenges arise in practice. We found that AR dominates the landscape (73%), focusing primarily on tablets or phones, while VR remains uncommon and typically relies on head mounted displays (HMDs). We integrate these quantitative patterns ",
+      "resume_fr": "Extended Reality (XR) combines dense sensing, real-time rendering, and close-range interaction, making its use in early childhood education both promising and high risk. To investigate this, we conduct a Systematization of Knowledge (SoK) of 111 peer-reviewed studies with children aged 3-8, quantifying how technical, pedagogical, health, privacy, and equity challenges arise in practice. We found that AR dominates the landscape (73%), focusing primarily on tablets or phones, while VR remains uncommon and typically relies on head mounted displays (HMDs). We integrate these quantitative patterns ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
     {
       "title": "A flaw in using pretrained protein language models in protein–protein interaction inference models",
       "url": "https://www.nature.com/articles/s42256-025-01176-7",
@@ -1176,63 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Towards Considerate Embodied AI: Co-Designing Situated Multi-Site Healthcare Robots from Abstract Concepts to High-Fidelity Prototypes",
-      "url": "https://arxiv.org/abs/2602.03054v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-02-03T03:30:41.000Z",
-      "score": 85,
-      "summary_en": "Co-design is essential for grounding embodied artificial intelligence (AI) systems in real-world contexts, especially high-stakes domains such as healthcare. While prior work has explored multidisciplinary collaboration, iterative prototyping, and support for non-technical participants, few have interwoven these into a sustained co-design process. Such efforts often target one context and low-fidelity stages, limiting the generalizability of findings and obscuring how participants' ideas evolve. To address these limitations, we conducted a 14-week workshop with a multidisciplinary team of 22 p",
-      "summary_fr": "Co-design is essential for grounding embodied artificial intelligence (AI) systems in real-world contexts, especially high-stakes domains such as healthcare. While prior work has explored multidisciplinary collaboration, iterative prototyping, and support for non-technical participants, few have interwoven these into a sustained co-design process. Such efforts often target one context and low-fidelity stages, limiting the generalizability of findings and obscuring how participants' ideas evolve. To address these limitations, we conducted a 14-week workshop with a multidisciplinary team of 22 p",
-      "resume_fr": "Co-design is essential for grounding embodied artificial intelligence (AI) systems in real-world contexts, especially high-stakes domains such as healthcare. While prior work has explored multidisciplinary collaboration, iterative prototyping, and support for non-technical participants, few have interwoven these into a sustained co-design process. Such efforts often target one context and low-fidelity stages, limiting the generalizability of findings and obscuring how participants' ideas evolve. To address these limitations, we conducted a 14-week workshop with a multidisciplinary team of 22 p",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System",
-      "url": "https://arxiv.org/abs/2602.02488v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-02-02T18:59:04.000Z",
-      "score": 70,
-      "summary_en": "We propose RLAnything, a reinforcement learning framework that dynamically forges environment, policy, and reward models through closed-loop optimization, amplifying learning signals and strengthening the overall RL system for any LLM or agentic scenarios. Specifically, the policy is trained with integrated feedback from step-wise and outcome signals, while the reward model is jointly optimized via consistency feedback, which in turn further improves policy training. Moreover, our theory-motivated automatic environment adaptation improves training for both the reward and policy models by lever",
-      "summary_fr": "We propose RLAnything, a reinforcement learning framework that dynamically forges environment, policy, and reward models through closed-loop optimization, amplifying learning signals and strengthening the overall RL system for any LLM or agentic scenarios. Specifically, the policy is trained with integrated feedback from step-wise and outcome signals, while the reward model is jointly optimized via consistency feedback, which in turn further improves policy training. Moreover, our theory-motivated automatic environment adaptation improves training for both the reward and policy models by lever",
-      "resume_fr": "We propose RLAnything, a reinforcement learning framework that dynamically forges environment, policy, and reward models through closed-loop optimization, amplifying learning signals and strengthening the overall RL system for any LLM or agentic scenarios. Specifically, the policy is trained with integrated feedback from step-wise and outcome signals, while the reward model is jointly optimized via consistency feedback, which in turn further improves policy training. Moreover, our theory-motivated automatic environment adaptation improves training for both the reward and policy models by lever",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Expanding the Capabilities of Reinforcement Learning via Text Feedback",
-      "url": "https://arxiv.org/abs/2602.02482v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-02-02T18:56:56.000Z",
-      "score": 50,
-      "summary_en": "The success of RL for LLM post-training stems from an unreasonably uninformative source: a single bit of information per rollout as binary reward or preference label. At the other extreme, distillation offers dense supervision but requires demonstrations, which are costly and difficult to scale. We study text feedback as an intermediate signal: richer than scalar rewards, yet cheaper than complete demonstrations. Textual feedback is a natural mode of human interaction and is already abundant in many real-world settings, where users, annotators, and automated judges routinely critique LLM outpu",
-      "summary_fr": "The success of RL for LLM post-training stems from an unreasonably uninformative source: a single bit of information per rollout as binary reward or preference label. At the other extreme, distillation offers dense supervision but requires demonstrations, which are costly and difficult to scale. We study text feedback as an intermediate signal: richer than scalar rewards, yet cheaper than complete demonstrations. Textual feedback is a natural mode of human interaction and is already abundant in many real-world settings, where users, annotators, and automated judges routinely critique LLM outpu",
-      "resume_fr": "The success of RL for LLM post-training stems from an unreasonably uninformative source: a single bit of information per rollout as binary reward or preference label. At the other extreme, distillation offers dense supervision but requires demonstrations, which are costly and difficult to scale. We study text feedback as an intermediate signal: richer than scalar rewards, yet cheaper than complete demonstrations. Textual feedback is a natural mode of human interaction and is already abundant in many real-world settings, where users, annotators, and automated judges routinely critique LLM outpu",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
     }
   ]
