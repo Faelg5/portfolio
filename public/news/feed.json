@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-16T07:18:55.963Z",
+  "generatedAt": "2026-02-17T07:13:23.358Z",
   "model": "gpt-5",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,101 @@
     }
   },
   "items": [
+    {
+      "title": "Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation",
+      "url": "https://arxiv.org/abs/2602.15022v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-02-16T18:58:55.000Z",
+      "score": 50,
+      "summary_en": "Many generative tasks in chemistry and science involve distributions invariant to group symmetries (e.g., permutation and rotation). A common strategy enforces invariance and equivariance through architectural constraints such as equivariant denoisers and invariant priors. In this paper, we challenge this tradition through the alternative canonicalization perspective: first map each sample to an orbit representative with a canonical pose or order, train an unconstrained (non-equivariant) diffusion or flow model on the canonical slice, and finally recover the invariant distribution by sampling ",
+      "summary_fr": "Many generative tasks in chemistry and science involve distributions invariant to group symmetries (e.g., permutation and rotation). A common strategy enforces invariance and equivariance through architectural constraints such as equivariant denoisers and invariant priors. In this paper, we challenge this tradition through the alternative canonicalization perspective: first map each sample to an orbit representative with a canonical pose or order, train an unconstrained (non-equivariant) diffusion or flow model on the canonical slice, and finally recover the invariant distribution by sampling ",
+      "resume_fr": "Many generative tasks in chemistry and science involve distributions invariant to group symmetries (e.g., permutation and rotation). A common strategy enforces invariance and equivariance through architectural constraints such as equivariant denoisers and invariant priors. In this paper, we challenge this tradition through the alternative canonicalization perspective: first map each sample to an orbit representative with a canonical pose or order, train an unconstrained (non-equivariant) diffusion or flow model on the canonical slice, and finally recover the invariant distribution by sampling ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation",
+      "url": "https://arxiv.org/abs/2602.15013v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-02-16T18:52:43.000Z",
+      "score": 50,
+      "summary_en": "This paper proposes a novel method for Text Style Transfer (TST) based on parameter-efficient fine-tuning of Large Language Models (LLMs). Addressing the scarcity of parallel corpora that map between styles, the study employs roundtrip translation to synthesize such parallel datasets from monolingual corpora. This approach creates 'neutralized' text devoid of stylistic attributes, essentially creating a shared input style at training-time and inference-time. Experimental results demonstrate consistent superiority of this method over zero-shot prompting and fewshot ICL techniques measured by BL",
+      "summary_fr": "This paper proposes a novel method for Text Style Transfer (TST) based on parameter-efficient fine-tuning of Large Language Models (LLMs). Addressing the scarcity of parallel corpora that map between styles, the study employs roundtrip translation to synthesize such parallel datasets from monolingual corpora. This approach creates 'neutralized' text devoid of stylistic attributes, essentially creating a shared input style at training-time and inference-time. Experimental results demonstrate consistent superiority of this method over zero-shot prompting and fewshot ICL techniques measured by BL",
+      "resume_fr": "This paper proposes a novel method for Text Style Transfer (TST) based on parameter-efficient fine-tuning of Large Language Models (LLMs). Addressing the scarcity of parallel corpora that map between styles, the study employs roundtrip translation to synthesize such parallel datasets from monolingual corpora. This approach creates 'neutralized' text devoid of stylistic attributes, essentially creating a shared input style at training-time and inference-time. Experimental results demonstrate consistent superiority of this method over zero-shot prompting and fewshot ICL techniques measured by BL",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Counterfactual Fairness Evaluation of LLM-Based Contact Center Agent Quality Assurance System",
+      "url": "https://arxiv.org/abs/2602.14970v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-02-16T17:56:18.000Z",
+      "score": 70,
+      "summary_en": "Large Language Models (LLMs) are increasingly deployed in contact-center Quality Assurance (QA) to automate agent performance evaluation and coaching feedback. While LLMs offer unprecedented scalability and speed, their reliance on web-scale training data raises concerns regarding demographic and behavioral biases that may distort workforce assessment. We present a counterfactual fairness evaluation of LLM-based QA systems across 13 dimensions spanning three categories: Identity, Context, and Behavioral Style. Fairness is quantified using the Counterfactual Flip Rate (CFR), the frequency of bi",
+      "summary_fr": "Large Language Models (LLMs) are increasingly deployed in contact-center Quality Assurance (QA) to automate agent performance evaluation and coaching feedback. While LLMs offer unprecedented scalability and speed, their reliance on web-scale training data raises concerns regarding demographic and behavioral biases that may distort workforce assessment. We present a counterfactual fairness evaluation of LLM-based QA systems across 13 dimensions spanning three categories: Identity, Context, and Behavioral Style. Fairness is quantified using the Counterfactual Flip Rate (CFR), the frequency of bi",
+      "resume_fr": "Large Language Models (LLMs) are increasingly deployed in contact-center Quality Assurance (QA) to automate agent performance evaluation and coaching feedback. While LLMs offer unprecedented scalability and speed, their reliance on web-scale training data raises concerns regarding demographic and behavioral biases that may distort workforce assessment. We present a counterfactual fairness evaluation of LLM-based QA systems across 13 dimensions spanning three categories: Identity, Context, and Behavioral Style. Fairness is quantified using the Counterfactual Flip Rate (CFR), the frequency of bi",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Tool-Aware Planning in Contact Center AI: Evaluating LLMs through Lineage-Guided Query Decomposition",
+      "url": "https://arxiv.org/abs/2602.14955v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-02-16T17:36:05.000Z",
+      "score": 70,
+      "summary_en": "We present a domain-grounded framework and benchmark for tool-aware plan generation in contact centers, where answering a query for business insights, our target use case, requires decomposing it into executable steps over structured tools (Text2SQL (T2S)/Snowflake) and unstructured tools (RAG/transcripts) with explicit depends_on for parallelism. Our contributions are threefold: (i) a reference-based plan evaluation framework operating in two modes - a metric-wise evaluator spanning seven dimensions (e.g., tool-prompt alignment, query adherence) and a one-shot evaluator; (ii) a data curation ",
+      "summary_fr": "We present a domain-grounded framework and benchmark for tool-aware plan generation in contact centers, where answering a query for business insights, our target use case, requires decomposing it into executable steps over structured tools (Text2SQL (T2S)/Snowflake) and unstructured tools (RAG/transcripts) with explicit depends_on for parallelism. Our contributions are threefold: (i) a reference-based plan evaluation framework operating in two modes - a metric-wise evaluator spanning seven dimensions (e.g., tool-prompt alignment, query adherence) and a one-shot evaluator; (ii) a data curation ",
+      "resume_fr": "We present a domain-grounded framework and benchmark for tool-aware plan generation in contact centers, where answering a query for business insights, our target use case, requires decomposing it into executable steps over structured tools (Text2SQL (T2S)/Snowflake) and unstructured tools (RAG/transcripts) with explicit depends_on for parallelism. Our contributions are threefold: (i) a reference-based plan evaluation framework operating in two modes - a metric-wise evaluator spanning seven dimensions (e.g., tool-prompt alignment, query adherence) and a one-shot evaluator; (ii) a data curation ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "When OpenClaw AI Agents Teach Each Other: Peer Learning Patterns in the Moltbook Community",
+      "url": "https://arxiv.org/abs/2602.14477v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-02-16T05:32:06.000Z",
+      "score": 85,
+      "summary_en": "Peer learning, where learners teach and learn from each other, is foundational to educational practice. A novel phenomenon has emerged: AI agents forming communities where they teach each other skills, share discoveries, and collaboratively build knowledge. This paper presents an educational data mining analysis of Moltbook, a large-scale community where over 2.4 million AI agents engage in peer learning, posting tutorials, answering questions, and sharing newly acquired skills. Analyzing 28,683 posts (after filtering automated spam) and 138 comment threads with statistical and qualitative met",
+      "summary_fr": "Peer learning, where learners teach and learn from each other, is foundational to educational practice. A novel phenomenon has emerged: AI agents forming communities where they teach each other skills, share discoveries, and collaboratively build knowledge. This paper presents an educational data mining analysis of Moltbook, a large-scale community where over 2.4 million AI agents engage in peer learning, posting tutorials, answering questions, and sharing newly acquired skills. Analyzing 28,683 posts (after filtering automated spam) and 138 comment threads with statistical and qualitative met",
+      "resume_fr": "Peer learning, where learners teach and learn from each other, is foundational to educational practice. A novel phenomenon has emerged: AI agents forming communities where they teach each other skills, share discoveries, and collaboratively build knowledge. This paper presents an educational data mining analysis of Moltbook, a large-scale community where over 2.4 million AI agents engage in peer learning, posting tutorials, answering questions, and sharing newly acquired skills. Analyzing 28,683 posts (after filtering automated spam) and 138 comment threads with statistical and qualitative met",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
     {
       "title": "Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos",
       "url": "https://arxiv.org/abs/2602.13197v1",
@@ -1138,101 +1233,6 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "SymPlex: A Structure-Aware Transformer for Symbolic PDE Solving",
-      "url": "https://arxiv.org/abs/2602.03816v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-02-03T18:18:30.000Z",
-      "score": 50,
-      "summary_en": "We propose SymPlex, a reinforcement learning framework for discovering analytical symbolic solutions to partial differential equations (PDEs) without access to ground-truth expressions. SymPlex formulates symbolic PDE solving as tree-structured decision-making and optimizes candidate solutions using only the PDE and its boundary conditions. At its core is SymFormer, a structure-aware Transformer that models hierarchical symbolic dependencies via tree-relative self-attention and enforces syntactic validity through grammar-constrained autoregressive decoding, overcoming the limited expressivity ",
-      "summary_fr": "We propose SymPlex, a reinforcement learning framework for discovering analytical symbolic solutions to partial differential equations (PDEs) without access to ground-truth expressions. SymPlex formulates symbolic PDE solving as tree-structured decision-making and optimizes candidate solutions using only the PDE and its boundary conditions. At its core is SymFormer, a structure-aware Transformer that models hierarchical symbolic dependencies via tree-relative self-attention and enforces syntactic validity through grammar-constrained autoregressive decoding, overcoming the limited expressivity ",
-      "resume_fr": "We propose SymPlex, a reinforcement learning framework for discovering analytical symbolic solutions to partial differential equations (PDEs) without access to ground-truth expressions. SymPlex formulates symbolic PDE solving as tree-structured decision-making and optimizes candidate solutions using only the PDE and its boundary conditions. At its core is SymFormer, a structure-aware Transformer that models hierarchical symbolic dependencies via tree-relative self-attention and enforces syntactic validity through grammar-constrained autoregressive decoding, overcoming the limited expressivity ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Practical Ways Higher Education Can Optimize Storage and Compute for AI Readiness",
-      "url": "https://edtechmagazine.com/higher/article/2026/02/practical-ways-higher-education-can-optimize-storage-and-compute-ai-readiness",
-      "source": "EdTech Magazine (Higher Ed)",
-      "published": "2026-02-03T17:38:41.000Z",
-      "score": 50,
-      "summary_en": "As artificial intelligence becomes a higher priority across higher education, IT leaders must determine whether their existing storage and compute environments can handle these high-demand workloads. AI initiatives place unique demands on an institution, from high-performance computing requirements to increased storage needs and rising costs. Additionally, many institutions find themselves limited by multiyear cloud agreements and complex existing data centers, which leaves little room for flexibility. Despite these constraints, there are practical steps colleges and universities can take to…",
-      "summary_fr": "As artificial intelligence becomes a higher priority across higher education, IT leaders must determine whether their existing storage and compute environments can handle these high-demand workloads. AI initiatives place unique demands on an institution, from high-performance computing requirements to increased storage needs and rising costs. Additionally, many institutions find themselves limited by multiyear cloud agreements and complex existing data centers, which leaves little room for flexibility. Despite these constraints, there are practical steps colleges and universities can take to…",
-      "resume_fr": "As artificial intelligence becomes a higher priority across higher education, IT leaders must determine whether their existing storage and compute environments can handle these high-demand workloads. AI initiatives place unique demands on an institution, from high-performance computing requirements to increased storage needs and rising costs. Additionally, many institutions find themselves limited by multiyear cloud agreements and complex existing data centers, which leaves little room for flexibility. Despite these constraints, there are practical steps colleges and universities can take to…",
-      "tags": [],
-      "breakdown": {
-        "research": 0,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202602/GettyImages-1193288605.jpg?itok=NTbngfZa"
-    },
-    {
-      "title": "OCRTurk: A Comprehensive OCR Benchmark for Turkish",
-      "url": "https://arxiv.org/abs/2602.03693v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-02-03T16:11:25.000Z",
-      "score": 50,
-      "summary_en": "Document parsing is now widely used in applications, such as large-scale document digitization, retrieval-augmented generation, and domain-specific pipelines in healthcare and education. Benchmarking these models is crucial for assessing their reliability and practical robustness. Existing benchmarks mostly target high-resource languages and provide limited coverage for low-resource settings, such as Turkish. Moreover, existing studies on Turkish document parsing lack a standardized benchmark that reflects real-world scenarios and document diversity. To address this gap, we introduce OCRTurk, ",
-      "summary_fr": "Document parsing is now widely used in applications, such as large-scale document digitization, retrieval-augmented generation, and domain-specific pipelines in healthcare and education. Benchmarking these models is crucial for assessing their reliability and practical robustness. Existing benchmarks mostly target high-resource languages and provide limited coverage for low-resource settings, such as Turkish. Moreover, existing studies on Turkish document parsing lack a standardized benchmark that reflects real-world scenarios and document diversity. To address this gap, we introduce OCRTurk, ",
-      "resume_fr": "Document parsing is now widely used in applications, such as large-scale document digitization, retrieval-augmented generation, and domain-specific pipelines in healthcare and education. Benchmarking these models is crucial for assessing their reliability and practical robustness. Existing benchmarks mostly target high-resource languages and provide limited coverage for low-resource settings, such as Turkish. Moreover, existing studies on Turkish document parsing lack a standardized benchmark that reflects real-world scenarios and document diversity. To address this gap, we introduce OCRTurk, ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Breaking Boundaries in Wireless Communication",
-      "url": "https://content.knowledgehub.wiley.com/breaking-boundaries-in-wireless-communication-simulating-animated-on-body-rf-propagation/",
-      "source": "IEEE Spectrum – AI",
-      "published": "2026-02-03T15:58:27.000Z",
-      "score": 50,
-      "summary_en": "This paper discusses how RF propagation simulations empower engineers to test numerous real-world use cases in far less time, and at lower costs, than in situ testing alone. Learn how simulations provide a powerful visual aid and offer valuable insights to improve the performance and design of body-worn wireless devices. Download this free whitepaper now!",
-      "summary_fr": "This paper discusses how RF propagation simulations empower engineers to test numerous real-world use cases in far less time, and at lower costs, than in situ testing alone. Learn how simulations provide a powerful visual aid and offer valuable insights to improve the performance and design of body-worn wireless devices. Download this free whitepaper now!",
-      "resume_fr": "This paper discusses how RF propagation simulations empower engineers to test numerous real-world use cases in far less time, and at lower costs, than in situ testing alone. Learn how simulations provide a powerful visual aid and offer valuable insights to improve the performance and design of body-worn wireless devices. Download this free whitepaper now!",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://content.knowledgehub.wiley.com/wp-content/uploads/2026/01/WallFloor_02-500x404.png"
-    },
-    {
-      "title": "A Lightweight Library for Energy-Based Joint-Embedding Predictive Architectures",
-      "url": "https://arxiv.org/abs/2602.03604v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-02-03T14:56:24.000Z",
-      "score": 50,
-      "summary_en": "We present EB-JEPA, an open-source library for learning representations and world models using Joint-Embedding Predictive Architectures (JEPAs). JEPAs learn to predict in representation space rather than pixel space, avoiding the pitfalls of generative modeling while capturing semantically meaningful features suitable for downstream tasks. Our library provides modular, self-contained implementations that illustrate how representation learning techniques developed for image-level self-supervised learning can transfer to video, where temporal dynamics add complexity, and ultimately to action-con",
-      "summary_fr": "We present EB-JEPA, an open-source library for learning representations and world models using Joint-Embedding Predictive Architectures (JEPAs). JEPAs learn to predict in representation space rather than pixel space, avoiding the pitfalls of generative modeling while capturing semantically meaningful features suitable for downstream tasks. Our library provides modular, self-contained implementations that illustrate how representation learning techniques developed for image-level self-supervised learning can transfer to video, where temporal dynamics add complexity, and ultimately to action-con",
-      "resume_fr": "We present EB-JEPA, an open-source library for learning representations and world models using Joint-Embedding Predictive Architectures (JEPAs). JEPAs learn to predict in representation space rather than pixel space, avoiding the pitfalls of generative modeling while capturing semantically meaningful features suitable for downstream tasks. Our library provides modular, self-contained implementations that illustrate how representation learning techniques developed for image-level self-supervised learning can transfer to video, where temporal dynamics add complexity, and ultimately to action-con",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
     }
   ]
