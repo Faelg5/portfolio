@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-19T07:14:30.500Z",
+  "generatedAt": "2026-02-28T06:55:46.326Z",
   "model": "gpt-5",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,177 @@
     }
   },
   "items": [
+    {
+      "title": "This Startup Makes Access to Rehabilitation Facilities Easier",
+      "url": "https://spectrum.ieee.org/carenector-health-care-startup",
+      "source": "IEEE Spectrum – AI",
+      "published": "2026-02-26T19:00:03.000Z",
+      "score": 50,
+      "summary_en": "When doctors in the United States refer patients to specialty or post-acute medical care such as physical therapy or long-term nursing care, nearly half never complete the process of finding help. Referrals stall in part because provider directories are outdated, insurance coverage is unclear, and much coordination still relies on phone calls and faxes. Carenector, a Denver-based startup launched in 2024, is working to improve the process with software that quickly connects patients with appropriate care providers while protecting their personal data. Instead of presenting a long list of provi",
+      "summary_fr": "When doctors in the United States refer patients to specialty or post-acute medical care such as physical therapy or long-term nursing care, nearly half never complete the process of finding help. Referrals stall in part because provider directories are outdated, insurance coverage is unclear, and much coordination still relies on phone calls and faxes. Carenector, a Denver-based startup launched in 2024, is working to improve the process with software that quickly connects patients with appropriate care providers while protecting their personal data. Instead of presenting a long list of provi",
+      "resume_fr": "When doctors in the United States refer patients to specialty or post-acute medical care such as physical therapy or long-term nursing care, nearly half never complete the process of finding help. Referrals stall in part because provider directories are outdated, insurance coverage is unclear, and much coordination still relies on phone calls and faxes. Carenector, a Denver-based startup launched in 2024, is working to improve the process with software that quickly connects patients with appropriate care providers while protecting their personal data. Instead of presenting a long list of provi",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://spectrum.ieee.org/media-library/naheem-noah-speaking-to-a-small-crowd-while-giving-a-presentation.jpg?id=65026929&width=1200&height=600&coordinates=0%2C125%2C0%2C125"
+    },
+    {
+      "title": "Scale Can't Overcome Pragmatics: The Impact of Reporting Bias on Vision-Language Reasoning",
+      "url": "https://arxiv.org/abs/2602.23351v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-02-26T18:54:06.000Z",
+      "score": 70,
+      "summary_en": "The lack of reasoning capabilities in Vision-Language Models (VLMs) has remained at the forefront of research discourse. We posit that this behavior stems from a reporting bias in their training data. That is, how people communicate about visual content by default omits tacit information needed to supervise some types of reasoning; e.g., \"at the game today!\" is a more likely caption than \"a photo of 37 people standing behind a field\". We investigate the data underlying the popular VLMs OpenCLIP, LLaVA-1.5 and Molmo through the lens of theories from pragmatics, and find that reporting bias resu",
+      "summary_fr": "The lack of reasoning capabilities in Vision-Language Models (VLMs) has remained at the forefront of research discourse. We posit that this behavior stems from a reporting bias in their training data. That is, how people communicate about visual content by default omits tacit information needed to supervise some types of reasoning; e.g., \"at the game today!\" is a more likely caption than \"a photo of 37 people standing behind a field\". We investigate the data underlying the popular VLMs OpenCLIP, LLaVA-1.5 and Molmo through the lens of theories from pragmatics, and find that reporting bias resu",
+      "resume_fr": "The lack of reasoning capabilities in Vision-Language Models (VLMs) has remained at the forefront of research discourse. We posit that this behavior stems from a reporting bias in their training data. That is, how people communicate about visual content by default omits tacit information needed to supervise some types of reasoning; e.g., \"at the game today!\" is a more likely caption than \"a photo of 37 people standing behind a field\". We investigate the data underlying the popular VLMs OpenCLIP, LLaVA-1.5 and Molmo through the lens of theories from pragmatics, and find that reporting bias resu",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Mean Estimation from Coarse Data: Characterizations and Efficient Algorithms",
+      "url": "https://arxiv.org/abs/2602.23341v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-02-26T18:47:06.000Z",
+      "score": 70,
+      "summary_en": "Coarse data arise when learners observe only partial information about samples; namely, a set containing the sample rather than its exact value. This occurs naturally through measurement rounding, sensor limitations, and lag in economic systems. We study Gaussian mean estimation from coarse data, where each true sample $x$ is drawn from a $d$-dimensional Gaussian distribution with identity covariance, but is revealed only through the set of a partition containing $x$. When the coarse samples, roughly speaking, have ``low'' information, the mean cannot be uniquely recovered from observed sample",
+      "summary_fr": "Coarse data arise when learners observe only partial information about samples; namely, a set containing the sample rather than its exact value. This occurs naturally through measurement rounding, sensor limitations, and lag in economic systems. We study Gaussian mean estimation from coarse data, where each true sample $x$ is drawn from a $d$-dimensional Gaussian distribution with identity covariance, but is revealed only through the set of a partition containing $x$. When the coarse samples, roughly speaking, have ``low'' information, the mean cannot be uniquely recovered from observed sample",
+      "resume_fr": "Coarse data arise when learners observe only partial information about samples; namely, a set containing the sample rather than its exact value. This occurs naturally through measurement rounding, sensor limitations, and lag in economic systems. We study Gaussian mean estimation from coarse data, where each true sample $x$ is drawn from a $d$-dimensional Gaussian distribution with identity covariance, but is revealed only through the set of a partition containing $x$. When the coarse samples, roughly speaking, have ``low'' information, the mean cannot be uniquely recovered from observed sample",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "TaleBot: A Tangible AI Companion to Support Children in Co-creative Storytelling for Resilience Cultivation",
+      "url": "https://arxiv.org/abs/2602.23095v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-02-26T15:12:43.000Z",
+      "score": 50,
+      "summary_en": "Resilience is a key factor affecting children's mental wellbeing and future development. Yet, limited HCI research has explored how to help children build resilience through adversarial experiences. Informed by a formative study with elementary school teachers and professional psychologists, we design TaleBot, an AI-empowered system that supports children to co-create stories about overcoming everyday adversities tailored to their personal situations. We evaluated the system with 12 elementary children in school counseling rooms under teacher guidance and conducted reflective interviews with p",
+      "summary_fr": "Resilience is a key factor affecting children's mental wellbeing and future development. Yet, limited HCI research has explored how to help children build resilience through adversarial experiences. Informed by a formative study with elementary school teachers and professional psychologists, we design TaleBot, an AI-empowered system that supports children to co-create stories about overcoming everyday adversities tailored to their personal situations. We evaluated the system with 12 elementary children in school counseling rooms under teacher guidance and conducted reflective interviews with p",
+      "resume_fr": "Resilience is a key factor affecting children's mental wellbeing and future development. Yet, limited HCI research has explored how to help children build resilience through adversarial experiences. Informed by a formative study with elementary school teachers and professional psychologists, we design TaleBot, an AI-empowered system that supports children to co-create stories about overcoming everyday adversities tailored to their personal situations. We evaluated the system with 12 elementary children in school counseling rooms under teacher guidance and conducted reflective interviews with p",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Towards LLM-Empowered Knowledge Tracing via LLM-Student Hierarchical Behavior Alignment in Hyperbolic Space",
+      "url": "https://arxiv.org/abs/2602.22879v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-02-26T11:17:31.000Z",
+      "score": 50,
+      "summary_en": "Knowledge Tracing (KT) diagnoses students' concept mastery through continuous learning state monitoring in education.Existing methods primarily focus on studying behavioral sequences based on ID or textual information.While existing methods rely on ID-based sequences or shallow textual features, they often fail to capture (1) the hierarchical evolution of cognitive states and (2) individualized problem difficulty perception due to limited semantic modeling. Therefore, this paper proposes a Large Language Model Hyperbolic Aligned Knowledge Tracing(L-HAKT). First, the teacher agent deeply parses",
+      "summary_fr": "Knowledge Tracing (KT) diagnoses students' concept mastery through continuous learning state monitoring in education.Existing methods primarily focus on studying behavioral sequences based on ID or textual information.While existing methods rely on ID-based sequences or shallow textual features, they often fail to capture (1) the hierarchical evolution of cognitive states and (2) individualized problem difficulty perception due to limited semantic modeling. Therefore, this paper proposes a Large Language Model Hyperbolic Aligned Knowledge Tracing(L-HAKT). First, the teacher agent deeply parses",
+      "resume_fr": "Knowledge Tracing (KT) diagnoses students' concept mastery through continuous learning state monitoring in education.Existing methods primarily focus on studying behavioral sequences based on ID or textual information.While existing methods rely on ID-based sequences or shallow textual features, they often fail to capture (1) the hierarchical evolution of cognitive states and (2) individualized problem difficulty perception due to limited semantic modeling. Therefore, this paper proposes a Large Language Model Hyperbolic Aligned Knowledge Tracing(L-HAKT). First, the teacher agent deeply parses",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Codesigning Ripplet: an LLM-Assisted Assessment Authoring System Grounded in a Conceptual Model of Teachers' Workflows",
+      "url": "https://arxiv.org/abs/2602.22186v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-02-25T18:30:44.000Z",
+      "score": 50,
+      "summary_en": "Assessments are critical in education, but creating them can be difficult. To address this challenge in a grounded way, we partnered with 13 teachers in a seven-month codesign process. We developed a conceptual model that characterizes the iterative dual process where teachers develop assessments while simultaneously refining requirements. To enact this model in practice, we built Ripplet, a web-based tool with multilevel reusable interactions to support assessment authoring. The extended codesign revealed that Ripplet enabled teachers to create formative assessments they would not have otherw",
+      "summary_fr": "Assessments are critical in education, but creating them can be difficult. To address this challenge in a grounded way, we partnered with 13 teachers in a seven-month codesign process. We developed a conceptual model that characterizes the iterative dual process where teachers develop assessments while simultaneously refining requirements. To enact this model in practice, we built Ripplet, a web-based tool with multilevel reusable interactions to support assessment authoring. The extended codesign revealed that Ripplet enabled teachers to create formative assessments they would not have otherw",
+      "resume_fr": "Assessments are critical in education, but creating them can be difficult. To address this challenge in a grounded way, we partnered with 13 teachers in a seven-month codesign process. We developed a conceptual model that characterizes the iterative dual process where teachers develop assessments while simultaneously refining requirements. To enact this model in practice, we built Ripplet, a web-based tool with multilevel reusable interactions to support assessment authoring. The extended codesign revealed that Ripplet enabled teachers to create formative assessments they would not have otherw",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Dynamic Personality Adaptation in Large Language Models via State Machines",
+      "url": "https://arxiv.org/abs/2602.22157v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-02-25T18:05:11.000Z",
+      "score": 50,
+      "summary_en": "The inability of Large Language Models (LLMs) to modulate their personality expression in response to evolving dialogue dynamics hinders their performance in complex, interactive contexts. We propose a model-agnostic framework for dynamic personality simulation that employs state machines to represent latent personality states, where transition probabilities are dynamically adapted to the conversational context. Part of our architecture is a modular pipeline for continuous personality scoring that evaluates dialogues along latent axes while remaining agnostic to the specific personality models",
+      "summary_fr": "The inability of Large Language Models (LLMs) to modulate their personality expression in response to evolving dialogue dynamics hinders their performance in complex, interactive contexts. We propose a model-agnostic framework for dynamic personality simulation that employs state machines to represent latent personality states, where transition probabilities are dynamically adapted to the conversational context. Part of our architecture is a modular pipeline for continuous personality scoring that evaluates dialogues along latent axes while remaining agnostic to the specific personality models",
+      "resume_fr": "The inability of Large Language Models (LLMs) to modulate their personality expression in response to evolving dialogue dynamics hinders their performance in complex, interactive contexts. We propose a model-agnostic framework for dynamic personality simulation that employs state machines to represent latent personality states, where transition probabilities are dynamically adapted to the conversational context. Part of our architecture is a modular pipeline for continuous personality scoring that evaluates dialogues along latent axes while remaining agnostic to the specific personality models",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "A Generalized Apprenticeship Learning Framework for Capturing Evolving Student Pedagogical Strategies",
+      "url": "https://arxiv.org/abs/2602.20527v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-02-24T04:08:31.000Z",
+      "score": 100,
+      "summary_en": "Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL) have advanced rapidly in recent years and have been successfully applied to e-learning environments like intelligent tutoring systems (ITSs). Despite great success, the broader application of DRL to educational technologies has been limited due to major challenges such as sample inefficiency and difficulty designing the reward function. In contrast, Apprenticeship Learning (AL) uses a few expert demonstrations to infer the expert's underlying reward functions and derive decision-making policies that generalize and replicate opti",
+      "summary_fr": "Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL) have advanced rapidly in recent years and have been successfully applied to e-learning environments like intelligent tutoring systems (ITSs). Despite great success, the broader application of DRL to educational technologies has been limited due to major challenges such as sample inefficiency and difficulty designing the reward function. In contrast, Apprenticeship Learning (AL) uses a few expert demonstrations to infer the expert's underlying reward functions and derive decision-making policies that generalize and replicate opti",
+      "resume_fr": "Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL) have advanced rapidly in recent years and have been successfully applied to e-learning environments like intelligent tutoring systems (ITSs). Despite great success, the broader application of DRL to educational technologies has been limited due to major challenges such as sample inefficiency and difficulty designing the reward function. In contrast, Apprenticeship Learning (AL) uses a few expert demonstrations to infer the expert's underlying reward functions and derive decision-making policies that generalize and replicate opti",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Algeria’s Tamazight Policy and the challenge of home-language instruction in Africa",
+      "url": "https://world-education-blog.org/2026/02/20/algerias-tamazight-policy-and-the-challenge-of-home-language-instruction-in-africa/",
+      "source": "UNESCO GEM – World Education Blog",
+      "published": "2026-02-20T11:34:39.000Z",
+      "score": 65,
+      "summary_en": "By Siham Rouabah, University of Southampton Today, on International Mother Language Day, a moment dedicated to recognising linguistic diversity as a foundation for sustainable development, it is worth reflecting on the profound difference that learning in one’s mother tongue can make. The 2025 Spotlight Report on basic education and foundational learning in Africa examines policies that promote home languages […] The post Algeria’s Tamazight Policy and the challenge of home-language instruction in Africa appeared first on World Education Blog.",
+      "summary_fr": "By Siham Rouabah, University of Southampton Today, on International Mother Language Day, a moment dedicated to recognising linguistic diversity as a foundation for sustainable development, it is worth reflecting on the profound difference that learning in one’s mother tongue can make. The 2025 Spotlight Report on basic education and foundational learning in Africa examines policies that promote home languages […] The post Algeria’s Tamazight Policy and the challenge of home-language instruction in Africa appeared first on World Education Blog.",
+      "resume_fr": "By Siham Rouabah, University of Southampton Today, on International Mother Language Day, a moment dedicated to recognising linguistic diversity as a foundation for sustainable development, it is worth reflecting on the profound difference that learning in one’s mother tongue can make. The 2025 Spotlight Report on basic education and foundational learning in Africa examines policies that promote home languages […] The post Algeria’s Tamazight Policy and the challenge of home-language instruction in Africa appeared first on World Education Blog.",
+      "tags": [],
+      "breakdown": {
+        "research": 0,
+        "policy": 35,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=15, Impact=15.",
+      "image": "https://world-education-blog.org/wp-content/uploads/2026/02/UNI74910.jpg"
+    },
     {
       "title": "Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents",
       "url": "https://arxiv.org/abs/2602.16699v1",
@@ -1062,177 +1233,6 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Endogenous Resistance to Activation Steering in Language Models",
-      "url": "https://arxiv.org/abs/2602.06941v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-02-06T18:41:12.000Z",
-      "score": 70,
-      "summary_en": "Large language models can resist task-misaligned activation steering during inference, sometimes recovering mid-generation to produce improved responses even when steering remains active. We term this Endogenous Steering Resistance (ESR). Using sparse autoencoder (SAE) latents to steer model activations, we find that Llama-3.3-70B shows substantial ESR, while smaller models from the Llama-3 and Gemma-2 families exhibit the phenomenon less frequently. We identify 26 SAE latents that activate differentially during off-topic content and are causally linked to ESR in Llama-3.3-70B. Zero-ablating t",
-      "summary_fr": "Large language models can resist task-misaligned activation steering during inference, sometimes recovering mid-generation to produce improved responses even when steering remains active. We term this Endogenous Steering Resistance (ESR). Using sparse autoencoder (SAE) latents to steer model activations, we find that Llama-3.3-70B shows substantial ESR, while smaller models from the Llama-3 and Gemma-2 families exhibit the phenomenon less frequently. We identify 26 SAE latents that activate differentially during off-topic content and are causally linked to ESR in Llama-3.3-70B. Zero-ablating t",
-      "resume_fr": "Large language models can resist task-misaligned activation steering during inference, sometimes recovering mid-generation to produce improved responses even when steering remains active. We term this Endogenous Steering Resistance (ESR). Using sparse autoencoder (SAE) latents to steer model activations, we find that Llama-3.3-70B shows substantial ESR, while smaller models from the Llama-3 and Gemma-2 families exhibit the phenomenon less frequently. We identify 26 SAE latents that activate differentially during off-topic content and are causally linked to ESR in Llama-3.3-70B. Zero-ablating t",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Video Friday: Autonomous Robots Learn By Doing in This Factory",
-      "url": "https://spectrum.ieee.org/autonomous-warehouse-robots",
-      "source": "IEEE Spectrum – AI",
-      "published": "2026-02-06T17:00:02.000Z",
-      "score": 70,
-      "summary_en": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. ICRA 2026: 1–5 June 2026, VIENNA Enjoy today’s videos! To train the next generation of autonomous robots, scientists at Toyota Research Institute are working with Toyota Manufacturing to deploy them on the factory floor. [ Toyota Research Institute ] Thanks, Erin! This is just one story (of many) about how we tried, failed, and learned how to improve ou",
-      "summary_fr": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. ICRA 2026: 1–5 June 2026, VIENNA Enjoy today’s videos! To train the next generation of autonomous robots, scientists at Toyota Research Institute are working with Toyota Manufacturing to deploy them on the factory floor. [ Toyota Research Institute ] Thanks, Erin! This is just one story (of many) about how we tried, failed, and learned how to improve ou",
-      "resume_fr": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. ICRA 2026: 1–5 June 2026, VIENNA Enjoy today’s videos! To train the next generation of autonomous robots, scientists at Toyota Research Institute are working with Toyota Manufacturing to deploy them on the factory floor. [ Toyota Research Institute ] Thanks, Erin! This is just one story (of many) about how we tried, failed, and learned how to improve ou",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://spectrum.ieee.org/media-library/image.png?id=63907821&width=1200&height=600&coordinates=0%2C110%2C0%2C110"
-    },
-    {
-      "title": "ClassAid: A Real-time Instructor-AI-Student Orchestration System for Classroom Programming Activities",
-      "url": "https://arxiv.org/abs/2602.06734v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-02-06T14:29:32.000Z",
-      "score": 100,
-      "summary_en": "Generative AI is reshaping education, but it also raises concerns about instability and overreliance. In programming classrooms, we aim to leverage its feedback capabilities while reinforcing the educator's role in guiding student-AI interactions. We developed ClassAid, a real-time orchestration system that integrates TA Agents to provide personalized support and an AI-driven dashboard that visualizes student-AI interactions, enabling instructors to dynamically adjust TA Agent modes. Instructors can configure the Agent to provide technical feedback (direct coding solutions), heuristic feedback",
-      "summary_fr": "Generative AI is reshaping education, but it also raises concerns about instability and overreliance. In programming classrooms, we aim to leverage its feedback capabilities while reinforcing the educator's role in guiding student-AI interactions. We developed ClassAid, a real-time orchestration system that integrates TA Agents to provide personalized support and an AI-driven dashboard that visualizes student-AI interactions, enabling instructors to dynamically adjust TA Agent modes. Instructors can configure the Agent to provide technical feedback (direct coding solutions), heuristic feedback",
-      "resume_fr": "Generative AI is reshaping education, but it also raises concerns about instability and overreliance. In programming classrooms, we aim to leverage its feedback capabilities while reinforcing the educator's role in guiding student-AI interactions. We developed ClassAid, a real-time orchestration system that integrates TA Agents to provide personalized support and an AI-driven dashboard that visualizes student-AI interactions, enabling instructors to dynamically adjust TA Agent modes. Instructors can configure the Agent to provide technical feedback (direct coding solutions), heuristic feedback",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Identifying spatial single-cell-level interactions with graph transformer",
-      "url": "https://www.nature.com/articles/s42256-026-01191-2",
-      "source": "Nature Machine Intelligence",
-      "published": "2026-02-06T00:00:00.000Z",
-      "score": 85,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=0.",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-026-01191-2/MediaObjects/42256_2026_1191_Fig1_HTML.png"
-    },
-    {
-      "title": "Can vision language models learn intuitive physics from interaction?",
-      "url": "https://arxiv.org/abs/2602.06033v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-02-05T18:59:20.000Z",
-      "score": 70,
-      "summary_en": "Pre-trained vision language models do not have good intuitions about the physical world. Recent work has shown that supervised fine-tuning can improve model performance on simple physical tasks. However, fine-tuned models do not appear to learn robust physical rules that can generalize to new contexts. Based on research in cognitive science, we hypothesize that models need to interact with an environment to properly learn its physical dynamics. We train models that learn through interaction with the environment using reinforcement learning. While learning from interaction allows models to impr",
-      "summary_fr": "Pre-trained vision language models do not have good intuitions about the physical world. Recent work has shown that supervised fine-tuning can improve model performance on simple physical tasks. However, fine-tuned models do not appear to learn robust physical rules that can generalize to new contexts. Based on research in cognitive science, we hypothesize that models need to interact with an environment to properly learn its physical dynamics. We train models that learn through interaction with the environment using reinforcement learning. While learning from interaction allows models to impr",
-      "resume_fr": "Pre-trained vision language models do not have good intuitions about the physical world. Recent work has shown that supervised fine-tuning can improve model performance on simple physical tasks. However, fine-tuned models do not appear to learn robust physical rules that can generalize to new contexts. Based on research in cognitive science, we hypothesize that models need to interact with an environment to properly learn its physical dynamics. We train models that learn through interaction with the environment using reinforcement learning. While learning from interaction allows models to impr",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Curiosity is Knowledge: Self-Consistent Learning and No-Regret Optimization with Active Inference",
-      "url": "https://arxiv.org/abs/2602.06029v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-02-05T18:58:32.000Z",
-      "score": 70,
-      "summary_en": "Active inference (AIF) unifies exploration and exploitation by minimizing the Expected Free Energy (EFE), balancing epistemic value (information gain) and pragmatic value (task performance) through a curiosity coefficient. Yet it has been unclear when this balance yields both coherent learning and efficient decision-making: insufficient curiosity can drive myopic exploitation and prevent uncertainty resolution, while excessive curiosity can induce unnecessary exploration and regret. We establish the first theoretical guarantee for EFE-minimizing agents, showing that a single requirement--suffi",
-      "summary_fr": "Active inference (AIF) unifies exploration and exploitation by minimizing the Expected Free Energy (EFE), balancing epistemic value (information gain) and pragmatic value (task performance) through a curiosity coefficient. Yet it has been unclear when this balance yields both coherent learning and efficient decision-making: insufficient curiosity can drive myopic exploitation and prevent uncertainty resolution, while excessive curiosity can induce unnecessary exploration and regret. We establish the first theoretical guarantee for EFE-minimizing agents, showing that a single requirement--suffi",
-      "resume_fr": "Active inference (AIF) unifies exploration and exploitation by minimizing the Expected Free Energy (EFE), balancing epistemic value (information gain) and pragmatic value (task performance) through a curiosity coefficient. Yet it has been unclear when this balance yields both coherent learning and efficient decision-making: insufficient curiosity can drive myopic exploitation and prevent uncertainty resolution, while excessive curiosity can induce unnecessary exploration and regret. We establish the first theoretical guarantee for EFE-minimizing agents, showing that a single requirement--suffi",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "A Systematic Evaluation of Large Language Models for PTSD Severity Estimation: The Role of Contextual Knowledge and Modeling Strategies",
-      "url": "https://arxiv.org/abs/2602.06015v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-02-05T18:53:17.000Z",
-      "score": 50,
-      "summary_en": "Large language models (LLMs) are increasingly being used in a zero-shot fashion to assess mental health conditions, yet we have limited knowledge on what factors affect their accuracy. In this study, we utilize a clinical dataset of natural language narratives and self-reported PTSD severity scores from 1,437 individuals to comprehensively evaluate the performance of 11 state-of-the-art LLMs. To understand the factors affecting accuracy, we systematically varied (i) contextual knowledge like subscale definitions, distribution summary, and interview questions, and (ii) modeling strategies inclu",
-      "summary_fr": "Large language models (LLMs) are increasingly being used in a zero-shot fashion to assess mental health conditions, yet we have limited knowledge on what factors affect their accuracy. In this study, we utilize a clinical dataset of natural language narratives and self-reported PTSD severity scores from 1,437 individuals to comprehensively evaluate the performance of 11 state-of-the-art LLMs. To understand the factors affecting accuracy, we systematically varied (i) contextual knowledge like subscale definitions, distribution summary, and interview questions, and (ii) modeling strategies inclu",
-      "resume_fr": "Large language models (LLMs) are increasingly being used in a zero-shot fashion to assess mental health conditions, yet we have limited knowledge on what factors affect their accuracy. In this study, we utilize a clinical dataset of natural language narratives and self-reported PTSD severity scores from 1,437 individuals to comprehensively evaluate the performance of 11 state-of-the-art LLMs. To understand the factors affecting accuracy, we systematically varied (i) contextual knowledge like subscale definitions, distribution summary, and interview questions, and (ii) modeling strategies inclu",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Prompting Destiny: Negotiating Socialization and Growth in an LLM-Mediated Speculative Gameworld",
-      "url": "https://arxiv.org/abs/2602.05864v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-02-05T16:44:44.000Z",
-      "score": 50,
-      "summary_en": "We present an LLM-mediated role-playing game that supports reflection on socialization, moral responsibility, and educational role positioning. Grounded in socialization theory, the game follows a four-season structure in which players guide a child prince through morally charged situations and compare the LLM-mediated NPC's differentiated responses across stages, helping them reason about how educational guidance shifts with socialization. To approximate real educational contexts and reduce score-chasing, the system hides real-time evaluative scores and provides delayed, end-of-stage growth f",
-      "summary_fr": "We present an LLM-mediated role-playing game that supports reflection on socialization, moral responsibility, and educational role positioning. Grounded in socialization theory, the game follows a four-season structure in which players guide a child prince through morally charged situations and compare the LLM-mediated NPC's differentiated responses across stages, helping them reason about how educational guidance shifts with socialization. To approximate real educational contexts and reduce score-chasing, the system hides real-time evaluative scores and provides delayed, end-of-stage growth f",
-      "resume_fr": "We present an LLM-mediated role-playing game that supports reflection on socialization, moral responsibility, and educational role positioning. Grounded in socialization theory, the game follows a four-season structure in which players guide a child prince through morally charged situations and compare the LLM-mediated NPC's differentiated responses across stages, helping them reason about how educational guidance shifts with socialization. To approximate real educational contexts and reduce score-chasing, the system hides real-time evaluative scores and provides delayed, end-of-stage growth f",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "\"It Talks Like a Patient, But Feels Different\": Co-Designing AI Standardized Patients with Medical Learners",
-      "url": "https://arxiv.org/abs/2602.05856v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-02-05T16:38:51.000Z",
-      "score": 85,
-      "summary_en": "Standardized patients (SPs) play a central role in clinical communication training but are costly, difficult to scale, and inconsistent. Large language model (LLM) based AI standardized patients (AI-SPs) promise flexible, on-demand practice, yet learners often report that they talk like a patient but feel different. We interviewed 12 clinical-year medical students and conducted three co-design workshops to examine how learners experience constraints of SP encounters and what they expect from AI-SPs. We identified six learner-centered needs, translated them into AI-SP design requirements, and s",
-      "summary_fr": "Standardized patients (SPs) play a central role in clinical communication training but are costly, difficult to scale, and inconsistent. Large language model (LLM) based AI standardized patients (AI-SPs) promise flexible, on-demand practice, yet learners often report that they talk like a patient but feel different. We interviewed 12 clinical-year medical students and conducted three co-design workshops to examine how learners experience constraints of SP encounters and what they expect from AI-SPs. We identified six learner-centered needs, translated them into AI-SP design requirements, and s",
-      "resume_fr": "Standardized patients (SPs) play a central role in clinical communication training but are costly, difficult to scale, and inconsistent. Large language model (LLM) based AI standardized patients (AI-SPs) promise flexible, on-demand practice, yet learners often report that they talk like a patient but feel different. We interviewed 12 clinical-year medical students and conducted three co-design workshops to examine how learners experience constraints of SP encounters and what they expect from AI-SPs. We identified six learner-centered needs, translated them into AI-SP design requirements, and s",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
     }
   ]
