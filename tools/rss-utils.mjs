@@ -14,8 +14,10 @@ export function canonicalUrl(u) {
 }
 
 export async function discoverFeed(pageUrl) {
+  const ctrl = new AbortController();
+  const tid = setTimeout(() => ctrl.abort(), 10000);
   try {
-    const res = await fetch(pageUrl, { headers: { "User-Agent": "EduNewsBot/1.0" } });
+    const res = await fetch(pageUrl, { signal: ctrl.signal, headers: { "User-Agent": "EduNewsBot/1.0" } });
     const ct = res.headers.get("content-type") || "";
     if (!ct.includes("text/html")) return null;
     const html = await res.text();
@@ -29,14 +31,14 @@ export async function discoverFeed(pageUrl) {
 
     // WP heuristic: /feed/
     try {
-      const guess = new URL(pageUrl);
       const feed = `${guess.origin}${guess.pathname.replace(/\/$/, "")}/feed/`;
-      const head = await fetch(feed, { method: "HEAD" });
+      const head = await fetch(feed, { method: "HEAD", signal: ctrl.signal });
       if (head.ok) return feed;
     } catch {}
 
     return null;
   } catch { return null; }
+  finally { clearTimeout(tid); }
 }
 
 export async function readFeedMaybe(source) {
