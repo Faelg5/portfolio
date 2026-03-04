@@ -78,6 +78,7 @@ jobs:
             npm i
           fi
           npm i --no-save rss-parser openai cheerio
+        continue-on-error: true
 
       # Décode policy_overrides JSON => exporte NEWS_LABEL_POLICY / NEWS_DESC_POLICY / NEWS_KEYS_POLICY
       - name: Apply policy overrides (optional)
