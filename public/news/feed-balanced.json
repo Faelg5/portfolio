@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-02-28T06:55:46.326Z",
-  "model": "gpt-5",
+  "generatedAt": "2026-03-04T13:31:29.471Z",
+  "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
   "totalAnalyzed": 100,
@@ -95,6 +95,196 @@
     }
   },
   "items": [
+    {
+      "title": "CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance",
+      "url": "https://arxiv.org/abs/2603.03281v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-03-03T18:59:48.000Z",
+      "score": 70,
+      "summary_en": "Classifier-Free Guidance (CFG) has emerged as a central approach for enhancing semantic alignment in flow-based diffusion models. In this paper, we explore a unified framework called CFG-Ctrl, which reinterprets CFG as a control applied to the first-order continuous-time generative flow, using the conditional-unconditional discrepancy as an error signal to adjust the velocity field. From this perspective, we summarize vanilla CFG as a proportional controller (P-control) with fixed gain, and typical follow-up variants develop extended control-law designs derived from it. However, existing metho",
+      "summary_fr": "Classifier-Free Guidance (CFG) has emerged as a central approach for enhancing semantic alignment in flow-based diffusion models. In this paper, we explore a unified framework called CFG-Ctrl, which reinterprets CFG as a control applied to the first-order continuous-time generative flow, using the conditional-unconditional discrepancy as an error signal to adjust the velocity field. From this perspective, we summarize vanilla CFG as a proportional controller (P-control) with fixed gain, and typical follow-up variants develop extended control-law designs derived from it. However, existing metho",
+      "resume_fr": "Classifier-Free Guidance (CFG) has emerged as a central approach for enhancing semantic alignment in flow-based diffusion models. In this paper, we explore a unified framework called CFG-Ctrl, which reinterprets CFG as a control applied to the first-order continuous-time generative flow, using the conditional-unconditional discrepancy as an error signal to adjust the velocity field. From this perspective, we summarize vanilla CFG as a proportional controller (P-control) with fixed gain, and typical follow-up variants develop extended control-law designs derived from it. However, existing metho",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Learning Demographic-Conditioned Mobility Trajectories with Aggregate Supervision",
+      "url": "https://arxiv.org/abs/2603.03275v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-03-03T18:57:44.000Z",
+      "score": 50,
+      "summary_en": "Human mobility trajectories are widely studied in public health and social science, where different demographic groups exhibit significantly different mobility patterns. However, existing trajectory generation models rarely capture this heterogeneity because most trajectory datasets lack demographic labels. To address this gap in data, we propose ATLAS, a weakly supervised approach for demographic-conditioned trajectory generation using only (i) individual trajectories without demographic labels, (ii) region-level aggregated mobility features, and (iii) region-level demographic compositions fr",
+      "summary_fr": "Human mobility trajectories are widely studied in public health and social science, where different demographic groups exhibit significantly different mobility patterns. However, existing trajectory generation models rarely capture this heterogeneity because most trajectory datasets lack demographic labels. To address this gap in data, we propose ATLAS, a weakly supervised approach for demographic-conditioned trajectory generation using only (i) individual trajectories without demographic labels, (ii) region-level aggregated mobility features, and (iii) region-level demographic compositions fr",
+      "resume_fr": "Human mobility trajectories are widely studied in public health and social science, where different demographic groups exhibit significantly different mobility patterns. However, existing trajectory generation models rarely capture this heterogeneity because most trajectory datasets lack demographic labels. To address this gap in data, we propose ATLAS, a weakly supervised approach for demographic-conditioned trajectory generation using only (i) individual trajectories without demographic labels, (ii) region-level aggregated mobility features, and (iii) region-level demographic compositions fr",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use",
+      "url": "https://arxiv.org/abs/2603.03205v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-03-03T17:59:35.000Z",
+      "score": 70,
+      "summary_en": "Agentic language models operate in a fundamentally different safety regime than chat models: they must plan, call tools, and execute long-horizon actions where a single misstep, such as accessing files or entering credentials, can cause irreversible harm. Existing alignment methods, largely optimized for static generation and task completion, break down in these settings due to sequential decision-making, adversarial tool feedback, and overconfident intermediate reasoning. We introduce MOSAIC, a post-training framework that aligns agents for safe multi-step tool use by making safety decisions ",
+      "summary_fr": "Agentic language models operate in a fundamentally different safety regime than chat models: they must plan, call tools, and execute long-horizon actions where a single misstep, such as accessing files or entering credentials, can cause irreversible harm. Existing alignment methods, largely optimized for static generation and task completion, break down in these settings due to sequential decision-making, adversarial tool feedback, and overconfident intermediate reasoning. We introduce MOSAIC, a post-training framework that aligns agents for safe multi-step tool use by making safety decisions ",
+      "resume_fr": "Agentic language models operate in a fundamentally different safety regime than chat models: they must plan, call tools, and execute long-horizon actions where a single misstep, such as accessing files or entering credentials, can cause irreversible harm. Existing alignment methods, largely optimized for static generation and task completion, break down in these settings due to sequential decision-making, adversarial tool feedback, and overconfident intermediate reasoning. We introduce MOSAIC, a post-training framework that aligns agents for safe multi-step tool use by making safety decisions ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "An HCI Perspective on Sustainable GenAI Integration in Architectural Design Education",
+      "url": "https://arxiv.org/abs/2603.03059v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-03T14:55:33.000Z",
+      "score": 50,
+      "summary_en": "Generative AI (genAI) is increasingly influencing architectural design practice and is expected to affect, or even transform, the profession, even though its benefits and costs remain unresolved. In response, design schools are increasingly integrating genAI into their curricula. Yet this integration creates a paradox: critical engagement with genAI often requires increased use of the tools in question, despite limited methods for estimating their environmental cost in teaching contexts. In this paper, we argue that HCI offers a useful methodological lens for addressing this tension. We propos",
+      "summary_fr": "Generative AI (genAI) is increasingly influencing architectural design practice and is expected to affect, or even transform, the profession, even though its benefits and costs remain unresolved. In response, design schools are increasingly integrating genAI into their curricula. Yet this integration creates a paradox: critical engagement with genAI often requires increased use of the tools in question, despite limited methods for estimating their environmental cost in teaching contexts. In this paper, we argue that HCI offers a useful methodological lens for addressing this tension. We propos",
+      "resume_fr": "Generative AI (genAI) is increasingly influencing architectural design practice and is expected to affect, or even transform, the profession, even though its benefits and costs remain unresolved. In response, design schools are increasingly integrating genAI into their curricula. Yet this integration creates a paradox: critical engagement with genAI often requires increased use of the tools in question, despite limited methods for estimating their environmental cost in teaching contexts. In this paper, we argue that HCI offers a useful methodological lens for addressing this tension. We propos",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Changing Pedagogical Paradigms: Integrating Generative AI in Mathematics to Enhance Digital Literacy through 'Mathematical Battles with AI'",
+      "url": "https://arxiv.org/abs/2603.02955v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-03T13:08:03.000Z",
+      "score": 50,
+      "summary_en": "This paper introduces `Math Battles with AI', an innovative competitive format designed at ITMO University to redefine the role of generative AI in mathematics education. Moving away from a purely defensive stance, the authors propose an AI agent with intentionally increased hallucination likelihood in specific modes to train verification skills. We describe the three-stage tournament structure and a specialized assessment system that rewards critical verification over blind reliance. Initial results indicate a significant shift in student mindsets, fostering essential skills in digital hygien",
+      "summary_fr": "This paper introduces `Math Battles with AI', an innovative competitive format designed at ITMO University to redefine the role of generative AI in mathematics education. Moving away from a purely defensive stance, the authors propose an AI agent with intentionally increased hallucination likelihood in specific modes to train verification skills. We describe the three-stage tournament structure and a specialized assessment system that rewards critical verification over blind reliance. Initial results indicate a significant shift in student mindsets, fostering essential skills in digital hygien",
+      "resume_fr": "This paper introduces `Math Battles with AI', an innovative competitive format designed at ITMO University to redefine the role of generative AI in mathematics education. Moving away from a purely defensive stance, the authors propose an AI agent with intentionally increased hallucination likelihood in specific modes to train verification skills. We describe the three-stage tournament structure and a specialized assessment system that rewards critical verification over blind reliance. Initial results indicate a significant shift in student mindsets, fostering essential skills in digital hygien",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Faster, Cheaper, More Accurate: Specialised Knowledge Tracing Models Outperform LLMs",
+      "url": "https://arxiv.org/abs/2603.02830v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-03-03T10:25:52.000Z",
+      "score": 50,
+      "summary_en": "Predicting future student responses to questions is particularly valuable for educational learning platforms where it enables effective interventions. One of the key approaches to do this has been through the use of knowledge tracing (KT) models. These are small, domain-specific, temporal models trained on student question-response data. KT models are optimised for high accuracy on specific educational domains and have fast inference and scalable deployments. The rise of Large Language Models (LLMs) motivates us to ask the following questions: (1) How well can LLMs perform at predicting studen",
+      "summary_fr": "Predicting future student responses to questions is particularly valuable for educational learning platforms where it enables effective interventions. One of the key approaches to do this has been through the use of knowledge tracing (KT) models. These are small, domain-specific, temporal models trained on student question-response data. KT models are optimised for high accuracy on specific educational domains and have fast inference and scalable deployments. The rise of Large Language Models (LLMs) motivates us to ask the following questions: (1) How well can LLMs perform at predicting studen",
+      "resume_fr": "Predicting future student responses to questions is particularly valuable for educational learning platforms where it enables effective interventions. One of the key approaches to do this has been through the use of knowledge tracing (KT) models. These are small, domain-specific, temporal models trained on student question-response data. KT models are optimised for high accuracy on specific educational domains and have fast inference and scalable deployments. The rise of Large Language Models (LLMs) motivates us to ask the following questions: (1) How well can LLMs perform at predicting studen",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Demonstrating ViviDoc: Generating Interactive Documents through Human-Agent Collaboration",
+      "url": "https://arxiv.org/abs/2603.01912v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-03-02T14:27:49.000Z",
+      "score": 85,
+      "summary_en": "Interactive articles help readers engage with complex ideas through exploration, yet creating them remains costly, requiring both domain expertise and web development skills. Recent LLM-based agents can automate content creation, but naively applying them yields uncontrollable and unverifiable outputs. We present ViviDoc, a human-agent collaborative system that generates interactive educational documents from a single topic input. ViviDoc introduces a multi-agent pipeline (Planner, Executor, Evaluator) and the Document Specification (DocSpec), a human-readable intermediate representation that ",
+      "summary_fr": "Interactive articles help readers engage with complex ideas through exploration, yet creating them remains costly, requiring both domain expertise and web development skills. Recent LLM-based agents can automate content creation, but naively applying them yields uncontrollable and unverifiable outputs. We present ViviDoc, a human-agent collaborative system that generates interactive educational documents from a single topic input. ViviDoc introduces a multi-agent pipeline (Planner, Executor, Evaluator) and the Document Specification (DocSpec), a human-readable intermediate representation that ",
+      "resume_fr": "Interactive articles help readers engage with complex ideas through exploration, yet creating them remains costly, requiring both domain expertise and web development skills. Recent LLM-based agents can automate content creation, but naively applying them yields uncontrollable and unverifiable outputs. We present ViviDoc, a human-agent collaborative system that generates interactive educational documents from a single topic input. ViviDoc introduces a multi-agent pipeline (Planner, Executor, Evaluator) and the Document Specification (DocSpec), a human-readable intermediate representation that ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Wakeful targeted memory reactivation during short rest periods modulates early motor learning",
+      "url": "https://www.nature.com/articles/s41539-026-00407-9",
+      "source": "npj Science of Learning (Nature)",
+      "published": "2026-03-02T00:00:00.000Z",
+      "score": 70,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
+    },
+    {
+      "title": "Sustainable Care: Designing Technologies That Support Children's Long-Term Engagement with Social Issues",
+      "url": "https://arxiv.org/abs/2603.00996v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-01T08:50:30.000Z",
+      "score": 65,
+      "summary_en": "Children today encounter social issues -- climate change, conflict, inequality -- through digital technologies, and the design of that encounter shapes whether young people move toward lasting civic engagement or toward anxiety and withdrawal. Much of the content children see is optimized for attention through fear and urgency, with few pathways toward meaningful action -- contributing to rising distress and disengagement among young people who care deeply but feel powerless to act. This full-day workshop introduces ``sustainable care'' as a design lens, asking how technology might support chi",
+      "summary_fr": "Children today encounter social issues -- climate change, conflict, inequality -- through digital technologies, and the design of that encounter shapes whether young people move toward lasting civic engagement or toward anxiety and withdrawal. Much of the content children see is optimized for attention through fear and urgency, with few pathways toward meaningful action -- contributing to rising distress and disengagement among young people who care deeply but feel powerless to act. This full-day workshop introduces ``sustainable care'' as a design lens, asking how technology might support chi",
+      "resume_fr": "Children today encounter social issues -- climate change, conflict, inequality -- through digital technologies, and the design of that encounter shapes whether young people move toward lasting civic engagement or toward anxiety and withdrawal. Much of the content children see is optimized for attention through fear and urgency, with few pathways toward meaningful action -- contributing to rising distress and disengagement among young people who care deeply but feel powerless to act. This full-day workshop introduces ``sustainable care'' as a design lens, asking how technology might support chi",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "title": "Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact",
+      "url": "https://arxiv.org/abs/2603.00883v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-03-01T03:05:46.000Z",
+      "score": 85,
+      "summary_en": "LLMs increasingly excel on AI benchmarks, but doing so does not guarantee validity for downstream tasks. This study evaluates the performance of leading foundation models (FMs, i.e., generative pre-trained base LLMs) with out-of-distribution (OOD) tasks of the teaching and learning of schoolchildren. Across all FMs, inter-model behaviors on disparate tasks correlate higher than they do with expert human behaviors on target tasks. These biases shared across LLMs are poorly aligned with downstream measures of teaching quality and often \\textit{negatively aligned with learning outcomes}. Further,",
+      "summary_fr": "LLMs increasingly excel on AI benchmarks, but doing so does not guarantee validity for downstream tasks. This study evaluates the performance of leading foundation models (FMs, i.e., generative pre-trained base LLMs) with out-of-distribution (OOD) tasks of the teaching and learning of schoolchildren. Across all FMs, inter-model behaviors on disparate tasks correlate higher than they do with expert human behaviors on target tasks. These biases shared across LLMs are poorly aligned with downstream measures of teaching quality and often \\textit{negatively aligned with learning outcomes}. Further,",
+      "resume_fr": "LLMs increasingly excel on AI benchmarks, but doing so does not guarantee validity for downstream tasks. This study evaluates the performance of leading foundation models (FMs, i.e., generative pre-trained base LLMs) with out-of-distribution (OOD) tasks of the teaching and learning of schoolchildren. Across all FMs, inter-model behaviors on disparate tasks correlate higher than they do with expert human behaviors on target tasks. These biases shared across LLMs are poorly aligned with downstream measures of teaching quality and often \\textit{negatively aligned with learning outcomes}. Further,",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
     {
       "title": "This Startup Makes Access to Rehabilitation Facilities Easier",
       "url": "https://spectrum.ieee.org/carenector-health-care-startup",
@@ -1035,196 +1225,6 @@
       "summary_en": "We study how individual training examples shape the internal computation of looped transformers, where a shared block is applied for $τ$ recurrent iterations to enable latent reasoning. Existing training-data influence estimators such as TracIn yield a single scalar score that aggregates over all loop iterations, obscuring when during the recurrent computation a training example matters. We introduce \\textit{Step-Decomposed Influence (SDI)}, which decomposes TracIn into a length-$τ$ influence trajectory by unrolling the recurrent computation graph and attributing influence to specific loop ite",
       "summary_fr": "We study how individual training examples shape the internal computation of looped transformers, where a shared block is applied for $τ$ recurrent iterations to enable latent reasoning. Existing training-data influence estimators such as TracIn yield a single scalar score that aggregates over all loop iterations, obscuring when during the recurrent computation a training example matters. We introduce \\textit{Step-Decomposed Influence (SDI)}, which decomposes TracIn into a length-$τ$ influence trajectory by unrolling the recurrent computation graph and attributing influence to specific loop ite",
       "resume_fr": "We study how individual training examples shape the internal computation of looped transformers, where a shared block is applied for $τ$ recurrent iterations to enable latent reasoning. Existing training-data influence estimators such as TracIn yield a single scalar score that aggregates over all loop iterations, obscuring when during the recurrent computation a training example matters. We introduce \\textit{Step-Decomposed Influence (SDI)}, which decomposes TracIn into a length-$τ$ influence trajectory by unrolling the recurrent computation graph and attributing influence to specific loop ite",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Decoupled Reasoning with Implicit Fact Tokens (DRIFT): A Dual-Model Framework for Efficient Long-Context Inference",
-      "url": "https://arxiv.org/abs/2602.10021v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-02-10T17:42:31.000Z",
-      "score": 70,
-      "summary_en": "The integration of extensive, dynamic knowledge into Large Language Models (LLMs) remains a significant challenge due to the inherent entanglement of factual data and reasoning patterns. Existing solutions, ranging from non-parametric Retrieval-Augmented Generation (RAG) to parametric knowledge editing, are often constrained in practice by finite context windows, retriever noise, or the risk of catastrophic forgetting. In this paper, we propose DRIFT, a novel dual-model architecture designed to explicitly decouple knowledge extraction from the reasoning process. Unlike static prompt compressio",
-      "summary_fr": "The integration of extensive, dynamic knowledge into Large Language Models (LLMs) remains a significant challenge due to the inherent entanglement of factual data and reasoning patterns. Existing solutions, ranging from non-parametric Retrieval-Augmented Generation (RAG) to parametric knowledge editing, are often constrained in practice by finite context windows, retriever noise, or the risk of catastrophic forgetting. In this paper, we propose DRIFT, a novel dual-model architecture designed to explicitly decouple knowledge extraction from the reasoning process. Unlike static prompt compressio",
-      "resume_fr": "The integration of extensive, dynamic knowledge into Large Language Models (LLMs) remains a significant challenge due to the inherent entanglement of factual data and reasoning patterns. Existing solutions, ranging from non-parametric Retrieval-Augmented Generation (RAG) to parametric knowledge editing, are often constrained in practice by finite context windows, retriever noise, or the risk of catastrophic forgetting. In this paper, we propose DRIFT, a novel dual-model architecture designed to explicitly decouple knowledge extraction from the reasoning process. Unlike static prompt compressio",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Robustness Is a Function, Not a Number: A Factorized Comprehensive Study of OOD Robustness in Vision-Based Driving",
-      "url": "https://arxiv.org/abs/2602.09018v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-02-09T18:59:03.000Z",
-      "score": 70,
-      "summary_en": "Out of distribution (OOD) robustness in autonomous driving is often reduced to a single number, hiding what breaks a policy. We decompose environments along five axes: scene (rural/urban), season, weather, time (day/night), and agent mix; and measure performance under controlled $k$-factor perturbations ($k \\in \\{0,1,2,3\\}$). Using closed loop control in VISTA, we benchmark FC, CNN, and ViT policies, train compact ViT heads on frozen foundation-model (FM) features, and vary ID support in scale, diversity, and temporal context. (1) ViT policies are markedly more OOD-robust than comparably sized",
-      "summary_fr": "Out of distribution (OOD) robustness in autonomous driving is often reduced to a single number, hiding what breaks a policy. We decompose environments along five axes: scene (rural/urban), season, weather, time (day/night), and agent mix; and measure performance under controlled $k$-factor perturbations ($k \\in \\{0,1,2,3\\}$). Using closed loop control in VISTA, we benchmark FC, CNN, and ViT policies, train compact ViT heads on frozen foundation-model (FM) features, and vary ID support in scale, diversity, and temporal context. (1) ViT policies are markedly more OOD-robust than comparably sized",
-      "resume_fr": "Out of distribution (OOD) robustness in autonomous driving is often reduced to a single number, hiding what breaks a policy. We decompose environments along five axes: scene (rural/urban), season, weather, time (day/night), and agent mix; and measure performance under controlled $k$-factor perturbations ($k \\in \\{0,1,2,3\\}$). Using closed loop control in VISTA, we benchmark FC, CNN, and ViT policies, train compact ViT heads on frozen foundation-model (FM) features, and vary ID support in scale, diversity, and temporal context. (1) ViT policies are markedly more OOD-robust than comparably sized",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Contact-Anchored Policies: Contact Conditioning Creates Strong Robot Utility Models",
-      "url": "https://arxiv.org/abs/2602.09017v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-02-09T18:58:50.000Z",
-      "score": 85,
-      "summary_en": "The prevalent paradigm in robot learning attempts to generalize across environments, embodiments, and tasks with language prompts at runtime. A fundamental tension limits this approach: language is often too abstract to guide the concrete physical understanding required for robust manipulation. In this work, we introduce Contact-Anchored Policies (CAP), which replace language conditioning with points of physical contact in space. Simultaneously, we structure CAP as a library of modular utility models rather than a monolithic generalist policy. This factorization allows us to implement a real-t",
-      "summary_fr": "The prevalent paradigm in robot learning attempts to generalize across environments, embodiments, and tasks with language prompts at runtime. A fundamental tension limits this approach: language is often too abstract to guide the concrete physical understanding required for robust manipulation. In this work, we introduce Contact-Anchored Policies (CAP), which replace language conditioning with points of physical contact in space. Simultaneously, we structure CAP as a library of modular utility models rather than a monolithic generalist policy. This factorization allows us to implement a real-t",
-      "resume_fr": "The prevalent paradigm in robot learning attempts to generalize across environments, embodiments, and tasks with language prompts at runtime. A fundamental tension limits this approach: language is often too abstract to guide the concrete physical understanding required for robust manipulation. In this work, we introduce Contact-Anchored Policies (CAP), which replace language conditioning with points of physical contact in space. Simultaneously, we structure CAP as a library of modular utility models rather than a monolithic generalist policy. This factorization allows us to implement a real-t",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "ShapeCond: Fast Shapelet-Guided Dataset Condensation for Time Series Classification",
-      "url": "https://arxiv.org/abs/2602.09008v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-02-09T18:53:08.000Z",
-      "score": 50,
-      "summary_en": "Time series data supports many domains (e.g., finance and climate science), but its rapid growth strains storage and computation. Dataset condensation can alleviate this by synthesizing a compact training set that preserves key information. Yet most condensation methods are image-centric and often fail on time series because they miss time-series-specific temporal structure, especially local discriminative motifs such as shapelets. In this work, we propose ShapeCond, a novel and efficient condensation framework for time series classification that leverages shapelet-based dataset knowledge via ",
-      "summary_fr": "Time series data supports many domains (e.g., finance and climate science), but its rapid growth strains storage and computation. Dataset condensation can alleviate this by synthesizing a compact training set that preserves key information. Yet most condensation methods are image-centric and often fail on time series because they miss time-series-specific temporal structure, especially local discriminative motifs such as shapelets. In this work, we propose ShapeCond, a novel and efficient condensation framework for time series classification that leverages shapelet-based dataset knowledge via ",
-      "resume_fr": "Time series data supports many domains (e.g., finance and climate science), but its rapid growth strains storage and computation. Dataset condensation can alleviate this by synthesizing a compact training set that preserves key information. Yet most condensation methods are image-centric and often fail on time series because they miss time-series-specific temporal structure, especially local discriminative motifs such as shapelets. In this work, we propose ShapeCond, a novel and efficient condensation framework for time series classification that leverages shapelet-based dataset knowledge via ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "When Actions Go Off-Task: Detecting and Correcting Misaligned Actions in Computer-Use Agents",
-      "url": "https://arxiv.org/abs/2602.08995v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-02-09T18:41:15.000Z",
-      "score": 70,
-      "summary_en": "Computer-use agents (CUAs) have made tremendous progress in the past year, yet they still frequently produce misaligned actions that deviate from the user's original intent. Such misaligned actions may arise from external attacks (e.g., indirect prompt injection) or from internal limitations (e.g., erroneous reasoning). They not only expose CUAs to safety risks, but also degrade task efficiency and reliability. This work makes the first effort to define and study misaligned action detection in CUAs, with comprehensive coverage of both externally induced and internally arising misaligned action",
-      "summary_fr": "Computer-use agents (CUAs) have made tremendous progress in the past year, yet they still frequently produce misaligned actions that deviate from the user's original intent. Such misaligned actions may arise from external attacks (e.g., indirect prompt injection) or from internal limitations (e.g., erroneous reasoning). They not only expose CUAs to safety risks, but also degrade task efficiency and reliability. This work makes the first effort to define and study misaligned action detection in CUAs, with comprehensive coverage of both externally induced and internally arising misaligned action",
-      "resume_fr": "Computer-use agents (CUAs) have made tremendous progress in the past year, yet they still frequently produce misaligned actions that deviate from the user's original intent. Such misaligned actions may arise from external attacks (e.g., indirect prompt injection) or from internal limitations (e.g., erroneous reasoning). They not only expose CUAs to safety risks, but also degrade task efficiency and reliability. This work makes the first effort to define and study misaligned action detection in CUAs, with comprehensive coverage of both externally induced and internally arising misaligned action",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "The Vibe-Automation of Automation: A Proactive Education Framework for Computer Science in the Age of Generative AI",
-      "url": "https://arxiv.org/abs/2602.08295v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-02-09T06:02:04.000Z",
-      "score": 85,
-      "summary_en": "The emergence of generative artificial intelligence (GenAI) represents not an incremental technological advance but a qualitative epistemological shift that challenges foundational assumptions of computer science. Whereas machine learning has been described as the automation of automation, generative AI operates by navigating contextual, semantic, and stylistic coherence rather than optimizing predefined objective metrics. This paper introduces the concept of Vibe-Automation to characterize this transition. The central claim is that the significance of GenAI lies in its functional access to op",
-      "summary_fr": "The emergence of generative artificial intelligence (GenAI) represents not an incremental technological advance but a qualitative epistemological shift that challenges foundational assumptions of computer science. Whereas machine learning has been described as the automation of automation, generative AI operates by navigating contextual, semantic, and stylistic coherence rather than optimizing predefined objective metrics. This paper introduces the concept of Vibe-Automation to characterize this transition. The central claim is that the significance of GenAI lies in its functional access to op",
-      "resume_fr": "The emergence of generative artificial intelligence (GenAI) represents not an incremental technological advance but a qualitative epistemological shift that challenges foundational assumptions of computer science. Whereas machine learning has been described as the automation of automation, generative AI operates by navigating contextual, semantic, and stylistic coherence rather than optimizing predefined objective metrics. This paper introduces the concept of Vibe-Automation to characterize this transition. The central claim is that the significance of GenAI lies in its functional access to op",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Adding More Value Than Work: Practical Guidelines for Integrating Robots into Intercultural Competence Learning",
-      "url": "https://arxiv.org/abs/2602.08123v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-02-08T21:01:33.000Z",
-      "score": 85,
-      "summary_en": "While social robots have demonstrated effectiveness in supporting students' intercultural competence development, it is unclear how they can effectively be adopted for integrated use in K-12 schools. We conducted two phases of design workshops with teachers, where they co-designed robot-mediated intercultural activities while considering student needs and school integration concerns. Using thematic analysis, we identify appropriate scenarios and roles for classroom robots, explore how robots could complement rather than replace teachers, and consider how to address ethical and compliance consi",
-      "summary_fr": "While social robots have demonstrated effectiveness in supporting students' intercultural competence development, it is unclear how they can effectively be adopted for integrated use in K-12 schools. We conducted two phases of design workshops with teachers, where they co-designed robot-mediated intercultural activities while considering student needs and school integration concerns. Using thematic analysis, we identify appropriate scenarios and roles for classroom robots, explore how robots could complement rather than replace teachers, and consider how to address ethical and compliance consi",
-      "resume_fr": "While social robots have demonstrated effectiveness in supporting students' intercultural competence development, it is unclear how they can effectively be adopted for integrated use in K-12 schools. We conducted two phases of design workshops with teachers, where they co-designed robot-mediated intercultural activities while considering student needs and school integration concerns. Using thematic analysis, we identify appropriate scenarios and roles for classroom robots, explore how robots could complement rather than replace teachers, and consider how to address ethical and compliance consi",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Learning a Generative Meta-Model of LLM Activations",
-      "url": "https://arxiv.org/abs/2602.06964v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-02-06T18:59:56.000Z",
-      "score": 70,
-      "summary_en": "Existing approaches for analyzing neural network activations, such as PCA and sparse autoencoders, rely on strong structural assumptions. Generative models offer an alternative: they can uncover structure without such assumptions and act as priors that improve intervention fidelity. We explore this direction by training diffusion models on one billion residual stream activations, creating \"meta-models\" that learn the distribution of a network's internal states. We find that diffusion loss decreases smoothly with compute and reliably predicts downstream utility. In particular, applying the meta",
-      "summary_fr": "Existing approaches for analyzing neural network activations, such as PCA and sparse autoencoders, rely on strong structural assumptions. Generative models offer an alternative: they can uncover structure without such assumptions and act as priors that improve intervention fidelity. We explore this direction by training diffusion models on one billion residual stream activations, creating \"meta-models\" that learn the distribution of a network's internal states. We find that diffusion loss decreases smoothly with compute and reliably predicts downstream utility. In particular, applying the meta",
-      "resume_fr": "Existing approaches for analyzing neural network activations, such as PCA and sparse autoencoders, rely on strong structural assumptions. Generative models offer an alternative: they can uncover structure without such assumptions and act as priors that improve intervention fidelity. We explore this direction by training diffusion models on one billion residual stream activations, creating \"meta-models\" that learn the distribution of a network's internal states. We find that diffusion loss decreases smoothly with compute and reliably predicts downstream utility. In particular, applying the meta",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Optimal Derivative Feedback Control for an Active Magnetic Levitation System: An Experimental Study on Data-Driven Approaches",
-      "url": "https://arxiv.org/abs/2602.06944v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-02-06T18:42:01.000Z",
-      "score": 70,
-      "summary_en": "This paper presents the design and implementation of data-driven optimal derivative feedback controllers for an active magnetic levitation system. A direct, model-free control design method based on the reinforcement learning framework is compared with an indirect optimal control design derived from a numerically identified mathematical model of the system. For the direct model-free approach, a policy iteration procedure is proposed, which adds an iteration layer called the epoch loop to gather multiple sets of process data, providing a more diverse dataset and helping reduce learning biases. ",
-      "summary_fr": "This paper presents the design and implementation of data-driven optimal derivative feedback controllers for an active magnetic levitation system. A direct, model-free control design method based on the reinforcement learning framework is compared with an indirect optimal control design derived from a numerically identified mathematical model of the system. For the direct model-free approach, a policy iteration procedure is proposed, which adds an iteration layer called the epoch loop to gather multiple sets of process data, providing a more diverse dataset and helping reduce learning biases. ",
-      "resume_fr": "This paper presents the design and implementation of data-driven optimal derivative feedback controllers for an active magnetic levitation system. A direct, model-free control design method based on the reinforcement learning framework is compared with an indirect optimal control design derived from a numerically identified mathematical model of the system. For the direct model-free approach, a policy iteration procedure is proposed, which adds an iteration layer called the epoch loop to gather multiple sets of process data, providing a more diverse dataset and helping reduce learning biases. ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Optimal Turkish Subword Strategies at Scale: Systematic Evaluation of Data, Vocabulary, Morphology Interplay",
-      "url": "https://arxiv.org/abs/2602.06942v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-02-06T18:41:14.000Z",
-      "score": 50,
-      "summary_en": "Tokenization is a pivotal design choice for neural language modeling in morphologically rich languages (MRLs) such as Turkish, where productive agglutination challenges both vocabulary efficiency and morphological fidelity. Prior studies have explored tokenizer families and vocabulary sizes but typically (i) vary vocabulary without systematically controlling the tokenizer's training corpus, (ii) provide limited intrinsic diagnostics, and (iii) evaluate a narrow slice of downstream tasks. We present the first comprehensive, principled study of Turkish subword tokenization; a \"subwords manifest\"",
-      "summary_fr": "Tokenization is a pivotal design choice for neural language modeling in morphologically rich languages (MRLs) such as Turkish, where productive agglutination challenges both vocabulary efficiency and morphological fidelity. Prior studies have explored tokenizer families and vocabulary sizes but typically (i) vary vocabulary without systematically controlling the tokenizer's training corpus, (ii) provide limited intrinsic diagnostics, and (iii) evaluate a narrow slice of downstream tasks. We present the first comprehensive, principled study of Turkish subword tokenization; a \"subwords manifest\"",
-      "resume_fr": "Tokenization is a pivotal design choice for neural language modeling in morphologically rich languages (MRLs) such as Turkish, where productive agglutination challenges both vocabulary efficiency and morphological fidelity. Prior studies have explored tokenizer families and vocabulary sizes but typically (i) vary vocabulary without systematically controlling the tokenizer's training corpus, (ii) provide limited intrinsic diagnostics, and (iii) evaluate a narrow slice of downstream tasks. We present the first comprehensive, principled study of Turkish subword tokenization; a \"subwords manifest\"",
       "tags": [],
       "breakdown": {
         "research": 35,
