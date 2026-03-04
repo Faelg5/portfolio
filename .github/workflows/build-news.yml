@@ -140,6 +140,7 @@ jobs:
             git commit -m "news: update feed(s)"
             git push
           fi
+        continue-on-error: true
 
       - name: Upload logs & feed (artifact)
         if: always()
