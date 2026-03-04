@@ -42,11 +42,7 @@ on:
   schedule:
     - cron: "7 6 * * *"   # tous les jours à 06:07 UTC
 
-  push:
-    branches: [ main ]
-    paths:
-      - 'tools/**'
-      - '.github/workflows/build-news.yml'
+  # push trigger retiré pour éviter les runs en cascade à chaque commit
 
 permissions:
   contents: write

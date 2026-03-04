@@ -7,7 +7,7 @@ export function canonicalUrl(u) {
   try {
     const url = new URL(u);
     url.hash = "";
-    ["utm_source","utm_medium","utm_campaign","utm_term","utm_content","mc_cid","mc_eid"]
+    ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content", "mc_cid", "mc_eid"]
       .forEach(p => url.searchParams.delete(p));
     return url.toString();
   } catch { return (u || "").trim(); }
@@ -31,10 +31,11 @@ export async function discoverFeed(pageUrl) {
 
     // WP heuristic: /feed/
     try {
+      const guess = new URL(pageUrl);
       const feed = `${guess.origin}${guess.pathname.replace(/\/$/, "")}/feed/`;
       const head = await fetch(feed, { method: "HEAD", signal: ctrl.signal });
       if (head.ok) return feed;
-    } catch {}
+    } catch { }
 
     return null;
   } catch { return null; }
