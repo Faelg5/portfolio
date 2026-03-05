@@ -261,45 +261,11 @@ function makeHeuristic(W) {
   };
 }
 
-// --- Thumbnails (HTTPS only) ---
-async function fetchHtml(url, ms = 7000) {
-  const ctrl = new AbortController();
-  const tid = setTimeout(() => ctrl.abort(), ms);
-  try {
-    const r = await fetch(url, { signal: ctrl.signal, headers: { "User-Agent": "EduNewsBot/1.0" } });
-    const ct = r.headers.get("content-type") || "";
-    if (!r.ok || !ct.includes("text/html")) return null;
-    return await r.text();
-  } catch { return null; }
-  finally { clearTimeout(tid); }
-}
-
-async function findThumbnail(u) {
-  const html = await fetchHtml(u);
-  if (!html) return favicon(u);
-  const $ = cheerio.load(html);
-  const cand = [
-    $('meta[property="og:image"]').attr("content"),
-    $('meta[name="twitter:image"]').attr("content"),
-    $('link[rel="image_src"]').attr("href")
-  ].filter(Boolean).map(x => toHttps(absUrl(u, x)));
-  const httpsImg = cand.find(x => x && x.startsWith("https://"));
-  return httpsImg || favicon(u);
-}
-
-async function enrichThumbnails(items, concurrency = 10) {
-  const top = items.slice(0, 40);
-  let i = 0;
-  async function worker() {
-    while (i < top.length) {
-      const idx = i++;
-      const it = top[idx];
-      try { it.image = await findThumbnail(it.url); }
-      catch { it.image = favicon(it.url); }
-    }
+// --- Thumbnails (favicon only, no network calls) ---
+function assignThumbnails(items) {
+  for (const it of items) {
+    it.image = favicon(it.url);
   }
-  await Promise.all(Array.from({ length: concurrency }, worker));
-  items.slice(40).forEach(it => { it.image = favicon(it.url); });
 }
 
 // --------- Output name helper ----------
@@ -429,7 +395,7 @@ async function buildForProfile(profile, gathered) {
   selected = selected.slice(0, OUTPUT_CAP);
 
   // thumbnails pour les nouveaux éléments seulement
-  await enrichThumbnails(selected);
+  assignThumbnails(selected);
 
   // chargement de l'historique existant + fusion
   const existing = await readExistingForProfile(profile, PUBLISH_TARGET);
@@ -484,4 +450,4 @@ async function main() {
   }
 }
 
-main().catch(err => { console.error(err); process.exit(1); });
+main().then(() => { process.exit(0); }).catch(err => { console.error(err); process.exit(1); });

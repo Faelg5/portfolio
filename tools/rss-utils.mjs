@@ -1,7 +1,7 @@
 import Parser from "rss-parser";
 import * as cheerio from "cheerio";
 
-const parser = new Parser({ timeout: 15000 });
+const parser = new Parser({ timeout: 5000 });
 
 export function canonicalUrl(u) {
   try {
@@ -15,7 +15,7 @@ export function canonicalUrl(u) {
 
 export async function discoverFeed(pageUrl) {
   const ctrl = new AbortController();
-  const tid = setTimeout(() => ctrl.abort(), 10000);
+  const tid = setTimeout(() => ctrl.abort(), 5000);
   try {
     const res = await fetch(pageUrl, { signal: ctrl.signal, headers: { "User-Agent": "EduNewsBot/1.0" } });
     const ct = res.headers.get("content-type") || "";
@@ -43,6 +43,29 @@ export async function discoverFeed(pageUrl) {
 }
 
 export async function readFeedMaybe(source) {
+  // Hard per-source timeout (8s) via Promise.race
+  const HARD_TIMEOUT = 8000;
+  const timeoutPromise = new Promise((_, reject) =>
+    setTimeout(() => reject(new Error("HARD_TIMEOUT")), HARD_TIMEOUT)
+  );
+
+  try {
+    return await Promise.race([_readFeedMaybeInner(source), timeoutPromise]);
+  } catch {
+    return {
+      ok: false,
+      items: [{
+        source: source.name,
+        title: "Voir les dernières actualités",
+        url: source.url,
+        published: null,
+        snippet: "Source trop lente — ouverture de la page d'actualités."
+      }]
+    };
+  }
+}
+
+async function _readFeedMaybeInner(source) {
   let feedUrl = source.url;
   if (!/(\.xml|\.rss|\.atom)(\?|$)/i.test(feedUrl) && !/\/feed\/?(\?|$)/i.test(feedUrl)) {
     const discovered = await discoverFeed(feedUrl);
