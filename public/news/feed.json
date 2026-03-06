@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-04T13:31:29.471Z",
+  "generatedAt": "2026-03-06T07:05:58.419Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,177 @@
     }
   },
   "items": [
+    {
+      "title": "RoboPocket: Improve Robot Policies Instantly with Your Phone",
+      "url": "https://arxiv.org/abs/2603.05504v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-03-05T18:59:38.000Z",
+      "score": 50,
+      "summary_en": "Scaling imitation learning is fundamentally constrained by the efficiency of data collection. While handheld interfaces have emerged as a scalable solution for in-the-wild data acquisition, they predominantly operate in an open-loop manner: operators blindly collect demonstrations without knowing the underlying policy's weaknesses, leading to inefficient coverage of critical state distributions. Conversely, interactive methods like DAgger effectively address covariate shift but rely on physical robot execution, which is costly and difficult to scale. To reconcile this trade-off, we introduce R",
+      "summary_fr": "Scaling imitation learning is fundamentally constrained by the efficiency of data collection. While handheld interfaces have emerged as a scalable solution for in-the-wild data acquisition, they predominantly operate in an open-loop manner: operators blindly collect demonstrations without knowing the underlying policy's weaknesses, leading to inefficient coverage of critical state distributions. Conversely, interactive methods like DAgger effectively address covariate shift but rely on physical robot execution, which is costly and difficult to scale. To reconcile this trade-off, we introduce R",
+      "resume_fr": "Scaling imitation learning is fundamentally constrained by the efficiency of data collection. While handheld interfaces have emerged as a scalable solution for in-the-wild data acquisition, they predominantly operate in an open-loop manner: operators blindly collect demonstrations without knowing the underlying policy's weaknesses, leading to inefficient coverage of critical state distributions. Conversely, interactive methods like DAgger effectively address covariate shift but rely on physical robot execution, which is costly and difficult to scale. To reconcile this trade-off, we introduce R",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation",
+      "url": "https://arxiv.org/abs/2603.05500v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-03-05T18:59:23.000Z",
+      "score": 50,
+      "summary_en": "Efficient and stable training of large language models (LLMs) remains a core challenge in modern machine learning systems. To address this challenge, Reparameterized Orthogonal Equivalence Training (POET), a spectrum-preserving framework that optimizes each weight matrix through orthogonal equivalence transformation, has been proposed. Although POET provides strong training stability, its original implementation incurs high memory consumption and computational overhead due to intensive matrix multiplications. To overcome these limitations, we introduce POET-X, a scalable and memory-efficient v",
+      "summary_fr": "Efficient and stable training of large language models (LLMs) remains a core challenge in modern machine learning systems. To address this challenge, Reparameterized Orthogonal Equivalence Training (POET), a spectrum-preserving framework that optimizes each weight matrix through orthogonal equivalence transformation, has been proposed. Although POET provides strong training stability, its original implementation incurs high memory consumption and computational overhead due to intensive matrix multiplications. To overcome these limitations, we introduce POET-X, a scalable and memory-efficient v",
+      "resume_fr": "Efficient and stable training of large language models (LLMs) remains a core challenge in modern machine learning systems. To address this challenge, Reparameterized Orthogonal Equivalence Training (POET), a spectrum-preserving framework that optimizes each weight matrix through orthogonal equivalence transformation, has been proposed. Although POET provides strong training stability, its original implementation incurs high memory consumption and computational overhead due to intensive matrix multiplications. To overcome these limitations, we introduce POET-X, a scalable and memory-efficient v",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "The Spike, the Sparse and the Sink: Anatomy of Massive Activations and Attention Sinks",
+      "url": "https://arxiv.org/abs/2603.05498v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-03-05T18:59:04.000Z",
+      "score": 70,
+      "summary_en": "We study two recurring phenomena in Transformer language models: massive activations, in which a small number of tokens exhibit extreme outliers in a few channels, and attention sinks, in which certain tokens attract disproportionate attention mass regardless of semantic relevance. Prior work observes that these phenomena frequently co-occur and often involve the same tokens, but their functional roles and causal relationship remain unclear. Through systematic experiments, we show that the co-occurrence is largely an architectural artifact of modern Transformer design, and that the two phenome",
+      "summary_fr": "We study two recurring phenomena in Transformer language models: massive activations, in which a small number of tokens exhibit extreme outliers in a few channels, and attention sinks, in which certain tokens attract disproportionate attention mass regardless of semantic relevance. Prior work observes that these phenomena frequently co-occur and often involve the same tokens, but their functional roles and causal relationship remain unclear. Through systematic experiments, we show that the co-occurrence is largely an architectural artifact of modern Transformer design, and that the two phenome",
+      "resume_fr": "We study two recurring phenomena in Transformer language models: massive activations, in which a small number of tokens exhibit extreme outliers in a few channels, and attention sinks, in which certain tokens attract disproportionate attention mass regardless of semantic relevance. Prior work observes that these phenomena frequently co-occur and often involve the same tokens, but their functional roles and causal relationship remain unclear. Through systematic experiments, we show that the co-occurrence is largely an architectural artifact of modern Transformer design, and that the two phenome",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Leveraging LLM Parametric Knowledge for Fact Checking without Retrieval",
+      "url": "https://arxiv.org/abs/2603.05471v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-03-05T18:42:51.000Z",
+      "score": 70,
+      "summary_en": "Trustworthiness is a core research challenge for agentic AI systems built on Large Language Models (LLMs). To enhance trust, natural language claims from diverse sources, including human-written text, web content, and model outputs, are commonly checked for factuality by retrieving external knowledge and using an LLM to verify the faithfulness of claims to the retrieved evidence. As a result, such methods are constrained by retrieval errors and external data availability, while leaving the models intrinsic fact-verification capabilities largely unused. We propose the task of fact-checking with",
+      "summary_fr": "Trustworthiness is a core research challenge for agentic AI systems built on Large Language Models (LLMs). To enhance trust, natural language claims from diverse sources, including human-written text, web content, and model outputs, are commonly checked for factuality by retrieving external knowledge and using an LLM to verify the faithfulness of claims to the retrieved evidence. As a result, such methods are constrained by retrieval errors and external data availability, while leaving the models intrinsic fact-verification capabilities largely unused. We propose the task of fact-checking with",
+      "resume_fr": "Trustworthiness is a core research challenge for agentic AI systems built on Large Language Models (LLMs). To enhance trust, natural language claims from diverse sources, including human-written text, web content, and model outputs, are commonly checked for factuality by retrieving external knowledge and using an LLM to verify the faithfulness of claims to the retrieved evidence. As a result, such methods are constrained by retrieval errors and external data availability, while leaving the models intrinsic fact-verification capabilities largely unused. We propose the task of fact-checking with",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "NCTB-QA: A Large-Scale Bangla Educational Question Answering Dataset and Benchmarking Performance",
+      "url": "https://arxiv.org/abs/2603.05462v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-03-05T18:35:03.000Z",
+      "score": 50,
+      "summary_en": "Reading comprehension systems for low-resource languages face significant challenges in handling unanswerable questions. These systems tend to produce unreliable responses when correct answers are absent from context. To solve this problem, we introduce NCTB-QA, a large-scale Bangla question answering dataset comprising 87,805 question-answer pairs extracted from 50 textbooks published by Bangladesh's National Curriculum and Textbook Board. Unlike existing Bangla datasets, NCTB-QA maintains a balanced distribution of answerable (57.25%) and unanswerable (42.75%) questions. NCTB-QA also include",
+      "summary_fr": "Reading comprehension systems for low-resource languages face significant challenges in handling unanswerable questions. These systems tend to produce unreliable responses when correct answers are absent from context. To solve this problem, we introduce NCTB-QA, a large-scale Bangla question answering dataset comprising 87,805 question-answer pairs extracted from 50 textbooks published by Bangladesh's National Curriculum and Textbook Board. Unlike existing Bangla datasets, NCTB-QA maintains a balanced distribution of answerable (57.25%) and unanswerable (42.75%) questions. NCTB-QA also include",
+      "resume_fr": "Reading comprehension systems for low-resource languages face significant challenges in handling unanswerable questions. These systems tend to produce unreliable responses when correct answers are absent from context. To solve this problem, we introduce NCTB-QA, a large-scale Bangla question answering dataset comprising 87,805 question-answer pairs extracted from 50 textbooks published by Bangladesh's National Curriculum and Textbook Board. Unlike existing Bangla datasets, NCTB-QA maintains a balanced distribution of answerable (57.25%) and unanswerable (42.75%) questions. NCTB-QA also include",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Designing for Adolescent Voice in Health Decisions: Embodied Conversational Agents for HPV Vaccination",
+      "url": "https://arxiv.org/abs/2603.05321v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-05T16:00:49.000Z",
+      "score": 50,
+      "summary_en": "Adolescents are directly affected by preventive health decisions such as vaccination, yet their perspectives are rarely solicited or supported. Most digital interventions for Human Papillomavirus (HPV) vaccination are designed exclusively for parents, implicitly treating adolescents as passive recipients rather than stakeholders with agency. We present the design and evaluation of a mobile intervention that gives adolescents a voice in HPV vaccination decisions alongside their parents. The system uses embodied conversational agents tailored to each audience: parents interact with an animated p",
+      "summary_fr": "Adolescents are directly affected by preventive health decisions such as vaccination, yet their perspectives are rarely solicited or supported. Most digital interventions for Human Papillomavirus (HPV) vaccination are designed exclusively for parents, implicitly treating adolescents as passive recipients rather than stakeholders with agency. We present the design and evaluation of a mobile intervention that gives adolescents a voice in HPV vaccination decisions alongside their parents. The system uses embodied conversational agents tailored to each audience: parents interact with an animated p",
+      "resume_fr": "Adolescents are directly affected by preventive health decisions such as vaccination, yet their perspectives are rarely solicited or supported. Most digital interventions for Human Papillomavirus (HPV) vaccination are designed exclusively for parents, implicitly treating adolescents as passive recipients rather than stakeholders with agency. We present the design and evaluation of a mobile intervention that gives adolescents a voice in HPV vaccination decisions alongside their parents. The system uses embodied conversational agents tailored to each audience: parents interact with an animated p",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "The Trilingual Triad Framework: Integrating Design, AI, and Domain Knowledge in No-code AI Smart City Course",
+      "url": "https://arxiv.org/abs/2603.05036v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-03-05T10:34:39.000Z",
+      "score": 85,
+      "summary_en": "This paper introduces the \"Trilingual Triad\" framework, a model that explains how students learn to design with generative artificial intelligence (AI) through the integration of Design, AI, and Domain Knowledge. As generative AI rapidly enters higher education, students often engage with these systems as passive users of generated outputs rather than active creators of AI-enabled knowledge tools. This study investigates how students can transition from using AI as a tool to designing AI as a collaborative teammate. The research examines a graduate course, Creating the Frontier of No-code Smar",
+      "summary_fr": "This paper introduces the \"Trilingual Triad\" framework, a model that explains how students learn to design with generative artificial intelligence (AI) through the integration of Design, AI, and Domain Knowledge. As generative AI rapidly enters higher education, students often engage with these systems as passive users of generated outputs rather than active creators of AI-enabled knowledge tools. This study investigates how students can transition from using AI as a tool to designing AI as a collaborative teammate. The research examines a graduate course, Creating the Frontier of No-code Smar",
+      "resume_fr": "This paper introduces the \"Trilingual Triad\" framework, a model that explains how students learn to design with generative artificial intelligence (AI) through the integration of Design, AI, and Domain Knowledge. As generative AI rapidly enters higher education, students often engage with these systems as passive users of generated outputs rather than active creators of AI-enabled knowledge tools. This study investigates how students can transition from using AI as a tool to designing AI as a collaborative teammate. The research examines a graduate course, Creating the Frontier of No-code Smar",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "BioLLMAgent: A Hybrid Framework with Enhanced Structural Interpretability for Simulating Human Decision-Making in Computational Psychiatry",
+      "url": "https://arxiv.org/abs/2603.05016v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-03-05T10:04:24.000Z",
+      "score": 85,
+      "summary_en": "Computational psychiatry faces a fundamental trade-off: traditional reinforcement learning (RL) models offer interpretability but lack behavioral realism, while large language model (LLM) agents generate realistic behaviors but lack structural interpretability. We introduce BioLLMAgent, a novel hybrid framework that combines validated cognitive models with the generative capabilities of LLMs. The framework comprises three core components: (i) an Internal RL Engine for experience-driven value learning; (ii) an External LLM Shell for high-level cognitive strategies and therapeutic interventions;",
+      "summary_fr": "Computational psychiatry faces a fundamental trade-off: traditional reinforcement learning (RL) models offer interpretability but lack behavioral realism, while large language model (LLM) agents generate realistic behaviors but lack structural interpretability. We introduce BioLLMAgent, a novel hybrid framework that combines validated cognitive models with the generative capabilities of LLMs. The framework comprises three core components: (i) an Internal RL Engine for experience-driven value learning; (ii) an External LLM Shell for high-level cognitive strategies and therapeutic interventions;",
+      "resume_fr": "Computational psychiatry faces a fundamental trade-off: traditional reinforcement learning (RL) models offer interpretability but lack behavioral realism, while large language model (LLM) agents generate realistic behaviors but lack structural interpretability. We introduce BioLLMAgent, a novel hybrid framework that combines validated cognitive models with the generative capabilities of LLMs. The framework comprises three core components: (i) an Internal RL Engine for experience-driven value learning; (ii) an External LLM Shell for high-level cognitive strategies and therapeutic interventions;",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Evaluating GPT-5 as a Multimodal Clinical Reasoner: A Landscape Commentary",
+      "url": "https://arxiv.org/abs/2603.04763v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-03-05T03:24:48.000Z",
+      "score": 50,
+      "summary_en": "The transition from task-specific artificial intelligence toward general-purpose foundation models raises fundamental questions about their capacity to support the integrated reasoning required in clinical medicine, where diagnosis demands synthesis of ambiguous patient narratives, laboratory data, and multimodal imaging. This landscape commentary provides the first controlled, cross-sectional evaluation of the GPT-5 family (GPT-5, GPT-5 Mini, GPT-5 Nano) against its predecessor GPT-4o across a diverse spectrum of clinically grounded tasks, including medical education examinations, text-based ",
+      "summary_fr": "The transition from task-specific artificial intelligence toward general-purpose foundation models raises fundamental questions about their capacity to support the integrated reasoning required in clinical medicine, where diagnosis demands synthesis of ambiguous patient narratives, laboratory data, and multimodal imaging. This landscape commentary provides the first controlled, cross-sectional evaluation of the GPT-5 family (GPT-5, GPT-5 Mini, GPT-5 Nano) against its predecessor GPT-4o across a diverse spectrum of clinically grounded tasks, including medical education examinations, text-based ",
+      "resume_fr": "The transition from task-specific artificial intelligence toward general-purpose foundation models raises fundamental questions about their capacity to support the integrated reasoning required in clinical medicine, where diagnosis demands synthesis of ambiguous patient narratives, laboratory data, and multimodal imaging. This landscape commentary provides the first controlled, cross-sectional evaluation of the GPT-5 family (GPT-5, GPT-5 Mini, GPT-5 Nano) against its predecessor GPT-4o across a diverse spectrum of clinically grounded tasks, including medical education examinations, text-based ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance",
       "url": "https://arxiv.org/abs/2603.03281v1",
@@ -264,7 +435,7 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
       "title": "Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact",
@@ -454,7 +625,7 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=0, Politiques=35, Institution=15, Impact=15.",
-      "image": "https://world-education-blog.org/wp-content/uploads/2026/02/UNI74910.jpg"
+      "image": "https://www.google.com/s2/favicons?domain=world-education-blog.org&sz=128"
     },
     {
       "title": "Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents",
@@ -929,7 +1100,7 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=0, Politiques=35, Institution=15, Impact=15.",
-      "image": "https://world-education-blog.org/wp-content/uploads/2026/02/Picture1.jpg"
+      "image": "https://www.google.com/s2/favicons?domain=world-education-blog.org&sz=128"
     },
     {
       "title": "Understanding Persuasive Interactions between Generative Social Agents and Humans: The Knowledge-based Persuasion Model (KPM)",
@@ -1062,177 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "See, Plan, Snap: Evaluating Multimodal GUI Agents in Scratch",
-      "url": "https://arxiv.org/abs/2602.10814v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-02-11T12:54:53.000Z",
-      "score": 50,
-      "summary_en": "Block-based programming environments such as Scratch play a central role in low-code education, yet evaluating the capabilities of AI agents to construct programs through Graphical User Interfaces (GUIs) remains underexplored. We introduce ScratchWorld, a benchmark for evaluating multimodal GUI agents on program-by-construction tasks in Scratch. Grounded in the Use-Modify-Create pedagogical framework, ScratchWorld comprises 83 curated tasks spanning four distinct problem categories: Create, Debug, Extend, and Compute. To rigorously diagnose the source of agent failures, the benchmark employs t",
-      "summary_fr": "Block-based programming environments such as Scratch play a central role in low-code education, yet evaluating the capabilities of AI agents to construct programs through Graphical User Interfaces (GUIs) remains underexplored. We introduce ScratchWorld, a benchmark for evaluating multimodal GUI agents on program-by-construction tasks in Scratch. Grounded in the Use-Modify-Create pedagogical framework, ScratchWorld comprises 83 curated tasks spanning four distinct problem categories: Create, Debug, Extend, and Compute. To rigorously diagnose the source of agent failures, the benchmark employs t",
-      "resume_fr": "Block-based programming environments such as Scratch play a central role in low-code education, yet evaluating the capabilities of AI agents to construct programs through Graphical User Interfaces (GUIs) remains underexplored. We introduce ScratchWorld, a benchmark for evaluating multimodal GUI agents on program-by-construction tasks in Scratch. Grounded in the Use-Modify-Create pedagogical framework, ScratchWorld comprises 83 curated tasks spanning four distinct problem categories: Create, Debug, Extend, and Compute. To rigorously diagnose the source of agent failures, the benchmark employs t",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Integrating Generative AI-enhanced Cognitive Systems in Higher Education: From Stakeholder Perceptions to a Conceptual Framework considering the EU AI Act",
-      "url": "https://arxiv.org/abs/2602.10802v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-02-11T12:44:03.000Z",
-      "score": 85,
-      "summary_en": "Many staff and students in higher education have adopted generative artificial intelligence (GenAI) tools in their work and study. GenAI is expected to enhance cognitive systems by enabling personalized learning and streamlining educational services. However, stakeholders perceptions of GenAI in higher education remain divided, shaped by cultural, disciplinary, and institutional contexts. In addition, the EU AI Act requires universities to ensure regulatory compliance when deploying cognitive systems. These developments highlight the need for institutions to engage stakeholders and tailor GenA",
-      "summary_fr": "Many staff and students in higher education have adopted generative artificial intelligence (GenAI) tools in their work and study. GenAI is expected to enhance cognitive systems by enabling personalized learning and streamlining educational services. However, stakeholders perceptions of GenAI in higher education remain divided, shaped by cultural, disciplinary, and institutional contexts. In addition, the EU AI Act requires universities to ensure regulatory compliance when deploying cognitive systems. These developments highlight the need for institutions to engage stakeholders and tailor GenA",
-      "resume_fr": "Many staff and students in higher education have adopted generative artificial intelligence (GenAI) tools in their work and study. GenAI is expected to enhance cognitive systems by enabling personalized learning and streamlining educational services. However, stakeholders perceptions of GenAI in higher education remain divided, shaped by cultural, disciplinary, and institutional contexts. In addition, the EU AI Act requires universities to ensure regulatory compliance when deploying cognitive systems. These developments highlight the need for institutions to engage stakeholders and tailor GenA",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "AI-PACE: A Framework for Integrating AI into Medical Education",
-      "url": "https://arxiv.org/abs/2602.10527v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-02-11T04:52:26.000Z",
-      "score": 85,
-      "summary_en": "The integration of artificial intelligence (AI) into healthcare is accelerating, yet medical education has not kept pace with these technological advancements. This paper synthesizes current knowledge on AI in medical education through a comprehensive analysis of the literature, identifying key competencies, curricular approaches, and implementation strategies. The aim is highlighting the critical need for structured AI education across the medical learning continuum and offer a framework for curriculum development. The findings presented suggest that effective AI education requires longitudin",
-      "summary_fr": "The integration of artificial intelligence (AI) into healthcare is accelerating, yet medical education has not kept pace with these technological advancements. This paper synthesizes current knowledge on AI in medical education through a comprehensive analysis of the literature, identifying key competencies, curricular approaches, and implementation strategies. The aim is highlighting the critical need for structured AI education across the medical learning continuum and offer a framework for curriculum development. The findings presented suggest that effective AI education requires longitudin",
-      "resume_fr": "The integration of artificial intelligence (AI) into healthcare is accelerating, yet medical education has not kept pace with these technological advancements. This paper synthesizes current knowledge on AI in medical education through a comprehensive analysis of the literature, identifying key competencies, curricular approaches, and implementation strategies. The aim is highlighting the critical need for structured AI education across the medical learning continuum and offer a framework for curriculum development. The findings presented suggest that effective AI education requires longitudin",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Division of Labor and Collaboration Between Parents in Family Education",
-      "url": "https://arxiv.org/abs/2602.10501v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-02-11T04:01:16.000Z",
-      "score": 50,
-      "summary_en": "Homework tutoring work is a demanding and often conflict-prone practice in family life, and parents often lack targeted support for managing its cognitive and emotional burdens. Through interviews with 18 parents of children in grades 1-3, we examine how homework-related labor is divided and coordinated between parents, and where AI might meaningfully intervene. We found three key insights: (1) Homework labor encompasses distinct dimensions: physical, cognitive, and emotional, with the latter two often remaining invisible. (2) We identified father-mother-child triadic dynamics in labor divisio",
-      "summary_fr": "Homework tutoring work is a demanding and often conflict-prone practice in family life, and parents often lack targeted support for managing its cognitive and emotional burdens. Through interviews with 18 parents of children in grades 1-3, we examine how homework-related labor is divided and coordinated between parents, and where AI might meaningfully intervene. We found three key insights: (1) Homework labor encompasses distinct dimensions: physical, cognitive, and emotional, with the latter two often remaining invisible. (2) We identified father-mother-child triadic dynamics in labor divisio",
-      "resume_fr": "Homework tutoring work is a demanding and often conflict-prone practice in family life, and parents often lack targeted support for managing its cognitive and emotional burdens. Through interviews with 18 parents of children in grades 1-3, we examine how homework-related labor is divided and coordinated between parents, and where AI might meaningfully intervene. We found three key insights: (1) Homework labor encompasses distinct dimensions: physical, cognitive, and emotional, with the latter two often remaining invisible. (2) We identified father-mother-child triadic dynamics in labor divisio",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "What matters in building vision–language–action models for generalist robots",
-      "url": "https://www.nature.com/articles/s42256-025-01168-7",
-      "source": "Nature Machine Intelligence",
-      "published": "2026-02-11T00:00:00.000Z",
-      "score": 70,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-025-01168-7/MediaObjects/42256_2025_1168_Fig1_HTML.png"
-    },
-    {
-      "title": "Olaf-World: Orienting Latent Actions for Video World Modeling",
-      "url": "https://arxiv.org/abs/2602.10104v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-02-10T18:58:41.000Z",
-      "score": 70,
-      "summary_en": "Scaling action-controllable world models is limited by the scarcity of action labels. While latent action learning promises to extract control interfaces from unlabeled video, learned latents often fail to transfer across contexts: they entangle scene-specific cues and lack a shared coordinate system. This occurs because standard objectives operate only within each clip, providing no mechanism to align action semantics across contexts. Our key insight is that although actions are unobserved, their semantic effects are observable and can serve as a shared reference. We introduce Seq$Δ$-REPA, a ",
-      "summary_fr": "Scaling action-controllable world models is limited by the scarcity of action labels. While latent action learning promises to extract control interfaces from unlabeled video, learned latents often fail to transfer across contexts: they entangle scene-specific cues and lack a shared coordinate system. This occurs because standard objectives operate only within each clip, providing no mechanism to align action semantics across contexts. Our key insight is that although actions are unobserved, their semantic effects are observable and can serve as a shared reference. We introduce Seq$Δ$-REPA, a ",
-      "resume_fr": "Scaling action-controllable world models is limited by the scarcity of action labels. While latent action learning promises to extract control interfaces from unlabeled video, learned latents often fail to transfer across contexts: they entangle scene-specific cues and lack a shared coordinate system. This occurs because standard objectives operate only within each clip, providing no mechanism to align action semantics across contexts. Our key insight is that although actions are unobserved, their semantic effects are observable and can serve as a shared reference. We introduce Seq$Δ$-REPA, a ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Towards Explainable Federated Learning: Understanding the Impact of Differential Privacy",
-      "url": "https://arxiv.org/abs/2602.10100v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-02-10T18:58:11.000Z",
-      "score": 70,
-      "summary_en": "Data privacy and eXplainable Artificial Intelligence (XAI) are two important aspects for modern Machine Learning systems. To enhance data privacy, recent machine learning models have been designed as a Federated Learning (FL) system. On top of that, additional privacy layers can be added, via Differential Privacy (DP). On the other hand, to improve explainability, ML must consider more interpretable approaches with reduced number of features and less complex internal architecture. In this context, this paper aims to achieve a machine learning (ML) model that combines enhanced data privacy with",
-      "summary_fr": "Data privacy and eXplainable Artificial Intelligence (XAI) are two important aspects for modern Machine Learning systems. To enhance data privacy, recent machine learning models have been designed as a Federated Learning (FL) system. On top of that, additional privacy layers can be added, via Differential Privacy (DP). On the other hand, to improve explainability, ML must consider more interpretable approaches with reduced number of features and less complex internal architecture. In this context, this paper aims to achieve a machine learning (ML) model that combines enhanced data privacy with",
-      "resume_fr": "Data privacy and eXplainable Artificial Intelligence (XAI) are two important aspects for modern Machine Learning systems. To enhance data privacy, recent machine learning models have been designed as a Federated Learning (FL) system. On top of that, additional privacy layers can be added, via Differential Privacy (DP). On the other hand, to improve explainability, ML must consider more interpretable approaches with reduced number of features and less complex internal architecture. In this context, this paper aims to achieve a machine learning (ML) model that combines enhanced data privacy with",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Learning on the Manifold: Unlocking Standard Diffusion Transformers with Representation Encoders",
-      "url": "https://arxiv.org/abs/2602.10099v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-02-10T18:58:04.000Z",
-      "score": 85,
-      "summary_en": "Leveraging representation encoders for generative modeling offers a path for efficient, high-fidelity synthesis. However, standard diffusion transformers fail to converge on these representations directly. While recent work attributes this to a capacity bottleneck proposing computationally expensive width scaling of diffusion transformers we demonstrate that the failure is fundamentally geometric. We identify Geometric Interference as the root cause: standard Euclidean flow matching forces probability paths through the low-density interior of the hyperspherical feature space of representation ",
-      "summary_fr": "Leveraging representation encoders for generative modeling offers a path for efficient, high-fidelity synthesis. However, standard diffusion transformers fail to converge on these representations directly. While recent work attributes this to a capacity bottleneck proposing computationally expensive width scaling of diffusion transformers we demonstrate that the failure is fundamentally geometric. We identify Geometric Interference as the root cause: standard Euclidean flow matching forces probability paths through the low-density interior of the hyperspherical feature space of representation ",
-      "resume_fr": "Leveraging representation encoders for generative modeling offers a path for efficient, high-fidelity synthesis. However, standard diffusion transformers fail to converge on these representations directly. While recent work attributes this to a capacity bottleneck proposing computationally expensive width scaling of diffusion transformers we demonstrate that the failure is fundamentally geometric. We identify Geometric Interference as the root cause: standard Euclidean flow matching forces probability paths through the low-density interior of the hyperspherical feature space of representation ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Step-resolved data attribution for looped transformers",
-      "url": "https://arxiv.org/abs/2602.10097v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-02-10T18:57:53.000Z",
-      "score": 50,
-      "summary_en": "We study how individual training examples shape the internal computation of looped transformers, where a shared block is applied for $τ$ recurrent iterations to enable latent reasoning. Existing training-data influence estimators such as TracIn yield a single scalar score that aggregates over all loop iterations, obscuring when during the recurrent computation a training example matters. We introduce \\textit{Step-Decomposed Influence (SDI)}, which decomposes TracIn into a length-$τ$ influence trajectory by unrolling the recurrent computation graph and attributing influence to specific loop ite",
-      "summary_fr": "We study how individual training examples shape the internal computation of looped transformers, where a shared block is applied for $τ$ recurrent iterations to enable latent reasoning. Existing training-data influence estimators such as TracIn yield a single scalar score that aggregates over all loop iterations, obscuring when during the recurrent computation a training example matters. We introduce \\textit{Step-Decomposed Influence (SDI)}, which decomposes TracIn into a length-$τ$ influence trajectory by unrolling the recurrent computation graph and attributing influence to specific loop ite",
-      "resume_fr": "We study how individual training examples shape the internal computation of looped transformers, where a shared block is applied for $τ$ recurrent iterations to enable latent reasoning. Existing training-data influence estimators such as TracIn yield a single scalar score that aggregates over all loop iterations, obscuring when during the recurrent computation a training example matters. We introduce \\textit{Step-Decomposed Influence (SDI)}, which decomposes TracIn into a length-$τ$ influence trajectory by unrolling the recurrent computation graph and attributing influence to specific loop ite",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
     }
   ]
