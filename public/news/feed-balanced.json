@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-08T06:58:51.131Z",
+  "generatedAt": "2026-03-09T07:15:35.003Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,82 @@
     }
   },
   "items": [
+    {
+      "title": "Military AI Policy Needs Democratic Oversight",
+      "url": "https://spectrum.ieee.org/military-ai-governance",
+      "source": "IEEE Spectrum – AI",
+      "published": "2026-03-08T10:00:03.000Z",
+      "score": 70,
+      "summary_en": "A simmering dispute between the United States Department of Defense (DOD) and Anthropic has now escalated into a full-blown confrontation, raising an uncomfortable but important question: who gets to set the guardrails for military use of artificial intelligence — the executive branch, private companies or Congress and the broader democratic process? The conflict began when Defense Secretary Pete Hegseth reportedly gave Anthropic CEO Dario Amodei a deadline to allow the DOD unrestricted use of its AI systems. When the company refused, the administration moved to designate Anthropic a supply ch",
+      "summary_fr": "A simmering dispute between the United States Department of Defense (DOD) and Anthropic has now escalated into a full-blown confrontation, raising an uncomfortable but important question: who gets to set the guardrails for military use of artificial intelligence — the executive branch, private companies or Congress and the broader democratic process? The conflict began when Defense Secretary Pete Hegseth reportedly gave Anthropic CEO Dario Amodei a deadline to allow the DOD unrestricted use of its AI systems. When the company refused, the administration moved to designate Anthropic a supply ch",
+      "resume_fr": "A simmering dispute between the United States Department of Defense (DOD) and Anthropic has now escalated into a full-blown confrontation, raising an uncomfortable but important question: who gets to set the guardrails for military use of artificial intelligence — the executive branch, private companies or Congress and the broader democratic process? The conflict began when Defense Secretary Pete Hegseth reportedly gave Anthropic CEO Dario Amodei a deadline to allow the DOD unrestricted use of its AI systems. When the company refused, the administration moved to designate Anthropic a supply ch",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
+    },
+    {
+      "title": "Artificial Intelligence for Detecting Fetal Orofacial Clefts and Advancing Medical Education",
+      "url": "https://arxiv.org/abs/2603.06522v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-03-06T18:06:20.000Z",
+      "score": 50,
+      "summary_en": "Orofacial clefts are among the most common congenital craniofacial abnormalities, yet accurate prenatal detection remains challenging due to the scarcity of experienced specialists and the relative rarity of the condition. Early and reliable diagnosis is essential to enable timely clinical intervention and reduce associated morbidity. Here we show that an artificial intelligence system, trained on over 45,139 ultrasound images from 9,215 fetuses across 22 hospitals, can diagnose fetal orofacial clefts with sensitivity and specificity exceeding 93% and 95% respectively, matching the performance",
+      "summary_fr": "Orofacial clefts are among the most common congenital craniofacial abnormalities, yet accurate prenatal detection remains challenging due to the scarcity of experienced specialists and the relative rarity of the condition. Early and reliable diagnosis is essential to enable timely clinical intervention and reduce associated morbidity. Here we show that an artificial intelligence system, trained on over 45,139 ultrasound images from 9,215 fetuses across 22 hospitals, can diagnose fetal orofacial clefts with sensitivity and specificity exceeding 93% and 95% respectively, matching the performance",
+      "resume_fr": "Orofacial clefts are among the most common congenital craniofacial abnormalities, yet accurate prenatal detection remains challenging due to the scarcity of experienced specialists and the relative rarity of the condition. Early and reliable diagnosis is essential to enable timely clinical intervention and reduce associated morbidity. Here we show that an artificial intelligence system, trained on over 45,139 ultrasound images from 9,215 fetuses across 22 hospitals, can diagnose fetal orofacial clefts with sensitivity and specificity exceeding 93% and 95% respectively, matching the performance",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "NOBLE: Accelerating Transformers with Nonlinear Low-Rank Branches",
+      "url": "https://arxiv.org/abs/2603.06492v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-03-06T17:22:04.000Z",
+      "score": 50,
+      "summary_en": "We introduce NOBLE (Nonlinear lOw-rank Branch for Linear Enhancement), an architectural augmentation that adds nonlinear low-rank branches to transformer linear layers. Unlike LoRA and other parameter-efficient fine-tuning (PEFT) methods, NOBLE is designed for pretraining from scratch. The branch is a permanent part of the architecture as opposed to an adapter for finetuning on top of frozen weights. The branch computes σ(xWdown)Wup where σ is a learnable nonlinearity. We evaluate several activation functions and find that CosNet, a two-layer cosine nonlinearity with learnable frequency and ph",
+      "summary_fr": "We introduce NOBLE (Nonlinear lOw-rank Branch for Linear Enhancement), an architectural augmentation that adds nonlinear low-rank branches to transformer linear layers. Unlike LoRA and other parameter-efficient fine-tuning (PEFT) methods, NOBLE is designed for pretraining from scratch. The branch is a permanent part of the architecture as opposed to an adapter for finetuning on top of frozen weights. The branch computes σ(xWdown)Wup where σ is a learnable nonlinearity. We evaluate several activation functions and find that CosNet, a two-layer cosine nonlinearity with learnable frequency and ph",
+      "resume_fr": "We introduce NOBLE (Nonlinear lOw-rank Branch for Linear Enhancement), an architectural augmentation that adds nonlinear low-rank branches to transformer linear layers. Unlike LoRA and other parameter-efficient fine-tuning (PEFT) methods, NOBLE is designed for pretraining from scratch. The branch is a permanent part of the architecture as opposed to an adapter for finetuning on top of frozen weights. The branch computes σ(xWdown)Wup where σ is a learnable nonlinearity. We evaluate several activation functions and find that CosNet, a two-layer cosine nonlinearity with learnable frequency and ph",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Beyond Scores: Explainable Intelligent Assessment Strengthens Pre-service Teachers' Assessment Literacy",
+      "url": "https://arxiv.org/abs/2603.06059v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-06T09:11:21.000Z",
+      "score": 50,
+      "summary_en": "Assessment literacy (AL) is essential for personalized education, yet difficult to cultivate in pre-service teachers. Conventional teacher preparation programs focus on theoretical knowledge, while digital assessment tools commonly provide opaque scores or parameters. These limitations hinder reflection and transfer, leaving AL underdeveloped. We propose XIA, an eXplainable Intelligent Assessment platform that extends statistics-informed support with visualized cognitive diagnostic reasoning, including contrastive and counterfactual explanations. In a pre-post controlled study with 21 pre-serv",
+      "summary_fr": "Assessment literacy (AL) is essential for personalized education, yet difficult to cultivate in pre-service teachers. Conventional teacher preparation programs focus on theoretical knowledge, while digital assessment tools commonly provide opaque scores or parameters. These limitations hinder reflection and transfer, leaving AL underdeveloped. We propose XIA, an eXplainable Intelligent Assessment platform that extends statistics-informed support with visualized cognitive diagnostic reasoning, including contrastive and counterfactual explanations. In a pre-post controlled study with 21 pre-serv",
+      "resume_fr": "Assessment literacy (AL) is essential for personalized education, yet difficult to cultivate in pre-service teachers. Conventional teacher preparation programs focus on theoretical knowledge, while digital assessment tools commonly provide opaque scores or parameters. These limitations hinder reflection and transfer, leaving AL underdeveloped. We propose XIA, an eXplainable Intelligent Assessment platform that extends statistics-informed support with visualized cognitive diagnostic reasoning, including contrastive and counterfactual explanations. In a pre-post controlled study with 21 pre-serv",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "RoboPocket: Improve Robot Policies Instantly with Your Phone",
       "url": "https://arxiv.org/abs/2603.05504v1",
@@ -199,6 +275,25 @@
       "summary_en": "Adolescents are directly affected by preventive health decisions such as vaccination, yet their perspectives are rarely solicited or supported. Most digital interventions for Human Papillomavirus (HPV) vaccination are designed exclusively for parents, implicitly treating adolescents as passive recipients rather than stakeholders with agency. We present the design and evaluation of a mobile intervention that gives adolescents a voice in HPV vaccination decisions alongside their parents. The system uses embodied conversational agents tailored to each audience: parents interact with an animated p",
       "summary_fr": "Adolescents are directly affected by preventive health decisions such as vaccination, yet their perspectives are rarely solicited or supported. Most digital interventions for Human Papillomavirus (HPV) vaccination are designed exclusively for parents, implicitly treating adolescents as passive recipients rather than stakeholders with agency. We present the design and evaluation of a mobile intervention that gives adolescents a voice in HPV vaccination decisions alongside their parents. The system uses embodied conversational agents tailored to each audience: parents interact with an animated p",
       "resume_fr": "Adolescents are directly affected by preventive health decisions such as vaccination, yet their perspectives are rarely solicited or supported. Most digital interventions for Human Papillomavirus (HPV) vaccination are designed exclusively for parents, implicitly treating adolescents as passive recipients rather than stakeholders with agency. We present the design and evaluation of a mobile intervention that gives adolescents a voice in HPV vaccination decisions alongside their parents. The system uses embodied conversational agents tailored to each audience: parents interact with an animated p",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "When AI Levels the Playing Field: Skill Homogenization, Asset Concentration, and Two Regimes of Inequality",
+      "url": "https://arxiv.org/abs/2603.05565v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-03-05T12:41:08.000Z",
+      "score": 50,
+      "summary_en": "Generative AI compresses within-task skill differences while shifting economic value toward concentrated complementary assets, creating an apparent paradox: the technology that equalizes individual performance may widen aggregate inequality. We formalize this tension in a task-based model with endogenous education, employer screening, and heterogeneous firms. The model yields two regimes whose boundary depends on AI's technology structure (proprietary vs.\\ commodity) and labor market institutions (rent-sharing elasticity, asset concentration). A scenario analysis via Method of Simulated Moment",
+      "summary_fr": "Generative AI compresses within-task skill differences while shifting economic value toward concentrated complementary assets, creating an apparent paradox: the technology that equalizes individual performance may widen aggregate inequality. We formalize this tension in a task-based model with endogenous education, employer screening, and heterogeneous firms. The model yields two regimes whose boundary depends on AI's technology structure (proprietary vs.\\ commodity) and labor market institutions (rent-sharing elasticity, asset concentration). A scenario analysis via Method of Simulated Moment",
+      "resume_fr": "Generative AI compresses within-task skill differences while shifting economic value toward concentrated complementary assets, creating an apparent paradox: the technology that equalizes individual performance may widen aggregate inequality. We formalize this tension in a task-based model with endogenous education, employer screening, and heterogeneous firms. The model yields two regimes whose boundary depends on AI's technology structure (proprietary vs.\\ commodity) and labor market institutions (rent-sharing elasticity, asset concentration). A scenario analysis via Method of Simulated Moment",
       "tags": [],
       "breakdown": {
         "research": 35,
@@ -1139,101 +1234,6 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-026-01187-y/MediaObjects/42256_2026_1187_Fig1_HTML.png"
-    },
-    {
-      "title": "SCRAPL: Scattering Transform with Random Paths for Machine Learning",
-      "url": "https://arxiv.org/abs/2602.11145v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-02-11T18:57:08.000Z",
-      "score": 50,
-      "summary_en": "The Euclidean distance between wavelet scattering transform coefficients (known as paths) provides informative gradients for perceptual quality assessment of deep inverse problems in computer vision, speech, and audio processing. However, these transforms are computationally expensive when employed as differentiable loss functions for stochastic gradient descent due to their numerous paths, which significantly limits their use in neural network training. Against this problem, we propose \"Scattering transform with Random Paths for machine Learning\" (SCRAPL): a stochastic optimization scheme for",
-      "summary_fr": "The Euclidean distance between wavelet scattering transform coefficients (known as paths) provides informative gradients for perceptual quality assessment of deep inverse problems in computer vision, speech, and audio processing. However, these transforms are computationally expensive when employed as differentiable loss functions for stochastic gradient descent due to their numerous paths, which significantly limits their use in neural network training. Against this problem, we propose \"Scattering transform with Random Paths for machine Learning\" (SCRAPL): a stochastic optimization scheme for",
-      "resume_fr": "The Euclidean distance between wavelet scattering transform coefficients (known as paths) provides informative gradients for perceptual quality assessment of deep inverse problems in computer vision, speech, and audio processing. However, these transforms are computationally expensive when employed as differentiable loss functions for stochastic gradient descent due to their numerous paths, which significantly limits their use in neural network training. Against this problem, we propose \"Scattering transform with Random Paths for machine Learning\" (SCRAPL): a stochastic optimization scheme for",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "How to check in continually over 4,000 days on an online learning platform? An empirical experience and a practical solution",
-      "url": "https://arxiv.org/abs/2602.11249v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-02-11T18:18:08.000Z",
-      "score": 85,
-      "summary_en": "The check-in service is often provided as an incentive system by online learning platforms to help users establish a learning routine and achieve accomplishment. However, according to the questionnaire conducted in this study, 82.5% of users of online English learning platforms that feature a check-in service have failed to maintain the daily check-in behavior for long-term language learning, mainly by reason of demotivation, forgetfulness, boredom, and insufficient time. As a language learner, I have an empirical experience in maintaining a record of over 4,000 daily check-ins on China's lead",
-      "summary_fr": "The check-in service is often provided as an incentive system by online learning platforms to help users establish a learning routine and achieve accomplishment. However, according to the questionnaire conducted in this study, 82.5% of users of online English learning platforms that feature a check-in service have failed to maintain the daily check-in behavior for long-term language learning, mainly by reason of demotivation, forgetfulness, boredom, and insufficient time. As a language learner, I have an empirical experience in maintaining a record of over 4,000 daily check-ins on China's lead",
-      "resume_fr": "The check-in service is often provided as an incentive system by online learning platforms to help users establish a learning routine and achieve accomplishment. However, according to the questionnaire conducted in this study, 82.5% of users of online English learning platforms that feature a check-in service have failed to maintain the daily check-in behavior for long-term language learning, mainly by reason of demotivation, forgetfulness, boredom, and insufficient time. As a language learner, I have an empirical experience in maintaining a record of over 4,000 daily check-ins on China's lead",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "GameDevBench: Evaluating Agentic Capabilities Through Game Development",
-      "url": "https://arxiv.org/abs/2602.11103v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-02-11T18:15:11.000Z",
-      "score": 50,
-      "summary_en": "Despite rapid progress on coding agents, progress on their multimodal counterparts has lagged behind. A key challenge is the scarcity of evaluation testbeds that combine the complexity of software development with the need for deep multimodal understanding. Game development provides such a testbed as agents must navigate large, dense codebases while manipulating intrinsically multimodal assets such as shaders, sprites, and animations within a visual game scene. We present GameDevBench, the first benchmark for evaluating agents on game development tasks. GameDevBench consists of 132 tasks deriv",
-      "summary_fr": "Despite rapid progress on coding agents, progress on their multimodal counterparts has lagged behind. A key challenge is the scarcity of evaluation testbeds that combine the complexity of software development with the need for deep multimodal understanding. Game development provides such a testbed as agents must navigate large, dense codebases while manipulating intrinsically multimodal assets such as shaders, sprites, and animations within a visual game scene. We present GameDevBench, the first benchmark for evaluating agents on game development tasks. GameDevBench consists of 132 tasks deriv",
-      "resume_fr": "Despite rapid progress on coding agents, progress on their multimodal counterparts has lagged behind. A key challenge is the scarcity of evaluation testbeds that combine the complexity of software development with the need for deep multimodal understanding. Game development provides such a testbed as agents must navigate large, dense codebases while manipulating intrinsically multimodal assets such as shaders, sprites, and animations within a visual game scene. We present GameDevBench, the first benchmark for evaluating agents on game development tasks. GameDevBench consists of 132 tasks deriv",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "AI Sensing and Intervention in Higher Education: Student Perceptions of Learning Impacts, Affective Responses, and Ethical Priorities",
-      "url": "https://arxiv.org/abs/2602.11074v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-02-11T17:43:33.000Z",
-      "score": 100,
-      "summary_en": "AI technologies that sense student attention and emotions to enable more personalised teaching interventions are increasingly promoted, but raise pressing questions about student learning, well-being, and ethics. In particular, students' perspectives about AI sensing-intervention in learning are often overlooked. We conducted an online mixed-method experiment with Australian university students (N=132), presenting video scenarios varying by whether sensing was used (in-use vs. not-in-use), sensing modality (gaze-based attention detection vs. facial-based emotion detection), and intervention (b",
-      "summary_fr": "AI technologies that sense student attention and emotions to enable more personalised teaching interventions are increasingly promoted, but raise pressing questions about student learning, well-being, and ethics. In particular, students' perspectives about AI sensing-intervention in learning are often overlooked. We conducted an online mixed-method experiment with Australian university students (N=132), presenting video scenarios varying by whether sensing was used (in-use vs. not-in-use), sensing modality (gaze-based attention detection vs. facial-based emotion detection), and intervention (b",
-      "resume_fr": "AI technologies that sense student attention and emotions to enable more personalised teaching interventions are increasingly promoted, but raise pressing questions about student learning, well-being, and ethics. In particular, students' perspectives about AI sensing-intervention in learning are often overlooked. We conducted an online mixed-method experiment with Australian university students (N=132), presenting video scenarios varying by whether sensing was used (in-use vs. not-in-use), sensing modality (gaze-based attention detection vs. facial-based emotion detection), and intervention (b",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Design, Development, and Use of Maya Robot as an Assistant for the Therapy/Education of Children with Cancer: a Pilot Study",
-      "url": "https://arxiv.org/abs/2602.10942v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-02-11T15:20:41.000Z",
-      "score": 50,
-      "summary_en": "This study centers around the design and implementation of the Maya Robot, a portable elephant-shaped social robot, intended to engage with children undergoing cancer treatment. Initial efforts were devoted to enhancing the robot's facial expression recognition accuracy, achieving a 98% accuracy through deep neural networks. Two subsequent preliminary exploratory experiments were designed to advance the study's objectives. The first experiment aimed to compare pain levels experienced by children during the injection process, with and without the presence of the Maya robot. Twenty-five children",
-      "summary_fr": "This study centers around the design and implementation of the Maya Robot, a portable elephant-shaped social robot, intended to engage with children undergoing cancer treatment. Initial efforts were devoted to enhancing the robot's facial expression recognition accuracy, achieving a 98% accuracy through deep neural networks. Two subsequent preliminary exploratory experiments were designed to advance the study's objectives. The first experiment aimed to compare pain levels experienced by children during the injection process, with and without the presence of the Maya robot. Twenty-five children",
-      "resume_fr": "This study centers around the design and implementation of the Maya Robot, a portable elephant-shaped social robot, intended to engage with children undergoing cancer treatment. Initial efforts were devoted to enhancing the robot's facial expression recognition accuracy, achieving a 98% accuracy through deep neural networks. Two subsequent preliminary exploratory experiments were designed to advance the study's objectives. The first experiment aimed to compare pain levels experienced by children during the injection process, with and without the presence of the Maya robot. Twenty-five children",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
     }
   ]
 }
