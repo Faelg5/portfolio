@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-09T07:15:35.003Z",
+  "generatedAt": "2026-03-10T07:06:03.177Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -96,6 +96,101 @@
   },
   "items": [
     {
+      "title": "Impermanent: A Live Benchmark for Temporal Generalization in Time Series Forecasting",
+      "url": "https://arxiv.org/abs/2603.08707v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-03-09T17:59:00.000Z",
+      "score": 50,
+      "summary_en": "Recent advances in time-series forecasting increasingly rely on pre-trained foundation-style models. While these models often claim broad generalization, existing evaluation protocols provide limited evidence. Indeed, most current benchmarks use static train-test splits that can easily lead to contamination as foundation models can inadvertently train on test data or perform model selection using test scores, which can inflate performance. We introduce Impermanent, a live benchmark that evaluates forecasting models under open-world temporal change by scoring forecasts sequentially over time on",
+      "summary_fr": "Recent advances in time-series forecasting increasingly rely on pre-trained foundation-style models. While these models often claim broad generalization, existing evaluation protocols provide limited evidence. Indeed, most current benchmarks use static train-test splits that can easily lead to contamination as foundation models can inadvertently train on test data or perform model selection using test scores, which can inflate performance. We introduce Impermanent, a live benchmark that evaluates forecasting models under open-world temporal change by scoring forecasts sequentially over time on",
+      "resume_fr": "Recent advances in time-series forecasting increasingly rely on pre-trained foundation-style models. While these models often claim broad generalization, existing evaluation protocols provide limited evidence. Indeed, most current benchmarks use static train-test splits that can easily lead to contamination as foundation models can inadvertently train on test data or perform model selection using test scores, which can inflate performance. We introduce Impermanent, a live benchmark that evaluates forecasting models under open-world temporal change by scoring forecasts sequentially over time on",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Drift-to-Action Controllers: Budgeted Interventions with Online Risk Certificates",
+      "url": "https://arxiv.org/abs/2603.08578v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-03-09T16:34:12.000Z",
+      "score": 70,
+      "summary_en": "Deployed machine learning systems face distribution drift, yet most monitoring pipelines stop at alarms and leave the response underspecified under labeling, compute, and latency constraints. We introduce Drift2Act, a drift-to-action controller that treats monitoring as constrained decision-making with explicit safety. Drift2Act combines a sensing layer that maps unlabeled monitoring signals to a belief over drift types with an active risk certificate that queries a small set of delayed labels from a recent window to produce an anytime-valid upper bound $U_t(δ)$ on current risk. The certificat",
+      "summary_fr": "Deployed machine learning systems face distribution drift, yet most monitoring pipelines stop at alarms and leave the response underspecified under labeling, compute, and latency constraints. We introduce Drift2Act, a drift-to-action controller that treats monitoring as constrained decision-making with explicit safety. Drift2Act combines a sensing layer that maps unlabeled monitoring signals to a belief over drift types with an active risk certificate that queries a small set of delayed labels from a recent window to produce an anytime-valid upper bound $U_t(δ)$ on current risk. The certificat",
+      "resume_fr": "Deployed machine learning systems face distribution drift, yet most monitoring pipelines stop at alarms and leave the response underspecified under labeling, compute, and latency constraints. We introduce Drift2Act, a drift-to-action controller that treats monitoring as constrained decision-making with explicit safety. Drift2Act combines a sensing layer that maps unlabeled monitoring signals to a belief over drift types with an active risk certificate that queries a small set of delayed labels from a recent window to produce an anytime-valid upper bound $U_t(δ)$ on current risk. The certificat",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Learning collision risk proactively from naturalistic driving data at scale",
+      "url": "https://www.nature.com/articles/s42256-026-01189-w",
+      "source": "Nature Machine Intelligence",
+      "published": "2026-03-09T00:00:00.000Z",
+      "score": 70,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
+    },
+    {
+      "title": "AI Misuse in Education Is a Measurement Problem: Toward a Learning Visibility Framework",
+      "url": "https://arxiv.org/abs/2603.07834v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-08T22:35:09.000Z",
+      "score": 85,
+      "summary_en": "The rapid integration of conversational AI systems into educational settings has intensified ethical concerns about academic integrity, fairness, and students' cognitive development. Institutional responses have largely centered on AI detection tools and restrictive policies, yet such approaches have proven unreliable and ethically contentious. This paper reframes AI misuse in education not primarily as a detection problem, but as a measurement problem rooted in the loss of visibility into the learning process. When AI enters the assessment loop, educators often retain access to final outputs ",
+      "summary_fr": "The rapid integration of conversational AI systems into educational settings has intensified ethical concerns about academic integrity, fairness, and students' cognitive development. Institutional responses have largely centered on AI detection tools and restrictive policies, yet such approaches have proven unreliable and ethically contentious. This paper reframes AI misuse in education not primarily as a detection problem, but as a measurement problem rooted in the loss of visibility into the learning process. When AI enters the assessment loop, educators often retain access to final outputs ",
+      "resume_fr": "The rapid integration of conversational AI systems into educational settings has intensified ethical concerns about academic integrity, fairness, and students' cognitive development. Institutional responses have largely centered on AI detection tools and restrictive policies, yet such approaches have proven unreliable and ethically contentious. This paper reframes AI misuse in education not primarily as a detection problem, but as a measurement problem rooted in the loss of visibility into the learning process. When AI enters the assessment loop, educators often retain access to final outputs ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Directing the Robot: Scaffolding Creative Human-AI-Robot Interaction",
+      "url": "https://arxiv.org/abs/2603.07748v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-08T17:49:38.000Z",
+      "score": 85,
+      "summary_en": "Robots are moving beyond industrial settings into creative, educational, and public environments where interaction is open-ended and improvisational. Yet much of human-AI-robot interaction remains framed around performance and efficiency, positioning humans as supervisors rather than collaborators. We propose a re-framing of AI interaction with robots as scaffolding: infrastructure that enables humans to shape robotic behaviour over time while remaining meaningfully in control. Through scenarios from creative practice, learning-by-teaching, and embodied interaction, we illustrate how humans ca",
+      "summary_fr": "Robots are moving beyond industrial settings into creative, educational, and public environments where interaction is open-ended and improvisational. Yet much of human-AI-robot interaction remains framed around performance and efficiency, positioning humans as supervisors rather than collaborators. We propose a re-framing of AI interaction with robots as scaffolding: infrastructure that enables humans to shape robotic behaviour over time while remaining meaningfully in control. Through scenarios from creative practice, learning-by-teaching, and embodied interaction, we illustrate how humans ca",
+      "resume_fr": "Robots are moving beyond industrial settings into creative, educational, and public environments where interaction is open-ended and improvisational. Yet much of human-AI-robot interaction remains framed around performance and efficiency, positioning humans as supervisors rather than collaborators. We propose a re-framing of AI interaction with robots as scaffolding: infrastructure that enables humans to shape robotic behaviour over time while remaining meaningfully in control. Through scenarios from creative practice, learning-by-teaching, and embodied interaction, we illustrate how humans ca",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
       "title": "Military AI Policy Needs Democratic Oversight",
       "url": "https://spectrum.ieee.org/military-ai-governance",
       "source": "IEEE Spectrum – AI",
@@ -113,6 +208,44 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
+    },
+    {
+      "title": "From Passive Consumption to Active Interaction: Exploring Interactive LLM Scaffolding to Support Learning Engagement",
+      "url": "https://arxiv.org/abs/2603.07277v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-07T16:38:10.000Z",
+      "score": 85,
+      "summary_en": "Large Language Models (LLMs) are increasingly used as learning companions, providing scaffolded explanations, hints, or step-by-step guidance. However, in current LLM-based learning scenarios, scaffolded content is primarily consumed passively, offering limited support for active learner engagement. Learning science research suggests that effective educational scaffolding depends not only on what support is provided, but also on how learners engage with it. In this work, we explore whether embedding lightweight interactive components into LLM-generated scaffolding responses can promote learnin",
+      "summary_fr": "Large Language Models (LLMs) are increasingly used as learning companions, providing scaffolded explanations, hints, or step-by-step guidance. However, in current LLM-based learning scenarios, scaffolded content is primarily consumed passively, offering limited support for active learner engagement. Learning science research suggests that effective educational scaffolding depends not only on what support is provided, but also on how learners engage with it. In this work, we explore whether embedding lightweight interactive components into LLM-generated scaffolding responses can promote learnin",
+      "resume_fr": "Large Language Models (LLMs) are increasingly used as learning companions, providing scaffolded explanations, hints, or step-by-step guidance. However, in current LLM-based learning scenarios, scaffolded content is primarily consumed passively, offering limited support for active learner engagement. Learning science research suggests that effective educational scaffolding depends not only on what support is provided, but also on how learners engage with it. In this work, we explore whether embedding lightweight interactive components into LLM-generated scaffolding responses can promote learnin",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Student Preferences for Online Interaction Platforms in Blended Learning: A Mixed-Methods Study",
+      "url": "https://arxiv.org/abs/2603.07186v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-07T12:55:09.000Z",
+      "score": 85,
+      "summary_en": "As higher education increasingly adopts blended learning, understanding students preferences for online interaction platforms becomes critical for effective course delivery and engagement. This study investigates the platforms undergraduate students prefer for academic communication and explores the underlying reasons for these choices. Data were collected from 37 students enrolled in two summer courses at a Ghanaian university using a structured questionnaire consisting of both closed and open-ended items. Quantitative results revealed a strong preference for instant messaging platforms such ",
+      "summary_fr": "As higher education increasingly adopts blended learning, understanding students preferences for online interaction platforms becomes critical for effective course delivery and engagement. This study investigates the platforms undergraduate students prefer for academic communication and explores the underlying reasons for these choices. Data were collected from 37 students enrolled in two summer courses at a Ghanaian university using a structured questionnaire consisting of both closed and open-ended items. Quantitative results revealed a strong preference for instant messaging platforms such ",
+      "resume_fr": "As higher education increasingly adopts blended learning, understanding students preferences for online interaction platforms becomes critical for effective course delivery and engagement. This study investigates the platforms undergraduate students prefer for academic communication and explores the underlying reasons for these choices. Data were collected from 37 students enrolled in two summer courses at a Ghanaian university using a structured questionnaire consisting of both closed and open-ended items. Quantitative results revealed a strong preference for instant messaging platforms such ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
       "title": "Artificial Intelligence for Detecting Fetal Orofacial Clefts and Advancing Medical Education",
@@ -1101,139 +1234,6 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
-    },
-    {
-      "title": "On-Policy Context Distillation for Language Models",
-      "url": "https://arxiv.org/abs/2602.12275v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-02-12T18:58:28.000Z",
-      "score": 70,
-      "summary_en": "Context distillation enables language models to internalize in-context knowledge into their parameters. In our work, we propose On-Policy Context Distillation (OPCD), a framework that bridges on-policy distillation with context distillation by training a student model on its own generated trajectories while minimizing reverse Kullback-Leibler divergence against a context-conditioned teacher. We demonstrate the effectiveness of OPCD on two important applications: experiential knowledge distillation, where models extract and consolidate transferable knowledge from their historical solution trace",
-      "summary_fr": "Context distillation enables language models to internalize in-context knowledge into their parameters. In our work, we propose On-Policy Context Distillation (OPCD), a framework that bridges on-policy distillation with context distillation by training a student model on its own generated trajectories while minimizing reverse Kullback-Leibler divergence against a context-conditioned teacher. We demonstrate the effectiveness of OPCD on two important applications: experiential knowledge distillation, where models extract and consolidate transferable knowledge from their historical solution trace",
-      "resume_fr": "Context distillation enables language models to internalize in-context knowledge into their parameters. In our work, we propose On-Policy Context Distillation (OPCD), a framework that bridges on-policy distillation with context distillation by training a student model on its own generated trajectories while minimizing reverse Kullback-Leibler divergence against a context-conditioned teacher. We demonstrate the effectiveness of OPCD on two important applications: experiential knowledge distillation, where models extract and consolidate transferable knowledge from their historical solution trace",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Olmix: A Framework for Data Mixing Throughout LM Development",
-      "url": "https://arxiv.org/abs/2602.12237v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-02-12T18:16:05.000Z",
-      "score": 70,
-      "summary_en": "Data mixing -- determining the ratios of data from different domains -- is a first-order concern for training language models (LMs). While existing mixing methods show promise, they fall short when applied during real-world LM development. We present Olmix, a framework that addresses two such challenges. First, the configuration space for developing a mixing method is not well understood -- design choices across existing methods lack justification or consensus and overlook practical issues like data constraints. We conduct a comprehensive empirical study of this space, identifying which design",
-      "summary_fr": "Data mixing -- determining the ratios of data from different domains -- is a first-order concern for training language models (LMs). While existing mixing methods show promise, they fall short when applied during real-world LM development. We present Olmix, a framework that addresses two such challenges. First, the configuration space for developing a mixing method is not well understood -- design choices across existing methods lack justification or consensus and overlook practical issues like data constraints. We conduct a comprehensive empirical study of this space, identifying which design",
-      "resume_fr": "Data mixing -- determining the ratios of data from different domains -- is a first-order concern for training language models (LMs). While existing mixing methods show promise, they fall short when applied during real-world LM development. We present Olmix, a framework that addresses two such challenges. First, the configuration space for developing a mixing method is not well understood -- design choices across existing methods lack justification or consensus and overlook practical issues like data constraints. We conduct a comprehensive empirical study of this space, identifying which design",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Commencing-Student Enrolment Forecasting Under Data Sparsity with Time Series Foundation Models",
-      "url": "https://arxiv.org/abs/2602.12120v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-02-12T16:10:42.000Z",
-      "score": 65,
-      "summary_en": "Many universities face increasing financial pressure and rely on accurate forecasts of commencing enrolments. However, enrolment forecasting in higher education is often data-sparse; annual series are short and affected by reporting changes and regime shifts. Popular classical approaches can be unreliable, as parameter estimation and model selection are unstable with short samples, and structural breaks degrade extrapolation. Recently, TSFMs have provided zero-shot priors, delivering strong gains in annual, data-sparse institutional forecasting under leakage-disciplined covariate construction.",
-      "summary_fr": "Many universities face increasing financial pressure and rely on accurate forecasts of commencing enrolments. However, enrolment forecasting in higher education is often data-sparse; annual series are short and affected by reporting changes and regime shifts. Popular classical approaches can be unreliable, as parameter estimation and model selection are unstable with short samples, and structural breaks degrade extrapolation. Recently, TSFMs have provided zero-shot priors, delivering strong gains in annual, data-sparse institutional forecasting under leakage-disciplined covariate construction.",
-      "resume_fr": "Many universities face increasing financial pressure and rely on accurate forecasts of commencing enrolments. However, enrolment forecasting in higher education is often data-sparse; annual series are short and affected by reporting changes and regime shifts. Popular classical approaches can be unreliable, as parameter estimation and model selection are unstable with short samples, and structural breaks degrade extrapolation. Recently, TSFMs have provided zero-shot priors, delivering strong gains in annual, data-sparse institutional forecasting under leakage-disciplined covariate construction.",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "CSEval: A Framework for Evaluating Clinical Semantics in Text-to-Image Generation",
-      "url": "https://arxiv.org/abs/2602.12004v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-02-12T14:35:31.000Z",
-      "score": 85,
-      "summary_en": "Text-to-image generation has been increasingly applied in medical domains for various purposes such as data augmentation and education. Evaluating the quality and clinical reliability of these generated images is essential. However, existing methods mainly assess image realism or diversity, while failing to capture whether the generated images reflect the intended clinical semantics, such as anatomical location and pathology. In this study, we propose the Clinical Semantics Evaluator (CSEval), a framework that leverages language models to assess clinical semantic alignment between the generate",
-      "summary_fr": "Text-to-image generation has been increasingly applied in medical domains for various purposes such as data augmentation and education. Evaluating the quality and clinical reliability of these generated images is essential. However, existing methods mainly assess image realism or diversity, while failing to capture whether the generated images reflect the intended clinical semantics, such as anatomical location and pathology. In this study, we propose the Clinical Semantics Evaluator (CSEval), a framework that leverages language models to assess clinical semantic alignment between the generate",
-      "resume_fr": "Text-to-image generation has been increasingly applied in medical domains for various purposes such as data augmentation and education. Evaluating the quality and clinical reliability of these generated images is essential. However, existing methods mainly assess image realism or diversity, while failing to capture whether the generated images reflect the intended clinical semantics, such as anatomical location and pathology. In this study, we propose the Clinical Semantics Evaluator (CSEval), a framework that leverages language models to assess clinical semantic alignment between the generate",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "How partnerships between youth activists and politicians are improving prospects for Brazil’s youngest learners",
-      "url": "https://world-education-blog.org/2026/02/12/how-partnerships-between-youth-activists-and-politicians-are-improving-prospects-for-brazils-youngest-learners/",
-      "source": "UNESCO GEM – World Education Blog",
-      "published": "2026-02-12T13:55:19.000Z",
-      "score": 65,
-      "summary_en": "By João Davi de Morais Barbosa Saraiva, Theirworld Global Youth Ambassador and undergraduate student; José Salmito Filho, State Representative, Ceará, Brazil; and Vilma Freire, State Secretary of the Environment and Climate Change, Ceará, Brazil. Our home state, Ceará, has taken a big step forward for its youngest citizens, recently announcing the construction of 30 new […] The post How partnerships between youth activists and politicians are improving prospects for Brazil’s youngest learners appeared first on World Education Blog.",
-      "summary_fr": "By João Davi de Morais Barbosa Saraiva, Theirworld Global Youth Ambassador and undergraduate student; José Salmito Filho, State Representative, Ceará, Brazil; and Vilma Freire, State Secretary of the Environment and Climate Change, Ceará, Brazil. Our home state, Ceará, has taken a big step forward for its youngest citizens, recently announcing the construction of 30 new […] The post How partnerships between youth activists and politicians are improving prospects for Brazil’s youngest learners appeared first on World Education Blog.",
-      "resume_fr": "By João Davi de Morais Barbosa Saraiva, Theirworld Global Youth Ambassador and undergraduate student; José Salmito Filho, State Representative, Ceará, Brazil; and Vilma Freire, State Secretary of the Environment and Climate Change, Ceará, Brazil. Our home state, Ceará, has taken a big step forward for its youngest citizens, recently announcing the construction of 30 new […] The post How partnerships between youth activists and politicians are improving prospects for Brazil’s youngest learners appeared first on World Education Blog.",
-      "tags": [],
-      "breakdown": {
-        "research": 0,
-        "policy": 35,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=world-education-blog.org&sz=128"
-    },
-    {
-      "title": "Understanding Persuasive Interactions between Generative Social Agents and Humans: The Knowledge-based Persuasion Model (KPM)",
-      "url": "https://arxiv.org/abs/2602.11483v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-02-12T01:53:28.000Z",
-      "score": 85,
-      "summary_en": "Generative social agents (GSAs) use artificial intelligence to autonomously communicate with human users in a natural and adaptive manner. Currently, there is a lack of theorizing regarding interactions with GSAs, and likewise, few guidelines exist for studying how they influence user attitudes and behaviors. Consequently, we propose the Knowledge-based Persuasion Model (KPM) as a novel theoretical framework. According to the KPM, a GSA's self, user, and context-related knowledge drives its persuasive behavior, which in turn shapes the attitudes and behaviors of a responding human user. By syn",
-      "summary_fr": "Generative social agents (GSAs) use artificial intelligence to autonomously communicate with human users in a natural and adaptive manner. Currently, there is a lack of theorizing regarding interactions with GSAs, and likewise, few guidelines exist for studying how they influence user attitudes and behaviors. Consequently, we propose the Knowledge-based Persuasion Model (KPM) as a novel theoretical framework. According to the KPM, a GSA's self, user, and context-related knowledge drives its persuasive behavior, which in turn shapes the attitudes and behaviors of a responding human user. By syn",
-      "resume_fr": "Generative social agents (GSAs) use artificial intelligence to autonomously communicate with human users in a natural and adaptive manner. Currently, there is a lack of theorizing regarding interactions with GSAs, and likewise, few guidelines exist for studying how they influence user attitudes and behaviors. Consequently, we propose the Knowledge-based Persuasion Model (KPM) as a novel theoretical framework. According to the KPM, a GSA's self, user, and context-related knowledge drives its persuasive behavior, which in turn shapes the attitudes and behaviors of a responding human user. By syn",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Reusability Report: Evaluating the performance of a meta-learning foundation model on predicting the antibacterial activity of natural products",
-      "url": "https://www.nature.com/articles/s42256-026-01187-y",
-      "source": "Nature Machine Intelligence",
-      "published": "2026-02-12T00:00:00.000Z",
-      "score": 70,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-026-01187-y/MediaObjects/42256_2026_1187_Fig1_HTML.png"
     }
   ]
 }
