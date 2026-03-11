@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T07:06:03.177Z",
+  "generatedAt": "2026-03-11T07:09:10.233Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,101 @@
     }
   },
   "items": [
+    {
+      "title": "On the Width Scaling of Neural Optimizers Under Matrix Operator Norms I: Row/Column Normalization and Hyperparameter Transfer",
+      "url": "https://arxiv.org/abs/2603.09952v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-03-10T17:49:19.000Z",
+      "score": 50,
+      "summary_en": "A central question in modern deep learning is how to design optimizers whose behavior remains stable as the network width $w$ increases. We address this question by interpreting several widely used neural-network optimizers, including \\textrm{AdamW} and \\textrm{Muon}, as instances of steepest descent under matrix operator norms. This perspective links optimizer geometry with the Lipschitz structure of the network forward map, and enables width-independent control of both Lipschitz and smoothness constants. However, steepest-descent rules induced by standard $p \\to q$ operator norms lack layerw",
+      "summary_fr": "A central question in modern deep learning is how to design optimizers whose behavior remains stable as the network width $w$ increases. We address this question by interpreting several widely used neural-network optimizers, including \\textrm{AdamW} and \\textrm{Muon}, as instances of steepest descent under matrix operator norms. This perspective links optimizer geometry with the Lipschitz structure of the network forward map, and enables width-independent control of both Lipschitz and smoothness constants. However, steepest-descent rules induced by standard $p \\to q$ operator norms lack layerw",
+      "resume_fr": "A central question in modern deep learning is how to design optimizers whose behavior remains stable as the network width $w$ increases. We address this question by interpreting several widely used neural-network optimizers, including \\textrm{AdamW} and \\textrm{Muon}, as instances of steepest descent under matrix operator norms. This perspective links optimizer geometry with the Lipschitz structure of the network forward map, and enables width-independent control of both Lipschitz and smoothness constants. However, steepest-descent rules induced by standard $p \\to q$ operator norms lack layerw",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "When Learning Rates Go Wrong: Early Structural Signals in PPO Actor-Critic",
+      "url": "https://arxiv.org/abs/2603.09950v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-03-10T17:46:31.000Z",
+      "score": 70,
+      "summary_en": "Deep Reinforcement Learning systems are highly sensitive to the learning rate (LR), and selecting stable and performant training runs often requires extensive hyperparameter search. In Proximal Policy Optimization (PPO) actor--critic methods, small LR values lead to slow convergence, whereas large LR values may induce instability or collapse. We analyse this phenomenon from the behavior of the hidden neurons in the network using the Overfitting-Underfitting Indicator (OUI), a metric that quantifies the balance of binary activation patterns over a fixed probe batch. We introduce an efficient ba",
+      "summary_fr": "Deep Reinforcement Learning systems are highly sensitive to the learning rate (LR), and selecting stable and performant training runs often requires extensive hyperparameter search. In Proximal Policy Optimization (PPO) actor--critic methods, small LR values lead to slow convergence, whereas large LR values may induce instability or collapse. We analyse this phenomenon from the behavior of the hidden neurons in the network using the Overfitting-Underfitting Indicator (OUI), a metric that quantifies the balance of binary activation patterns over a fixed probe batch. We introduce an efficient ba",
+      "resume_fr": "Deep Reinforcement Learning systems are highly sensitive to the learning rate (LR), and selecting stable and performant training runs often requires extensive hyperparameter search. In Proximal Policy Optimization (PPO) actor--critic methods, small LR values lead to slow convergence, whereas large LR values may induce instability or collapse. We analyse this phenomenon from the behavior of the hidden neurons in the network using the Overfitting-Underfitting Indicator (OUI), a metric that quantifies the balance of binary activation patterns over a fixed probe batch. We introduce an efficient ba",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Dynamic Multimodal Expression Generation for LLM-Driven Pedagogical Agents: From User Experience Perspective",
+      "url": "https://arxiv.org/abs/2603.09536v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-10T11:48:37.000Z",
+      "score": 50,
+      "summary_en": "In virtual reality (VR) educational scenarios, Pedagogical agents (PAs) enhance immersive learning through realistic appearances and interactive behaviors. However, most existing PAs rely on static speech and simple gestures. This limitation reduces their ability to dynamically adapt to the semantic context of instructional content. As a result, interactions often lack naturalness and effectiveness in the teaching process. To address this challenge, this study proposes a large language model (LLM)-driven multimodal expression generation method that constructs semantically sensitive prompts to ",
+      "summary_fr": "In virtual reality (VR) educational scenarios, Pedagogical agents (PAs) enhance immersive learning through realistic appearances and interactive behaviors. However, most existing PAs rely on static speech and simple gestures. This limitation reduces their ability to dynamically adapt to the semantic context of instructional content. As a result, interactions often lack naturalness and effectiveness in the teaching process. To address this challenge, this study proposes a large language model (LLM)-driven multimodal expression generation method that constructs semantically sensitive prompts to ",
+      "resume_fr": "In virtual reality (VR) educational scenarios, Pedagogical agents (PAs) enhance immersive learning through realistic appearances and interactive behaviors. However, most existing PAs rely on static speech and simple gestures. This limitation reduces their ability to dynamically adapt to the semantic context of instructional content. As a result, interactions often lack naturalness and effectiveness in the teaching process. To address this challenge, this study proposes a large language model (LLM)-driven multimodal expression generation method that constructs semantically sensitive prompts to ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Vibe-Creation: The Epistemology of Human-AI Emergent Cognition",
+      "url": "https://arxiv.org/abs/2603.09486v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-03-10T10:41:28.000Z",
+      "score": 50,
+      "summary_en": "The encounter between human reasoning and generative artificial intelligence (GenAI) cannot be adequately described by inherited metaphors of tool use, augmentation, or collaborative partnership. This article argues that such interactions produce a qualitatively distinct cognitive-epistemic formation, designated here as the Third Entity: an emergent, transient structure that arises from the transductive coupling of two ontologically incommensurable modes of cognition. Drawing on Peirce semiotics, Polanyi theory of tacit knowledge, Simondon philosophy of individuation, Ihde postphenomenology, a",
+      "summary_fr": "The encounter between human reasoning and generative artificial intelligence (GenAI) cannot be adequately described by inherited metaphors of tool use, augmentation, or collaborative partnership. This article argues that such interactions produce a qualitatively distinct cognitive-epistemic formation, designated here as the Third Entity: an emergent, transient structure that arises from the transductive coupling of two ontologically incommensurable modes of cognition. Drawing on Peirce semiotics, Polanyi theory of tacit knowledge, Simondon philosophy of individuation, Ihde postphenomenology, a",
+      "resume_fr": "The encounter between human reasoning and generative artificial intelligence (GenAI) cannot be adequately described by inherited metaphors of tool use, augmentation, or collaborative partnership. This article argues that such interactions produce a qualitatively distinct cognitive-epistemic formation, designated here as the Third Entity: an emergent, transient structure that arises from the transductive coupling of two ontologically incommensurable modes of cognition. Drawing on Peirce semiotics, Polanyi theory of tacit knowledge, Simondon philosophy of individuation, Ihde postphenomenology, a",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Integrating Virtual and Augmented Reality into Public Education: Opportunities and Challenges in Language Learning",
+      "url": "https://arxiv.org/abs/2603.08970v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-09T22:02:57.000Z",
+      "score": 65,
+      "summary_en": "Virtual Reality (VR) and Augmented Reality (AR) are emerging as transformative tools in education, offering new possibilities for engagement and immersion. This paper explores their potential in language learning within public education, focusing on their ability to enhance traditional schooling methods and address existing educational gaps. The integration of VR and AR in schools, however, is not without challenges, including usability, technical barriers, and the alignment of these technologies with existing curricula. Drawing on two empirical studies, this work investigates the opportunitie",
+      "summary_fr": "Virtual Reality (VR) and Augmented Reality (AR) are emerging as transformative tools in education, offering new possibilities for engagement and immersion. This paper explores their potential in language learning within public education, focusing on their ability to enhance traditional schooling methods and address existing educational gaps. The integration of VR and AR in schools, however, is not without challenges, including usability, technical barriers, and the alignment of these technologies with existing curricula. Drawing on two empirical studies, this work investigates the opportunitie",
+      "resume_fr": "Virtual Reality (VR) and Augmented Reality (AR) are emerging as transformative tools in education, offering new possibilities for engagement and immersion. This paper explores their potential in language learning within public education, focusing on their ability to enhance traditional schooling methods and address existing educational gaps. The integration of VR and AR in schools, however, is not without challenges, including usability, technical barriers, and the alignment of these technologies with existing curricula. Drawing on two empirical studies, this work investigates the opportunitie",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "Impermanent: A Live Benchmark for Temporal Generalization in Time Series Forecasting",
       "url": "https://arxiv.org/abs/2603.08707v1",
@@ -1139,101 +1234,6 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "When OpenClaw AI Agents Teach Each Other: Peer Learning Patterns in the Moltbook Community",
-      "url": "https://arxiv.org/abs/2602.14477v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-02-16T05:32:06.000Z",
-      "score": 85,
-      "summary_en": "Peer learning, where learners teach and learn from each other, is foundational to educational practice. A novel phenomenon has emerged: AI agents forming communities where they teach each other skills, share discoveries, and collaboratively build knowledge. This paper presents an educational data mining analysis of Moltbook, a large-scale community where over 2.4 million AI agents engage in peer learning, posting tutorials, answering questions, and sharing newly acquired skills. Analyzing 28,683 posts (after filtering automated spam) and 138 comment threads with statistical and qualitative met",
-      "summary_fr": "Peer learning, where learners teach and learn from each other, is foundational to educational practice. A novel phenomenon has emerged: AI agents forming communities where they teach each other skills, share discoveries, and collaboratively build knowledge. This paper presents an educational data mining analysis of Moltbook, a large-scale community where over 2.4 million AI agents engage in peer learning, posting tutorials, answering questions, and sharing newly acquired skills. Analyzing 28,683 posts (after filtering automated spam) and 138 comment threads with statistical and qualitative met",
-      "resume_fr": "Peer learning, where learners teach and learn from each other, is foundational to educational practice. A novel phenomenon has emerged: AI agents forming communities where they teach each other skills, share discoveries, and collaboratively build knowledge. This paper presents an educational data mining analysis of Moltbook, a large-scale community where over 2.4 million AI agents engage in peer learning, posting tutorials, answering questions, and sharing newly acquired skills. Analyzing 28,683 posts (after filtering automated spam) and 138 comment threads with statistical and qualitative met",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos",
-      "url": "https://arxiv.org/abs/2602.13197v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-02-13T18:59:10.000Z",
-      "score": 70,
-      "summary_en": "The ability to learn manipulation skills by watching videos of humans has the potential to unlock a new source of highly scalable data for robot learning. Here, we tackle prehensile manipulation, in which tasks involve grasping an object before performing various post-grasp motions. Human videos offer strong signals for learning the post-grasp motions, but they are less useful for learning the prerequisite grasping behaviors, especially for robots without human-like hands. A promising way forward is to use a modular policy design, leveraging a dedicated grasp generator to produce stable grasps",
-      "summary_fr": "The ability to learn manipulation skills by watching videos of humans has the potential to unlock a new source of highly scalable data for robot learning. Here, we tackle prehensile manipulation, in which tasks involve grasping an object before performing various post-grasp motions. Human videos offer strong signals for learning the post-grasp motions, but they are less useful for learning the prerequisite grasping behaviors, especially for robots without human-like hands. A promising way forward is to use a modular policy design, leveraging a dedicated grasp generator to produce stable grasps",
-      "resume_fr": "The ability to learn manipulation skills by watching videos of humans has the potential to unlock a new source of highly scalable data for robot learning. Here, we tackle prehensile manipulation, in which tasks involve grasping an object before performing various post-grasp motions. Human videos offer strong signals for learning the post-grasp motions, but they are less useful for learning the prerequisite grasping behaviors, especially for robots without human-like hands. A promising way forward is to use a modular policy design, leveraging a dedicated grasp generator to produce stable grasps",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "\"It's More of a Lifestyle'': Design Considerations for Supporting Everyday Practices in Community-Based Farming",
-      "url": "https://arxiv.org/abs/2602.13119v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-02-13T17:16:48.000Z",
-      "score": 85,
-      "summary_en": "Farming plays a significant role in the economy by supporting related industries such as food, retail, and local services. Community-based small farms, while offering unique social and cultural benefits, face persistent challenges, including limited access to formal education and underdeveloped infrastructure, which have been discussed in prior research. This study focuses on community-driven factors, such as workarounds for recording critical information and practices for passing down farming knowledge across generations. Through 11 semi-structured interviews with farmers from a small ethnic ",
-      "summary_fr": "Farming plays a significant role in the economy by supporting related industries such as food, retail, and local services. Community-based small farms, while offering unique social and cultural benefits, face persistent challenges, including limited access to formal education and underdeveloped infrastructure, which have been discussed in prior research. This study focuses on community-driven factors, such as workarounds for recording critical information and practices for passing down farming knowledge across generations. Through 11 semi-structured interviews with farmers from a small ethnic ",
-      "resume_fr": "Farming plays a significant role in the economy by supporting related industries such as food, retail, and local services. Community-based small farms, while offering unique social and cultural benefits, face persistent challenges, including limited access to formal education and underdeveloped infrastructure, which have been discussed in prior research. This study focuses on community-driven factors, such as workarounds for recording critical information and practices for passing down farming knowledge across generations. Through 11 semi-structured interviews with farmers from a small ethnic ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "SoK: Understanding the Pedagogical, Health, Ethical, and Privacy Challenges of Extended Reality in Early Childhood Education",
-      "url": "https://arxiv.org/abs/2602.12749v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-02-13T09:25:56.000Z",
-      "score": 85,
-      "summary_en": "Extended Reality (XR) combines dense sensing, real-time rendering, and close-range interaction, making its use in early childhood education both promising and high risk. To investigate this, we conduct a Systematization of Knowledge (SoK) of 111 peer-reviewed studies with children aged 3-8, quantifying how technical, pedagogical, health, privacy, and equity challenges arise in practice. We found that AR dominates the landscape (73%), focusing primarily on tablets or phones, while VR remains uncommon and typically relies on head mounted displays (HMDs). We integrate these quantitative patterns ",
-      "summary_fr": "Extended Reality (XR) combines dense sensing, real-time rendering, and close-range interaction, making its use in early childhood education both promising and high risk. To investigate this, we conduct a Systematization of Knowledge (SoK) of 111 peer-reviewed studies with children aged 3-8, quantifying how technical, pedagogical, health, privacy, and equity challenges arise in practice. We found that AR dominates the landscape (73%), focusing primarily on tablets or phones, while VR remains uncommon and typically relies on head mounted displays (HMDs). We integrate these quantitative patterns ",
-      "resume_fr": "Extended Reality (XR) combines dense sensing, real-time rendering, and close-range interaction, making its use in early childhood education both promising and high risk. To investigate this, we conduct a Systematization of Knowledge (SoK) of 111 peer-reviewed studies with children aged 3-8, quantifying how technical, pedagogical, health, privacy, and equity challenges arise in practice. We found that AR dominates the landscape (73%), focusing primarily on tablets or phones, while VR remains uncommon and typically relies on head mounted displays (HMDs). We integrate these quantitative patterns ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "A flaw in using pretrained protein language models in protein–protein interaction inference models",
-      "url": "https://www.nature.com/articles/s42256-025-01176-7",
-      "source": "Nature Machine Intelligence",
-      "published": "2026-02-13T00:00:00.000Z",
-      "score": 70,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
     }
   ]
 }
