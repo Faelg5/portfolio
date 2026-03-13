@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T07:10:53.776Z",
+  "generatedAt": "2026-03-13T07:09:45.997Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,82 @@
     }
   },
   "items": [
+    {
+      "title": "Automating Skill Acquisition through Large-Scale Mining of Open-Source Agentic Repositories: A Framework for Multi-Agent Procedural Knowledge Extraction",
+      "url": "https://arxiv.org/abs/2603.11808v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-03-12T11:10:13.000Z",
+      "score": 100,
+      "summary_en": "The transition from monolithic large language models (LLMs) to modular, skill-equipped agents represents a fundamental architectural shift in artificial intelligence deployment. While general-purpose models demonstrate remarkable breadth in declarative knowledge, their utility in autonomous workflows is frequently constrained by insufficient specialized procedural expertise. This report investigates a systematic framework for automated acquisition of high-quality agent skills through mining of open-source repositories on platforms such as GitHub. We focus on the extraction of visualization and",
+      "summary_fr": "The transition from monolithic large language models (LLMs) to modular, skill-equipped agents represents a fundamental architectural shift in artificial intelligence deployment. While general-purpose models demonstrate remarkable breadth in declarative knowledge, their utility in autonomous workflows is frequently constrained by insufficient specialized procedural expertise. This report investigates a systematic framework for automated acquisition of high-quality agent skills through mining of open-source repositories on platforms such as GitHub. We focus on the extraction of visualization and",
+      "resume_fr": "The transition from monolithic large language models (LLMs) to modular, skill-equipped agents represents a fundamental architectural shift in artificial intelligence deployment. While general-purpose models demonstrate remarkable breadth in declarative knowledge, their utility in autonomous workflows is frequently constrained by insufficient specialized procedural expertise. This report investigates a systematic framework for automated acquisition of high-quality agent skills through mining of open-source repositories on platforms such as GitHub. We focus on the extraction of visualization and",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Scaling Laws for Educational AI Agents",
+      "url": "https://arxiv.org/abs/2603.11709v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-03-12T09:14:50.000Z",
+      "score": 85,
+      "summary_en": "While scaling laws for Large Language Models (LLMs) have been extensively studied along dimensions of model parameters, training data, and compute, the scaling behavior of LLM-based educational agents remains unexplored. We propose that educational agent capability scales not merely with the underlying model size, but through structured dimensions that we collectively term the Agent Scaling Law: role definition clarity, skill depth, tool completeness, runtime capability, and educator expertise injection. Central to this framework is AgentProfile, a structured JSON-based specification that serv",
+      "summary_fr": "While scaling laws for Large Language Models (LLMs) have been extensively studied along dimensions of model parameters, training data, and compute, the scaling behavior of LLM-based educational agents remains unexplored. We propose that educational agent capability scales not merely with the underlying model size, but through structured dimensions that we collectively term the Agent Scaling Law: role definition clarity, skill depth, tool completeness, runtime capability, and educator expertise injection. Central to this framework is AgentProfile, a structured JSON-based specification that serv",
+      "resume_fr": "While scaling laws for Large Language Models (LLMs) have been extensively studied along dimensions of model parameters, training data, and compute, the scaling behavior of LLM-based educational agents remains unexplored. We propose that educational agent capability scales not merely with the underlying model size, but through structured dimensions that we collectively term the Agent Scaling Law: role definition clarity, skill depth, tool completeness, runtime capability, and educator expertise injection. Central to this framework is AgentProfile, a structured JSON-based specification that serv",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Prediction of Grade, Gender, and Academic Performance of Children and Teenagers from Handwriting Using the Sigma-Lognormal Model",
+      "url": "https://arxiv.org/abs/2603.11519v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-12T04:05:23.000Z",
+      "score": 50,
+      "summary_en": "Digital handwriting acquisition enables the capture of detailed temporal and kinematic signals reflecting the motor processes underlying writing behavior. While handwriting analysis has been extensively explored in clinical or adult populations, its potential for studying developmental and educational characteristics in children remains less investigated. In this work, we examine whether handwriting dynamics encode information related to student characteristics using a large-scale online dataset collected from Japanese students from elementary school to junior high school. We systematically co",
+      "summary_fr": "Digital handwriting acquisition enables the capture of detailed temporal and kinematic signals reflecting the motor processes underlying writing behavior. While handwriting analysis has been extensively explored in clinical or adult populations, its potential for studying developmental and educational characteristics in children remains less investigated. In this work, we examine whether handwriting dynamics encode information related to student characteristics using a large-scale online dataset collected from Japanese students from elementary school to junior high school. We systematically co",
+      "resume_fr": "Digital handwriting acquisition enables the capture of detailed temporal and kinematic signals reflecting the motor processes underlying writing behavior. While handwriting analysis has been extensively explored in clinical or adult populations, its potential for studying developmental and educational characteristics in children remains less investigated. In this work, we examine whether handwriting dynamics encode information related to student characteristics using a large-scale online dataset collected from Japanese students from elementary school to junior high school. We systematically co",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Bridging the Cognitive Gap: Co-Designing and Evaluating a Voice-Enabled Community Chatbot for Older Adults",
+      "url": "https://arxiv.org/abs/2603.11303v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-11T21:00:02.000Z",
+      "score": 50,
+      "summary_en": "Digital portals in retirement communities often create physical and cognitive barriers for older adults, leading to digital avoidance. Generative AI offers a solution by enabling natural language interaction, yet its adoption is hindered by the opaque, \"Black Box\" nature of these systems and lingering usability challenges. To address this, we evaluated a voice-enabled Large Language Model (LLM) chatbot at a continuing care retirement community in the Pacific Northwest. Through a mixed-methods Co-Design and Literacy Workshop (N=25), we applied a \"Glass Box\" approach combining multimodal accessi",
+      "summary_fr": "Digital portals in retirement communities often create physical and cognitive barriers for older adults, leading to digital avoidance. Generative AI offers a solution by enabling natural language interaction, yet its adoption is hindered by the opaque, \"Black Box\" nature of these systems and lingering usability challenges. To address this, we evaluated a voice-enabled Large Language Model (LLM) chatbot at a continuing care retirement community in the Pacific Northwest. Through a mixed-methods Co-Design and Literacy Workshop (N=25), we applied a \"Glass Box\" approach combining multimodal accessi",
+      "resume_fr": "Digital portals in retirement communities often create physical and cognitive barriers for older adults, leading to digital avoidance. Generative AI offers a solution by enabling natural language interaction, yet its adoption is hindered by the opaque, \"Black Box\" nature of these systems and lingering usability challenges. To address this, we evaluated a voice-enabled Large Language Model (LLM) chatbot at a continuing care retirement community in the Pacific Northwest. Through a mixed-methods Co-Design and Literacy Workshop (N=25), we applied a \"Glass Box\" approach combining multimodal accessi",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation",
       "url": "https://arxiv.org/abs/2603.11045v1",
@@ -1157,82 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Transforming GenAI Policy to Prompting Instruction: An RCT of Scalable Prompting Interventions in a CS1 Course",
-      "url": "https://arxiv.org/abs/2602.16033v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-02-17T21:40:12.000Z",
-      "score": 100,
-      "summary_en": "Despite universal GenAI adoption, students cannot distinguish task performance from actual learning and lack skills to leverage AI for learning, leading to worse exam performance when AI use remains unreflective. Yet few interventions teaching students to prompt AI as a tutor rather than solution provider have been validated at scale through randomized controlled trials (RCTs). To bridge this gap, we conducted a semester-long RCT (N=979) with four ICAP framework-based instructional conditions varying in engagement intensity with a pre-test, immediate and delayed post-test and surveys. Mixed me",
-      "summary_fr": "Despite universal GenAI adoption, students cannot distinguish task performance from actual learning and lack skills to leverage AI for learning, leading to worse exam performance when AI use remains unreflective. Yet few interventions teaching students to prompt AI as a tutor rather than solution provider have been validated at scale through randomized controlled trials (RCTs). To bridge this gap, we conducted a semester-long RCT (N=979) with four ICAP framework-based instructional conditions varying in engagement intensity with a pre-test, immediate and delayed post-test and surveys. Mixed me",
-      "resume_fr": "Despite universal GenAI adoption, students cannot distinguish task performance from actual learning and lack skills to leverage AI for learning, leading to worse exam performance when AI use remains unreflective. Yet few interventions teaching students to prompt AI as a tutor rather than solution provider have been validated at scale through randomized controlled trials (RCTs). To bridge this gap, we conducted a semester-long RCT (N=979) with four ICAP framework-based instructional conditions varying in engagement intensity with a pre-test, immediate and delayed post-test and surveys. Mixed me",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Dex4D: Task-Agnostic Point Track Policy for Sim-to-Real Dexterous Manipulation",
-      "url": "https://arxiv.org/abs/2602.15828v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-02-17T18:59:31.000Z",
-      "score": 70,
-      "summary_en": "Learning generalist policies capable of accomplishing a plethora of everyday tasks remains an open challenge in dexterous manipulation. In particular, collecting large-scale manipulation data via real-world teleoperation is expensive and difficult to scale. While learning in simulation provides a feasible alternative, designing multiple task-specific environments and rewards for training is similarly challenging. We propose Dex4D, a framework that instead leverages simulation for learning task-agnostic dexterous skills that can be flexibly recomposed to perform diverse real-world manipulation ",
-      "summary_fr": "Learning generalist policies capable of accomplishing a plethora of everyday tasks remains an open challenge in dexterous manipulation. In particular, collecting large-scale manipulation data via real-world teleoperation is expensive and difficult to scale. While learning in simulation provides a feasible alternative, designing multiple task-specific environments and rewards for training is similarly challenging. We propose Dex4D, a framework that instead leverages simulation for learning task-agnostic dexterous skills that can be flexibly recomposed to perform diverse real-world manipulation ",
-      "resume_fr": "Learning generalist policies capable of accomplishing a plethora of everyday tasks remains an open challenge in dexterous manipulation. In particular, collecting large-scale manipulation data via real-world teleoperation is expensive and difficult to scale. While learning in simulation provides a feasible alternative, designing multiple task-specific environments and rewards for training is similarly challenging. We propose Dex4D, a framework that instead leverages simulation for learning task-agnostic dexterous skills that can be flexibly recomposed to perform diverse real-world manipulation ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Meflex: A Multi-agent Scaffolding System for Entrepreneurial Ideation Iteration via Nonlinear Business Plan Writing",
-      "url": "https://arxiv.org/abs/2602.15631v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-02-17T15:01:14.000Z",
-      "score": 50,
-      "summary_en": "Business plan (BP) writing plays a key role in entrepreneurship education by helping learners construct, evaluate, and iteratively refine their ideas. However, conventional BP writing remains a rigid, linear process that often fails to reflect the dynamic and recursive nature of entrepreneurial ideation. This mismatch is particularly challenging for novice entrepreneurial students, who struggle with the substantial cognitive demands of developing and refining ideas. While reflection and meta-reflection are critical strategies for fostering divergent and convergent thinking, existing writing to",
-      "summary_fr": "Business plan (BP) writing plays a key role in entrepreneurship education by helping learners construct, evaluate, and iteratively refine their ideas. However, conventional BP writing remains a rigid, linear process that often fails to reflect the dynamic and recursive nature of entrepreneurial ideation. This mismatch is particularly challenging for novice entrepreneurial students, who struggle with the substantial cognitive demands of developing and refining ideas. While reflection and meta-reflection are critical strategies for fostering divergent and convergent thinking, existing writing to",
-      "resume_fr": "Business plan (BP) writing plays a key role in entrepreneurship education by helping learners construct, evaluate, and iteratively refine their ideas. However, conventional BP writing remains a rigid, linear process that often fails to reflect the dynamic and recursive nature of entrepreneurial ideation. This mismatch is particularly challenging for novice entrepreneurial students, who struggle with the substantial cognitive demands of developing and refining ideas. While reflection and meta-reflection are critical strategies for fostering divergent and convergent thinking, existing writing to",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "GenAI-LA: Generative AI and Learning Analytics Workshop (LAK 2026), April 27--May 1, 2026, Bergen, Norway",
-      "url": "https://arxiv.org/abs/2602.15531v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-02-17T12:11:49.000Z",
-      "score": 50,
-      "summary_en": "This work introduces EduEVAL-DB, a dataset based on teacher roles designed to support the evaluation and training of automatic pedagogical evaluators and AI tutors for instructional explanations. The dataset comprises 854 explanations corresponding to 139 questions from a curated subset of the ScienceQA benchmark, spanning science, language, and social science across K-12 grade levels. For each question, one human-teacher explanation is provided and six are generated by LLM-simulated teacher roles. These roles are inspired by instructional styles and shortcomings observed in real educational p",
-      "summary_fr": "This work introduces EduEVAL-DB, a dataset based on teacher roles designed to support the evaluation and training of automatic pedagogical evaluators and AI tutors for instructional explanations. The dataset comprises 854 explanations corresponding to 139 questions from a curated subset of the ScienceQA benchmark, spanning science, language, and social science across K-12 grade levels. For each question, one human-teacher explanation is provided and six are generated by LLM-simulated teacher roles. These roles are inspired by instructional styles and shortcomings observed in real educational p",
-      "resume_fr": "This work introduces EduEVAL-DB, a dataset based on teacher roles designed to support the evaluation and training of automatic pedagogical evaluators and AI tutors for instructional explanations. The dataset comprises 854 explanations corresponding to 139 questions from a curated subset of the ScienceQA benchmark, spanning science, language, and social science across K-12 grade levels. For each question, one human-teacher explanation is provided and six are generated by LLM-simulated teacher roles. These roles are inspired by instructional styles and shortcomings observed in real educational p",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
     }
   ]
