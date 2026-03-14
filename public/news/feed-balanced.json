@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T07:09:45.997Z",
+  "generatedAt": "2026-03-14T07:03:33.226Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -265,6 +265,25 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "A benchmarking framework for embodied neuromorphic agents",
+      "url": "https://www.nature.com/articles/s42256-026-01197-w",
+      "source": "Nature Machine Intelligence",
+      "published": "2026-03-11T00:00:00.000Z",
+      "score": 70,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
     },
     {
       "title": "On the Width Scaling of Neural Optimizers Under Matrix Operator Norms I: Row/Column Normalization and Hyperparameter Transfer",
@@ -1206,25 +1225,6 @@
       "summary_en": "Generative AI chatbots enable personalized problem-solving, but effective learning requires students to self-regulate both how they seek help and how they use AI-generated responses. Considering engagement modes across these two actions reveals nuanced reliance patterns: for example, a student may actively engage in help-seeking by clearly specifying areas of need, yet engage passively in response-use by copying AI outputs, or vice versa. However, existing research lacks systematic tools for jointly capturing engagement across help-seeking and response-use, limiting the analysis of such relian",
       "summary_fr": "Generative AI chatbots enable personalized problem-solving, but effective learning requires students to self-regulate both how they seek help and how they use AI-generated responses. Considering engagement modes across these two actions reveals nuanced reliance patterns: for example, a student may actively engage in help-seeking by clearly specifying areas of need, yet engage passively in response-use by copying AI outputs, or vice versa. However, existing research lacks systematic tools for jointly capturing engagement across help-seeking and response-use, limiting the analysis of such relian",
       "resume_fr": "Generative AI chatbots enable personalized problem-solving, but effective learning requires students to self-regulate both how they seek help and how they use AI-generated responses. Considering engagement modes across these two actions reveals nuanced reliance patterns: for example, a student may actively engage in help-seeking by clearly specifying areas of need, yet engage passively in response-use by copying AI outputs, or vice versa. However, existing research lacks systematic tools for jointly capturing engagement across help-seeking and response-use, limiting the analysis of such relian",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "\"You Can Actually Do Something\": Shifts in High School Computer Science Teachers' Conceptions of AI/ML Systems and Algorithmic Justice",
-      "url": "https://arxiv.org/abs/2602.16123v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-02-18T01:27:35.000Z",
-      "score": 85,
-      "summary_en": "The recent proliferation of artificial intelligence and machine learning (AI/ML) systems highlights the need for all people to develop effective competencies to interact with and examine AI/ML systems. We study shifts in five experienced high school CS teachers' understanding of AI/ML systems after one year of participatory design, where they co-developed lessons on AI auditing, a systematic method to query AI/ML systems. Drawing on individual and group interviews, we found that teachers' perspectives became more situated, grounding their understanding in everyday contexts; more critical, refl",
-      "summary_fr": "The recent proliferation of artificial intelligence and machine learning (AI/ML) systems highlights the need for all people to develop effective competencies to interact with and examine AI/ML systems. We study shifts in five experienced high school CS teachers' understanding of AI/ML systems after one year of participatory design, where they co-developed lessons on AI auditing, a systematic method to query AI/ML systems. Drawing on individual and group interviews, we found that teachers' perspectives became more situated, grounding their understanding in everyday contexts; more critical, refl",
-      "resume_fr": "The recent proliferation of artificial intelligence and machine learning (AI/ML) systems highlights the need for all people to develop effective competencies to interact with and examine AI/ML systems. We study shifts in five experienced high school CS teachers' understanding of AI/ML systems after one year of participatory design, where they co-developed lessons on AI auditing, a systematic method to query AI/ML systems. Drawing on individual and group interviews, we found that teachers' perspectives became more situated, grounding their understanding in everyday contexts; more critical, refl",
       "tags": [],
       "breakdown": {
         "research": 35,
