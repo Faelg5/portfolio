@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T07:11:39.619Z",
+  "generatedAt": "2026-03-16T07:46:05.296Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,63 @@
     }
   },
   "items": [
+    {
+      "title": "BoSS: A Best-of-Strategies Selector as an Oracle for Deep Active Learning",
+      "url": "https://arxiv.org/abs/2603.13109v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-03-13T16:05:37.000Z",
+      "score": 85,
+      "summary_en": "Active learning (AL) aims to reduce annotation costs while maximizing model performance by iteratively selecting valuable instances. While foundation models have made it easier to identify these instances, existing selection strategies still lack robustness across different models, annotation budgets, and datasets. To highlight the potential weaknesses of existing AL strategies and provide a reference point for research, we explore oracle strategies, i.e., strategies that approximate the optimal selection by accessing ground-truth information unavailable in practical AL scenarios. Current orac",
+      "summary_fr": "Active learning (AL) aims to reduce annotation costs while maximizing model performance by iteratively selecting valuable instances. While foundation models have made it easier to identify these instances, existing selection strategies still lack robustness across different models, annotation budgets, and datasets. To highlight the potential weaknesses of existing AL strategies and provide a reference point for research, we explore oracle strategies, i.e., strategies that approximate the optimal selection by accessing ground-truth information unavailable in practical AL scenarios. Current orac",
+      "resume_fr": "Active learning (AL) aims to reduce annotation costs while maximizing model performance by iteratively selecting valuable instances. While foundation models have made it easier to identify these instances, existing selection strategies still lack robustness across different models, annotation budgets, and datasets. To highlight the potential weaknesses of existing AL strategies and provide a reference point for research, we explore oracle strategies, i.e., strategies that approximate the optimal selection by accessing ground-truth information unavailable in practical AL scenarios. Current orac",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "The RIGID Framework: Research-Integrated, Generative AI-Mediated Instructional Design",
+      "url": "https://arxiv.org/abs/2603.12781v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-13T08:34:12.000Z",
+      "score": 85,
+      "summary_en": "Instructional Design (ID) often faces challenges in incorporating research-based knowledge and pedagogical best practices. Although educational researchers and government agencies emphasize grounding ID in evidence, integrating research findings into everyday design workflows is often complex, as it requires considering multiple context-specific demands and constraints. To address this persistent gap, this paper explores how research in the learning sciences (LS) can be systematically integrated across ID workflows and how recent advances in generative AI can help operationalize this integrati",
+      "summary_fr": "Instructional Design (ID) often faces challenges in incorporating research-based knowledge and pedagogical best practices. Although educational researchers and government agencies emphasize grounding ID in evidence, integrating research findings into everyday design workflows is often complex, as it requires considering multiple context-specific demands and constraints. To address this persistent gap, this paper explores how research in the learning sciences (LS) can be systematically integrated across ID workflows and how recent advances in generative AI can help operationalize this integrati",
+      "resume_fr": "Instructional Design (ID) often faces challenges in incorporating research-based knowledge and pedagogical best practices. Although educational researchers and government agencies emphasize grounding ID in evidence, integrating research findings into everyday design workflows is often complex, as it requires considering multiple context-specific demands and constraints. To address this persistent gap, this paper explores how research in the learning sciences (LS) can be systematically integrated across ID workflows and how recent advances in generative AI can help operationalize this integrati",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Virtual reality for large-scale laboratories based on colorized point clouds: design and pedagogical impact",
+      "url": "https://arxiv.org/abs/2603.12727v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-13T07:18:49.000Z",
+      "score": 100,
+      "summary_en": "Effective laboratory training is essential in engineering education, yet conventional on-site instruction is often constrained by time, accessibility, and safety considerations. To address these challenges, this study presents the design, implementation, and evaluation of a web-based virtual reality (WebVR) representation of a large-scale engineering laboratory constructed from massive colorized point cloud data. This study proposes a novel WebVR framework that integrates Unity and Potree for high-fidelity point-cloud visualization combined with advanced interactive capabilities in a browser-b",
+      "summary_fr": "Effective laboratory training is essential in engineering education, yet conventional on-site instruction is often constrained by time, accessibility, and safety considerations. To address these challenges, this study presents the design, implementation, and evaluation of a web-based virtual reality (WebVR) representation of a large-scale engineering laboratory constructed from massive colorized point cloud data. This study proposes a novel WebVR framework that integrates Unity and Potree for high-fidelity point-cloud visualization combined with advanced interactive capabilities in a browser-b",
+      "resume_fr": "Effective laboratory training is essential in engineering education, yet conventional on-site instruction is often constrained by time, accessibility, and safety considerations. To address these challenges, this study presents the design, implementation, and evaluation of a web-based virtual reality (WebVR) representation of a large-scale engineering laboratory constructed from massive colorized point cloud data. This study proposes a novel WebVR framework that integrates Unity and Potree for high-fidelity point-cloud visualization combined with advanced interactive capabilities in a browser-b",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "Automating Skill Acquisition through Large-Scale Mining of Open-Source Agentic Repositories: A Framework for Multi-Agent Procedural Knowledge Extraction",
       "url": "https://arxiv.org/abs/2603.11808v1",
@@ -1176,63 +1233,6 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "AREG: Adversarial Resource Extraction Game for Evaluating Persuasion and Resistance in Large Language Models",
-      "url": "https://arxiv.org/abs/2602.16639v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-02-18T17:28:28.000Z",
-      "score": 70,
-      "summary_en": "Evaluating the social intelligence of Large Language Models (LLMs) increasingly requires moving beyond static text generation toward dynamic, adversarial interaction. We introduce the Adversarial Resource Extraction Game (AREG), a benchmark that operationalizes persuasion and resistance as a multi-turn, zero-sum negotiation over financial resources. Using a round-robin tournament across frontier models, AREG enables joint evaluation of offensive (persuasion) and defensive (resistance) capabilities within a single interactional framework. Our analysis provides evidence that these capabilities a",
-      "summary_fr": "Evaluating the social intelligence of Large Language Models (LLMs) increasingly requires moving beyond static text generation toward dynamic, adversarial interaction. We introduce the Adversarial Resource Extraction Game (AREG), a benchmark that operationalizes persuasion and resistance as a multi-turn, zero-sum negotiation over financial resources. Using a round-robin tournament across frontier models, AREG enables joint evaluation of offensive (persuasion) and defensive (resistance) capabilities within a single interactional framework. Our analysis provides evidence that these capabilities a",
-      "resume_fr": "Evaluating the social intelligence of Large Language Models (LLMs) increasingly requires moving beyond static text generation toward dynamic, adversarial interaction. We introduce the Adversarial Resource Extraction Game (AREG), a benchmark that operationalizes persuasion and resistance as a multi-turn, zero-sum negotiation over financial resources. Using a round-robin tournament across frontier models, AREG enables joint evaluation of offensive (persuasion) and defensive (resistance) capabilities within a single interactional framework. Our analysis provides evidence that these capabilities a",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "IndicEval: A Bilingual Indian Educational Evaluation Framework for Large Language Models",
-      "url": "https://arxiv.org/abs/2602.16467v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-02-18T13:55:57.000Z",
-      "score": 85,
-      "summary_en": "The rapid advancement of large language models (LLMs) necessitates evaluation frameworks that reflect real-world academic rigor and multilingual complexity. This paper introduces IndicEval, a scalable benchmarking platform designed to assess LLM performance using authentic high-stakes examination questions from UPSC, JEE, and NEET across STEM and humanities domains in both English and Hindi. Unlike synthetic benchmarks, IndicEval grounds evaluation in real examination standards, enabling realistic measurement of reasoning, domain knowledge, and bilingual adaptability. The framework automates a",
-      "summary_fr": "The rapid advancement of large language models (LLMs) necessitates evaluation frameworks that reflect real-world academic rigor and multilingual complexity. This paper introduces IndicEval, a scalable benchmarking platform designed to assess LLM performance using authentic high-stakes examination questions from UPSC, JEE, and NEET across STEM and humanities domains in both English and Hindi. Unlike synthetic benchmarks, IndicEval grounds evaluation in real examination standards, enabling realistic measurement of reasoning, domain knowledge, and bilingual adaptability. The framework automates a",
-      "resume_fr": "The rapid advancement of large language models (LLMs) necessitates evaluation frameworks that reflect real-world academic rigor and multilingual complexity. This paper introduces IndicEval, a scalable benchmarking platform designed to assess LLM performance using authentic high-stakes examination questions from UPSC, JEE, and NEET across STEM and humanities domains in both English and Hindi. Unlike synthetic benchmarks, IndicEval grounds evaluation in real examination standards, enabling realistic measurement of reasoning, domain knowledge, and bilingual adaptability. The framework automates a",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "RelianceScope: An Analytical Framework for Examining Students' Reliance on Generative AI Chatbots in Problem Solving",
-      "url": "https://arxiv.org/abs/2602.16251v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-02-18T07:59:44.000Z",
-      "score": 85,
-      "summary_en": "Generative AI chatbots enable personalized problem-solving, but effective learning requires students to self-regulate both how they seek help and how they use AI-generated responses. Considering engagement modes across these two actions reveals nuanced reliance patterns: for example, a student may actively engage in help-seeking by clearly specifying areas of need, yet engage passively in response-use by copying AI outputs, or vice versa. However, existing research lacks systematic tools for jointly capturing engagement across help-seeking and response-use, limiting the analysis of such relian",
-      "summary_fr": "Generative AI chatbots enable personalized problem-solving, but effective learning requires students to self-regulate both how they seek help and how they use AI-generated responses. Considering engagement modes across these two actions reveals nuanced reliance patterns: for example, a student may actively engage in help-seeking by clearly specifying areas of need, yet engage passively in response-use by copying AI outputs, or vice versa. However, existing research lacks systematic tools for jointly capturing engagement across help-seeking and response-use, limiting the analysis of such relian",
-      "resume_fr": "Generative AI chatbots enable personalized problem-solving, but effective learning requires students to self-regulate both how they seek help and how they use AI-generated responses. Considering engagement modes across these two actions reveals nuanced reliance patterns: for example, a student may actively engage in help-seeking by clearly specifying areas of need, yet engage passively in response-use by copying AI outputs, or vice versa. However, existing research lacks systematic tools for jointly capturing engagement across help-seeking and response-use, limiting the analysis of such relian",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
     }
   ]
