@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T07:17:33.729Z",
+  "generatedAt": "2026-03-18T07:16:23.710Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,82 @@
     }
   },
   "items": [
+    {
+      "title": "Long-Horizon Traffic Forecasting via Incident-Aware Conformal Spatio-Temporal Transformers",
+      "url": "https://arxiv.org/abs/2603.16857v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-03-17T17:58:01.000Z",
+      "score": 50,
+      "summary_en": "Reliable multi-horizon traffic forecasting is challenging because network conditions are stochastic, incident disruptions are intermittent, and effective spatial dependencies vary across time-of-day patterns. This study is conducted on the Ohio Department of Transportation (ODOT) traffic count data and corresponding ODOT crash records. This work utilizes a Spatio-Temporal Transformer (STT) model with Adaptive Conformal Prediction (ACP) to produce multi-horizon forecasts with calibrated uncertainty. We propose a piecewise Coefficient of Variation (CV) strategy that models hour-to-hour traveltim",
+      "summary_fr": "Reliable multi-horizon traffic forecasting is challenging because network conditions are stochastic, incident disruptions are intermittent, and effective spatial dependencies vary across time-of-day patterns. This study is conducted on the Ohio Department of Transportation (ODOT) traffic count data and corresponding ODOT crash records. This work utilizes a Spatio-Temporal Transformer (STT) model with Adaptive Conformal Prediction (ACP) to produce multi-horizon forecasts with calibrated uncertainty. We propose a piecewise Coefficient of Variation (CV) strategy that models hour-to-hour traveltim",
+      "resume_fr": "Reliable multi-horizon traffic forecasting is challenging because network conditions are stochastic, incident disruptions are intermittent, and effective spatial dependencies vary across time-of-day patterns. This study is conducted on the Ohio Department of Transportation (ODOT) traffic count data and corresponding ODOT crash records. This work utilizes a Spatio-Temporal Transformer (STT) model with Adaptive Conformal Prediction (ACP) to produce multi-horizon forecasts with calibrated uncertainty. We propose a piecewise Coefficient of Variation (CV) strategy that models hour-to-hour traveltim",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Stochastic Resetting Accelerates Policy Convergence in Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2603.16842v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-03-17T17:50:32.000Z",
+      "score": 70,
+      "summary_en": "Stochastic resetting, where a dynamical process is intermittently returned to a fixed reference state, has emerged as a powerful mechanism for optimizing first-passage properties. Existing theory largely treats static, non-learning processes. Here we ask how stochastic resetting interacts with reinforcement learning, where the underlying dynamics adapt through experience. In tabular grid environments, we find that resetting accelerates policy convergence even when it does not reduce the search time of a purely diffusive agent, indicating a novel mechanism beyond classical first-passage optimiz",
+      "summary_fr": "Stochastic resetting, where a dynamical process is intermittently returned to a fixed reference state, has emerged as a powerful mechanism for optimizing first-passage properties. Existing theory largely treats static, non-learning processes. Here we ask how stochastic resetting interacts with reinforcement learning, where the underlying dynamics adapt through experience. In tabular grid environments, we find that resetting accelerates policy convergence even when it does not reduce the search time of a purely diffusive agent, indicating a novel mechanism beyond classical first-passage optimiz",
+      "resume_fr": "Stochastic resetting, where a dynamical process is intermittently returned to a fixed reference state, has emerged as a powerful mechanism for optimizing first-passage properties. Existing theory largely treats static, non-learning processes. Here we ask how stochastic resetting interacts with reinforcement learning, where the underlying dynamics adapt through experience. In tabular grid environments, we find that resetting accelerates policy convergence even when it does not reduce the search time of a purely diffusive agent, indicating a novel mechanism beyond classical first-passage optimiz",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Is Conformal Factuality for RAG-based LLMs Robust? Novel Metrics and Systematic Insights",
+      "url": "https://arxiv.org/abs/2603.16817v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-03-17T17:20:08.000Z",
+      "score": 70,
+      "summary_en": "Large language models (LLMs) frequently hallucinate, limiting their reliability in knowledge-intensive applications. Retrieval-augmented generation (RAG) and conformal factuality have emerged as potential ways to address this limitation. While RAG aims to ground responses in retrieved evidence, it provides no statistical guarantee that the final output is correct. Conformal factuality filtering offers distribution-free statistical reliability by scoring and filtering atomic claims using a threshold calibrated on held-out data, however, the informativeness of the final output is not guaranteed.",
+      "summary_fr": "Large language models (LLMs) frequently hallucinate, limiting their reliability in knowledge-intensive applications. Retrieval-augmented generation (RAG) and conformal factuality have emerged as potential ways to address this limitation. While RAG aims to ground responses in retrieved evidence, it provides no statistical guarantee that the final output is correct. Conformal factuality filtering offers distribution-free statistical reliability by scoring and filtering atomic claims using a threshold calibrated on held-out data, however, the informativeness of the final output is not guaranteed.",
+      "resume_fr": "Large language models (LLMs) frequently hallucinate, limiting their reliability in knowledge-intensive applications. Retrieval-augmented generation (RAG) and conformal factuality have emerged as potential ways to address this limitation. While RAG aims to ground responses in retrieved evidence, it provides no statistical guarantee that the final output is correct. Conformal factuality filtering offers distribution-free statistical reliability by scoring and filtering atomic claims using a threshold calibrated on held-out data, however, the informativeness of the final output is not guaranteed.",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "When Openclaw Agents Learn from Each Other: Insights from Emergent AI Agent Communities for Human-AI Partnership in Education",
+      "url": "https://arxiv.org/abs/2603.16663v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-17T15:30:36.000Z",
+      "score": 100,
+      "summary_en": "The AIED community envisions AI evolving \"from tools to teammates,\" yet our understanding of AI teammates remains limited to dyadic human-AI interactions. We offer a different vantage point: a rapidly growing ecosystem of AI agent platforms where over 167,000 agents participate, interact as peers, and develop learning behaviors without researcher intervention. Drawing on a month of daily qualitative observations across multiple platforms including Moltbook, The Colony, and 4claw, we identify four phenomena with implications for AIED: (1) humans who configure their agents undergo a \"bidirection",
+      "summary_fr": "The AIED community envisions AI evolving \"from tools to teammates,\" yet our understanding of AI teammates remains limited to dyadic human-AI interactions. We offer a different vantage point: a rapidly growing ecosystem of AI agent platforms where over 167,000 agents participate, interact as peers, and develop learning behaviors without researcher intervention. Drawing on a month of daily qualitative observations across multiple platforms including Moltbook, The Colony, and 4claw, we identify four phenomena with implications for AIED: (1) humans who configure their agents undergo a \"bidirection",
+      "resume_fr": "The AIED community envisions AI evolving \"from tools to teammates,\" yet our understanding of AI teammates remains limited to dyadic human-AI interactions. We offer a different vantage point: a rapidly growing ecosystem of AI agent platforms where over 167,000 agents participate, interact as peers, and develop learning behaviors without researcher intervention. Drawing on a month of daily qualitative observations across multiple platforms including Moltbook, The Colony, and 4claw, we identify four phenomena with implications for AIED: (1) humans who configure their agents undergo a \"bidirection",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation",
       "url": "https://arxiv.org/abs/2603.15600v1",
@@ -231,7 +307,7 @@
     {
       "title": "The RIGID Framework: Research-Integrated, Generative AI-Mediated Instructional Design",
       "url": "https://arxiv.org/abs/2603.12781v1",
-      "source": "arXiv – cs.HC + education",
+      "source": "arXiv – cs.AI + education/MOOC",
       "published": "2026-03-13T08:34:12.000Z",
       "score": 85,
       "summary_en": "Instructional Design (ID) often faces challenges in incorporating research-based knowledge and pedagogical best practices. Although educational researchers and government agencies emphasize grounding ID in evidence, integrating research findings into everyday design workflows is often complex, as it requires considering multiple context-specific demands and constraints. To address this persistent gap, this paper explores how research in the learning sciences (LS) can be systematically integrated across ID workflows and how recent advances in generative AI can help operationalize this integrati",
@@ -1157,82 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "This Startup Makes Access to Rehabilitation Facilities Easier",
-      "url": "https://spectrum.ieee.org/carenector-health-care-startup",
-      "source": "IEEE Spectrum – AI",
-      "published": "2026-02-26T19:00:03.000Z",
-      "score": 50,
-      "summary_en": "When doctors in the United States refer patients to specialty or post-acute medical care such as physical therapy or long-term nursing care, nearly half never complete the process of finding help. Referrals stall in part because provider directories are outdated, insurance coverage is unclear, and much coordination still relies on phone calls and faxes. Carenector, a Denver-based startup launched in 2024, is working to improve the process with software that quickly connects patients with appropriate care providers while protecting their personal data. Instead of presenting a long list of provi",
-      "summary_fr": "When doctors in the United States refer patients to specialty or post-acute medical care such as physical therapy or long-term nursing care, nearly half never complete the process of finding help. Referrals stall in part because provider directories are outdated, insurance coverage is unclear, and much coordination still relies on phone calls and faxes. Carenector, a Denver-based startup launched in 2024, is working to improve the process with software that quickly connects patients with appropriate care providers while protecting their personal data. Instead of presenting a long list of provi",
-      "resume_fr": "When doctors in the United States refer patients to specialty or post-acute medical care such as physical therapy or long-term nursing care, nearly half never complete the process of finding help. Referrals stall in part because provider directories are outdated, insurance coverage is unclear, and much coordination still relies on phone calls and faxes. Carenector, a Denver-based startup launched in 2024, is working to improve the process with software that quickly connects patients with appropriate care providers while protecting their personal data. Instead of presenting a long list of provi",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://spectrum.ieee.org/media-library/naheem-noah-speaking-to-a-small-crowd-while-giving-a-presentation.jpg?id=65026929&width=1200&height=600&coordinates=0%2C125%2C0%2C125"
-    },
-    {
-      "title": "Scale Can't Overcome Pragmatics: The Impact of Reporting Bias on Vision-Language Reasoning",
-      "url": "https://arxiv.org/abs/2602.23351v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-02-26T18:54:06.000Z",
-      "score": 70,
-      "summary_en": "The lack of reasoning capabilities in Vision-Language Models (VLMs) has remained at the forefront of research discourse. We posit that this behavior stems from a reporting bias in their training data. That is, how people communicate about visual content by default omits tacit information needed to supervise some types of reasoning; e.g., \"at the game today!\" is a more likely caption than \"a photo of 37 people standing behind a field\". We investigate the data underlying the popular VLMs OpenCLIP, LLaVA-1.5 and Molmo through the lens of theories from pragmatics, and find that reporting bias resu",
-      "summary_fr": "The lack of reasoning capabilities in Vision-Language Models (VLMs) has remained at the forefront of research discourse. We posit that this behavior stems from a reporting bias in their training data. That is, how people communicate about visual content by default omits tacit information needed to supervise some types of reasoning; e.g., \"at the game today!\" is a more likely caption than \"a photo of 37 people standing behind a field\". We investigate the data underlying the popular VLMs OpenCLIP, LLaVA-1.5 and Molmo through the lens of theories from pragmatics, and find that reporting bias resu",
-      "resume_fr": "The lack of reasoning capabilities in Vision-Language Models (VLMs) has remained at the forefront of research discourse. We posit that this behavior stems from a reporting bias in their training data. That is, how people communicate about visual content by default omits tacit information needed to supervise some types of reasoning; e.g., \"at the game today!\" is a more likely caption than \"a photo of 37 people standing behind a field\". We investigate the data underlying the popular VLMs OpenCLIP, LLaVA-1.5 and Molmo through the lens of theories from pragmatics, and find that reporting bias resu",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Mean Estimation from Coarse Data: Characterizations and Efficient Algorithms",
-      "url": "https://arxiv.org/abs/2602.23341v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-02-26T18:47:06.000Z",
-      "score": 70,
-      "summary_en": "Coarse data arise when learners observe only partial information about samples; namely, a set containing the sample rather than its exact value. This occurs naturally through measurement rounding, sensor limitations, and lag in economic systems. We study Gaussian mean estimation from coarse data, where each true sample $x$ is drawn from a $d$-dimensional Gaussian distribution with identity covariance, but is revealed only through the set of a partition containing $x$. When the coarse samples, roughly speaking, have ``low'' information, the mean cannot be uniquely recovered from observed sample",
-      "summary_fr": "Coarse data arise when learners observe only partial information about samples; namely, a set containing the sample rather than its exact value. This occurs naturally through measurement rounding, sensor limitations, and lag in economic systems. We study Gaussian mean estimation from coarse data, where each true sample $x$ is drawn from a $d$-dimensional Gaussian distribution with identity covariance, but is revealed only through the set of a partition containing $x$. When the coarse samples, roughly speaking, have ``low'' information, the mean cannot be uniquely recovered from observed sample",
-      "resume_fr": "Coarse data arise when learners observe only partial information about samples; namely, a set containing the sample rather than its exact value. This occurs naturally through measurement rounding, sensor limitations, and lag in economic systems. We study Gaussian mean estimation from coarse data, where each true sample $x$ is drawn from a $d$-dimensional Gaussian distribution with identity covariance, but is revealed only through the set of a partition containing $x$. When the coarse samples, roughly speaking, have ``low'' information, the mean cannot be uniquely recovered from observed sample",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "TaleBot: A Tangible AI Companion to Support Children in Co-creative Storytelling for Resilience Cultivation",
-      "url": "https://arxiv.org/abs/2602.23095v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-02-26T15:12:43.000Z",
-      "score": 50,
-      "summary_en": "Resilience is a key factor affecting children's mental wellbeing and future development. Yet, limited HCI research has explored how to help children build resilience through adversarial experiences. Informed by a formative study with elementary school teachers and professional psychologists, we design TaleBot, an AI-empowered system that supports children to co-create stories about overcoming everyday adversities tailored to their personal situations. We evaluated the system with 12 elementary children in school counseling rooms under teacher guidance and conducted reflective interviews with p",
-      "summary_fr": "Resilience is a key factor affecting children's mental wellbeing and future development. Yet, limited HCI research has explored how to help children build resilience through adversarial experiences. Informed by a formative study with elementary school teachers and professional psychologists, we design TaleBot, an AI-empowered system that supports children to co-create stories about overcoming everyday adversities tailored to their personal situations. We evaluated the system with 12 elementary children in school counseling rooms under teacher guidance and conducted reflective interviews with p",
-      "resume_fr": "Resilience is a key factor affecting children's mental wellbeing and future development. Yet, limited HCI research has explored how to help children build resilience through adversarial experiences. Informed by a formative study with elementary school teachers and professional psychologists, we design TaleBot, an AI-empowered system that supports children to co-create stories about overcoming everyday adversities tailored to their personal situations. We evaluated the system with 12 elementary children in school counseling rooms under teacher guidance and conducted reflective interviews with p",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
     }
   ]
