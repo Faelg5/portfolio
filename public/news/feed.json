@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-18T07:16:23.710Z",
+  "generatedAt": "2026-03-19T07:12:19.516Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -96,6 +96,82 @@
   },
   "items": [
     {
+      "title": "ConGA: Guidelines for Contextual Gender Annotation. A Framework for Annotating Gender in Machine Translation",
+      "url": "https://arxiv.org/abs/2603.17962v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-03-18T17:31:47.000Z",
+      "score": 70,
+      "summary_en": "Handling gender across languages remains a persistent challenge for Machine Translation (MT) and Large Language Models (LLMs), especially when translating from gender-neutral languages into morphologically gendered ones, such as English to Italian. English largely omits grammatical gender, while Italian requires explicit agreement across multiple grammatical categories. This asymmetry often leads MT systems to default to masculine forms, reinforcing bias and reducing translation accuracy. To address this issue, we present the Contextual Gender Annotation (ConGA) framework, a linguistically gro",
+      "summary_fr": "Handling gender across languages remains a persistent challenge for Machine Translation (MT) and Large Language Models (LLMs), especially when translating from gender-neutral languages into morphologically gendered ones, such as English to Italian. English largely omits grammatical gender, while Italian requires explicit agreement across multiple grammatical categories. This asymmetry often leads MT systems to default to masculine forms, reinforcing bias and reducing translation accuracy. To address this issue, we present the Contextual Gender Annotation (ConGA) framework, a linguistically gro",
+      "resume_fr": "Handling gender across languages remains a persistent challenge for Machine Translation (MT) and Large Language Models (LLMs), especially when translating from gender-neutral languages into morphologically gendered ones, such as English to Italian. English largely omits grammatical gender, while Italian requires explicit agreement across multiple grammatical categories. This asymmetry often leads MT systems to default to masculine forms, reinforcing bias and reducing translation accuracy. To address this issue, we present the Contextual Gender Annotation (ConGA) framework, a linguistically gro",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Unified Policy Value Decomposition for Rapid Adaptation",
+      "url": "https://arxiv.org/abs/2603.17947v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-03-18T17:19:56.000Z",
+      "score": 70,
+      "summary_en": "Rapid adaptation in complex control systems remains a central challenge in reinforcement learning. We introduce a framework in which policy and value functions share a low-dimensional coefficient vector - a goal embedding - that captures task identity and enables immediate adaptation to novel tasks without retraining representations. During pretraining, we jointly learn structured value bases and compatible policy bases through a bilinear actor-critic decomposition. The critic factorizes as Q = sum_k G_k(g) y_k(s,a), where G_k(g) is a goal-conditioned coefficient vector and y_k(s,a) are learne",
+      "summary_fr": "Rapid adaptation in complex control systems remains a central challenge in reinforcement learning. We introduce a framework in which policy and value functions share a low-dimensional coefficient vector - a goal embedding - that captures task identity and enables immediate adaptation to novel tasks without retraining representations. During pretraining, we jointly learn structured value bases and compatible policy bases through a bilinear actor-critic decomposition. The critic factorizes as Q = sum_k G_k(g) y_k(s,a), where G_k(g) is a goal-conditioned coefficient vector and y_k(s,a) are learne",
+      "resume_fr": "Rapid adaptation in complex control systems remains a central challenge in reinforcement learning. We introduce a framework in which policy and value functions share a low-dimensional coefficient vector - a goal embedding - that captures task identity and enables immediate adaptation to novel tasks without retraining representations. During pretraining, we jointly learn structured value bases and compatible policy bases through a bilinear actor-critic decomposition. The critic factorizes as Q = sum_k G_k(g) y_k(s,a), where G_k(g) is a goal-conditioned coefficient vector and y_k(s,a) are learne",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "ShapleyLaw: A Game-Theoretic Approach to Multilingual Scaling Laws",
+      "url": "https://arxiv.org/abs/2603.17945v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-03-18T17:17:18.000Z",
+      "score": 70,
+      "summary_en": "In multilingual pretraining, the test loss of a pretrained model is heavily influenced by the proportion of each language in the pretraining data, namely the \\textit{language mixture ratios}. Multilingual scaling laws can predict the test loss under different language mixture ratios and can therefore be used to estimate the optimal ratios. However, the current approaches to multilingual scaling laws do not measure the \\textit{cross-lingual transfer} effect, resulting in suboptimal mixture ratios. In this paper, we consider multilingual pretraining as a cooperative game in which each language a",
+      "summary_fr": "In multilingual pretraining, the test loss of a pretrained model is heavily influenced by the proportion of each language in the pretraining data, namely the \\textit{language mixture ratios}. Multilingual scaling laws can predict the test loss under different language mixture ratios and can therefore be used to estimate the optimal ratios. However, the current approaches to multilingual scaling laws do not measure the \\textit{cross-lingual transfer} effect, resulting in suboptimal mixture ratios. In this paper, we consider multilingual pretraining as a cooperative game in which each language a",
+      "resume_fr": "In multilingual pretraining, the test loss of a pretrained model is heavily influenced by the proportion of each language in the pretraining data, namely the \\textit{language mixture ratios}. Multilingual scaling laws can predict the test loss under different language mixture ratios and can therefore be used to estimate the optimal ratios. However, the current approaches to multilingual scaling laws do not measure the \\textit{cross-lingual transfer} effect, resulting in suboptimal mixture ratios. In this paper, we consider multilingual pretraining as a cooperative game in which each language a",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Large Language Models as a Semantic Interface and Ethical Mediator in Neuro-Digital Ecosystems: Conceptual Foundations and a Regulatory Imperative",
+      "url": "https://arxiv.org/abs/2603.17444v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-18T07:34:17.000Z",
+      "score": 85,
+      "summary_en": "This article introduces and substantiates the concept of Neuro-Linguistic Integration (NLI), a novel paradigm for human-technology interaction where Large Language Models (LLMs) act as a key semantic interface between raw neural data and their social application. We analyse the dual nature of LLMs in this role: as tools that augment human capabilities in communication, medicine, and education, and as sources of unprecedented ethical risks to mental autonomy and neurorights. By synthesizing insights from AI ethics, neuroethics, and the philosophy of technology, the article critiques the inheren",
+      "summary_fr": "This article introduces and substantiates the concept of Neuro-Linguistic Integration (NLI), a novel paradigm for human-technology interaction where Large Language Models (LLMs) act as a key semantic interface between raw neural data and their social application. We analyse the dual nature of LLMs in this role: as tools that augment human capabilities in communication, medicine, and education, and as sources of unprecedented ethical risks to mental autonomy and neurorights. By synthesizing insights from AI ethics, neuroethics, and the philosophy of technology, the article critiques the inheren",
+      "resume_fr": "This article introduces and substantiates the concept of Neuro-Linguistic Integration (NLI), a novel paradigm for human-technology interaction where Large Language Models (LLMs) act as a key semantic interface between raw neural data and their social application. We analyse the dual nature of LLMs in this role: as tools that augment human capabilities in communication, medicine, and education, and as sources of unprecedented ethical risks to mental autonomy and neurorights. By synthesizing insights from AI ethics, neuroethics, and the philosophy of technology, the article critiques the inheren",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
       "title": "Long-Horizon Traffic Forecasting via Incident-Aware Conformal Spatio-Temporal Transformers",
       "url": "https://arxiv.org/abs/2603.16857v1",
       "source": "arXiv – cs.LG + learning analytics",
@@ -155,6 +231,25 @@
     {
       "title": "When Openclaw Agents Learn from Each Other: Insights from Emergent AI Agent Communities for Human-AI Partnership in Education",
       "url": "https://arxiv.org/abs/2603.16663v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-17T15:30:36.000Z",
+      "score": 100,
+      "summary_en": "The AIED community envisions AI evolving \"from tools to teammates,\" yet our understanding of AI teammates remains limited to dyadic human-AI interactions. We offer a different vantage point: a rapidly growing ecosystem of AI agent platforms where over 167,000 agents participate, interact as peers, and develop learning behaviors without researcher intervention. Drawing on a month of daily qualitative observations across multiple platforms including Moltbook, The Colony, and 4claw, we identify four phenomena with implications for AIED: (1) humans who configure their agents undergo a \"bidirection",
+      "summary_fr": "The AIED community envisions AI evolving \"from tools to teammates,\" yet our understanding of AI teammates remains limited to dyadic human-AI interactions. We offer a different vantage point: a rapidly growing ecosystem of AI agent platforms where over 167,000 agents participate, interact as peers, and develop learning behaviors without researcher intervention. Drawing on a month of daily qualitative observations across multiple platforms including Moltbook, The Colony, and 4claw, we identify four phenomena with implications for AIED: (1) humans who configure their agents undergo a \"bidirection",
+      "resume_fr": "The AIED community envisions AI evolving \"from tools to teammates,\" yet our understanding of AI teammates remains limited to dyadic human-AI interactions. We offer a different vantage point: a rapidly growing ecosystem of AI agent platforms where over 167,000 agents participate, interact as peers, and develop learning behaviors without researcher intervention. Drawing on a month of daily qualitative observations across multiple platforms including Moltbook, The Colony, and 4claw, we identify four phenomena with implications for AIED: (1) humans who configure their agents undergo a \"bidirection",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "When Openclaw Agents Learn from Each Other: Insights from Emergent AI Agent Communities for Human-AI Partnership in Education",
+      "url": "https://arxiv.org/abs/2603.16663v2",
       "source": "arXiv – cs.HC + education",
       "published": "2026-03-17T15:30:36.000Z",
       "score": 100,
@@ -1138,101 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Faster, Cheaper, More Accurate: Specialised Knowledge Tracing Models Outperform LLMs",
-      "url": "https://arxiv.org/abs/2603.02830v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-03T10:25:52.000Z",
-      "score": 50,
-      "summary_en": "Predicting future student responses to questions is particularly valuable for educational learning platforms where it enables effective interventions. One of the key approaches to do this has been through the use of knowledge tracing (KT) models. These are small, domain-specific, temporal models trained on student question-response data. KT models are optimised for high accuracy on specific educational domains and have fast inference and scalable deployments. The rise of Large Language Models (LLMs) motivates us to ask the following questions: (1) How well can LLMs perform at predicting studen",
-      "summary_fr": "Predicting future student responses to questions is particularly valuable for educational learning platforms where it enables effective interventions. One of the key approaches to do this has been through the use of knowledge tracing (KT) models. These are small, domain-specific, temporal models trained on student question-response data. KT models are optimised for high accuracy on specific educational domains and have fast inference and scalable deployments. The rise of Large Language Models (LLMs) motivates us to ask the following questions: (1) How well can LLMs perform at predicting studen",
-      "resume_fr": "Predicting future student responses to questions is particularly valuable for educational learning platforms where it enables effective interventions. One of the key approaches to do this has been through the use of knowledge tracing (KT) models. These are small, domain-specific, temporal models trained on student question-response data. KT models are optimised for high accuracy on specific educational domains and have fast inference and scalable deployments. The rise of Large Language Models (LLMs) motivates us to ask the following questions: (1) How well can LLMs perform at predicting studen",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Demonstrating ViviDoc: Generating Interactive Documents through Human-Agent Collaboration",
-      "url": "https://arxiv.org/abs/2603.01912v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-02T14:27:49.000Z",
-      "score": 85,
-      "summary_en": "Interactive articles help readers engage with complex ideas through exploration, yet creating them remains costly, requiring both domain expertise and web development skills. Recent LLM-based agents can automate content creation, but naively applying them yields uncontrollable and unverifiable outputs. We present ViviDoc, a human-agent collaborative system that generates interactive educational documents from a single topic input. ViviDoc introduces a multi-agent pipeline (Planner, Executor, Evaluator) and the Document Specification (DocSpec), a human-readable intermediate representation that ",
-      "summary_fr": "Interactive articles help readers engage with complex ideas through exploration, yet creating them remains costly, requiring both domain expertise and web development skills. Recent LLM-based agents can automate content creation, but naively applying them yields uncontrollable and unverifiable outputs. We present ViviDoc, a human-agent collaborative system that generates interactive educational documents from a single topic input. ViviDoc introduces a multi-agent pipeline (Planner, Executor, Evaluator) and the Document Specification (DocSpec), a human-readable intermediate representation that ",
-      "resume_fr": "Interactive articles help readers engage with complex ideas through exploration, yet creating them remains costly, requiring both domain expertise and web development skills. Recent LLM-based agents can automate content creation, but naively applying them yields uncontrollable and unverifiable outputs. We present ViviDoc, a human-agent collaborative system that generates interactive educational documents from a single topic input. ViviDoc introduces a multi-agent pipeline (Planner, Executor, Evaluator) and the Document Specification (DocSpec), a human-readable intermediate representation that ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Wakeful targeted memory reactivation during short rest periods modulates early motor learning",
-      "url": "https://www.nature.com/articles/s41539-026-00407-9",
-      "source": "npj Science of Learning (Nature)",
-      "published": "2026-03-02T00:00:00.000Z",
-      "score": 70,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
-    },
-    {
-      "title": "Sustainable Care: Designing Technologies That Support Children's Long-Term Engagement with Social Issues",
-      "url": "https://arxiv.org/abs/2603.00996v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-01T08:50:30.000Z",
-      "score": 65,
-      "summary_en": "Children today encounter social issues -- climate change, conflict, inequality -- through digital technologies, and the design of that encounter shapes whether young people move toward lasting civic engagement or toward anxiety and withdrawal. Much of the content children see is optimized for attention through fear and urgency, with few pathways toward meaningful action -- contributing to rising distress and disengagement among young people who care deeply but feel powerless to act. This full-day workshop introduces ``sustainable care'' as a design lens, asking how technology might support chi",
-      "summary_fr": "Children today encounter social issues -- climate change, conflict, inequality -- through digital technologies, and the design of that encounter shapes whether young people move toward lasting civic engagement or toward anxiety and withdrawal. Much of the content children see is optimized for attention through fear and urgency, with few pathways toward meaningful action -- contributing to rising distress and disengagement among young people who care deeply but feel powerless to act. This full-day workshop introduces ``sustainable care'' as a design lens, asking how technology might support chi",
-      "resume_fr": "Children today encounter social issues -- climate change, conflict, inequality -- through digital technologies, and the design of that encounter shapes whether young people move toward lasting civic engagement or toward anxiety and withdrawal. Much of the content children see is optimized for attention through fear and urgency, with few pathways toward meaningful action -- contributing to rising distress and disengagement among young people who care deeply but feel powerless to act. This full-day workshop introduces ``sustainable care'' as a design lens, asking how technology might support chi",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact",
-      "url": "https://arxiv.org/abs/2603.00883v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-01T03:05:46.000Z",
-      "score": 85,
-      "summary_en": "LLMs increasingly excel on AI benchmarks, but doing so does not guarantee validity for downstream tasks. This study evaluates the performance of leading foundation models (FMs, i.e., generative pre-trained base LLMs) with out-of-distribution (OOD) tasks of the teaching and learning of schoolchildren. Across all FMs, inter-model behaviors on disparate tasks correlate higher than they do with expert human behaviors on target tasks. These biases shared across LLMs are poorly aligned with downstream measures of teaching quality and often \\textit{negatively aligned with learning outcomes}. Further,",
-      "summary_fr": "LLMs increasingly excel on AI benchmarks, but doing so does not guarantee validity for downstream tasks. This study evaluates the performance of leading foundation models (FMs, i.e., generative pre-trained base LLMs) with out-of-distribution (OOD) tasks of the teaching and learning of schoolchildren. Across all FMs, inter-model behaviors on disparate tasks correlate higher than they do with expert human behaviors on target tasks. These biases shared across LLMs are poorly aligned with downstream measures of teaching quality and often \\textit{negatively aligned with learning outcomes}. Further,",
-      "resume_fr": "LLMs increasingly excel on AI benchmarks, but doing so does not guarantee validity for downstream tasks. This study evaluates the performance of leading foundation models (FMs, i.e., generative pre-trained base LLMs) with out-of-distribution (OOD) tasks of the teaching and learning of schoolchildren. Across all FMs, inter-model behaviors on disparate tasks correlate higher than they do with expert human behaviors on target tasks. These biases shared across LLMs are poorly aligned with downstream measures of teaching quality and often \\textit{negatively aligned with learning outcomes}. Further,",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
     }
   ]
