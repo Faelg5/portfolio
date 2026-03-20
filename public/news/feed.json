@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-19T07:12:19.516Z",
+  "generatedAt": "2026-03-20T07:10:58.224Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,139 @@
     }
   },
   "items": [
+    {
+      "title": "Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2603.19220v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-03-19T17:58:52.000Z",
+      "score": 70,
+      "summary_en": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical and coding reasoning performance approaches that of frontier open models. It is the second open-weight LLM, after DeepSeekV3.2-Speciale-671B-A37B, to achieve Gold Medal-level performance in the 2025 International Mathematical Olympiad (IMO), the International Olympiad in Informatics (IOI), and the ICPC World Finals, demonstrating remarkably high intelligence density with 20x fewer parameters. In con",
+      "summary_fr": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical and coding reasoning performance approaches that of frontier open models. It is the second open-weight LLM, after DeepSeekV3.2-Speciale-671B-A37B, to achieve Gold Medal-level performance in the 2025 International Mathematical Olympiad (IMO), the International Olympiad in Informatics (IOI), and the ICPC World Finals, demonstrating remarkably high intelligence density with 20x fewer parameters. In con",
+      "resume_fr": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical and coding reasoning performance approaches that of frontier open models. It is the second open-weight LLM, after DeepSeekV3.2-Speciale-671B-A37B, to achieve Gold Medal-level performance in the 2025 International Mathematical Olympiad (IMO), the International Olympiad in Informatics (IOI), and the ICPC World Finals, demonstrating remarkably high intelligence density with 20x fewer parameters. In con",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Evaluating Counterfactual Strategic Reasoning in Large Language Models",
+      "url": "https://arxiv.org/abs/2603.19167v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-03-19T17:23:20.000Z",
+      "score": 70,
+      "summary_en": "We evaluate Large Language Models (LLMs) in repeated game-theoretic settings to assess whether strategic performance reflects genuine reasoning or reliance on memorized patterns. We consider two canonical games, Prisoner's Dilemma (PD) and Rock-Paper-Scissors (RPS), upon which we introduce counterfactual variants that alter payoff structures and action labels, breaking familiar symmetries and dominance relations. Our multi-metric evaluation framework compares default and counterfactual instantiations, showcasing LLM limitations in incentive sensitivity, structural generalization and strategic ",
+      "summary_fr": "We evaluate Large Language Models (LLMs) in repeated game-theoretic settings to assess whether strategic performance reflects genuine reasoning or reliance on memorized patterns. We consider two canonical games, Prisoner's Dilemma (PD) and Rock-Paper-Scissors (RPS), upon which we introduce counterfactual variants that alter payoff structures and action labels, breaking familiar symmetries and dominance relations. Our multi-metric evaluation framework compares default and counterfactual instantiations, showcasing LLM limitations in incentive sensitivity, structural generalization and strategic ",
+      "resume_fr": "We evaluate Large Language Models (LLMs) in repeated game-theoretic settings to assess whether strategic performance reflects genuine reasoning or reliance on memorized patterns. We consider two canonical games, Prisoner's Dilemma (PD) and Rock-Paper-Scissors (RPS), upon which we introduce counterfactual variants that alter payoff structures and action labels, breaking familiar symmetries and dominance relations. Our multi-metric evaluation framework compares default and counterfactual instantiations, showcasing LLM limitations in incentive sensitivity, structural generalization and strategic ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Student views in AI Ethics and Social Impact",
+      "url": "https://arxiv.org/abs/2603.18827v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-03-19T12:23:14.000Z",
+      "score": 85,
+      "summary_en": "An investigation, from a gender perspective, of how students view the ethical implications and societal effects of artificial intelligence is conducted, examining concepts that could have a big influence on how artificial intelligence may be taught in the future. For this, we conducted a survey on a cohort of 230 second year computer science students to reveal their opinions. The results revealed that AI, from the students' perspective, will significantly impact daily life, particularly in areas such as medicine, education, or media. Men are more aware of potential changes in Computer Science,",
+      "summary_fr": "An investigation, from a gender perspective, of how students view the ethical implications and societal effects of artificial intelligence is conducted, examining concepts that could have a big influence on how artificial intelligence may be taught in the future. For this, we conducted a survey on a cohort of 230 second year computer science students to reveal their opinions. The results revealed that AI, from the students' perspective, will significantly impact daily life, particularly in areas such as medicine, education, or media. Men are more aware of potential changes in Computer Science,",
+      "resume_fr": "An investigation, from a gender perspective, of how students view the ethical implications and societal effects of artificial intelligence is conducted, examining concepts that could have a big influence on how artificial intelligence may be taught in the future. For this, we conducted a survey on a cohort of 230 second year computer science students to reveal their opinions. The results revealed that AI, from the students' perspective, will significantly impact daily life, particularly in areas such as medicine, education, or media. Men are more aware of potential changes in Computer Science,",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Phone bans in schools are spreading worldwide as the policy debate rages on",
+      "url": "https://world-education-blog.org/2026/03/19/phone-bans-in-schools-are-spreading-worldwide-as-the-policy-debate-rages-on/",
+      "source": "UNESCO GEM – World Education Blog",
+      "published": "2026-03-19T10:00:56.000Z",
+      "score": 65,
+      "summary_en": "By Anna Cristina D’Addio, GEM Report In just a few years, banning mobile phones in schools has moved from a handful of national initiatives to a widespread global policy trend. Governments increasingly see smartphones as a source of classroom distraction and a potential threat to students’ well-being. The response has been swift. Recent global monitoring […] The post Phone bans in schools are spreading worldwide as the policy debate rages on appeared first on World Education Blog.",
+      "summary_fr": "By Anna Cristina D’Addio, GEM Report In just a few years, banning mobile phones in schools has moved from a handful of national initiatives to a widespread global policy trend. Governments increasingly see smartphones as a source of classroom distraction and a potential threat to students’ well-being. The response has been swift. Recent global monitoring […] The post Phone bans in schools are spreading worldwide as the policy debate rages on appeared first on World Education Blog.",
+      "resume_fr": "By Anna Cristina D’Addio, GEM Report In just a few years, banning mobile phones in schools has moved from a handful of national initiatives to a widespread global policy trend. Governments increasingly see smartphones as a source of classroom distraction and a potential threat to students’ well-being. The response has been swift. Recent global monitoring […] The post Phone bans in schools are spreading worldwide as the policy debate rages on appeared first on World Education Blog.",
+      "tags": [],
+      "breakdown": {
+        "research": 0,
+        "policy": 35,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=world-education-blog.org&sz=128"
+    },
+    {
+      "title": "CyberJustice Tutor: An Agentic AI Framework for Cybersecurity Learning via Think-Plan-Act Reasoning and Pedagogical Scaffolding",
+      "url": "https://arxiv.org/abs/2603.18470v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-19T04:04:57.000Z",
+      "score": 85,
+      "summary_en": "The integration of Large Language Models (LLMs) into cybersecurity education for criminal justice professionals is currently hindered by the \"statelessness\" of reactive chatbots and the risk of hallucinations in high-stakes legal contexts. To address these limitations, we propose the CyberJustice Tutor, an educational dialogue system powered by an Agentic AI framework. Unlike reactive chatbots, our system employs a \"Think-Plan-Act\" cognitive cycle, enabling autonomous goal decomposition, longitudinal planning, and dynamic context maintenance. We integrate a Pedagogical Scaffolding Layer ground",
+      "summary_fr": "The integration of Large Language Models (LLMs) into cybersecurity education for criminal justice professionals is currently hindered by the \"statelessness\" of reactive chatbots and the risk of hallucinations in high-stakes legal contexts. To address these limitations, we propose the CyberJustice Tutor, an educational dialogue system powered by an Agentic AI framework. Unlike reactive chatbots, our system employs a \"Think-Plan-Act\" cognitive cycle, enabling autonomous goal decomposition, longitudinal planning, and dynamic context maintenance. We integrate a Pedagogical Scaffolding Layer ground",
+      "resume_fr": "The integration of Large Language Models (LLMs) into cybersecurity education for criminal justice professionals is currently hindered by the \"statelessness\" of reactive chatbots and the risk of hallucinations in high-stakes legal contexts. To address these limitations, we propose the CyberJustice Tutor, an educational dialogue system powered by an Agentic AI framework. Unlike reactive chatbots, our system employs a \"Think-Plan-Act\" cognitive cycle, enabling autonomous goal decomposition, longitudinal planning, and dynamic context maintenance. We integrate a Pedagogical Scaffolding Layer ground",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "The Impact of Corporate AI Washing on Farmers' Digital Financial Behavior Response -- An Analysis from the Perspective of Digital Financial Exclusion",
+      "url": "https://arxiv.org/abs/2603.18421v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-03-19T02:29:36.000Z",
+      "score": 85,
+      "summary_en": "In the context of the rapid development of digital finance, some financial technology companies exhibit the phenomenon of \"AI washing,\" where they overstate their AI capabilities while underinvesting in actual AI resources. This paper constructs a corporate-level AI washing index based on CHFS2019 data and AI investment data from 15-20 financial technology companies, analyzing and testing its impact on farmers' digital financial behavior response. The study finds that AI washing significantly suppresses farmers' digital financial behavior; the higher the degree of AI washing, the lower the res",
+      "summary_fr": "In the context of the rapid development of digital finance, some financial technology companies exhibit the phenomenon of \"AI washing,\" where they overstate their AI capabilities while underinvesting in actual AI resources. This paper constructs a corporate-level AI washing index based on CHFS2019 data and AI investment data from 15-20 financial technology companies, analyzing and testing its impact on farmers' digital financial behavior response. The study finds that AI washing significantly suppresses farmers' digital financial behavior; the higher the degree of AI washing, the lower the res",
+      "resume_fr": "In the context of the rapid development of digital finance, some financial technology companies exhibit the phenomenon of \"AI washing,\" where they overstate their AI capabilities while underinvesting in actual AI resources. This paper constructs a corporate-level AI washing index based on CHFS2019 data and AI investment data from 15-20 financial technology companies, analyzing and testing its impact on farmers' digital financial behavior response. The study finds that AI washing significantly suppresses farmers' digital financial behavior; the higher the degree of AI washing, the lower the res",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors",
+      "url": "https://arxiv.org/abs/2603.18189v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-03-18T18:35:53.000Z",
+      "score": 85,
+      "summary_en": "Higher education instructors often lack timely and pedagogically grounded support, as scalable instructional guidance remains limited and existing tools rely on generic chatbot advice or non-scalable teaching center human-human consultations. We present TeachingCoach, a pedagogically grounded chatbot designed to support instructor professional development through real-time, conversational guidance. TeachingCoach is built on a data-centric pipeline that extracts pedagogical rules from educational resources and uses synthetic dialogue generation to fine-tune a specialized language model that gui",
+      "summary_fr": "Higher education instructors often lack timely and pedagogically grounded support, as scalable instructional guidance remains limited and existing tools rely on generic chatbot advice or non-scalable teaching center human-human consultations. We present TeachingCoach, a pedagogically grounded chatbot designed to support instructor professional development through real-time, conversational guidance. TeachingCoach is built on a data-centric pipeline that extracts pedagogical rules from educational resources and uses synthetic dialogue generation to fine-tune a specialized language model that gui",
+      "resume_fr": "Higher education instructors often lack timely and pedagogically grounded support, as scalable instructional guidance remains limited and existing tools rely on generic chatbot advice or non-scalable teaching center human-human consultations. We present TeachingCoach, a pedagogically grounded chatbot designed to support instructor professional development through real-time, conversational guidance. TeachingCoach is built on a data-centric pipeline that extracts pedagogical rules from educational resources and uses synthetic dialogue generation to fine-tune a specialized language model that gui",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "ConGA: Guidelines for Contextual Gender Annotation. A Framework for Annotating Gender in Machine Translation",
       "url": "https://arxiv.org/abs/2603.17962v1",
@@ -1101,139 +1234,6 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "BioLLMAgent: A Hybrid Framework with Enhanced Structural Interpretability for Simulating Human Decision-Making in Computational Psychiatry",
-      "url": "https://arxiv.org/abs/2603.05016v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-05T10:04:24.000Z",
-      "score": 85,
-      "summary_en": "Computational psychiatry faces a fundamental trade-off: traditional reinforcement learning (RL) models offer interpretability but lack behavioral realism, while large language model (LLM) agents generate realistic behaviors but lack structural interpretability. We introduce BioLLMAgent, a novel hybrid framework that combines validated cognitive models with the generative capabilities of LLMs. The framework comprises three core components: (i) an Internal RL Engine for experience-driven value learning; (ii) an External LLM Shell for high-level cognitive strategies and therapeutic interventions;",
-      "summary_fr": "Computational psychiatry faces a fundamental trade-off: traditional reinforcement learning (RL) models offer interpretability but lack behavioral realism, while large language model (LLM) agents generate realistic behaviors but lack structural interpretability. We introduce BioLLMAgent, a novel hybrid framework that combines validated cognitive models with the generative capabilities of LLMs. The framework comprises three core components: (i) an Internal RL Engine for experience-driven value learning; (ii) an External LLM Shell for high-level cognitive strategies and therapeutic interventions;",
-      "resume_fr": "Computational psychiatry faces a fundamental trade-off: traditional reinforcement learning (RL) models offer interpretability but lack behavioral realism, while large language model (LLM) agents generate realistic behaviors but lack structural interpretability. We introduce BioLLMAgent, a novel hybrid framework that combines validated cognitive models with the generative capabilities of LLMs. The framework comprises three core components: (i) an Internal RL Engine for experience-driven value learning; (ii) an External LLM Shell for high-level cognitive strategies and therapeutic interventions;",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Evaluating GPT-5 as a Multimodal Clinical Reasoner: A Landscape Commentary",
-      "url": "https://arxiv.org/abs/2603.04763v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-05T03:24:48.000Z",
-      "score": 50,
-      "summary_en": "The transition from task-specific artificial intelligence toward general-purpose foundation models raises fundamental questions about their capacity to support the integrated reasoning required in clinical medicine, where diagnosis demands synthesis of ambiguous patient narratives, laboratory data, and multimodal imaging. This landscape commentary provides the first controlled, cross-sectional evaluation of the GPT-5 family (GPT-5, GPT-5 Mini, GPT-5 Nano) against its predecessor GPT-4o across a diverse spectrum of clinically grounded tasks, including medical education examinations, text-based ",
-      "summary_fr": "The transition from task-specific artificial intelligence toward general-purpose foundation models raises fundamental questions about their capacity to support the integrated reasoning required in clinical medicine, where diagnosis demands synthesis of ambiguous patient narratives, laboratory data, and multimodal imaging. This landscape commentary provides the first controlled, cross-sectional evaluation of the GPT-5 family (GPT-5, GPT-5 Mini, GPT-5 Nano) against its predecessor GPT-4o across a diverse spectrum of clinically grounded tasks, including medical education examinations, text-based ",
-      "resume_fr": "The transition from task-specific artificial intelligence toward general-purpose foundation models raises fundamental questions about their capacity to support the integrated reasoning required in clinical medicine, where diagnosis demands synthesis of ambiguous patient narratives, laboratory data, and multimodal imaging. This landscape commentary provides the first controlled, cross-sectional evaluation of the GPT-5 family (GPT-5, GPT-5 Mini, GPT-5 Nano) against its predecessor GPT-4o across a diverse spectrum of clinically grounded tasks, including medical education examinations, text-based ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance",
-      "url": "https://arxiv.org/abs/2603.03281v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-03-03T18:59:48.000Z",
-      "score": 70,
-      "summary_en": "Classifier-Free Guidance (CFG) has emerged as a central approach for enhancing semantic alignment in flow-based diffusion models. In this paper, we explore a unified framework called CFG-Ctrl, which reinterprets CFG as a control applied to the first-order continuous-time generative flow, using the conditional-unconditional discrepancy as an error signal to adjust the velocity field. From this perspective, we summarize vanilla CFG as a proportional controller (P-control) with fixed gain, and typical follow-up variants develop extended control-law designs derived from it. However, existing metho",
-      "summary_fr": "Classifier-Free Guidance (CFG) has emerged as a central approach for enhancing semantic alignment in flow-based diffusion models. In this paper, we explore a unified framework called CFG-Ctrl, which reinterprets CFG as a control applied to the first-order continuous-time generative flow, using the conditional-unconditional discrepancy as an error signal to adjust the velocity field. From this perspective, we summarize vanilla CFG as a proportional controller (P-control) with fixed gain, and typical follow-up variants develop extended control-law designs derived from it. However, existing metho",
-      "resume_fr": "Classifier-Free Guidance (CFG) has emerged as a central approach for enhancing semantic alignment in flow-based diffusion models. In this paper, we explore a unified framework called CFG-Ctrl, which reinterprets CFG as a control applied to the first-order continuous-time generative flow, using the conditional-unconditional discrepancy as an error signal to adjust the velocity field. From this perspective, we summarize vanilla CFG as a proportional controller (P-control) with fixed gain, and typical follow-up variants develop extended control-law designs derived from it. However, existing metho",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Learning Demographic-Conditioned Mobility Trajectories with Aggregate Supervision",
-      "url": "https://arxiv.org/abs/2603.03275v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-03-03T18:57:44.000Z",
-      "score": 50,
-      "summary_en": "Human mobility trajectories are widely studied in public health and social science, where different demographic groups exhibit significantly different mobility patterns. However, existing trajectory generation models rarely capture this heterogeneity because most trajectory datasets lack demographic labels. To address this gap in data, we propose ATLAS, a weakly supervised approach for demographic-conditioned trajectory generation using only (i) individual trajectories without demographic labels, (ii) region-level aggregated mobility features, and (iii) region-level demographic compositions fr",
-      "summary_fr": "Human mobility trajectories are widely studied in public health and social science, where different demographic groups exhibit significantly different mobility patterns. However, existing trajectory generation models rarely capture this heterogeneity because most trajectory datasets lack demographic labels. To address this gap in data, we propose ATLAS, a weakly supervised approach for demographic-conditioned trajectory generation using only (i) individual trajectories without demographic labels, (ii) region-level aggregated mobility features, and (iii) region-level demographic compositions fr",
-      "resume_fr": "Human mobility trajectories are widely studied in public health and social science, where different demographic groups exhibit significantly different mobility patterns. However, existing trajectory generation models rarely capture this heterogeneity because most trajectory datasets lack demographic labels. To address this gap in data, we propose ATLAS, a weakly supervised approach for demographic-conditioned trajectory generation using only (i) individual trajectories without demographic labels, (ii) region-level aggregated mobility features, and (iii) region-level demographic compositions fr",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use",
-      "url": "https://arxiv.org/abs/2603.03205v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-03-03T17:59:35.000Z",
-      "score": 70,
-      "summary_en": "Agentic language models operate in a fundamentally different safety regime than chat models: they must plan, call tools, and execute long-horizon actions where a single misstep, such as accessing files or entering credentials, can cause irreversible harm. Existing alignment methods, largely optimized for static generation and task completion, break down in these settings due to sequential decision-making, adversarial tool feedback, and overconfident intermediate reasoning. We introduce MOSAIC, a post-training framework that aligns agents for safe multi-step tool use by making safety decisions ",
-      "summary_fr": "Agentic language models operate in a fundamentally different safety regime than chat models: they must plan, call tools, and execute long-horizon actions where a single misstep, such as accessing files or entering credentials, can cause irreversible harm. Existing alignment methods, largely optimized for static generation and task completion, break down in these settings due to sequential decision-making, adversarial tool feedback, and overconfident intermediate reasoning. We introduce MOSAIC, a post-training framework that aligns agents for safe multi-step tool use by making safety decisions ",
-      "resume_fr": "Agentic language models operate in a fundamentally different safety regime than chat models: they must plan, call tools, and execute long-horizon actions where a single misstep, such as accessing files or entering credentials, can cause irreversible harm. Existing alignment methods, largely optimized for static generation and task completion, break down in these settings due to sequential decision-making, adversarial tool feedback, and overconfident intermediate reasoning. We introduce MOSAIC, a post-training framework that aligns agents for safe multi-step tool use by making safety decisions ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "An HCI Perspective on Sustainable GenAI Integration in Architectural Design Education",
-      "url": "https://arxiv.org/abs/2603.03059v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-03T14:55:33.000Z",
-      "score": 50,
-      "summary_en": "Generative AI (genAI) is increasingly influencing architectural design practice and is expected to affect, or even transform, the profession, even though its benefits and costs remain unresolved. In response, design schools are increasingly integrating genAI into their curricula. Yet this integration creates a paradox: critical engagement with genAI often requires increased use of the tools in question, despite limited methods for estimating their environmental cost in teaching contexts. In this paper, we argue that HCI offers a useful methodological lens for addressing this tension. We propos",
-      "summary_fr": "Generative AI (genAI) is increasingly influencing architectural design practice and is expected to affect, or even transform, the profession, even though its benefits and costs remain unresolved. In response, design schools are increasingly integrating genAI into their curricula. Yet this integration creates a paradox: critical engagement with genAI often requires increased use of the tools in question, despite limited methods for estimating their environmental cost in teaching contexts. In this paper, we argue that HCI offers a useful methodological lens for addressing this tension. We propos",
-      "resume_fr": "Generative AI (genAI) is increasingly influencing architectural design practice and is expected to affect, or even transform, the profession, even though its benefits and costs remain unresolved. In response, design schools are increasingly integrating genAI into their curricula. Yet this integration creates a paradox: critical engagement with genAI often requires increased use of the tools in question, despite limited methods for estimating their environmental cost in teaching contexts. In this paper, we argue that HCI offers a useful methodological lens for addressing this tension. We propos",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-    },
-    {
-      "title": "Changing Pedagogical Paradigms: Integrating Generative AI in Mathematics to Enhance Digital Literacy through 'Mathematical Battles with AI'",
-      "url": "https://arxiv.org/abs/2603.02955v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-03T13:08:03.000Z",
-      "score": 50,
-      "summary_en": "This paper introduces `Math Battles with AI', an innovative competitive format designed at ITMO University to redefine the role of generative AI in mathematics education. Moving away from a purely defensive stance, the authors propose an AI agent with intentionally increased hallucination likelihood in specific modes to train verification skills. We describe the three-stage tournament structure and a specialized assessment system that rewards critical verification over blind reliance. Initial results indicate a significant shift in student mindsets, fostering essential skills in digital hygien",
-      "summary_fr": "This paper introduces `Math Battles with AI', an innovative competitive format designed at ITMO University to redefine the role of generative AI in mathematics education. Moving away from a purely defensive stance, the authors propose an AI agent with intentionally increased hallucination likelihood in specific modes to train verification skills. We describe the three-stage tournament structure and a specialized assessment system that rewards critical verification over blind reliance. Initial results indicate a significant shift in student mindsets, fostering essential skills in digital hygien",
-      "resume_fr": "This paper introduces `Math Battles with AI', an innovative competitive format designed at ITMO University to redefine the role of generative AI in mathematics education. Moving away from a purely defensive stance, the authors propose an AI agent with intentionally increased hallucination likelihood in specific modes to train verification skills. We describe the three-stage tournament structure and a specialized assessment system that rewards critical verification over blind reliance. Initial results indicate a significant shift in student mindsets, fostering essential skills in digital hygien",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
     }
   ]
 }
