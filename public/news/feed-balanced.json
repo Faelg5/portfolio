@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T07:17:55.240Z",
+  "generatedAt": "2026-03-25T07:16:41.952Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,101 @@
     }
   },
   "items": [
+    {
+      "title": "VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions",
+      "url": "https://arxiv.org/abs/2603.23495v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-03-24T17:58:17.000Z",
+      "score": 70,
+      "summary_en": "Existing approaches for improving the efficiency of Large Vision-Language Models (LVLMs) are largely based on the concept of visual token reduction. This approach, however, creates an information bottleneck that impairs performance, especially on challenging tasks that require fine-grained understanding and reasoning. In this work, we challenge this paradigm by introducing VISion On Request (VISOR), a method that reduces inference cost without discarding visual information. Instead of compressing the image, VISOR improves efficiency by sparsifying the interaction between image and text tokens.",
+      "summary_fr": "Existing approaches for improving the efficiency of Large Vision-Language Models (LVLMs) are largely based on the concept of visual token reduction. This approach, however, creates an information bottleneck that impairs performance, especially on challenging tasks that require fine-grained understanding and reasoning. In this work, we challenge this paradigm by introducing VISion On Request (VISOR), a method that reduces inference cost without discarding visual information. Instead of compressing the image, VISOR improves efficiency by sparsifying the interaction between image and text tokens.",
+      "resume_fr": "Existing approaches for improving the efficiency of Large Vision-Language Models (LVLMs) are largely based on the concept of visual token reduction. This approach, however, creates an information bottleneck that impairs performance, especially on challenging tasks that require fine-grained understanding and reasoning. In this work, we challenge this paradigm by introducing VISion On Request (VISOR), a method that reduces inference cost without discarding visual information. Instead of compressing the image, VISOR improves efficiency by sparsifying the interaction between image and text tokens.",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs",
+      "url": "https://arxiv.org/abs/2603.23481v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-03-24T17:45:06.000Z",
+      "score": 70,
+      "summary_en": "Video-Action Models (VAMs) have emerged as a promising framework for embodied intelligence, learning implicit world dynamics from raw video streams to produce temporally consistent action predictions. Although such models demonstrate strong performance on long-horizon tasks through visual reasoning, they remain limited in contact-rich scenarios where critical interaction states are only partially observable from vision alone. In particular, fine-grained force modulation and contact transitions are not reliably encoded in visual tokens, leading to unstable or imprecise behaviors. To bridge this",
+      "summary_fr": "Video-Action Models (VAMs) have emerged as a promising framework for embodied intelligence, learning implicit world dynamics from raw video streams to produce temporally consistent action predictions. Although such models demonstrate strong performance on long-horizon tasks through visual reasoning, they remain limited in contact-rich scenarios where critical interaction states are only partially observable from vision alone. In particular, fine-grained force modulation and contact transitions are not reliably encoded in visual tokens, leading to unstable or imprecise behaviors. To bridge this",
+      "resume_fr": "Video-Action Models (VAMs) have emerged as a promising framework for embodied intelligence, learning implicit world dynamics from raw video streams to produce temporally consistent action predictions. Although such models demonstrate strong performance on long-horizon tasks through visual reasoning, they remain limited in contact-rich scenarios where critical interaction states are only partially observable from vision alone. In particular, fine-grained force modulation and contact transitions are not reliably encoded in visual tokens, leading to unstable or imprecise behaviors. To bridge this",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Off-Policy Value-Based Reinforcement Learning for Large Language Models",
+      "url": "https://arxiv.org/abs/2603.23355v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-03-24T15:55:02.000Z",
+      "score": 70,
+      "summary_en": "Improving data utilization efficiency is critical for scaling reinforcement learning (RL) for long-horizon tasks where generating trajectories is expensive. However, the dominant RL methods for LLMs are largely on-policy: they update each batch of data only once, discard it, and then collect fresh samples, resulting in poor sample efficiency. In this work, we explore an alternative value-based RL framework for LLMs that naturally enables off-policy learning. We propose ReVal, a Bellman-update-based method that combines stepwise signals capturing internal consistency with trajectory-level signa",
+      "summary_fr": "Improving data utilization efficiency is critical for scaling reinforcement learning (RL) for long-horizon tasks where generating trajectories is expensive. However, the dominant RL methods for LLMs are largely on-policy: they update each batch of data only once, discard it, and then collect fresh samples, resulting in poor sample efficiency. In this work, we explore an alternative value-based RL framework for LLMs that naturally enables off-policy learning. We propose ReVal, a Bellman-update-based method that combines stepwise signals capturing internal consistency with trajectory-level signa",
+      "resume_fr": "Improving data utilization efficiency is critical for scaling reinforcement learning (RL) for long-horizon tasks where generating trajectories is expensive. However, the dominant RL methods for LLMs are largely on-policy: they update each batch of data only once, discard it, and then collect fresh samples, resulting in poor sample efficiency. In this work, we explore an alternative value-based RL framework for LLMs that naturally enables off-policy learning. We propose ReVal, a Bellman-update-based method that combines stepwise signals capturing internal consistency with trajectory-level signa",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Three Years with Classroom AI in Introductory Programming: Shifts in Student Awareness, Interaction, and Performance",
+      "url": "https://arxiv.org/abs/2603.22672v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-24T00:46:33.000Z",
+      "score": 85,
+      "summary_en": "Generative AI (GenAI) tools such as ChatGPT now provide novice programmers with instant, personalized support and are reshaping computing education. While a growing body of work examines AI's immediate impacts, longitudinal evidence remains limited on how students' awareness, student-AI interaction patterns, and course outcomes evolve as AI becomes routine in classrooms. To address this gap, we investigate an introductory Python course across three successive AI-supported cohorts (2023-2025). Using questionnaires, coded student-AI dialogue logs, and course assessment records, we examine cohort",
+      "summary_fr": "Generative AI (GenAI) tools such as ChatGPT now provide novice programmers with instant, personalized support and are reshaping computing education. While a growing body of work examines AI's immediate impacts, longitudinal evidence remains limited on how students' awareness, student-AI interaction patterns, and course outcomes evolve as AI becomes routine in classrooms. To address this gap, we investigate an introductory Python course across three successive AI-supported cohorts (2023-2025). Using questionnaires, coded student-AI dialogue logs, and course assessment records, we examine cohort",
+      "resume_fr": "Generative AI (GenAI) tools such as ChatGPT now provide novice programmers with instant, personalized support and are reshaping computing education. While a growing body of work examines AI's immediate impacts, longitudinal evidence remains limited on how students' awareness, student-AI interaction patterns, and course outcomes evolve as AI becomes routine in classrooms. To address this gap, we investigate an introductory Python course across three successive AI-supported cohorts (2023-2025). Using questionnaires, coded student-AI dialogue logs, and course assessment records, we examine cohort",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Practitioner Voices Summit: How Teachers Evaluate AI Tools through Deliberative Sensemaking",
+      "url": "https://arxiv.org/abs/2603.22588v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-23T21:26:15.000Z",
+      "score": 85,
+      "summary_en": "Teachers face growing pressure to integrate AI tools into their classrooms, yet are rarely positioned as agentic decision-makers in this process. Understanding the criteria teachers use to evaluate AI tools, and the conditions that support such reasoning, is essential for responsible AI integration. We address this gap through a two-day national summit in which 61 U.S. K-12 mathematics educators developed personal rubrics for evaluating AI classroom tools. The summit was designed to support deliberative sensemaking, a process we conceptualize by integrating Technological Pedagogical Content Kn",
+      "summary_fr": "Teachers face growing pressure to integrate AI tools into their classrooms, yet are rarely positioned as agentic decision-makers in this process. Understanding the criteria teachers use to evaluate AI tools, and the conditions that support such reasoning, is essential for responsible AI integration. We address this gap through a two-day national summit in which 61 U.S. K-12 mathematics educators developed personal rubrics for evaluating AI classroom tools. The summit was designed to support deliberative sensemaking, a process we conceptualize by integrating Technological Pedagogical Content Kn",
+      "resume_fr": "Teachers face growing pressure to integrate AI tools into their classrooms, yet are rarely positioned as agentic decision-makers in this process. Understanding the criteria teachers use to evaluate AI tools, and the conditions that support such reasoning, is essential for responsible AI integration. We address this gap through a two-day national summit in which 61 U.S. K-12 mathematics educators developed personal rubrics for evaluating AI classroom tools. The summit was designed to support deliberative sensemaking, a process we conceptualize by integrating Technological Pedagogical Content Kn",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "Scaling DoRA: High-Rank Adaptation via Factored Norms and Fused Kernels",
       "url": "https://arxiv.org/abs/2603.22276v1",
@@ -1139,101 +1234,6 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
-    },
-    {
-      "title": "From Passive Consumption to Active Interaction: Exploring Interactive LLM Scaffolding to Support Learning Engagement",
-      "url": "https://arxiv.org/abs/2603.07277v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-07T16:38:10.000Z",
-      "score": 85,
-      "summary_en": "Large Language Models (LLMs) are increasingly used as learning companions, providing scaffolded explanations, hints, or step-by-step guidance. However, in current LLM-based learning scenarios, scaffolded content is primarily consumed passively, offering limited support for active learner engagement. Learning science research suggests that effective educational scaffolding depends not only on what support is provided, but also on how learners engage with it. In this work, we explore whether embedding lightweight interactive components into LLM-generated scaffolding responses can promote learnin",
-      "summary_fr": "Large Language Models (LLMs) are increasingly used as learning companions, providing scaffolded explanations, hints, or step-by-step guidance. However, in current LLM-based learning scenarios, scaffolded content is primarily consumed passively, offering limited support for active learner engagement. Learning science research suggests that effective educational scaffolding depends not only on what support is provided, but also on how learners engage with it. In this work, we explore whether embedding lightweight interactive components into LLM-generated scaffolding responses can promote learnin",
-      "resume_fr": "Large Language Models (LLMs) are increasingly used as learning companions, providing scaffolded explanations, hints, or step-by-step guidance. However, in current LLM-based learning scenarios, scaffolded content is primarily consumed passively, offering limited support for active learner engagement. Learning science research suggests that effective educational scaffolding depends not only on what support is provided, but also on how learners engage with it. In this work, we explore whether embedding lightweight interactive components into LLM-generated scaffolding responses can promote learnin",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Student Preferences for Online Interaction Platforms in Blended Learning: A Mixed-Methods Study",
-      "url": "https://arxiv.org/abs/2603.07186v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-07T12:55:09.000Z",
-      "score": 85,
-      "summary_en": "As higher education increasingly adopts blended learning, understanding students preferences for online interaction platforms becomes critical for effective course delivery and engagement. This study investigates the platforms undergraduate students prefer for academic communication and explores the underlying reasons for these choices. Data were collected from 37 students enrolled in two summer courses at a Ghanaian university using a structured questionnaire consisting of both closed and open-ended items. Quantitative results revealed a strong preference for instant messaging platforms such ",
-      "summary_fr": "As higher education increasingly adopts blended learning, understanding students preferences for online interaction platforms becomes critical for effective course delivery and engagement. This study investigates the platforms undergraduate students prefer for academic communication and explores the underlying reasons for these choices. Data were collected from 37 students enrolled in two summer courses at a Ghanaian university using a structured questionnaire consisting of both closed and open-ended items. Quantitative results revealed a strong preference for instant messaging platforms such ",
-      "resume_fr": "As higher education increasingly adopts blended learning, understanding students preferences for online interaction platforms becomes critical for effective course delivery and engagement. This study investigates the platforms undergraduate students prefer for academic communication and explores the underlying reasons for these choices. Data were collected from 37 students enrolled in two summer courses at a Ghanaian university using a structured questionnaire consisting of both closed and open-ended items. Quantitative results revealed a strong preference for instant messaging platforms such ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Artificial Intelligence for Detecting Fetal Orofacial Clefts and Advancing Medical Education",
-      "url": "https://arxiv.org/abs/2603.06522v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-03-06T18:06:20.000Z",
-      "score": 50,
-      "summary_en": "Orofacial clefts are among the most common congenital craniofacial abnormalities, yet accurate prenatal detection remains challenging due to the scarcity of experienced specialists and the relative rarity of the condition. Early and reliable diagnosis is essential to enable timely clinical intervention and reduce associated morbidity. Here we show that an artificial intelligence system, trained on over 45,139 ultrasound images from 9,215 fetuses across 22 hospitals, can diagnose fetal orofacial clefts with sensitivity and specificity exceeding 93% and 95% respectively, matching the performance",
-      "summary_fr": "Orofacial clefts are among the most common congenital craniofacial abnormalities, yet accurate prenatal detection remains challenging due to the scarcity of experienced specialists and the relative rarity of the condition. Early and reliable diagnosis is essential to enable timely clinical intervention and reduce associated morbidity. Here we show that an artificial intelligence system, trained on over 45,139 ultrasound images from 9,215 fetuses across 22 hospitals, can diagnose fetal orofacial clefts with sensitivity and specificity exceeding 93% and 95% respectively, matching the performance",
-      "resume_fr": "Orofacial clefts are among the most common congenital craniofacial abnormalities, yet accurate prenatal detection remains challenging due to the scarcity of experienced specialists and the relative rarity of the condition. Early and reliable diagnosis is essential to enable timely clinical intervention and reduce associated morbidity. Here we show that an artificial intelligence system, trained on over 45,139 ultrasound images from 9,215 fetuses across 22 hospitals, can diagnose fetal orofacial clefts with sensitivity and specificity exceeding 93% and 95% respectively, matching the performance",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "NOBLE: Accelerating Transformers with Nonlinear Low-Rank Branches",
-      "url": "https://arxiv.org/abs/2603.06492v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-03-06T17:22:04.000Z",
-      "score": 50,
-      "summary_en": "We introduce NOBLE (Nonlinear lOw-rank Branch for Linear Enhancement), an architectural augmentation that adds nonlinear low-rank branches to transformer linear layers. Unlike LoRA and other parameter-efficient fine-tuning (PEFT) methods, NOBLE is designed for pretraining from scratch. The branch is a permanent part of the architecture as opposed to an adapter for finetuning on top of frozen weights. The branch computes σ(xWdown)Wup where σ is a learnable nonlinearity. We evaluate several activation functions and find that CosNet, a two-layer cosine nonlinearity with learnable frequency and ph",
-      "summary_fr": "We introduce NOBLE (Nonlinear lOw-rank Branch for Linear Enhancement), an architectural augmentation that adds nonlinear low-rank branches to transformer linear layers. Unlike LoRA and other parameter-efficient fine-tuning (PEFT) methods, NOBLE is designed for pretraining from scratch. The branch is a permanent part of the architecture as opposed to an adapter for finetuning on top of frozen weights. The branch computes σ(xWdown)Wup where σ is a learnable nonlinearity. We evaluate several activation functions and find that CosNet, a two-layer cosine nonlinearity with learnable frequency and ph",
-      "resume_fr": "We introduce NOBLE (Nonlinear lOw-rank Branch for Linear Enhancement), an architectural augmentation that adds nonlinear low-rank branches to transformer linear layers. Unlike LoRA and other parameter-efficient fine-tuning (PEFT) methods, NOBLE is designed for pretraining from scratch. The branch is a permanent part of the architecture as opposed to an adapter for finetuning on top of frozen weights. The branch computes σ(xWdown)Wup where σ is a learnable nonlinearity. We evaluate several activation functions and find that CosNet, a two-layer cosine nonlinearity with learnable frequency and ph",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Beyond Scores: Explainable Intelligent Assessment Strengthens Pre-service Teachers' Assessment Literacy",
-      "url": "https://arxiv.org/abs/2603.06059v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-06T09:11:21.000Z",
-      "score": 50,
-      "summary_en": "Assessment literacy (AL) is essential for personalized education, yet difficult to cultivate in pre-service teachers. Conventional teacher preparation programs focus on theoretical knowledge, while digital assessment tools commonly provide opaque scores or parameters. These limitations hinder reflection and transfer, leaving AL underdeveloped. We propose XIA, an eXplainable Intelligent Assessment platform that extends statistics-informed support with visualized cognitive diagnostic reasoning, including contrastive and counterfactual explanations. In a pre-post controlled study with 21 pre-serv",
-      "summary_fr": "Assessment literacy (AL) is essential for personalized education, yet difficult to cultivate in pre-service teachers. Conventional teacher preparation programs focus on theoretical knowledge, while digital assessment tools commonly provide opaque scores or parameters. These limitations hinder reflection and transfer, leaving AL underdeveloped. We propose XIA, an eXplainable Intelligent Assessment platform that extends statistics-informed support with visualized cognitive diagnostic reasoning, including contrastive and counterfactual explanations. In a pre-post controlled study with 21 pre-serv",
-      "resume_fr": "Assessment literacy (AL) is essential for personalized education, yet difficult to cultivate in pre-service teachers. Conventional teacher preparation programs focus on theoretical knowledge, while digital assessment tools commonly provide opaque scores or parameters. These limitations hinder reflection and transfer, leaving AL underdeveloped. We propose XIA, an eXplainable Intelligent Assessment platform that extends statistics-informed support with visualized cognitive diagnostic reasoning, including contrastive and counterfactual explanations. In a pre-post controlled study with 21 pre-serv",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
 }
