@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T07:16:41.952Z",
+  "generatedAt": "2026-03-26T07:34:53.773Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,139 @@
     }
   },
   "items": [
+    {
+      "title": "Retrieval Improvements Do Not Guarantee Better Answers: A Study of RAG for AI Policy QA",
+      "url": "https://arxiv.org/abs/2603.24580v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-03-25T17:54:39.000Z",
+      "score": 70,
+      "summary_en": "Retrieval-augmented generation (RAG) systems are increasingly used to analyze complex policy documents, but achieving sufficient reliability for expert usage remains challenging in domains characterized by dense legal language and evolving, overlapping regulatory frameworks. We study the application of RAG to AI governance and policy analysis using the AI Governance and Regulatory Archive (AGORA) corpus, a curated collection of 947 AI policy documents. Our system combines a ColBERT-based retriever fine-tuned with contrastive learning and a generator aligned to human preferences using Direct Pr",
+      "summary_fr": "Retrieval-augmented generation (RAG) systems are increasingly used to analyze complex policy documents, but achieving sufficient reliability for expert usage remains challenging in domains characterized by dense legal language and evolving, overlapping regulatory frameworks. We study the application of RAG to AI governance and policy analysis using the AI Governance and Regulatory Archive (AGORA) corpus, a curated collection of 947 AI policy documents. Our system combines a ColBERT-based retriever fine-tuned with contrastive learning and a generator aligned to human preferences using Direct Pr",
+      "resume_fr": "Retrieval-augmented generation (RAG) systems are increasingly used to analyze complex policy documents, but achieving sufficient reliability for expert usage remains challenging in domains characterized by dense legal language and evolving, overlapping regulatory frameworks. We study the application of RAG to AI governance and policy analysis using the AI Governance and Regulatory Archive (AGORA) corpus, a curated collection of 947 AI policy documents. Our system combines a ColBERT-based retriever fine-tuned with contrastive learning and a generator aligned to human preferences using Direct Pr",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "A Sociolinguistic Analysis of Automatic Speech Recognition Bias in Newcastle English",
+      "url": "https://arxiv.org/abs/2603.24549v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-03-25T17:24:47.000Z",
+      "score": 50,
+      "summary_en": "Automatic Speech Recognition (ASR) systems are widely used in everyday communication, education, healthcare, and industry, yet their performance remains uneven across speakers, particularly when dialectal variation diverges from the mainstream accents represented in training data. This study investigates ASR bias through a sociolinguistic analysis of Newcastle English, a regional variety of North-East England that has been shown to challenge current speech recognition technologies. Using spontaneous speech from the Diachronic Electronic Corpus of Tyneside English (DECTE), we evaluate the outpu",
+      "summary_fr": "Automatic Speech Recognition (ASR) systems are widely used in everyday communication, education, healthcare, and industry, yet their performance remains uneven across speakers, particularly when dialectal variation diverges from the mainstream accents represented in training data. This study investigates ASR bias through a sociolinguistic analysis of Newcastle English, a regional variety of North-East England that has been shown to challenge current speech recognition technologies. Using spontaneous speech from the Diachronic Electronic Corpus of Tyneside English (DECTE), we evaluate the outpu",
+      "resume_fr": "Automatic Speech Recognition (ASR) systems are widely used in everyday communication, education, healthcare, and industry, yet their performance remains uneven across speakers, particularly when dialectal variation diverges from the mainstream accents represented in training data. This study investigates ASR bias through a sociolinguistic analysis of Newcastle English, a regional variety of North-East England that has been shown to challenge current speech recognition technologies. Using spontaneous speech from the Diachronic Electronic Corpus of Tyneside English (DECTE), we evaluate the outpu",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Robust Multilingual Text-to-Pictogram Mapping for Scalable Reading Rehabilitation",
+      "url": "https://arxiv.org/abs/2603.24536v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-25T17:12:14.000Z",
+      "score": 50,
+      "summary_en": "Reading comprehension presents a significant challenge for children with Special Educational Needs and Disabilities (SEND), often requiring intensive one-on-one reading support. To assist therapists in scaling this support, we developed a multilingual, AI-powered interface that automatically enhances text with visual scaffolding. This system dynamically identifies key concepts and maps them to contextually relevant pictograms, supporting learners across languages. We evaluated the system across five typologically diverse languages (English, French, Italian, Spanish, and Arabic), through multil",
+      "summary_fr": "Reading comprehension presents a significant challenge for children with Special Educational Needs and Disabilities (SEND), often requiring intensive one-on-one reading support. To assist therapists in scaling this support, we developed a multilingual, AI-powered interface that automatically enhances text with visual scaffolding. This system dynamically identifies key concepts and maps them to contextually relevant pictograms, supporting learners across languages. We evaluated the system across five typologically diverse languages (English, French, Italian, Spanish, and Arabic), through multil",
+      "resume_fr": "Reading comprehension presents a significant challenge for children with Special Educational Needs and Disabilities (SEND), often requiring intensive one-on-one reading support. To assist therapists in scaling this support, we developed a multilingual, AI-powered interface that automatically enhances text with visual scaffolding. This system dynamically identifies key concepts and maps them to contextually relevant pictograms, supporting learners across languages. We evaluated the system across five typologically diverse languages (English, French, Italian, Spanish, and Arabic), through multil",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "No Single Metric Tells the Whole Story: A Multi-Dimensional Evaluation Framework for Uncertainty Attributions",
+      "url": "https://arxiv.org/abs/2603.24524v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-03-25T17:02:13.000Z",
+      "score": 70,
+      "summary_en": "Research on explainable AI (XAI) has frequently focused on explaining model predictions. More recently, methods have been proposed to explain prediction uncertainty by attributing it to input features (uncertainty attributions). However, the evaluation of these methods remains inconsistent as studies rely on heterogeneous proxy tasks and metrics, hindering comparability. We address this by aligning uncertainty attributions with the well-established Co-12 framework for XAI evaluation. We propose concrete implementations for the correctness, consistency, continuity, and compactness properties. A",
+      "summary_fr": "Research on explainable AI (XAI) has frequently focused on explaining model predictions. More recently, methods have been proposed to explain prediction uncertainty by attributing it to input features (uncertainty attributions). However, the evaluation of these methods remains inconsistent as studies rely on heterogeneous proxy tasks and metrics, hindering comparability. We address this by aligning uncertainty attributions with the well-established Co-12 framework for XAI evaluation. We propose concrete implementations for the correctness, consistency, continuity, and compactness properties. A",
+      "resume_fr": "Research on explainable AI (XAI) has frequently focused on explaining model predictions. More recently, methods have been proposed to explain prediction uncertainty by attributing it to input features (uncertainty attributions). However, the evaluation of these methods remains inconsistent as studies rely on heterogeneous proxy tasks and metrics, hindering comparability. We address this by aligning uncertainty attributions with the well-established Co-12 framework for XAI evaluation. We propose concrete implementations for the correctness, consistency, continuity, and compactness properties. A",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "When AI Meets Early Childhood Education: Large Language Models as Assessment Teammates in Chinese Preschools",
+      "url": "https://arxiv.org/abs/2603.24389v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-03-25T15:05:34.000Z",
+      "score": 50,
+      "summary_en": "High-quality teacher-child interaction (TCI) is fundamental to early childhood development, yet traditional expert-based assessment faces a critical scalability challenge. In large systems like China's-serving 36 million children across 250,000+ kindergartens-the cost and time requirements of manual observation make continuous quality monitoring infeasible, relegating assessment to infrequent episodic audits that limit timely intervention and improvement tracking. In this paper, we investigate whether AI can serve as a scalable assessment teammate by extracting structured quality indicators an",
+      "summary_fr": "High-quality teacher-child interaction (TCI) is fundamental to early childhood development, yet traditional expert-based assessment faces a critical scalability challenge. In large systems like China's-serving 36 million children across 250,000+ kindergartens-the cost and time requirements of manual observation make continuous quality monitoring infeasible, relegating assessment to infrequent episodic audits that limit timely intervention and improvement tracking. In this paper, we investigate whether AI can serve as a scalable assessment teammate by extracting structured quality indicators an",
+      "resume_fr": "High-quality teacher-child interaction (TCI) is fundamental to early childhood development, yet traditional expert-based assessment faces a critical scalability challenge. In large systems like China's-serving 36 million children across 250,000+ kindergartens-the cost and time requirements of manual observation make continuous quality monitoring infeasible, relegating assessment to infrequent episodic audits that limit timely intervention and improvement tracking. In this paper, we investigate whether AI can serve as a scalable assessment teammate by extracting structured quality indicators an",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Are U.S. Engineering Ph.D. Programs Losing Students?",
+      "url": "https://spectrum.ieee.org/us-engineering-phd-enrollment-drop",
+      "source": "IEEE Spectrum – AI",
+      "published": "2026-03-25T13:00:05.000Z",
+      "score": 50,
+      "summary_en": "U.S. doctoral programs in electrical engineering form the foundation of technological advancement, training the brightest minds in the world to research, develop, and design next-generation electronics, software, electrical infrastructure, and other high-tech products and systems. Elite institutions have long served as launchpads for the engineers behind tomorrow’s technology. Now that foundation is under strain. With U.S. universities increasingly entangled in political battles under the second Trump administration, uncertainty is beginning to ripple through doctoral admissions for electrical",
+      "summary_fr": "U.S. doctoral programs in electrical engineering form the foundation of technological advancement, training the brightest minds in the world to research, develop, and design next-generation electronics, software, electrical infrastructure, and other high-tech products and systems. Elite institutions have long served as launchpads for the engineers behind tomorrow’s technology. Now that foundation is under strain. With U.S. universities increasingly entangled in political battles under the second Trump administration, uncertainty is beginning to ripple through doctoral admissions for electrical",
+      "resume_fr": "U.S. doctoral programs in electrical engineering form the foundation of technological advancement, training the brightest minds in the world to research, develop, and design next-generation electronics, software, electrical infrastructure, and other high-tech products and systems. Elite institutions have long served as launchpads for the engineers behind tomorrow’s technology. Now that foundation is under strain. With U.S. universities increasingly entangled in political battles under the second Trump administration, uncertainty is beginning to ripple through doctoral admissions for electrical",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
+    },
+    {
+      "title": "From Untamed Black Box to Interpretable Pedagogical Orchestration: The Ensemble of Specialized LLMs Architecture for Adaptive Tutoring",
+      "url": "https://arxiv.org/abs/2603.23990v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-03-25T06:38:19.000Z",
+      "score": 50,
+      "summary_en": "Monolithic Large Language Models (LLMs) used in educational dialogue often behave as \"black boxes,\" where pedagogical decisions are implicit and difficult to audit, frequently violating instructional constraints by providing answers too early. We introduce the Ensemble of Specialized LLMS (ES-LLMS) architecture that separates decision-making from wording. Pedagogical actions are selected by a deterministic rules-based orchestrator coordinating specialized agents covering tutoring, assessment, feedback, scaffolding, motivation and ethics-guided by an interpretable Bayesian Knowledge Tracing (BK",
+      "summary_fr": "Monolithic Large Language Models (LLMs) used in educational dialogue often behave as \"black boxes,\" where pedagogical decisions are implicit and difficult to audit, frequently violating instructional constraints by providing answers too early. We introduce the Ensemble of Specialized LLMS (ES-LLMS) architecture that separates decision-making from wording. Pedagogical actions are selected by a deterministic rules-based orchestrator coordinating specialized agents covering tutoring, assessment, feedback, scaffolding, motivation and ethics-guided by an interpretable Bayesian Knowledge Tracing (BK",
+      "resume_fr": "Monolithic Large Language Models (LLMs) used in educational dialogue often behave as \"black boxes,\" where pedagogical decisions are implicit and difficult to audit, frequently violating instructional constraints by providing answers too early. We introduce the Ensemble of Specialized LLMS (ES-LLMS) architecture that separates decision-making from wording. Pedagogical actions are selected by a deterministic rules-based orchestrator coordinating specialized agents covering tutoring, assessment, feedback, scaffolding, motivation and ethics-guided by an interpretable Bayesian Knowledge Tracing (BK",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions",
       "url": "https://arxiv.org/abs/2603.23495v1",
@@ -1101,139 +1234,6 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Integrating Virtual and Augmented Reality into Public Education: Opportunities and Challenges in Language Learning",
-      "url": "https://arxiv.org/abs/2603.08970v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-09T22:02:57.000Z",
-      "score": 65,
-      "summary_en": "Virtual Reality (VR) and Augmented Reality (AR) are emerging as transformative tools in education, offering new possibilities for engagement and immersion. This paper explores their potential in language learning within public education, focusing on their ability to enhance traditional schooling methods and address existing educational gaps. The integration of VR and AR in schools, however, is not without challenges, including usability, technical barriers, and the alignment of these technologies with existing curricula. Drawing on two empirical studies, this work investigates the opportunitie",
-      "summary_fr": "Virtual Reality (VR) and Augmented Reality (AR) are emerging as transformative tools in education, offering new possibilities for engagement and immersion. This paper explores their potential in language learning within public education, focusing on their ability to enhance traditional schooling methods and address existing educational gaps. The integration of VR and AR in schools, however, is not without challenges, including usability, technical barriers, and the alignment of these technologies with existing curricula. Drawing on two empirical studies, this work investigates the opportunitie",
-      "resume_fr": "Virtual Reality (VR) and Augmented Reality (AR) are emerging as transformative tools in education, offering new possibilities for engagement and immersion. This paper explores their potential in language learning within public education, focusing on their ability to enhance traditional schooling methods and address existing educational gaps. The integration of VR and AR in schools, however, is not without challenges, including usability, technical barriers, and the alignment of these technologies with existing curricula. Drawing on two empirical studies, this work investigates the opportunitie",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Impermanent: A Live Benchmark for Temporal Generalization in Time Series Forecasting",
-      "url": "https://arxiv.org/abs/2603.08707v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-03-09T17:59:00.000Z",
-      "score": 50,
-      "summary_en": "Recent advances in time-series forecasting increasingly rely on pre-trained foundation-style models. While these models often claim broad generalization, existing evaluation protocols provide limited evidence. Indeed, most current benchmarks use static train-test splits that can easily lead to contamination as foundation models can inadvertently train on test data or perform model selection using test scores, which can inflate performance. We introduce Impermanent, a live benchmark that evaluates forecasting models under open-world temporal change by scoring forecasts sequentially over time on",
-      "summary_fr": "Recent advances in time-series forecasting increasingly rely on pre-trained foundation-style models. While these models often claim broad generalization, existing evaluation protocols provide limited evidence. Indeed, most current benchmarks use static train-test splits that can easily lead to contamination as foundation models can inadvertently train on test data or perform model selection using test scores, which can inflate performance. We introduce Impermanent, a live benchmark that evaluates forecasting models under open-world temporal change by scoring forecasts sequentially over time on",
-      "resume_fr": "Recent advances in time-series forecasting increasingly rely on pre-trained foundation-style models. While these models often claim broad generalization, existing evaluation protocols provide limited evidence. Indeed, most current benchmarks use static train-test splits that can easily lead to contamination as foundation models can inadvertently train on test data or perform model selection using test scores, which can inflate performance. We introduce Impermanent, a live benchmark that evaluates forecasting models under open-world temporal change by scoring forecasts sequentially over time on",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Drift-to-Action Controllers: Budgeted Interventions with Online Risk Certificates",
-      "url": "https://arxiv.org/abs/2603.08578v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-03-09T16:34:12.000Z",
-      "score": 70,
-      "summary_en": "Deployed machine learning systems face distribution drift, yet most monitoring pipelines stop at alarms and leave the response underspecified under labeling, compute, and latency constraints. We introduce Drift2Act, a drift-to-action controller that treats monitoring as constrained decision-making with explicit safety. Drift2Act combines a sensing layer that maps unlabeled monitoring signals to a belief over drift types with an active risk certificate that queries a small set of delayed labels from a recent window to produce an anytime-valid upper bound $U_t(δ)$ on current risk. The certificat",
-      "summary_fr": "Deployed machine learning systems face distribution drift, yet most monitoring pipelines stop at alarms and leave the response underspecified under labeling, compute, and latency constraints. We introduce Drift2Act, a drift-to-action controller that treats monitoring as constrained decision-making with explicit safety. Drift2Act combines a sensing layer that maps unlabeled monitoring signals to a belief over drift types with an active risk certificate that queries a small set of delayed labels from a recent window to produce an anytime-valid upper bound $U_t(δ)$ on current risk. The certificat",
-      "resume_fr": "Deployed machine learning systems face distribution drift, yet most monitoring pipelines stop at alarms and leave the response underspecified under labeling, compute, and latency constraints. We introduce Drift2Act, a drift-to-action controller that treats monitoring as constrained decision-making with explicit safety. Drift2Act combines a sensing layer that maps unlabeled monitoring signals to a belief over drift types with an active risk certificate that queries a small set of delayed labels from a recent window to produce an anytime-valid upper bound $U_t(δ)$ on current risk. The certificat",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Learning collision risk proactively from naturalistic driving data at scale",
-      "url": "https://www.nature.com/articles/s42256-026-01189-w",
-      "source": "Nature Machine Intelligence",
-      "published": "2026-03-09T00:00:00.000Z",
-      "score": 70,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
-    },
-    {
-      "title": "AI Misuse in Education Is a Measurement Problem: Toward a Learning Visibility Framework",
-      "url": "https://arxiv.org/abs/2603.07834v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-08T22:35:09.000Z",
-      "score": 85,
-      "summary_en": "The rapid integration of conversational AI systems into educational settings has intensified ethical concerns about academic integrity, fairness, and students' cognitive development. Institutional responses have largely centered on AI detection tools and restrictive policies, yet such approaches have proven unreliable and ethically contentious. This paper reframes AI misuse in education not primarily as a detection problem, but as a measurement problem rooted in the loss of visibility into the learning process. When AI enters the assessment loop, educators often retain access to final outputs ",
-      "summary_fr": "The rapid integration of conversational AI systems into educational settings has intensified ethical concerns about academic integrity, fairness, and students' cognitive development. Institutional responses have largely centered on AI detection tools and restrictive policies, yet such approaches have proven unreliable and ethically contentious. This paper reframes AI misuse in education not primarily as a detection problem, but as a measurement problem rooted in the loss of visibility into the learning process. When AI enters the assessment loop, educators often retain access to final outputs ",
-      "resume_fr": "The rapid integration of conversational AI systems into educational settings has intensified ethical concerns about academic integrity, fairness, and students' cognitive development. Institutional responses have largely centered on AI detection tools and restrictive policies, yet such approaches have proven unreliable and ethically contentious. This paper reframes AI misuse in education not primarily as a detection problem, but as a measurement problem rooted in the loss of visibility into the learning process. When AI enters the assessment loop, educators often retain access to final outputs ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Directing the Robot: Scaffolding Creative Human-AI-Robot Interaction",
-      "url": "https://arxiv.org/abs/2603.07748v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-08T17:49:38.000Z",
-      "score": 85,
-      "summary_en": "Robots are moving beyond industrial settings into creative, educational, and public environments where interaction is open-ended and improvisational. Yet much of human-AI-robot interaction remains framed around performance and efficiency, positioning humans as supervisors rather than collaborators. We propose a re-framing of AI interaction with robots as scaffolding: infrastructure that enables humans to shape robotic behaviour over time while remaining meaningfully in control. Through scenarios from creative practice, learning-by-teaching, and embodied interaction, we illustrate how humans ca",
-      "summary_fr": "Robots are moving beyond industrial settings into creative, educational, and public environments where interaction is open-ended and improvisational. Yet much of human-AI-robot interaction remains framed around performance and efficiency, positioning humans as supervisors rather than collaborators. We propose a re-framing of AI interaction with robots as scaffolding: infrastructure that enables humans to shape robotic behaviour over time while remaining meaningfully in control. Through scenarios from creative practice, learning-by-teaching, and embodied interaction, we illustrate how humans ca",
-      "resume_fr": "Robots are moving beyond industrial settings into creative, educational, and public environments where interaction is open-ended and improvisational. Yet much of human-AI-robot interaction remains framed around performance and efficiency, positioning humans as supervisors rather than collaborators. We propose a re-framing of AI interaction with robots as scaffolding: infrastructure that enables humans to shape robotic behaviour over time while remaining meaningfully in control. Through scenarios from creative practice, learning-by-teaching, and embodied interaction, we illustrate how humans ca",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Military AI Policy Needs Democratic Oversight",
-      "url": "https://spectrum.ieee.org/military-ai-governance",
-      "source": "IEEE Spectrum – AI",
-      "published": "2026-03-08T10:00:03.000Z",
-      "score": 70,
-      "summary_en": "A simmering dispute between the United States Department of Defense (DOD) and Anthropic has now escalated into a full-blown confrontation, raising an uncomfortable but important question: who gets to set the guardrails for military use of artificial intelligence — the executive branch, private companies or Congress and the broader democratic process? The conflict began when Defense Secretary Pete Hegseth reportedly gave Anthropic CEO Dario Amodei a deadline to allow the DOD unrestricted use of its AI systems. When the company refused, the administration moved to designate Anthropic a supply ch",
-      "summary_fr": "A simmering dispute between the United States Department of Defense (DOD) and Anthropic has now escalated into a full-blown confrontation, raising an uncomfortable but important question: who gets to set the guardrails for military use of artificial intelligence — the executive branch, private companies or Congress and the broader democratic process? The conflict began when Defense Secretary Pete Hegseth reportedly gave Anthropic CEO Dario Amodei a deadline to allow the DOD unrestricted use of its AI systems. When the company refused, the administration moved to designate Anthropic a supply ch",
-      "resume_fr": "A simmering dispute between the United States Department of Defense (DOD) and Anthropic has now escalated into a full-blown confrontation, raising an uncomfortable but important question: who gets to set the guardrails for military use of artificial intelligence — the executive branch, private companies or Congress and the broader democratic process? The conflict began when Defense Secretary Pete Hegseth reportedly gave Anthropic CEO Dario Amodei a deadline to allow the DOD unrestricted use of its AI systems. When the company refused, the administration moved to designate Anthropic a supply ch",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
     }
   ]
 }
