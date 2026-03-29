@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-28T07:12:11.162Z",
+  "generatedAt": "2026-03-29T07:17:52.613Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -761,6 +761,25 @@
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
+      "title": "Applying AI Risk Frameworks in Higher Education: What IT Leaders Need to Know",
+      "url": "https://edtechmagazine.com/higher/article/2026/03/applying-ai-risk-frameworks-higher-education-what-it-leaders-need-know",
+      "source": "EdTech Magazine (Higher Ed)",
+      "published": "2026-03-18T20:38:04.000Z",
+      "score": 50,
+      "summary_en": "Higher education IT leaders are approaching artificial intelligence adoption with cautious optimism. There is a very real sense that AI can transform student services, research and operations across campus. At the same time, there is a concern that no one fully understands where AI is running, what data it can see or how exposed institutions truly are. In that respect, universities are not all that different from commercial organizations. I would estimate that a small fraction of the largest commercial organizations feel they have some handle on AI risk, and even they are still discovering…",
+      "summary_fr": "Higher education IT leaders are approaching artificial intelligence adoption with cautious optimism. There is a very real sense that AI can transform student services, research and operations across campus. At the same time, there is a concern that no one fully understands where AI is running, what data it can see or how exposed institutions truly are. In that respect, universities are not all that different from commercial organizations. I would estimate that a small fraction of the largest commercial organizations feel they have some handle on AI risk, and even they are still discovering…",
+      "resume_fr": "Higher education IT leaders are approaching artificial intelligence adoption with cautious optimism. There is a very real sense that AI can transform student services, research and operations across campus. At the same time, there is a concern that no one fully understands where AI is running, what data it can see or how exposed institutions truly are. In that respect, universities are not all that different from commercial organizations. I would estimate that a small fraction of the largest commercial organizations feel they have some handle on AI risk, and even they are still discovering…",
+      "tags": [],
+      "breakdown": {
+        "research": 0,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=edtechmagazine.com&sz=128"
+    },
+    {
       "title": "TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors",
       "url": "https://arxiv.org/abs/2603.18189v1",
       "source": "arXiv – cs.AI + education/MOOC",
@@ -1214,25 +1233,6 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "RCTs & Human Uplift Studies: Methodological Challenges and Practical Solutions for Frontier AI Evaluation",
-      "url": "https://arxiv.org/abs/2603.11001v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-11T17:25:03.000Z",
-      "score": 100,
-      "summary_en": "Human uplift studies - or studies that measure AI effects on human performance relative to a status quo, typically using randomized controlled trial (RCT) methodology - are increasingly used to inform deployment, governance, and safety decisions for frontier AI systems. While the methods underlying these studies are well-established, their interaction with the distinctive properties of frontier AI systems remains underexamined, particularly when results are used to inform high-stakes decisions. We present findings from interviews with 16 expert practitioners with experience conducting human up",
-      "summary_fr": "Human uplift studies - or studies that measure AI effects on human performance relative to a status quo, typically using randomized controlled trial (RCT) methodology - are increasingly used to inform deployment, governance, and safety decisions for frontier AI systems. While the methods underlying these studies are well-established, their interaction with the distinctive properties of frontier AI systems remains underexamined, particularly when results are used to inform high-stakes decisions. We present findings from interviews with 16 expert practitioners with experience conducting human up",
-      "resume_fr": "Human uplift studies - or studies that measure AI effects on human performance relative to a status quo, typically using randomized controlled trial (RCT) methodology - are increasingly used to inform deployment, governance, and safety decisions for frontier AI systems. While the methods underlying these studies are well-established, their interaction with the distinctive properties of frontier AI systems remains underexamined, particularly when results are used to inform high-stakes decisions. We present findings from interviews with 16 expert practitioners with experience conducting human up",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
