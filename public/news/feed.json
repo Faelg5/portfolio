@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T07:58:09.501Z",
+  "generatedAt": "2026-03-31T07:43:08.540Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,139 @@
     }
   },
   "items": [
+    {
+      "title": "On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers",
+      "url": "https://arxiv.org/abs/2603.28762v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-03-30T17:59:13.000Z",
+      "score": 50,
+      "summary_en": "Modern Text-to-Image (T2I) diffusion models have achieved remarkable semantic alignment, yet they often suffer from a significant lack of variety, converging on a narrow set of visual solutions for any given prompt. This typicality bias presents a challenge for creative applications that require a wide range of generative outcomes. We identify a fundamental trade-off in current approaches to diversity: modifying model inputs requires costly optimization to incorporate feedback from the generative path. In contrast, acting on spatially-committed intermediate latents tends to disrupt the forming",
+      "summary_fr": "Modern Text-to-Image (T2I) diffusion models have achieved remarkable semantic alignment, yet they often suffer from a significant lack of variety, converging on a narrow set of visual solutions for any given prompt. This typicality bias presents a challenge for creative applications that require a wide range of generative outcomes. We identify a fundamental trade-off in current approaches to diversity: modifying model inputs requires costly optimization to incorporate feedback from the generative path. In contrast, acting on spatially-committed intermediate latents tends to disrupt the forming",
+      "resume_fr": "Modern Text-to-Image (T2I) diffusion models have achieved remarkable semantic alignment, yet they often suffer from a significant lack of variety, converging on a narrow set of visual solutions for any given prompt. This typicality bias presents a challenge for creative applications that require a wide range of generative outcomes. We identify a fundamental trade-off in current approaches to diversity: modifying model inputs requires costly optimization to incorporate feedback from the generative path. In contrast, acting on spatially-committed intermediate latents tends to disrupt the forming",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Rethinking Language Model Scaling under Transferable Hypersphere Optimization",
+      "url": "https://arxiv.org/abs/2603.28743v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-03-30T17:51:47.000Z",
+      "score": 50,
+      "summary_en": "Scaling laws for large language models depend critically on the optimizer and parameterization. Existing hyperparameter transfer laws are mainly developed for first-order optimizers, and they do not structurally prevent training instability at scale. Recent hypersphere optimization methods constrain weight matrices to a fixed-norm hypersphere, offering a promising alternative for more stable scaling. We introduce HyperP (Hypersphere Parameterization), the first framework for transferring optimal learning rates across model width, depth, training tokens, and Mixture-of-Experts (MoE) granularity",
+      "summary_fr": "Scaling laws for large language models depend critically on the optimizer and parameterization. Existing hyperparameter transfer laws are mainly developed for first-order optimizers, and they do not structurally prevent training instability at scale. Recent hypersphere optimization methods constrain weight matrices to a fixed-norm hypersphere, offering a promising alternative for more stable scaling. We introduce HyperP (Hypersphere Parameterization), the first framework for transferring optimal learning rates across model width, depth, training tokens, and Mixture-of-Experts (MoE) granularity",
+      "resume_fr": "Scaling laws for large language models depend critically on the optimizer and parameterization. Existing hyperparameter transfer laws are mainly developed for first-order optimizers, and they do not structurally prevent training instability at scale. Recent hypersphere optimization methods constrain weight matrices to a fixed-norm hypersphere, offering a promising alternative for more stable scaling. We introduce HyperP (Hypersphere Parameterization), the first framework for transferring optimal learning rates across model width, depth, training tokens, and Mixture-of-Experts (MoE) granularity",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Expectation Error Bounds for Transfer Learning in Linear Regression and Linear Neural Networks",
+      "url": "https://arxiv.org/abs/2603.28739v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-03-30T17:50:52.000Z",
+      "score": 50,
+      "summary_en": "In transfer learning, the learner leverages auxiliary data to improve generalization on a main task. However, the precise theoretical understanding of when and how auxiliary data help remains incomplete. We provide new insights on this issue in two canonical linear settings: ordinary least squares regression and under-parameterized linear neural networks. For linear regression, we derive exact closed-form expressions for the expected generalization error with bias-variance decomposition, yielding necessary and sufficient conditions for auxiliary tasks to improve generalization on the main task",
+      "summary_fr": "In transfer learning, the learner leverages auxiliary data to improve generalization on a main task. However, the precise theoretical understanding of when and how auxiliary data help remains incomplete. We provide new insights on this issue in two canonical linear settings: ordinary least squares regression and under-parameterized linear neural networks. For linear regression, we derive exact closed-form expressions for the expected generalization error with bias-variance decomposition, yielding necessary and sufficient conditions for auxiliary tasks to improve generalization on the main task",
+      "resume_fr": "In transfer learning, the learner leverages auxiliary data to improve generalization on a main task. However, the precise theoretical understanding of when and how auxiliary data help remains incomplete. We provide new insights on this issue in two canonical linear settings: ordinary least squares regression and under-parameterized linear neural networks. For linear regression, we derive exact closed-form expressions for the expected generalization error with bias-variance decomposition, yielding necessary and sufficient conditions for auxiliary tasks to improve generalization on the main task",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Multimodal Analytics of Cybersecurity Crisis Preparation Exercises: What Predicts Success?",
+      "url": "https://arxiv.org/abs/2603.28553v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-30T15:14:56.000Z",
+      "score": 50,
+      "summary_en": "Instructional alignment, the match between intended cognition and enacted activity, is central to effective instruction but hard to operationalize at scale. We examine alignment in cybersecurity simulations using multimodal traces from 23 teams (76 students) across five exercise sessions. Study 1 codes objectives and team emails with Bloom's taxonomy and models the completion of key exercise tasks with generalized linear mixed models. Alignment, defined as the discrepancy between required and enacted Bloom levels, predicts success, whereas the Bloom category alone does not predict success once",
+      "summary_fr": "Instructional alignment, the match between intended cognition and enacted activity, is central to effective instruction but hard to operationalize at scale. We examine alignment in cybersecurity simulations using multimodal traces from 23 teams (76 students) across five exercise sessions. Study 1 codes objectives and team emails with Bloom's taxonomy and models the completion of key exercise tasks with generalized linear mixed models. Alignment, defined as the discrepancy between required and enacted Bloom levels, predicts success, whereas the Bloom category alone does not predict success once",
+      "resume_fr": "Instructional alignment, the match between intended cognition and enacted activity, is central to effective instruction but hard to operationalize at scale. We examine alignment in cybersecurity simulations using multimodal traces from 23 teams (76 students) across five exercise sessions. Study 1 codes objectives and team emails with Bloom's taxonomy and models the completion of key exercise tasks with generalized linear mixed models. Alignment, defined as the discrepancy between required and enacted Bloom levels, predicts success, whereas the Bloom category alone does not predict success once",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Tailoring AI-Driven Reading Scaffolds to the Distinct Needs of Neurodiverse Learners",
+      "url": "https://arxiv.org/abs/2603.28370v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-30T12:38:41.000Z",
+      "score": 50,
+      "summary_en": "Neurodiverse learners often require reading supports, yet increasing scaffold richness can sometimes overload attention and working memory rather than improve comprehension. Grounded in the Construction-Integration model and a contingent scaffolding perspective, we examine how structural versus semantic scaffolds shape comprehension and reading experience in a supervised inclusive context. Using an adapted reading interface, we compared four modalities: unmodified text, sentence-segmented text, segmented text with pictograms, and segmented text with pictograms plus keyword labels. In a within-",
+      "summary_fr": "Neurodiverse learners often require reading supports, yet increasing scaffold richness can sometimes overload attention and working memory rather than improve comprehension. Grounded in the Construction-Integration model and a contingent scaffolding perspective, we examine how structural versus semantic scaffolds shape comprehension and reading experience in a supervised inclusive context. Using an adapted reading interface, we compared four modalities: unmodified text, sentence-segmented text, segmented text with pictograms, and segmented text with pictograms plus keyword labels. In a within-",
+      "resume_fr": "Neurodiverse learners often require reading supports, yet increasing scaffold richness can sometimes overload attention and working memory rather than improve comprehension. Grounded in the Construction-Integration model and a contingent scaffolding perspective, we examine how structural versus semantic scaffolds shape comprehension and reading experience in a supervised inclusive context. Using an adapted reading interface, we compared four modalities: unmodified text, sentence-segmented text, segmented text with pictograms, and segmented text with pictograms plus keyword labels. In a within-",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Mapping data literacy trajectories in K-12 education",
+      "url": "https://arxiv.org/abs/2603.28317v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-03-30T11:38:07.000Z",
+      "score": 65,
+      "summary_en": "Data literacy skills are fundamental in computer science education. However, understanding how data-driven systems work represents a paradigm shift from traditional rule-based programming. We conducted a systematic literature review of 84 studies to understand K-12 learners' engagement with data across disciplines and contexts. We propose the data paradigms framework that categorises learning activities along two dimensions: (i) logic (knowledge-based or data-driven systems), and (ii) explainability (transparent or opaque models). We further apply the notion of learning trajectories to visuali",
+      "summary_fr": "Data literacy skills are fundamental in computer science education. However, understanding how data-driven systems work represents a paradigm shift from traditional rule-based programming. We conducted a systematic literature review of 84 studies to understand K-12 learners' engagement with data across disciplines and contexts. We propose the data paradigms framework that categorises learning activities along two dimensions: (i) logic (knowledge-based or data-driven systems), and (ii) explainability (transparent or opaque models). We further apply the notion of learning trajectories to visuali",
+      "resume_fr": "Data literacy skills are fundamental in computer science education. However, understanding how data-driven systems work represents a paradigm shift from traditional rule-based programming. We conducted a systematic literature review of 84 studies to understand K-12 learners' engagement with data across disciplines and contexts. We propose the data paradigms framework that categorises learning activities along two dimensions: (i) logic (knowledge-based or data-driven systems), and (ii) explainability (transparent or opaque models). We further apply the notion of learning trajectories to visuali",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Shaping Credibility Judgments in Human-GenAI Partnership via Weaker LLMs: A Transactive Memory Perspective on AI Literacy",
+      "url": "https://arxiv.org/abs/2603.26522v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-03-27T15:36:20.000Z",
+      "score": 85,
+      "summary_en": "Generative AI (GenAI) is increasingly used as a knowledge partner in higher education, raising the need for instructional designs that emphasize AI literacy practices such as evaluating output credibility and maintaining human accountability. Existing AI literacy frameworks focus more on what learners should do than on how these practices are enacted in routine student-GenAI collaboration. We address this gap by framing student-GenAI interaction as a transactive memory partnership, where credibility regulates reliance and verification. To make this process visible during coursework, we used a ",
+      "summary_fr": "Generative AI (GenAI) is increasingly used as a knowledge partner in higher education, raising the need for instructional designs that emphasize AI literacy practices such as evaluating output credibility and maintaining human accountability. Existing AI literacy frameworks focus more on what learners should do than on how these practices are enacted in routine student-GenAI collaboration. We address this gap by framing student-GenAI interaction as a transactive memory partnership, where credibility regulates reliance and verification. To make this process visible during coursework, we used a ",
+      "resume_fr": "Generative AI (GenAI) is increasingly used as a knowledge partner in higher education, raising the need for instructional designs that emphasize AI literacy practices such as evaluating output credibility and maintaining human accountability. Existing AI literacy frameworks focus more on what learners should do than on how these practices are enacted in routine student-GenAI collaboration. We address this gap by framing student-GenAI interaction as a transactive memory partnership, where credibility regulates reliance and verification. To make this process visible during coursework, we used a ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving",
       "url": "https://arxiv.org/abs/2603.25740v1",
@@ -1100,139 +1233,6 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "The RIGID Framework: Research-Integrated, Generative AI-Mediated Instructional Design",
-      "url": "https://arxiv.org/abs/2603.12781v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-13T08:34:12.000Z",
-      "score": 85,
-      "summary_en": "Instructional Design (ID) often faces challenges in incorporating research-based knowledge and pedagogical best practices. Although educational researchers and government agencies emphasize grounding ID in evidence, integrating research findings into everyday design workflows is often complex, as it requires considering multiple context-specific demands and constraints. To address this persistent gap, this paper explores how research in the learning sciences (LS) can be systematically integrated across ID workflows and how recent advances in generative AI can help operationalize this integrati",
-      "summary_fr": "Instructional Design (ID) often faces challenges in incorporating research-based knowledge and pedagogical best practices. Although educational researchers and government agencies emphasize grounding ID in evidence, integrating research findings into everyday design workflows is often complex, as it requires considering multiple context-specific demands and constraints. To address this persistent gap, this paper explores how research in the learning sciences (LS) can be systematically integrated across ID workflows and how recent advances in generative AI can help operationalize this integrati",
-      "resume_fr": "Instructional Design (ID) often faces challenges in incorporating research-based knowledge and pedagogical best practices. Although educational researchers and government agencies emphasize grounding ID in evidence, integrating research findings into everyday design workflows is often complex, as it requires considering multiple context-specific demands and constraints. To address this persistent gap, this paper explores how research in the learning sciences (LS) can be systematically integrated across ID workflows and how recent advances in generative AI can help operationalize this integrati",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Virtual reality for large-scale laboratories based on colorized point clouds: design and pedagogical impact",
-      "url": "https://arxiv.org/abs/2603.12727v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-13T07:18:49.000Z",
-      "score": 100,
-      "summary_en": "Effective laboratory training is essential in engineering education, yet conventional on-site instruction is often constrained by time, accessibility, and safety considerations. To address these challenges, this study presents the design, implementation, and evaluation of a web-based virtual reality (WebVR) representation of a large-scale engineering laboratory constructed from massive colorized point cloud data. This study proposes a novel WebVR framework that integrates Unity and Potree for high-fidelity point-cloud visualization combined with advanced interactive capabilities in a browser-b",
-      "summary_fr": "Effective laboratory training is essential in engineering education, yet conventional on-site instruction is often constrained by time, accessibility, and safety considerations. To address these challenges, this study presents the design, implementation, and evaluation of a web-based virtual reality (WebVR) representation of a large-scale engineering laboratory constructed from massive colorized point cloud data. This study proposes a novel WebVR framework that integrates Unity and Potree for high-fidelity point-cloud visualization combined with advanced interactive capabilities in a browser-b",
-      "resume_fr": "Effective laboratory training is essential in engineering education, yet conventional on-site instruction is often constrained by time, accessibility, and safety considerations. To address these challenges, this study presents the design, implementation, and evaluation of a web-based virtual reality (WebVR) representation of a large-scale engineering laboratory constructed from massive colorized point cloud data. This study proposes a novel WebVR framework that integrates Unity and Potree for high-fidelity point-cloud visualization combined with advanced interactive capabilities in a browser-b",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Automating Skill Acquisition through Large-Scale Mining of Open-Source Agentic Repositories: A Framework for Multi-Agent Procedural Knowledge Extraction",
-      "url": "https://arxiv.org/abs/2603.11808v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-12T11:10:13.000Z",
-      "score": 100,
-      "summary_en": "The transition from monolithic large language models (LLMs) to modular, skill-equipped agents represents a fundamental architectural shift in artificial intelligence deployment. While general-purpose models demonstrate remarkable breadth in declarative knowledge, their utility in autonomous workflows is frequently constrained by insufficient specialized procedural expertise. This report investigates a systematic framework for automated acquisition of high-quality agent skills through mining of open-source repositories on platforms such as GitHub. We focus on the extraction of visualization and",
-      "summary_fr": "The transition from monolithic large language models (LLMs) to modular, skill-equipped agents represents a fundamental architectural shift in artificial intelligence deployment. While general-purpose models demonstrate remarkable breadth in declarative knowledge, their utility in autonomous workflows is frequently constrained by insufficient specialized procedural expertise. This report investigates a systematic framework for automated acquisition of high-quality agent skills through mining of open-source repositories on platforms such as GitHub. We focus on the extraction of visualization and",
-      "resume_fr": "The transition from monolithic large language models (LLMs) to modular, skill-equipped agents represents a fundamental architectural shift in artificial intelligence deployment. While general-purpose models demonstrate remarkable breadth in declarative knowledge, their utility in autonomous workflows is frequently constrained by insufficient specialized procedural expertise. This report investigates a systematic framework for automated acquisition of high-quality agent skills through mining of open-source repositories on platforms such as GitHub. We focus on the extraction of visualization and",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Scaling Laws for Educational AI Agents",
-      "url": "https://arxiv.org/abs/2603.11709v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-12T09:14:50.000Z",
-      "score": 85,
-      "summary_en": "While scaling laws for Large Language Models (LLMs) have been extensively studied along dimensions of model parameters, training data, and compute, the scaling behavior of LLM-based educational agents remains unexplored. We propose that educational agent capability scales not merely with the underlying model size, but through structured dimensions that we collectively term the Agent Scaling Law: role definition clarity, skill depth, tool completeness, runtime capability, and educator expertise injection. Central to this framework is AgentProfile, a structured JSON-based specification that serv",
-      "summary_fr": "While scaling laws for Large Language Models (LLMs) have been extensively studied along dimensions of model parameters, training data, and compute, the scaling behavior of LLM-based educational agents remains unexplored. We propose that educational agent capability scales not merely with the underlying model size, but through structured dimensions that we collectively term the Agent Scaling Law: role definition clarity, skill depth, tool completeness, runtime capability, and educator expertise injection. Central to this framework is AgentProfile, a structured JSON-based specification that serv",
-      "resume_fr": "While scaling laws for Large Language Models (LLMs) have been extensively studied along dimensions of model parameters, training data, and compute, the scaling behavior of LLM-based educational agents remains unexplored. We propose that educational agent capability scales not merely with the underlying model size, but through structured dimensions that we collectively term the Agent Scaling Law: role definition clarity, skill depth, tool completeness, runtime capability, and educator expertise injection. Central to this framework is AgentProfile, a structured JSON-based specification that serv",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Prediction of Grade, Gender, and Academic Performance of Children and Teenagers from Handwriting Using the Sigma-Lognormal Model",
-      "url": "https://arxiv.org/abs/2603.11519v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-12T04:05:23.000Z",
-      "score": 50,
-      "summary_en": "Digital handwriting acquisition enables the capture of detailed temporal and kinematic signals reflecting the motor processes underlying writing behavior. While handwriting analysis has been extensively explored in clinical or adult populations, its potential for studying developmental and educational characteristics in children remains less investigated. In this work, we examine whether handwriting dynamics encode information related to student characteristics using a large-scale online dataset collected from Japanese students from elementary school to junior high school. We systematically co",
-      "summary_fr": "Digital handwriting acquisition enables the capture of detailed temporal and kinematic signals reflecting the motor processes underlying writing behavior. While handwriting analysis has been extensively explored in clinical or adult populations, its potential for studying developmental and educational characteristics in children remains less investigated. In this work, we examine whether handwriting dynamics encode information related to student characteristics using a large-scale online dataset collected from Japanese students from elementary school to junior high school. We systematically co",
-      "resume_fr": "Digital handwriting acquisition enables the capture of detailed temporal and kinematic signals reflecting the motor processes underlying writing behavior. While handwriting analysis has been extensively explored in clinical or adult populations, its potential for studying developmental and educational characteristics in children remains less investigated. In this work, we examine whether handwriting dynamics encode information related to student characteristics using a large-scale online dataset collected from Japanese students from elementary school to junior high school. We systematically co",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Bridging the Cognitive Gap: Co-Designing and Evaluating a Voice-Enabled Community Chatbot for Older Adults",
-      "url": "https://arxiv.org/abs/2603.11303v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-11T21:00:02.000Z",
-      "score": 50,
-      "summary_en": "Digital portals in retirement communities often create physical and cognitive barriers for older adults, leading to digital avoidance. Generative AI offers a solution by enabling natural language interaction, yet its adoption is hindered by the opaque, \"Black Box\" nature of these systems and lingering usability challenges. To address this, we evaluated a voice-enabled Large Language Model (LLM) chatbot at a continuing care retirement community in the Pacific Northwest. Through a mixed-methods Co-Design and Literacy Workshop (N=25), we applied a \"Glass Box\" approach combining multimodal accessi",
-      "summary_fr": "Digital portals in retirement communities often create physical and cognitive barriers for older adults, leading to digital avoidance. Generative AI offers a solution by enabling natural language interaction, yet its adoption is hindered by the opaque, \"Black Box\" nature of these systems and lingering usability challenges. To address this, we evaluated a voice-enabled Large Language Model (LLM) chatbot at a continuing care retirement community in the Pacific Northwest. Through a mixed-methods Co-Design and Literacy Workshop (N=25), we applied a \"Glass Box\" approach combining multimodal accessi",
-      "resume_fr": "Digital portals in retirement communities often create physical and cognitive barriers for older adults, leading to digital avoidance. Generative AI offers a solution by enabling natural language interaction, yet its adoption is hindered by the opaque, \"Black Box\" nature of these systems and lingering usability challenges. To address this, we evaluated a voice-enabled Large Language Model (LLM) chatbot at a continuing care retirement community in the Pacific Northwest. Through a mixed-methods Co-Design and Literacy Workshop (N=25), we applied a \"Glass Box\" approach combining multimodal accessi",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation",
-      "url": "https://arxiv.org/abs/2603.11045v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-03-11T17:59:42.000Z",
-      "score": 70,
-      "summary_en": "We propose Neural Field Thermal Tomography (NeFTY), a differentiable physics framework for the quantitative 3D reconstruction of material properties from transient surface temperature measurements. While traditional thermography relies on pixel-wise 1D approximations that neglect lateral diffusion, and soft-constrained Physics-Informed Neural Networks (PINNs) often fail in transient diffusion scenarios due to gradient stiffness, NeFTY parameterizes the 3D diffusivity field as a continuous neural field optimized through a rigorous numerical solver. By leveraging a differentiable physics solver,",
-      "summary_fr": "We propose Neural Field Thermal Tomography (NeFTY), a differentiable physics framework for the quantitative 3D reconstruction of material properties from transient surface temperature measurements. While traditional thermography relies on pixel-wise 1D approximations that neglect lateral diffusion, and soft-constrained Physics-Informed Neural Networks (PINNs) often fail in transient diffusion scenarios due to gradient stiffness, NeFTY parameterizes the 3D diffusivity field as a continuous neural field optimized through a rigorous numerical solver. By leveraging a differentiable physics solver,",
-      "resume_fr": "We propose Neural Field Thermal Tomography (NeFTY), a differentiable physics framework for the quantitative 3D reconstruction of material properties from transient surface temperature measurements. While traditional thermography relies on pixel-wise 1D approximations that neglect lateral diffusion, and soft-constrained Physics-Informed Neural Networks (PINNs) often fail in transient diffusion scenarios due to gradient stiffness, NeFTY parameterizes the 3D diffusivity field as a continuous neural field optimized through a rigorous numerical solver. By leveraging a differentiable physics solver,",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
