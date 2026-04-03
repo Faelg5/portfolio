@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T07:39:34.468Z",
+  "generatedAt": "2026-04-03T07:35:36.385Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,177 @@
     }
   },
   "items": [
+    {
+      "title": "ActionParty: Multi-Subject Action Binding in Generative Video Games",
+      "url": "https://arxiv.org/abs/2604.02330v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-04-02T17:59:58.000Z",
+      "score": 70,
+      "summary_en": "Recent advances in video diffusion have enabled the development of \"world models\" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings, failing to control multiple agents simultaneously in a scene. In this work, we tackle a fundamental issue of action binding in existing video diffusion models, which struggle to associate specific actions with their corresponding subjects. For this purpose, we propose ActionParty, an action controllable multi-subject world model for generative video games. It introduces subject state tokens, i.e.",
+      "summary_fr": "Recent advances in video diffusion have enabled the development of \"world models\" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings, failing to control multiple agents simultaneously in a scene. In this work, we tackle a fundamental issue of action binding in existing video diffusion models, which struggle to associate specific actions with their corresponding subjects. For this purpose, we propose ActionParty, an action controllable multi-subject world model for generative video games. It introduces subject state tokens, i.e.",
+      "resume_fr": "Recent advances in video diffusion have enabled the development of \"world models\" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings, failing to control multiple agents simultaneously in a scene. In this work, we tackle a fundamental issue of action binding in existing video diffusion models, which struggle to associate specific actions with their corresponding subjects. For this purpose, we propose ActionParty, an action controllable multi-subject world model for generative video games. It introduces subject state tokens, i.e.",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning",
+      "url": "https://arxiv.org/abs/2604.02322v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-04-02T17:58:50.000Z",
+      "score": 70,
+      "summary_en": "Large Language Models employing Chain-of-Thought reasoning achieve strong performance but suffer from excessive token consumption that inflates inference costs. Existing efficiency methods such as explicit length penalties, difficulty estimators, or multi-stage curricula either degrade reasoning quality or require complex training pipelines. We introduce Batched Contextual Reinforcement, a minimalist, single-stage training paradigm that unlocks efficient reasoning through a simple structural modification: training the model to solve N problems simultaneously within a shared context window, rew",
+      "summary_fr": "Large Language Models employing Chain-of-Thought reasoning achieve strong performance but suffer from excessive token consumption that inflates inference costs. Existing efficiency methods such as explicit length penalties, difficulty estimators, or multi-stage curricula either degrade reasoning quality or require complex training pipelines. We introduce Batched Contextual Reinforcement, a minimalist, single-stage training paradigm that unlocks efficient reasoning through a simple structural modification: training the model to solve N problems simultaneously within a shared context window, rew",
+      "resume_fr": "Large Language Models employing Chain-of-Thought reasoning achieve strong performance but suffer from excessive token consumption that inflates inference costs. Existing efficiency methods such as explicit length penalties, difficulty estimators, or multi-stage curricula either degrade reasoning quality or require complex training pipelines. We introduce Batched Contextual Reinforcement, a minimalist, single-stage training paradigm that unlocks efficient reasoning through a simple structural modification: training the model to solve N problems simultaneously within a shared context window, rew",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Unifying Group-Relative and Self-Distillation Policy Optimization via Sample Routing",
+      "url": "https://arxiv.org/abs/2604.02288v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-04-02T17:29:18.000Z",
+      "score": 70,
+      "summary_en": "Reinforcement learning with verifiable rewards (RLVR) has become a standard paradigm for post-training large language models. While Group Relative Policy Optimization (GRPO) is widely adopted, its coarse credit assignment uniformly penalizes failed rollouts, lacking the token-level focus needed to efficiently address specific deviations. Self-Distillation Policy Optimization (SDPO) addresses this by providing denser, more targeted logit-level supervision that facilitates rapid early improvement, yet it frequently collapses during prolonged training. We trace this late-stage instability to two ",
+      "summary_fr": "Reinforcement learning with verifiable rewards (RLVR) has become a standard paradigm for post-training large language models. While Group Relative Policy Optimization (GRPO) is widely adopted, its coarse credit assignment uniformly penalizes failed rollouts, lacking the token-level focus needed to efficiently address specific deviations. Self-Distillation Policy Optimization (SDPO) addresses this by providing denser, more targeted logit-level supervision that facilitates rapid early improvement, yet it frequently collapses during prolonged training. We trace this late-stage instability to two ",
+      "resume_fr": "Reinforcement learning with verifiable rewards (RLVR) has become a standard paradigm for post-training large language models. While Group Relative Policy Optimization (GRPO) is widely adopted, its coarse credit assignment uniformly penalizes failed rollouts, lacking the token-level focus needed to efficiently address specific deviations. Self-Distillation Policy Optimization (SDPO) addresses this by providing denser, more targeted logit-level supervision that facilitates rapid early improvement, yet it frequently collapses during prolonged training. We trace this late-stage instability to two ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "De Jure: Iterative LLM Self-Refinement for Structured Extraction of Regulatory Rules",
+      "url": "https://arxiv.org/abs/2604.02276v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-04-02T17:06:50.000Z",
+      "score": 70,
+      "summary_en": "Regulatory documents encode legally binding obligations that LLM-based systems must respect. Yet converting dense, hierarchically structured legal text into machine-readable rules remains a costly, expert-intensive process. We present De Jure, a fully automated, domain-agnostic pipeline for extracting structured regulatory rules from raw documents, requiring no human annotation, domain-specific prompting, or annotated gold data. De Jure operates through four sequential stages: normalization of source documents into structured Markdown; LLM-driven semantic decomposition into structured rule uni",
+      "summary_fr": "Regulatory documents encode legally binding obligations that LLM-based systems must respect. Yet converting dense, hierarchically structured legal text into machine-readable rules remains a costly, expert-intensive process. We present De Jure, a fully automated, domain-agnostic pipeline for extracting structured regulatory rules from raw documents, requiring no human annotation, domain-specific prompting, or annotated gold data. De Jure operates through four sequential stages: normalization of source documents into structured Markdown; LLM-driven semantic decomposition into structured rule uni",
+      "resume_fr": "Regulatory documents encode legally binding obligations that LLM-based systems must respect. Yet converting dense, hierarchically structured legal text into machine-readable rules remains a costly, expert-intensive process. We present De Jure, a fully automated, domain-agnostic pipeline for extracting structured regulatory rules from raw documents, requiring no human annotation, domain-specific prompting, or annotated gold data. De Jure operates through four sequential stages: normalization of source documents into structured Markdown; LLM-driven semantic decomposition into structured rule uni",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Generative AI Spotlights the Human Core of Data Science: Implications for Education",
+      "url": "https://arxiv.org/abs/2604.02238v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-02T16:31:32.000Z",
+      "score": 50,
+      "summary_en": "Generative AI (GAI) reveals an irreducible human core at the center of data science: advances in GAI should sharpen, rather than diminish, the focus on human reasoning in data science education. GAI can now execute many routine data science workflows, including cleaning, summarizing, visualizing, modeling, and drafting reports. Yet the competencies that matter most remain irreducibly human: problem formulation, measurement and design, causal identification, statistical and computational reasoning, ethics and accountability, and sensemaking. Drawing on Donoho's Greater Data Science framework, N",
+      "summary_fr": "Generative AI (GAI) reveals an irreducible human core at the center of data science: advances in GAI should sharpen, rather than diminish, the focus on human reasoning in data science education. GAI can now execute many routine data science workflows, including cleaning, summarizing, visualizing, modeling, and drafting reports. Yet the competencies that matter most remain irreducibly human: problem formulation, measurement and design, causal identification, statistical and computational reasoning, ethics and accountability, and sensemaking. Drawing on Donoho's Greater Data Science framework, N",
+      "resume_fr": "Generative AI (GAI) reveals an irreducible human core at the center of data science: advances in GAI should sharpen, rather than diminish, the focus on human reasoning in data science education. GAI can now execute many routine data science workflows, including cleaning, summarizing, visualizing, modeling, and drafting reports. Yet the competencies that matter most remain irreducibly human: problem formulation, measurement and design, causal identification, statistical and computational reasoning, ethics and accountability, and sensemaking. Drawing on Donoho's Greater Data Science framework, N",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Impact of Multimodal and Conversational AI on Learning Outcomes and Experience",
+      "url": "https://arxiv.org/abs/2604.02221v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-02T16:12:00.000Z",
+      "score": 85,
+      "summary_en": "Multimodal Large Language Models (MLLMs) offer an opportunity to support multimedia learning through conversational systems grounded in educational content. However, while conversational AI is known to boost engagement, its impact on learning in visually-rich STEM domains remains under-explored. Moreover, there is limited understanding of how multimodality and conversationality jointly influence learning in generative AI systems. This work reports findings from a randomized controlled online study (N = 124) comparing three approaches to learning biology from textbook content: (1) a document-gr",
+      "summary_fr": "Multimodal Large Language Models (MLLMs) offer an opportunity to support multimedia learning through conversational systems grounded in educational content. However, while conversational AI is known to boost engagement, its impact on learning in visually-rich STEM domains remains under-explored. Moreover, there is limited understanding of how multimodality and conversationality jointly influence learning in generative AI systems. This work reports findings from a randomized controlled online study (N = 124) comparing three approaches to learning biology from textbook content: (1) a document-gr",
+      "resume_fr": "Multimodal Large Language Models (MLLMs) offer an opportunity to support multimedia learning through conversational systems grounded in educational content. However, while conversational AI is known to boost engagement, its impact on learning in visually-rich STEM domains remains under-explored. Moreover, there is limited understanding of how multimodality and conversationality jointly influence learning in generative AI systems. This work reports findings from a randomized controlled online study (N = 124) comparing three approaches to learning biology from textbook content: (1) a document-gr",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Multi-Agent Video Recommenders: Evolution, Patterns, and Open Challenges",
+      "url": "https://arxiv.org/abs/2604.02211v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-02T16:04:52.000Z",
+      "score": 50,
+      "summary_en": "Video recommender systems are among the most popular and impactful applications of AI, shaping content consumption and influencing culture for billions of users. Traditional single-model recommenders, which optimize static engagement metrics, are increasingly limited in addressing the dynamic requirements of modern platforms. In response, multi-agent architectures are redefining how video recommender systems serve, learn, and adapt to both users and datasets. These agent-based systems coordinate specialized agents responsible for video understanding, reasoning, memory, and feedback, to provide",
+      "summary_fr": "Video recommender systems are among the most popular and impactful applications of AI, shaping content consumption and influencing culture for billions of users. Traditional single-model recommenders, which optimize static engagement metrics, are increasingly limited in addressing the dynamic requirements of modern platforms. In response, multi-agent architectures are redefining how video recommender systems serve, learn, and adapt to both users and datasets. These agent-based systems coordinate specialized agents responsible for video understanding, reasoning, memory, and feedback, to provide",
+      "resume_fr": "Video recommender systems are among the most popular and impactful applications of AI, shaping content consumption and influencing culture for billions of users. Traditional single-model recommenders, which optimize static engagement metrics, are increasingly limited in addressing the dynamic requirements of modern platforms. In response, multi-agent architectures are redefining how video recommender systems serve, learn, and adapt to both users and datasets. These agent-based systems coordinate specialized agents responsible for video understanding, reasoning, memory, and feedback, to provide",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Captioning Daily Activity Images in Early Childhood Education: Benchmark and Algorithm",
+      "url": "https://arxiv.org/abs/2604.01941v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-02T12:01:15.000Z",
+      "score": 85,
+      "summary_en": "Image captioning for Early Childhood Education (ECE) is essential for automated activity understanding and educational assessment. However, existing methods face two key challenges. First, the lack of large-scale, domain-specific datasets limits the model's ability to capture fine-grained semantic concepts unique to ECE scenarios, resulting in generic and imprecise descriptions. Second, conventional training paradigms exhibit limitations in enhancing professional object description capability, as supervised learning tends to favor high-frequency expressions, while reinforcement learning may su",
+      "summary_fr": "Image captioning for Early Childhood Education (ECE) is essential for automated activity understanding and educational assessment. However, existing methods face two key challenges. First, the lack of large-scale, domain-specific datasets limits the model's ability to capture fine-grained semantic concepts unique to ECE scenarios, resulting in generic and imprecise descriptions. Second, conventional training paradigms exhibit limitations in enhancing professional object description capability, as supervised learning tends to favor high-frequency expressions, while reinforcement learning may su",
+      "resume_fr": "Image captioning for Early Childhood Education (ECE) is essential for automated activity understanding and educational assessment. However, existing methods face two key challenges. First, the lack of large-scale, domain-specific datasets limits the model's ability to capture fine-grained semantic concepts unique to ECE scenarios, resulting in generic and imprecise descriptions. Second, conventional training paradigms exhibit limitations in enhancing professional object description capability, as supervised learning tends to favor high-frequency expressions, while reinforcement learning may su",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Beyond Detection: Ethical Foundations for Automated Dyslexic Error Attribution",
+      "url": "https://arxiv.org/abs/2604.01853v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-02T10:08:35.000Z",
+      "score": 85,
+      "summary_en": "Dyslexic spelling errors exhibit systematic phonological and orthographic patterns that distinguish them from the errors produced by typically developing writers. While this observation has motivated dyslexic-specific spell-checking and assistive writing tools, prior work has focused predominantly on error correction rather than attribution, and has largely neglected the ethical risks. The risk of harmful labelling, covert screening, algorithmic bias, and institutional misuse that automated classification of learners entails requires the development of robust ethical and legal frameworks for r",
+      "summary_fr": "Dyslexic spelling errors exhibit systematic phonological and orthographic patterns that distinguish them from the errors produced by typically developing writers. While this observation has motivated dyslexic-specific spell-checking and assistive writing tools, prior work has focused predominantly on error correction rather than attribution, and has largely neglected the ethical risks. The risk of harmful labelling, covert screening, algorithmic bias, and institutional misuse that automated classification of learners entails requires the development of robust ethical and legal frameworks for r",
+      "resume_fr": "Dyslexic spelling errors exhibit systematic phonological and orthographic patterns that distinguish them from the errors produced by typically developing writers. While this observation has motivated dyslexic-specific spell-checking and assistive writing tools, prior work has focused predominantly on error correction rather than attribution, and has largely neglected the ethical risks. The risk of harmful labelling, covert screening, algorithmic bias, and institutional misuse that automated classification of learners entails requires the development of robust ethical and legal frameworks for r",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "Assessing Affective Objectives for Communicative Visualizations",
       "url": "https://arxiv.org/abs/2604.01183v1",
@@ -1063,177 +1234,6 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Unpacking Interaction Profiles and Strategies in Human-AI Collaborative Problem Solving: A Cognitive Distribution and Regulation Perspective",
-      "url": "https://arxiv.org/abs/2603.21288v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-22T15:21:55.000Z",
-      "score": 100,
-      "summary_en": "This study adopts an integrated distributed cognition and regulation of learning perspective to examine the collaboration patterns and dynamics of human-AI collaboration when college students collaborating with AI for complex problem-solving. Through cluster analysis, three distinct collaborative problem-solving modes were identified in this study: Delegated Reasoning (DR), Concerted Interpretation (CI), and Delegated Elaboration (DE). This study found that the DR group achieved the highest task performance, significantly outperforming the CI group. Additionally, the semantic similarity betwee",
-      "summary_fr": "This study adopts an integrated distributed cognition and regulation of learning perspective to examine the collaboration patterns and dynamics of human-AI collaboration when college students collaborating with AI for complex problem-solving. Through cluster analysis, three distinct collaborative problem-solving modes were identified in this study: Delegated Reasoning (DR), Concerted Interpretation (CI), and Delegated Elaboration (DE). This study found that the DR group achieved the highest task performance, significantly outperforming the CI group. Additionally, the semantic similarity betwee",
-      "resume_fr": "This study adopts an integrated distributed cognition and regulation of learning perspective to examine the collaboration patterns and dynamics of human-AI collaboration when college students collaborating with AI for complex problem-solving. Through cluster analysis, three distinct collaborative problem-solving modes were identified in this study: Delegated Reasoning (DR), Concerted Interpretation (CI), and Delegated Elaboration (DE). This study found that the DR group achieved the highest task performance, significantly outperforming the CI group. Additionally, the semantic similarity betwee",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "AI-Driven Multi-Agent Simulation of Stratified Polyamory Systems: A Computational Framework for Optimizing Social Reproductive Efficiency",
-      "url": "https://arxiv.org/abs/2603.20678v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-21T06:38:17.000Z",
-      "score": 85,
-      "summary_en": "Contemporary societies face a severe crisis of demographic reproduction. Global fertility rates continue to decline precipitously, with East Asian nations exhibiting the most dramatic trends -- China's total fertility rate (TFR) fell to approximately 1.0 in 2023, while South Korea's dropped below 0.72. Simultaneously, the institution of marriage is undergoing structural disintegration: educated women rationally reject unions lacking both emotional fulfillment and economic security, while a growing proportion of men at the lower end of the socioeconomic spectrum experience chronic sexual depriv",
-      "summary_fr": "Contemporary societies face a severe crisis of demographic reproduction. Global fertility rates continue to decline precipitously, with East Asian nations exhibiting the most dramatic trends -- China's total fertility rate (TFR) fell to approximately 1.0 in 2023, while South Korea's dropped below 0.72. Simultaneously, the institution of marriage is undergoing structural disintegration: educated women rationally reject unions lacking both emotional fulfillment and economic security, while a growing proportion of men at the lower end of the socioeconomic spectrum experience chronic sexual depriv",
-      "resume_fr": "Contemporary societies face a severe crisis of demographic reproduction. Global fertility rates continue to decline precipitously, with East Asian nations exhibiting the most dramatic trends -- China's total fertility rate (TFR) fell to approximately 1.0 in 2023, while South Korea's dropped below 0.72. Simultaneously, the institution of marriage is undergoing structural disintegration: educated women rationally reject unions lacking both emotional fulfillment and economic security, while a growing proportion of men at the lower end of the socioeconomic spectrum experience chronic sexual depriv",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2603.19220v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-03-19T17:58:52.000Z",
-      "score": 70,
-      "summary_en": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical and coding reasoning performance approaches that of frontier open models. It is the second open-weight LLM, after DeepSeekV3.2-Speciale-671B-A37B, to achieve Gold Medal-level performance in the 2025 International Mathematical Olympiad (IMO), the International Olympiad in Informatics (IOI), and the ICPC World Finals, demonstrating remarkably high intelligence density with 20x fewer parameters. In con",
-      "summary_fr": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical and coding reasoning performance approaches that of frontier open models. It is the second open-weight LLM, after DeepSeekV3.2-Speciale-671B-A37B, to achieve Gold Medal-level performance in the 2025 International Mathematical Olympiad (IMO), the International Olympiad in Informatics (IOI), and the ICPC World Finals, demonstrating remarkably high intelligence density with 20x fewer parameters. In con",
-      "resume_fr": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical and coding reasoning performance approaches that of frontier open models. It is the second open-weight LLM, after DeepSeekV3.2-Speciale-671B-A37B, to achieve Gold Medal-level performance in the 2025 International Mathematical Olympiad (IMO), the International Olympiad in Informatics (IOI), and the ICPC World Finals, demonstrating remarkably high intelligence density with 20x fewer parameters. In con",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Evaluating Counterfactual Strategic Reasoning in Large Language Models",
-      "url": "https://arxiv.org/abs/2603.19167v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-03-19T17:23:20.000Z",
-      "score": 70,
-      "summary_en": "We evaluate Large Language Models (LLMs) in repeated game-theoretic settings to assess whether strategic performance reflects genuine reasoning or reliance on memorized patterns. We consider two canonical games, Prisoner's Dilemma (PD) and Rock-Paper-Scissors (RPS), upon which we introduce counterfactual variants that alter payoff structures and action labels, breaking familiar symmetries and dominance relations. Our multi-metric evaluation framework compares default and counterfactual instantiations, showcasing LLM limitations in incentive sensitivity, structural generalization and strategic ",
-      "summary_fr": "We evaluate Large Language Models (LLMs) in repeated game-theoretic settings to assess whether strategic performance reflects genuine reasoning or reliance on memorized patterns. We consider two canonical games, Prisoner's Dilemma (PD) and Rock-Paper-Scissors (RPS), upon which we introduce counterfactual variants that alter payoff structures and action labels, breaking familiar symmetries and dominance relations. Our multi-metric evaluation framework compares default and counterfactual instantiations, showcasing LLM limitations in incentive sensitivity, structural generalization and strategic ",
-      "resume_fr": "We evaluate Large Language Models (LLMs) in repeated game-theoretic settings to assess whether strategic performance reflects genuine reasoning or reliance on memorized patterns. We consider two canonical games, Prisoner's Dilemma (PD) and Rock-Paper-Scissors (RPS), upon which we introduce counterfactual variants that alter payoff structures and action labels, breaking familiar symmetries and dominance relations. Our multi-metric evaluation framework compares default and counterfactual instantiations, showcasing LLM limitations in incentive sensitivity, structural generalization and strategic ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Student views in AI Ethics and Social Impact",
-      "url": "https://arxiv.org/abs/2603.18827v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-19T12:23:14.000Z",
-      "score": 85,
-      "summary_en": "An investigation, from a gender perspective, of how students view the ethical implications and societal effects of artificial intelligence is conducted, examining concepts that could have a big influence on how artificial intelligence may be taught in the future. For this, we conducted a survey on a cohort of 230 second year computer science students to reveal their opinions. The results revealed that AI, from the students' perspective, will significantly impact daily life, particularly in areas such as medicine, education, or media. Men are more aware of potential changes in Computer Science,",
-      "summary_fr": "An investigation, from a gender perspective, of how students view the ethical implications and societal effects of artificial intelligence is conducted, examining concepts that could have a big influence on how artificial intelligence may be taught in the future. For this, we conducted a survey on a cohort of 230 second year computer science students to reveal their opinions. The results revealed that AI, from the students' perspective, will significantly impact daily life, particularly in areas such as medicine, education, or media. Men are more aware of potential changes in Computer Science,",
-      "resume_fr": "An investigation, from a gender perspective, of how students view the ethical implications and societal effects of artificial intelligence is conducted, examining concepts that could have a big influence on how artificial intelligence may be taught in the future. For this, we conducted a survey on a cohort of 230 second year computer science students to reveal their opinions. The results revealed that AI, from the students' perspective, will significantly impact daily life, particularly in areas such as medicine, education, or media. Men are more aware of potential changes in Computer Science,",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Phone bans in schools are spreading worldwide as the policy debate rages on",
-      "url": "https://world-education-blog.org/2026/03/19/phone-bans-in-schools-are-spreading-worldwide-as-the-policy-debate-rages-on/",
-      "source": "UNESCO GEM – World Education Blog",
-      "published": "2026-03-19T10:00:56.000Z",
-      "score": 65,
-      "summary_en": "By Anna Cristina D’Addio, GEM Report In just a few years, banning mobile phones in schools has moved from a handful of national initiatives to a widespread global policy trend. Governments increasingly see smartphones as a source of classroom distraction and a potential threat to students’ well-being. The response has been swift. Recent global monitoring […] The post Phone bans in schools are spreading worldwide as the policy debate rages on appeared first on World Education Blog.",
-      "summary_fr": "By Anna Cristina D’Addio, GEM Report In just a few years, banning mobile phones in schools has moved from a handful of national initiatives to a widespread global policy trend. Governments increasingly see smartphones as a source of classroom distraction and a potential threat to students’ well-being. The response has been swift. Recent global monitoring […] The post Phone bans in schools are spreading worldwide as the policy debate rages on appeared first on World Education Blog.",
-      "resume_fr": "By Anna Cristina D’Addio, GEM Report In just a few years, banning mobile phones in schools has moved from a handful of national initiatives to a widespread global policy trend. Governments increasingly see smartphones as a source of classroom distraction and a potential threat to students’ well-being. The response has been swift. Recent global monitoring […] The post Phone bans in schools are spreading worldwide as the policy debate rages on appeared first on World Education Blog.",
-      "tags": [],
-      "breakdown": {
-        "research": 0,
-        "policy": 35,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=world-education-blog.org&sz=128"
-    },
-    {
-      "title": "CyberJustice Tutor: An Agentic AI Framework for Cybersecurity Learning via Think-Plan-Act Reasoning and Pedagogical Scaffolding",
-      "url": "https://arxiv.org/abs/2603.18470v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-19T04:04:57.000Z",
-      "score": 85,
-      "summary_en": "The integration of Large Language Models (LLMs) into cybersecurity education for criminal justice professionals is currently hindered by the \"statelessness\" of reactive chatbots and the risk of hallucinations in high-stakes legal contexts. To address these limitations, we propose the CyberJustice Tutor, an educational dialogue system powered by an Agentic AI framework. Unlike reactive chatbots, our system employs a \"Think-Plan-Act\" cognitive cycle, enabling autonomous goal decomposition, longitudinal planning, and dynamic context maintenance. We integrate a Pedagogical Scaffolding Layer ground",
-      "summary_fr": "The integration of Large Language Models (LLMs) into cybersecurity education for criminal justice professionals is currently hindered by the \"statelessness\" of reactive chatbots and the risk of hallucinations in high-stakes legal contexts. To address these limitations, we propose the CyberJustice Tutor, an educational dialogue system powered by an Agentic AI framework. Unlike reactive chatbots, our system employs a \"Think-Plan-Act\" cognitive cycle, enabling autonomous goal decomposition, longitudinal planning, and dynamic context maintenance. We integrate a Pedagogical Scaffolding Layer ground",
-      "resume_fr": "The integration of Large Language Models (LLMs) into cybersecurity education for criminal justice professionals is currently hindered by the \"statelessness\" of reactive chatbots and the risk of hallucinations in high-stakes legal contexts. To address these limitations, we propose the CyberJustice Tutor, an educational dialogue system powered by an Agentic AI framework. Unlike reactive chatbots, our system employs a \"Think-Plan-Act\" cognitive cycle, enabling autonomous goal decomposition, longitudinal planning, and dynamic context maintenance. We integrate a Pedagogical Scaffolding Layer ground",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "The Impact of Corporate AI Washing on Farmers' Digital Financial Behavior Response -- An Analysis from the Perspective of Digital Financial Exclusion",
-      "url": "https://arxiv.org/abs/2603.18421v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-19T02:29:36.000Z",
-      "score": 85,
-      "summary_en": "In the context of the rapid development of digital finance, some financial technology companies exhibit the phenomenon of \"AI washing,\" where they overstate their AI capabilities while underinvesting in actual AI resources. This paper constructs a corporate-level AI washing index based on CHFS2019 data and AI investment data from 15-20 financial technology companies, analyzing and testing its impact on farmers' digital financial behavior response. The study finds that AI washing significantly suppresses farmers' digital financial behavior; the higher the degree of AI washing, the lower the res",
-      "summary_fr": "In the context of the rapid development of digital finance, some financial technology companies exhibit the phenomenon of \"AI washing,\" where they overstate their AI capabilities while underinvesting in actual AI resources. This paper constructs a corporate-level AI washing index based on CHFS2019 data and AI investment data from 15-20 financial technology companies, analyzing and testing its impact on farmers' digital financial behavior response. The study finds that AI washing significantly suppresses farmers' digital financial behavior; the higher the degree of AI washing, the lower the res",
-      "resume_fr": "In the context of the rapid development of digital finance, some financial technology companies exhibit the phenomenon of \"AI washing,\" where they overstate their AI capabilities while underinvesting in actual AI resources. This paper constructs a corporate-level AI washing index based on CHFS2019 data and AI investment data from 15-20 financial technology companies, analyzing and testing its impact on farmers' digital financial behavior response. The study finds that AI washing significantly suppresses farmers' digital financial behavior; the higher the degree of AI washing, the lower the res",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Applying AI Risk Frameworks in Higher Education: What IT Leaders Need to Know",
-      "url": "https://edtechmagazine.com/higher/article/2026/03/applying-ai-risk-frameworks-higher-education-what-it-leaders-need-know",
-      "source": "EdTech Magazine (Higher Ed)",
-      "published": "2026-03-18T20:38:04.000Z",
-      "score": 50,
-      "summary_en": "Higher education IT leaders are approaching artificial intelligence adoption with cautious optimism. There is a very real sense that AI can transform student services, research and operations across campus. At the same time, there is a concern that no one fully understands where AI is running, what data it can see or how exposed institutions truly are. In that respect, universities are not all that different from commercial organizations. I would estimate that a small fraction of the largest commercial organizations feel they have some handle on AI risk, and even they are still discovering…",
-      "summary_fr": "Higher education IT leaders are approaching artificial intelligence adoption with cautious optimism. There is a very real sense that AI can transform student services, research and operations across campus. At the same time, there is a concern that no one fully understands where AI is running, what data it can see or how exposed institutions truly are. In that respect, universities are not all that different from commercial organizations. I would estimate that a small fraction of the largest commercial organizations feel they have some handle on AI risk, and even they are still discovering…",
-      "resume_fr": "Higher education IT leaders are approaching artificial intelligence adoption with cautious optimism. There is a very real sense that AI can transform student services, research and operations across campus. At the same time, there is a concern that no one fully understands where AI is running, what data it can see or how exposed institutions truly are. In that respect, universities are not all that different from commercial organizations. I would estimate that a small fraction of the largest commercial organizations feel they have some handle on AI risk, and even they are still discovering…",
-      "tags": [],
-      "breakdown": {
-        "research": 0,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=edtechmagazine.com&sz=128"
     }
   ]
 }
