@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T07:35:36.385Z",
+  "generatedAt": "2026-04-04T07:14:28.001Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,44 @@
     }
   },
   "items": [
+    {
+      "title": "Home numeracy experiences are associated with number-related brain activity and connectivity in early childhood",
+      "url": "https://www.nature.com/articles/s41539-026-00419-5",
+      "source": "npj Science of Learning (Nature)",
+      "published": "2026-04-03T00:00:00.000Z",
+      "score": 70,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
+    },
+    {
+      "title": "Student teacher inter brain coupling forecast cross semester academic fluctuation in real world classrooms",
+      "url": "https://www.nature.com/articles/s41539-026-00421-x",
+      "source": "npj Science of Learning (Nature)",
+      "published": "2026-04-03T00:00:00.000Z",
+      "score": 50,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
+    },
     {
       "title": "ActionParty: Multi-Subject Action Binding in Generative Video Games",
       "url": "https://arxiv.org/abs/2604.02330v1",
@@ -1195,44 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Computational framework to predict and shape human–machine interactions in closed-loop, co-adaptive neural interfaces",
-      "url": "https://www.nature.com/articles/s42256-026-01194-z",
-      "source": "Nature Machine Intelligence",
-      "published": "2026-03-23T00:00:00.000Z",
-      "score": 70,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
-    },
-    {
-      "title": "Assessing Data Literacy in K--12 Education: Challenges and Opportunities",
-      "url": "https://arxiv.org/abs/2603.21382v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-22T19:54:07.000Z",
-      "score": 65,
-      "summary_en": "Data literacy has become a key learning objective in K--12 education, but it remains an ambiguous concept as teachers interpret it differently. When creating assessments, teachers turn broad ideas about \"working with data\" into concrete decisions about what materials to include. Since working with data visualizations is a core component of data literacy, teachers' decisions about how to include them on assessments offer insight into how they interpret data literacy more broadly. Drawing on interviews with 13 teachers, we identify four challenges in enacting data literacy in assessments: (1) co",
-      "summary_fr": "Data literacy has become a key learning objective in K--12 education, but it remains an ambiguous concept as teachers interpret it differently. When creating assessments, teachers turn broad ideas about \"working with data\" into concrete decisions about what materials to include. Since working with data visualizations is a core component of data literacy, teachers' decisions about how to include them on assessments offer insight into how they interpret data literacy more broadly. Drawing on interviews with 13 teachers, we identify four challenges in enacting data literacy in assessments: (1) co",
-      "resume_fr": "Data literacy has become a key learning objective in K--12 education, but it remains an ambiguous concept as teachers interpret it differently. When creating assessments, teachers turn broad ideas about \"working with data\" into concrete decisions about what materials to include. Since working with data visualizations is a core component of data literacy, teachers' decisions about how to include them on assessments offer insight into how they interpret data literacy more broadly. Drawing on interviews with 13 teachers, we identify four challenges in enacting data literacy in assessments: (1) co",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
