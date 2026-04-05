@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-04T07:14:28.001Z",
+  "generatedAt": "2026-04-05T07:21:05.776Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,44 @@
     }
   },
   "items": [
+    {
+      "title": "Learning to adaptively cooperate through social interactions during childhood and adolescence",
+      "url": "https://www.nature.com/articles/s41539-026-00423-9",
+      "source": "npj Science of Learning (Nature)",
+      "published": "2026-04-04T00:00:00.000Z",
+      "score": 70,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
+    },
+    {
+      "title": "ENIAC’s Architects Wove Stories Through Computing",
+      "url": "https://spectrum.ieee.org/eniac-80th-anniversary-weaving",
+      "source": "IEEE Spectrum – AI",
+      "published": "2026-04-03T13:00:02.000Z",
+      "score": 50,
+      "summary_en": "This year marks the 80th anniversary of ENIAC, the first general-purpose digital computer. The computer was built during World War II to speed up ballistics calculations, but its contributions to computing extend well beyond military applications. Two of ENIAC’s key architects—John W. Mauchly, its co-inventor, and Kathleen “Kay” McNulty, one of the six original programmers—married a few years after its completion and raised seven children together. Mauchly and McNulty’s grandchild Naomi Most delivered a talk as part of a celebration in honor of ENIAC’s anniversary on 15 February, which was hel",
+      "summary_fr": "This year marks the 80th anniversary of ENIAC, the first general-purpose digital computer. The computer was built during World War II to speed up ballistics calculations, but its contributions to computing extend well beyond military applications. Two of ENIAC’s key architects—John W. Mauchly, its co-inventor, and Kathleen “Kay” McNulty, one of the six original programmers—married a few years after its completion and raised seven children together. Mauchly and McNulty’s grandchild Naomi Most delivered a talk as part of a celebration in honor of ENIAC’s anniversary on 15 February, which was hel",
+      "resume_fr": "This year marks the 80th anniversary of ENIAC, the first general-purpose digital computer. The computer was built during World War II to speed up ballistics calculations, but its contributions to computing extend well beyond military applications. Two of ENIAC’s key architects—John W. Mauchly, its co-inventor, and Kathleen “Kay” McNulty, one of the six original programmers—married a few years after its completion and raised seven children together. Mauchly and McNulty’s grandchild Naomi Most delivered a talk as part of a celebration in honor of ENIAC’s anniversary on 15 February, which was hel",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
+    },
     {
       "title": "Home numeracy experiences are associated with number-related brain activity and connectivity in early childhood",
       "url": "https://www.nature.com/articles/s41539-026-00419-5",
@@ -1195,44 +1233,6 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Characterizing High-Capacity Janus Aminobenzene-Graphene Anode for Sodium-Ion Batteries with Machine Learning",
-      "url": "https://arxiv.org/abs/2603.22254v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-03-23T17:45:26.000Z",
-      "score": 85,
-      "summary_en": "Sodium-ion batteries require anodes that combine high capacity, low operating voltage, fast Na-ion transport, and mechanical stability, which conventional anodes struggle to deliver. Here, we use the SpookyNet machine-learning force field (MLFF) together with all-electron density-functional theory calculations to characterize Na storage in aminobenzene-functionalized Janus graphene (Na$_x$AB) at room-temperature. Simulations across state of charge reveal a three-stage storage mechanism-site-specific adsorption at aminobenzene groups and Na$_n$@AB$_m$ structure formation, followed by interlayer",
-      "summary_fr": "Sodium-ion batteries require anodes that combine high capacity, low operating voltage, fast Na-ion transport, and mechanical stability, which conventional anodes struggle to deliver. Here, we use the SpookyNet machine-learning force field (MLFF) together with all-electron density-functional theory calculations to characterize Na storage in aminobenzene-functionalized Janus graphene (Na$_x$AB) at room-temperature. Simulations across state of charge reveal a three-stage storage mechanism-site-specific adsorption at aminobenzene groups and Na$_n$@AB$_m$ structure formation, followed by interlayer",
-      "resume_fr": "Sodium-ion batteries require anodes that combine high capacity, low operating voltage, fast Na-ion transport, and mechanical stability, which conventional anodes struggle to deliver. Here, we use the SpookyNet machine-learning force field (MLFF) together with all-electron density-functional theory calculations to characterize Na storage in aminobenzene-functionalized Janus graphene (Na$_x$AB) at room-temperature. Simulations across state of charge reveal a three-stage storage mechanism-site-specific adsorption at aminobenzene groups and Na$_n$@AB$_m$ structure formation, followed by interlayer",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "When Documents Disagree: Measuring Institutional Variation in Transplant Guidance with Retrieval-Augmented Language Models",
-      "url": "https://arxiv.org/abs/2603.21460v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-23T00:42:40.000Z",
-      "score": 85,
-      "summary_en": "Patient education materials for solid-organ transplantation vary substantially across U.S. centers, yet no systematic method exists to quantify this heterogeneity at scale. We introduce a framework that grounds the same patient questions in different centers' handbooks using retrieval-augmented language models and compares the resulting answers using a five-label consistency taxonomy. Applied to 102 handbooks from 23 centers and 1,115 benchmark questions, the framework quantifies heterogeneity across four dimensions: question, topic, organ, and center. We find that 20.8% of non-absent pairwise",
-      "summary_fr": "Patient education materials for solid-organ transplantation vary substantially across U.S. centers, yet no systematic method exists to quantify this heterogeneity at scale. We introduce a framework that grounds the same patient questions in different centers' handbooks using retrieval-augmented language models and compares the resulting answers using a five-label consistency taxonomy. Applied to 102 handbooks from 23 centers and 1,115 benchmark questions, the framework quantifies heterogeneity across four dimensions: question, topic, organ, and center. We find that 20.8% of non-absent pairwise",
-      "resume_fr": "Patient education materials for solid-organ transplantation vary substantially across U.S. centers, yet no systematic method exists to quantify this heterogeneity at scale. We introduce a framework that grounds the same patient questions in different centers' handbooks using retrieval-augmented language models and compares the resulting answers using a five-label consistency taxonomy. Applied to 102 handbooks from 23 centers and 1,115 benchmark questions, the framework quantifies heterogeneity across four dimensions: question, topic, organ, and center. We find that 20.8% of non-absent pairwise",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
