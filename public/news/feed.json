@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-05T07:21:05.776Z",
+  "generatedAt": "2026-04-06T07:59:19.741Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -113,6 +113,120 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
+    },
+    {
+      "title": "Semantic relatedness and the efficacy of retrieval practice",
+      "url": "https://www.nature.com/articles/s41539-026-00416-8",
+      "source": "npj Science of Learning (Nature)",
+      "published": "2026-04-04T00:00:00.000Z",
+      "score": 70,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
+    },
+    {
+      "title": "PR3DICTR: A modular AI framework for medical 3D image-based detection and outcome prediction",
+      "url": "https://arxiv.org/abs/2604.03203v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-04-03T17:25:17.000Z",
+      "score": 70,
+      "summary_en": "Three-dimensional medical image data and computer-aided decision making, particularly using deep learning, are becoming increasingly important in the medical field. To aid in these developments we introduce PR3DICTR: Platform for Research in 3D Image Classification and sTandardised tRaining. Built using community-standard distributions (PyTorch and MONAI), PR3DICTR provides an open-access, flexible and convenient framework for prediction model development, with an explicit focus on classification using three-dimensional medical image data. By combining modular design principles and standardiza",
+      "summary_fr": "Three-dimensional medical image data and computer-aided decision making, particularly using deep learning, are becoming increasingly important in the medical field. To aid in these developments we introduce PR3DICTR: Platform for Research in 3D Image Classification and sTandardised tRaining. Built using community-standard distributions (PyTorch and MONAI), PR3DICTR provides an open-access, flexible and convenient framework for prediction model development, with an explicit focus on classification using three-dimensional medical image data. By combining modular design principles and standardiza",
+      "resume_fr": "Three-dimensional medical image data and computer-aided decision making, particularly using deep learning, are becoming increasingly important in the medical field. To aid in these developments we introduce PR3DICTR: Platform for Research in 3D Image Classification and sTandardised tRaining. Built using community-standard distributions (PyTorch and MONAI), PR3DICTR provides an open-access, flexible and convenient framework for prediction model development, with an explicit focus on classification using three-dimensional medical image data. By combining modular design principles and standardiza",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Reliability Gated Multi-Teacher Distillation for Low Resource Abstractive Summarization",
+      "url": "https://arxiv.org/abs/2604.03192v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-04-03T17:06:51.000Z",
+      "score": 85,
+      "summary_en": "We study multiteacher knowledge distillation for low resource abstractive summarization from a reliability aware perspective. We introduce EWAD (Entropy Weighted Agreement Aware Distillation), a token level mechanism that routes supervision between teacher distillation and gold supervision based on inter teacher agreement, and CPDP (Capacity Proportional Divergence Preservation), a geometric constraint on the student position relative to heterogeneous teachers. Across two Bangla datasets, 13 BanglaT5 ablations, and eight Qwen2.5 experiments, we find that logit level KD provides the most reliab",
+      "summary_fr": "We study multiteacher knowledge distillation for low resource abstractive summarization from a reliability aware perspective. We introduce EWAD (Entropy Weighted Agreement Aware Distillation), a token level mechanism that routes supervision between teacher distillation and gold supervision based on inter teacher agreement, and CPDP (Capacity Proportional Divergence Preservation), a geometric constraint on the student position relative to heterogeneous teachers. Across two Bangla datasets, 13 BanglaT5 ablations, and eight Qwen2.5 experiments, we find that logit level KD provides the most reliab",
+      "resume_fr": "We study multiteacher knowledge distillation for low resource abstractive summarization from a reliability aware perspective. We introduce EWAD (Entropy Weighted Agreement Aware Distillation), a token level mechanism that routes supervision between teacher distillation and gold supervision based on inter teacher agreement, and CPDP (Capacity Proportional Divergence Preservation), a geometric constraint on the student position relative to heterogeneous teachers. Across two Bangla datasets, 13 BanglaT5 ablations, and eight Qwen2.5 experiments, we find that logit level KD provides the most reliab",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling",
+      "url": "https://arxiv.org/abs/2604.03191v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-04-03T17:06:31.000Z",
+      "score": 70,
+      "summary_en": "Scaling Vision-Language-Action (VLA) models by upgrading the vision encoder is expected to improve downstream manipulation performance--as it does in vision-language modeling. We show that this expectation fails when actions are represented as discrete tokens, and explain why through an information-theoretic principle we call the Compression Gap: in any visuomotor pipeline, scaling behavior is governed by the location of the tightest information bottleneck. When actions are continuous (e.g., Diffusion Policy), the vision encoder is the binding constraint, and upgrading it directly improves per",
+      "summary_fr": "Scaling Vision-Language-Action (VLA) models by upgrading the vision encoder is expected to improve downstream manipulation performance--as it does in vision-language modeling. We show that this expectation fails when actions are represented as discrete tokens, and explain why through an information-theoretic principle we call the Compression Gap: in any visuomotor pipeline, scaling behavior is governed by the location of the tightest information bottleneck. When actions are continuous (e.g., Diffusion Policy), the vision encoder is the binding constraint, and upgrading it directly improves per",
+      "resume_fr": "Scaling Vision-Language-Action (VLA) models by upgrading the vision encoder is expected to improve downstream manipulation performance--as it does in vision-language modeling. We show that this expectation fails when actions are represented as discrete tokens, and explain why through an information-theoretic principle we call the Compression Gap: in any visuomotor pipeline, scaling behavior is governed by the location of the tightest information bottleneck. When actions are continuous (e.g., Diffusion Policy), the vision encoder is the binding constraint, and upgrading it directly improves per",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Same Feedback, Different Source: How AI vs. Human Feedback Attribution and Credibility Shape Learner Behavior in Computing Education",
+      "url": "https://arxiv.org/abs/2604.03075v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-03T14:52:24.000Z",
+      "score": 50,
+      "summary_en": "As AI systems increasingly take on instructional roles - providing feedback, guiding practice, evaluating work - a fundamental question emerges: does it matter to learners who they believe is on the other side? We investigated this using a three-condition experiment (N=148) in which participants completed a creative coding tutorial and received feedback generated by the same large language model, attributed to either an AI system (with instant or delayed delivery) or a human teaching assistant (with matched delayed delivery). This three-condition design separates the effect of source attributi",
+      "summary_fr": "As AI systems increasingly take on instructional roles - providing feedback, guiding practice, evaluating work - a fundamental question emerges: does it matter to learners who they believe is on the other side? We investigated this using a three-condition experiment (N=148) in which participants completed a creative coding tutorial and received feedback generated by the same large language model, attributed to either an AI system (with instant or delayed delivery) or a human teaching assistant (with matched delayed delivery). This three-condition design separates the effect of source attributi",
+      "resume_fr": "As AI systems increasingly take on instructional roles - providing feedback, guiding practice, evaluating work - a fundamental question emerges: does it matter to learners who they believe is on the other side? We investigated this using a three-condition experiment (N=148) in which participants completed a creative coding tutorial and received feedback generated by the same large language model, attributed to either an AI system (with instant or delayed delivery) or a human teaching assistant (with matched delayed delivery). This three-condition design separates the effect of source attributi",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Comparing the Impact of Pedagogy-Informed Custom and General-Purpose GAI Chatbots on Students' Science Problem-Solving Processes and Performance Using Heterogeneous Interaction Network Analysis",
+      "url": "https://arxiv.org/abs/2604.03022v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-03T13:13:28.000Z",
+      "score": 85,
+      "summary_en": "Problem solving plays an essential role in science education, and generative AI (GAI) chatbots have emerged as a promising tool for supporting students' science problem solving. However, general-purpose chatbots (e.g., ChatGPT), which often provide direct, ready-made answers, may lead to students' cognitive offloading. Prior research has rarely focused on custom chatbots for facilitating students' science problem solving, nor has it examined how they differently influence problem-solving processes and performance compared to general-purpose chatbots. To address this gap, we developed a pedagog",
+      "summary_fr": "Problem solving plays an essential role in science education, and generative AI (GAI) chatbots have emerged as a promising tool for supporting students' science problem solving. However, general-purpose chatbots (e.g., ChatGPT), which often provide direct, ready-made answers, may lead to students' cognitive offloading. Prior research has rarely focused on custom chatbots for facilitating students' science problem solving, nor has it examined how they differently influence problem-solving processes and performance compared to general-purpose chatbots. To address this gap, we developed a pedagog",
+      "resume_fr": "Problem solving plays an essential role in science education, and generative AI (GAI) chatbots have emerged as a promising tool for supporting students' science problem solving. However, general-purpose chatbots (e.g., ChatGPT), which often provide direct, ready-made answers, may lead to students' cognitive offloading. Prior research has rarely focused on custom chatbots for facilitating students' science problem solving, nor has it examined how they differently influence problem-solving processes and performance compared to general-purpose chatbots. To address this gap, we developed a pedagog",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
       "title": "ENIAC’s Architects Wove Stories Through Computing",
@@ -1111,120 +1225,6 @@
       "summary_en": "Existing approaches for improving the efficiency of Large Vision-Language Models (LVLMs) are largely based on the concept of visual token reduction. This approach, however, creates an information bottleneck that impairs performance, especially on challenging tasks that require fine-grained understanding and reasoning. In this work, we challenge this paradigm by introducing VISion On Request (VISOR), a method that reduces inference cost without discarding visual information. Instead of compressing the image, VISOR improves efficiency by sparsifying the interaction between image and text tokens.",
       "summary_fr": "Existing approaches for improving the efficiency of Large Vision-Language Models (LVLMs) are largely based on the concept of visual token reduction. This approach, however, creates an information bottleneck that impairs performance, especially on challenging tasks that require fine-grained understanding and reasoning. In this work, we challenge this paradigm by introducing VISion On Request (VISOR), a method that reduces inference cost without discarding visual information. Instead of compressing the image, VISOR improves efficiency by sparsifying the interaction between image and text tokens.",
       "resume_fr": "Existing approaches for improving the efficiency of Large Vision-Language Models (LVLMs) are largely based on the concept of visual token reduction. This approach, however, creates an information bottleneck that impairs performance, especially on challenging tasks that require fine-grained understanding and reasoning. In this work, we challenge this paradigm by introducing VISion On Request (VISOR), a method that reduces inference cost without discarding visual information. Instead of compressing the image, VISOR improves efficiency by sparsifying the interaction between image and text tokens.",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs",
-      "url": "https://arxiv.org/abs/2603.23481v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-03-24T17:45:06.000Z",
-      "score": 70,
-      "summary_en": "Video-Action Models (VAMs) have emerged as a promising framework for embodied intelligence, learning implicit world dynamics from raw video streams to produce temporally consistent action predictions. Although such models demonstrate strong performance on long-horizon tasks through visual reasoning, they remain limited in contact-rich scenarios where critical interaction states are only partially observable from vision alone. In particular, fine-grained force modulation and contact transitions are not reliably encoded in visual tokens, leading to unstable or imprecise behaviors. To bridge this",
-      "summary_fr": "Video-Action Models (VAMs) have emerged as a promising framework for embodied intelligence, learning implicit world dynamics from raw video streams to produce temporally consistent action predictions. Although such models demonstrate strong performance on long-horizon tasks through visual reasoning, they remain limited in contact-rich scenarios where critical interaction states are only partially observable from vision alone. In particular, fine-grained force modulation and contact transitions are not reliably encoded in visual tokens, leading to unstable or imprecise behaviors. To bridge this",
-      "resume_fr": "Video-Action Models (VAMs) have emerged as a promising framework for embodied intelligence, learning implicit world dynamics from raw video streams to produce temporally consistent action predictions. Although such models demonstrate strong performance on long-horizon tasks through visual reasoning, they remain limited in contact-rich scenarios where critical interaction states are only partially observable from vision alone. In particular, fine-grained force modulation and contact transitions are not reliably encoded in visual tokens, leading to unstable or imprecise behaviors. To bridge this",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Off-Policy Value-Based Reinforcement Learning for Large Language Models",
-      "url": "https://arxiv.org/abs/2603.23355v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-03-24T15:55:02.000Z",
-      "score": 70,
-      "summary_en": "Improving data utilization efficiency is critical for scaling reinforcement learning (RL) for long-horizon tasks where generating trajectories is expensive. However, the dominant RL methods for LLMs are largely on-policy: they update each batch of data only once, discard it, and then collect fresh samples, resulting in poor sample efficiency. In this work, we explore an alternative value-based RL framework for LLMs that naturally enables off-policy learning. We propose ReVal, a Bellman-update-based method that combines stepwise signals capturing internal consistency with trajectory-level signa",
-      "summary_fr": "Improving data utilization efficiency is critical for scaling reinforcement learning (RL) for long-horizon tasks where generating trajectories is expensive. However, the dominant RL methods for LLMs are largely on-policy: they update each batch of data only once, discard it, and then collect fresh samples, resulting in poor sample efficiency. In this work, we explore an alternative value-based RL framework for LLMs that naturally enables off-policy learning. We propose ReVal, a Bellman-update-based method that combines stepwise signals capturing internal consistency with trajectory-level signa",
-      "resume_fr": "Improving data utilization efficiency is critical for scaling reinforcement learning (RL) for long-horizon tasks where generating trajectories is expensive. However, the dominant RL methods for LLMs are largely on-policy: they update each batch of data only once, discard it, and then collect fresh samples, resulting in poor sample efficiency. In this work, we explore an alternative value-based RL framework for LLMs that naturally enables off-policy learning. We propose ReVal, a Bellman-update-based method that combines stepwise signals capturing internal consistency with trajectory-level signa",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Three Years with Classroom AI in Introductory Programming: Shifts in Student Awareness, Interaction, and Performance",
-      "url": "https://arxiv.org/abs/2603.22672v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-24T00:46:33.000Z",
-      "score": 85,
-      "summary_en": "Generative AI (GenAI) tools such as ChatGPT now provide novice programmers with instant, personalized support and are reshaping computing education. While a growing body of work examines AI's immediate impacts, longitudinal evidence remains limited on how students' awareness, student-AI interaction patterns, and course outcomes evolve as AI becomes routine in classrooms. To address this gap, we investigate an introductory Python course across three successive AI-supported cohorts (2023-2025). Using questionnaires, coded student-AI dialogue logs, and course assessment records, we examine cohort",
-      "summary_fr": "Generative AI (GenAI) tools such as ChatGPT now provide novice programmers with instant, personalized support and are reshaping computing education. While a growing body of work examines AI's immediate impacts, longitudinal evidence remains limited on how students' awareness, student-AI interaction patterns, and course outcomes evolve as AI becomes routine in classrooms. To address this gap, we investigate an introductory Python course across three successive AI-supported cohorts (2023-2025). Using questionnaires, coded student-AI dialogue logs, and course assessment records, we examine cohort",
-      "resume_fr": "Generative AI (GenAI) tools such as ChatGPT now provide novice programmers with instant, personalized support and are reshaping computing education. While a growing body of work examines AI's immediate impacts, longitudinal evidence remains limited on how students' awareness, student-AI interaction patterns, and course outcomes evolve as AI becomes routine in classrooms. To address this gap, we investigate an introductory Python course across three successive AI-supported cohorts (2023-2025). Using questionnaires, coded student-AI dialogue logs, and course assessment records, we examine cohort",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Practitioner Voices Summit: How Teachers Evaluate AI Tools through Deliberative Sensemaking",
-      "url": "https://arxiv.org/abs/2603.22588v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-23T21:26:15.000Z",
-      "score": 85,
-      "summary_en": "Teachers face growing pressure to integrate AI tools into their classrooms, yet are rarely positioned as agentic decision-makers in this process. Understanding the criteria teachers use to evaluate AI tools, and the conditions that support such reasoning, is essential for responsible AI integration. We address this gap through a two-day national summit in which 61 U.S. K-12 mathematics educators developed personal rubrics for evaluating AI classroom tools. The summit was designed to support deliberative sensemaking, a process we conceptualize by integrating Technological Pedagogical Content Kn",
-      "summary_fr": "Teachers face growing pressure to integrate AI tools into their classrooms, yet are rarely positioned as agentic decision-makers in this process. Understanding the criteria teachers use to evaluate AI tools, and the conditions that support such reasoning, is essential for responsible AI integration. We address this gap through a two-day national summit in which 61 U.S. K-12 mathematics educators developed personal rubrics for evaluating AI classroom tools. The summit was designed to support deliberative sensemaking, a process we conceptualize by integrating Technological Pedagogical Content Kn",
-      "resume_fr": "Teachers face growing pressure to integrate AI tools into their classrooms, yet are rarely positioned as agentic decision-makers in this process. Understanding the criteria teachers use to evaluate AI tools, and the conditions that support such reasoning, is essential for responsible AI integration. We address this gap through a two-day national summit in which 61 U.S. K-12 mathematics educators developed personal rubrics for evaluating AI classroom tools. The summit was designed to support deliberative sensemaking, a process we conceptualize by integrating Technological Pedagogical Content Kn",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Scaling DoRA: High-Rank Adaptation via Factored Norms and Fused Kernels",
-      "url": "https://arxiv.org/abs/2603.22276v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-03-23T17:57:24.000Z",
-      "score": 70,
-      "summary_en": "Weight-Decomposed Low-Rank Adaptation (DoRA) extends LoRA by decoupling weight magnitude from direction, but its forward pass requires the row-wise norm of W + sBA, a computation that every major framework we surveyed implements by materializing the dense [d_out, d_in] product BA. At d_in = 8192 and rank r = 384, a single module's norm requires about 512 MB of transient working memory in bf16, making high-rank DoRA costly and often infeasible on common single-GPU setups once hundreds of adapted modules and checkpointing are involved. We present two systems contributions. A factored norm decomp",
-      "summary_fr": "Weight-Decomposed Low-Rank Adaptation (DoRA) extends LoRA by decoupling weight magnitude from direction, but its forward pass requires the row-wise norm of W + sBA, a computation that every major framework we surveyed implements by materializing the dense [d_out, d_in] product BA. At d_in = 8192 and rank r = 384, a single module's norm requires about 512 MB of transient working memory in bf16, making high-rank DoRA costly and often infeasible on common single-GPU setups once hundreds of adapted modules and checkpointing are involved. We present two systems contributions. A factored norm decomp",
-      "resume_fr": "Weight-Decomposed Low-Rank Adaptation (DoRA) extends LoRA by decoupling weight magnitude from direction, but its forward pass requires the row-wise norm of W + sBA, a computation that every major framework we surveyed implements by materializing the dense [d_out, d_in] product BA. At d_in = 8192 and rank r = 384, a single module's norm requires about 512 MB of transient working memory in bf16, making high-rank DoRA costly and often infeasible on common single-GPU setups once hundreds of adapted modules and checkpointing are involved. We present two systems contributions. A factored norm decomp",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Decoupling Exploration and Policy Optimization: Uncertainty Guided Tree Search for Hard Exploration",
-      "url": "https://arxiv.org/abs/2603.22273v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-03-23T17:56:52.000Z",
-      "score": 70,
-      "summary_en": "The process of discovery requires active exploration -- the act of collecting new and informative data. However, efficient autonomous exploration remains a major unsolved problem. The dominant paradigm addresses this challenge by using Reinforcement Learning (RL) to train agents with intrinsic motivation, maximizing a composite objective of extrinsic and intrinsic rewards. We suggest that this approach incurs unnecessary overhead: while policy optimization is necessary for precise task execution, employing such machinery solely to expand state coverage may be inefficient. In this paper, we pro",
-      "summary_fr": "The process of discovery requires active exploration -- the act of collecting new and informative data. However, efficient autonomous exploration remains a major unsolved problem. The dominant paradigm addresses this challenge by using Reinforcement Learning (RL) to train agents with intrinsic motivation, maximizing a composite objective of extrinsic and intrinsic rewards. We suggest that this approach incurs unnecessary overhead: while policy optimization is necessary for precise task execution, employing such machinery solely to expand state coverage may be inefficient. In this paper, we pro",
-      "resume_fr": "The process of discovery requires active exploration -- the act of collecting new and informative data. However, efficient autonomous exploration remains a major unsolved problem. The dominant paradigm addresses this challenge by using Reinforcement Learning (RL) to train agents with intrinsic motivation, maximizing a composite objective of extrinsic and intrinsic rewards. We suggest that this approach incurs unnecessary overhead: while policy optimization is necessary for precise task execution, employing such machinery solely to expand state coverage may be inefficient. In this paper, we pro",
       "tags": [],
       "breakdown": {
         "research": 35,
