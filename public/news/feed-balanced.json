@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06T07:59:19.741Z",
+  "generatedAt": "2026-04-07T07:47:20.579Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,139 @@
     }
   },
   "items": [
+    {
+      "title": "Beyond the Final Actor: Modeling the Dual Roles of Creator and Editor for Fine-Grained LLM-Generated Text Detection",
+      "url": "https://arxiv.org/abs/2604.04932v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-04-06T17:59:55.000Z",
+      "score": 70,
+      "summary_en": "The misuse of large language models (LLMs) requires precise detection of synthetic text. Existing works mainly follow binary or ternary classification settings, which can only distinguish pure human/LLM text or collaborative text at best. This remains insufficient for the nuanced regulation, as the LLM-polished human text and humanized LLM text often trigger different policy consequences. In this paper, we explore fine-grained LLM-generated text detection under a rigorous four-class setting. To handle such complexities, we propose RACE (Rhetorical Analysis for Creator-Editor Modeling), a fine-",
+      "summary_fr": "The misuse of large language models (LLMs) requires precise detection of synthetic text. Existing works mainly follow binary or ternary classification settings, which can only distinguish pure human/LLM text or collaborative text at best. This remains insufficient for the nuanced regulation, as the LLM-polished human text and humanized LLM text often trigger different policy consequences. In this paper, we explore fine-grained LLM-generated text detection under a rigorous four-class setting. To handle such complexities, we propose RACE (Rhetorical Analysis for Creator-Editor Modeling), a fine-",
+      "resume_fr": "The misuse of large language models (LLMs) requires precise detection of synthetic text. Existing works mainly follow binary or ternary classification settings, which can only distinguish pure human/LLM text or collaborative text at best. This remains insufficient for the nuanced regulation, as the LLM-polished human text and humanized LLM text often trigger different policy consequences. In this paper, we explore fine-grained LLM-generated text detection under a rigorous four-class setting. To handle such complexities, we propose RACE (Rhetorical Analysis for Creator-Editor Modeling), a fine-",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Analyzing Symbolic Properties for DRL Agents in Systems and Networking",
+      "url": "https://arxiv.org/abs/2604.04914v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-04-06T17:55:15.000Z",
+      "score": 50,
+      "summary_en": "Deep reinforcement learning (DRL) has shown remarkable performance on complex control problems in systems and networking, including adaptive video streaming, wireless resource management, and congestion control. For safe deployment, however, it is critical to reason about how agents behave across the range of system states they encounter in practice. Existing verification-based methods in this domain primarily focus on point properties, defined around fixed input states, which offer limited coverage and require substantial manual effort to identify relevant input-output pairs for analysis. In ",
+      "summary_fr": "Deep reinforcement learning (DRL) has shown remarkable performance on complex control problems in systems and networking, including adaptive video streaming, wireless resource management, and congestion control. For safe deployment, however, it is critical to reason about how agents behave across the range of system states they encounter in practice. Existing verification-based methods in this domain primarily focus on point properties, defined around fixed input states, which offer limited coverage and require substantial manual effort to identify relevant input-output pairs for analysis. In ",
+      "resume_fr": "Deep reinforcement learning (DRL) has shown remarkable performance on complex control problems in systems and networking, including adaptive video streaming, wireless resource management, and congestion control. For safe deployment, however, it is critical to reason about how agents behave across the range of system states they encounter in practice. Existing verification-based methods in this domain primarily focus on point properties, defined around fixed input states, which offer limited coverage and require substantial manual effort to identify relevant input-output pairs for analysis. In ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Demonstrating SIMA-Play: A Serious Game for Forest Management Decision-Making through Board Game and Digital Simulation",
+      "url": "https://arxiv.org/abs/2604.04904v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-06T17:50:41.000Z",
+      "score": 50,
+      "summary_en": "Board games have shown promise as educational tools, but their use in engaging learners with the complex, long-term trade-offs of forest management remains strikingly underdeveloped. Addressing this gap, we investigate how forest growth simulation data can inform decision-making through information visualization and gameplay mechanics. We designed a serious game, SIMA-Play, that enables players to make informed forest management decisions under dynamic environmental and market conditions, simulating forest growth over time and comparing player performance across economic and sustainability out",
+      "summary_fr": "Board games have shown promise as educational tools, but their use in engaging learners with the complex, long-term trade-offs of forest management remains strikingly underdeveloped. Addressing this gap, we investigate how forest growth simulation data can inform decision-making through information visualization and gameplay mechanics. We designed a serious game, SIMA-Play, that enables players to make informed forest management decisions under dynamic environmental and market conditions, simulating forest growth over time and comparing player performance across economic and sustainability out",
+      "resume_fr": "Board games have shown promise as educational tools, but their use in engaging learners with the complex, long-term trade-offs of forest management remains strikingly underdeveloped. Addressing this gap, we investigate how forest growth simulation data can inform decision-making through information visualization and gameplay mechanics. We designed a serious game, SIMA-Play, that enables players to make informed forest management decisions under dynamic environmental and market conditions, simulating forest growth over time and comparing player performance across economic and sustainability out",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Artificial Intelligence and Cost Reduction in Public Higher Education: A Scoping Review of Emerging Evidence",
+      "url": "https://arxiv.org/abs/2604.04741v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-06T15:07:54.000Z",
+      "score": 50,
+      "summary_en": "Public higher education systems face increasing financial pressures from expanding student populations, rising operational costs, and persistent demands for equitable access. Artificial Intelligence (AI), including generative tools such as ChatGPT, learning analytics, intelligent tutoring systems, and predictive models, has been proposed as a means of enhancing efficiency and reducing costs. This study conducts a scoping review of the literature on AI applications in public higher education, based on systematic searches in Scopus and IEEE Xplore that identified 241 records, of which 21 empiric",
+      "summary_fr": "Public higher education systems face increasing financial pressures from expanding student populations, rising operational costs, and persistent demands for equitable access. Artificial Intelligence (AI), including generative tools such as ChatGPT, learning analytics, intelligent tutoring systems, and predictive models, has been proposed as a means of enhancing efficiency and reducing costs. This study conducts a scoping review of the literature on AI applications in public higher education, based on systematic searches in Scopus and IEEE Xplore that identified 241 records, of which 21 empiric",
+      "resume_fr": "Public higher education systems face increasing financial pressures from expanding student populations, rising operational costs, and persistent demands for equitable access. Artificial Intelligence (AI), including generative tools such as ChatGPT, learning analytics, intelligent tutoring systems, and predictive models, has been proposed as a means of enhancing efficiency and reducing costs. This study conducts a scoping review of the literature on AI applications in public higher education, based on systematic searches in Scopus and IEEE Xplore that identified 241 records, of which 21 empiric",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "A Multi-Agent Framework for Democratizing XR Content Creation in K-12 Classrooms",
+      "url": "https://arxiv.org/abs/2604.04728v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-06T14:54:00.000Z",
+      "score": 85,
+      "summary_en": "Generative AI (GenAI) combined with Extended Reality (XR) offers potential for K-12 education, yet classroom adoption remains limited by the high technical barrier of XR content authoring. Moreover, the probabilistic nature of GenAI introduces risks of hallucination that may cause severe consequences in K-12 education settings. In this work, we present a multi-agent XR authoring framework. Our prototype system coordinates four specialized agents: a Pedagogical Agent outlining grade-appropriate content specifications with learning objectives; an Execution Agent assembling 3D assets and XR conte",
+      "summary_fr": "Generative AI (GenAI) combined with Extended Reality (XR) offers potential for K-12 education, yet classroom adoption remains limited by the high technical barrier of XR content authoring. Moreover, the probabilistic nature of GenAI introduces risks of hallucination that may cause severe consequences in K-12 education settings. In this work, we present a multi-agent XR authoring framework. Our prototype system coordinates four specialized agents: a Pedagogical Agent outlining grade-appropriate content specifications with learning objectives; an Execution Agent assembling 3D assets and XR conte",
+      "resume_fr": "Generative AI (GenAI) combined with Extended Reality (XR) offers potential for K-12 education, yet classroom adoption remains limited by the high technical barrier of XR content authoring. Moreover, the probabilistic nature of GenAI introduces risks of hallucination that may cause severe consequences in K-12 education settings. In this work, we present a multi-agent XR authoring framework. Our prototype system coordinates four specialized agents: a Pedagogical Agent outlining grade-appropriate content specifications with learning objectives; an Execution Agent assembling 3D assets and XR conte",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Computational Analysis of Speech Clarity Predicts Audience Engagement in TED Talks",
+      "url": "https://arxiv.org/abs/2604.04583v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-06T10:37:14.000Z",
+      "score": 50,
+      "summary_en": "What makes a public talk resonate with large audiences? While prior research has emphasized speaker delivery or topic novelty, we reasoned that a core driver of engagement is linguistic clarity. This aligns with theories of processing fluency and cognitive load, which posit that audiences reward speakers who present complex ideas accessibly. We leveraged artificial intelligence to analyze 1,239 TED Talk transcripts (2006--2013), supplemented by a later-phase longitudinal sample. Each transcript was evaluated across 50 independent large language model runs on two dimensions, clarity of explanat",
+      "summary_fr": "What makes a public talk resonate with large audiences? While prior research has emphasized speaker delivery or topic novelty, we reasoned that a core driver of engagement is linguistic clarity. This aligns with theories of processing fluency and cognitive load, which posit that audiences reward speakers who present complex ideas accessibly. We leveraged artificial intelligence to analyze 1,239 TED Talk transcripts (2006--2013), supplemented by a later-phase longitudinal sample. Each transcript was evaluated across 50 independent large language model runs on two dimensions, clarity of explanat",
+      "resume_fr": "What makes a public talk resonate with large audiences? While prior research has emphasized speaker delivery or topic novelty, we reasoned that a core driver of engagement is linguistic clarity. This aligns with theories of processing fluency and cognitive load, which posit that audiences reward speakers who present complex ideas accessibly. We leveraged artificial intelligence to analyze 1,239 TED Talk transcripts (2006--2013), supplemented by a later-phase longitudinal sample. Each transcript was evaluated across 50 independent large language model runs on two dimensions, clarity of explanat",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Scalable and Explainable Learner-Video Interaction Prediction using Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2604.04482v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-06T07:12:46.000Z",
+      "score": 85,
+      "summary_en": "Learners' use of video controls in educational videos provides implicit signals of cognitive processing and instructional design quality, yet the lack of scalable and explainable predictive models limits instructors' ability to anticipate such behavior before deployment. We propose a scalable, interpretable pipeline for predicting population-level watching, pausing, skipping, and rewinding behavior as proxies for cognitive load from video content alone. Our approach leverages multimodal large language models (MLLMs) to compute embeddings of short video segments and trains a neural classifier t",
+      "summary_fr": "Learners' use of video controls in educational videos provides implicit signals of cognitive processing and instructional design quality, yet the lack of scalable and explainable predictive models limits instructors' ability to anticipate such behavior before deployment. We propose a scalable, interpretable pipeline for predicting population-level watching, pausing, skipping, and rewinding behavior as proxies for cognitive load from video content alone. Our approach leverages multimodal large language models (MLLMs) to compute embeddings of short video segments and trains a neural classifier t",
+      "resume_fr": "Learners' use of video controls in educational videos provides implicit signals of cognitive processing and instructional design quality, yet the lack of scalable and explainable predictive models limits instructors' ability to anticipate such behavior before deployment. We propose a scalable, interpretable pipeline for predicting population-level watching, pausing, skipping, and rewinding behavior as proxies for cognitive load from video content alone. Our approach leverages multimodal large language models (MLLMs) to compute embeddings of short video segments and trains a neural classifier t",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "Learning to adaptively cooperate through social interactions during childhood and adolescence",
       "url": "https://www.nature.com/articles/s41539-026-00423-9",
@@ -1092,139 +1225,6 @@
       "summary_en": "Retrieval-augmented generation (RAG) systems are increasingly used to analyze complex policy documents, but achieving sufficient reliability for expert usage remains challenging in domains characterized by dense legal language and evolving, overlapping regulatory frameworks. We study the application of RAG to AI governance and policy analysis using the AI Governance and Regulatory Archive (AGORA) corpus, a curated collection of 947 AI policy documents. Our system combines a ColBERT-based retriever fine-tuned with contrastive learning and a generator aligned to human preferences using Direct Pr",
       "summary_fr": "Retrieval-augmented generation (RAG) systems are increasingly used to analyze complex policy documents, but achieving sufficient reliability for expert usage remains challenging in domains characterized by dense legal language and evolving, overlapping regulatory frameworks. We study the application of RAG to AI governance and policy analysis using the AI Governance and Regulatory Archive (AGORA) corpus, a curated collection of 947 AI policy documents. Our system combines a ColBERT-based retriever fine-tuned with contrastive learning and a generator aligned to human preferences using Direct Pr",
       "resume_fr": "Retrieval-augmented generation (RAG) systems are increasingly used to analyze complex policy documents, but achieving sufficient reliability for expert usage remains challenging in domains characterized by dense legal language and evolving, overlapping regulatory frameworks. We study the application of RAG to AI governance and policy analysis using the AI Governance and Regulatory Archive (AGORA) corpus, a curated collection of 947 AI policy documents. Our system combines a ColBERT-based retriever fine-tuned with contrastive learning and a generator aligned to human preferences using Direct Pr",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "A Sociolinguistic Analysis of Automatic Speech Recognition Bias in Newcastle English",
-      "url": "https://arxiv.org/abs/2603.24549v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-25T17:24:47.000Z",
-      "score": 50,
-      "summary_en": "Automatic Speech Recognition (ASR) systems are widely used in everyday communication, education, healthcare, and industry, yet their performance remains uneven across speakers, particularly when dialectal variation diverges from the mainstream accents represented in training data. This study investigates ASR bias through a sociolinguistic analysis of Newcastle English, a regional variety of North-East England that has been shown to challenge current speech recognition technologies. Using spontaneous speech from the Diachronic Electronic Corpus of Tyneside English (DECTE), we evaluate the outpu",
-      "summary_fr": "Automatic Speech Recognition (ASR) systems are widely used in everyday communication, education, healthcare, and industry, yet their performance remains uneven across speakers, particularly when dialectal variation diverges from the mainstream accents represented in training data. This study investigates ASR bias through a sociolinguistic analysis of Newcastle English, a regional variety of North-East England that has been shown to challenge current speech recognition technologies. Using spontaneous speech from the Diachronic Electronic Corpus of Tyneside English (DECTE), we evaluate the outpu",
-      "resume_fr": "Automatic Speech Recognition (ASR) systems are widely used in everyday communication, education, healthcare, and industry, yet their performance remains uneven across speakers, particularly when dialectal variation diverges from the mainstream accents represented in training data. This study investigates ASR bias through a sociolinguistic analysis of Newcastle English, a regional variety of North-East England that has been shown to challenge current speech recognition technologies. Using spontaneous speech from the Diachronic Electronic Corpus of Tyneside English (DECTE), we evaluate the outpu",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Robust Multilingual Text-to-Pictogram Mapping for Scalable Reading Rehabilitation",
-      "url": "https://arxiv.org/abs/2603.24536v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-25T17:12:14.000Z",
-      "score": 50,
-      "summary_en": "Reading comprehension presents a significant challenge for children with Special Educational Needs and Disabilities (SEND), often requiring intensive one-on-one reading support. To assist therapists in scaling this support, we developed a multilingual, AI-powered interface that automatically enhances text with visual scaffolding. This system dynamically identifies key concepts and maps them to contextually relevant pictograms, supporting learners across languages. We evaluated the system across five typologically diverse languages (English, French, Italian, Spanish, and Arabic), through multil",
-      "summary_fr": "Reading comprehension presents a significant challenge for children with Special Educational Needs and Disabilities (SEND), often requiring intensive one-on-one reading support. To assist therapists in scaling this support, we developed a multilingual, AI-powered interface that automatically enhances text with visual scaffolding. This system dynamically identifies key concepts and maps them to contextually relevant pictograms, supporting learners across languages. We evaluated the system across five typologically diverse languages (English, French, Italian, Spanish, and Arabic), through multil",
-      "resume_fr": "Reading comprehension presents a significant challenge for children with Special Educational Needs and Disabilities (SEND), often requiring intensive one-on-one reading support. To assist therapists in scaling this support, we developed a multilingual, AI-powered interface that automatically enhances text with visual scaffolding. This system dynamically identifies key concepts and maps them to contextually relevant pictograms, supporting learners across languages. We evaluated the system across five typologically diverse languages (English, French, Italian, Spanish, and Arabic), through multil",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "No Single Metric Tells the Whole Story: A Multi-Dimensional Evaluation Framework for Uncertainty Attributions",
-      "url": "https://arxiv.org/abs/2603.24524v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-03-25T17:02:13.000Z",
-      "score": 70,
-      "summary_en": "Research on explainable AI (XAI) has frequently focused on explaining model predictions. More recently, methods have been proposed to explain prediction uncertainty by attributing it to input features (uncertainty attributions). However, the evaluation of these methods remains inconsistent as studies rely on heterogeneous proxy tasks and metrics, hindering comparability. We address this by aligning uncertainty attributions with the well-established Co-12 framework for XAI evaluation. We propose concrete implementations for the correctness, consistency, continuity, and compactness properties. A",
-      "summary_fr": "Research on explainable AI (XAI) has frequently focused on explaining model predictions. More recently, methods have been proposed to explain prediction uncertainty by attributing it to input features (uncertainty attributions). However, the evaluation of these methods remains inconsistent as studies rely on heterogeneous proxy tasks and metrics, hindering comparability. We address this by aligning uncertainty attributions with the well-established Co-12 framework for XAI evaluation. We propose concrete implementations for the correctness, consistency, continuity, and compactness properties. A",
-      "resume_fr": "Research on explainable AI (XAI) has frequently focused on explaining model predictions. More recently, methods have been proposed to explain prediction uncertainty by attributing it to input features (uncertainty attributions). However, the evaluation of these methods remains inconsistent as studies rely on heterogeneous proxy tasks and metrics, hindering comparability. We address this by aligning uncertainty attributions with the well-established Co-12 framework for XAI evaluation. We propose concrete implementations for the correctness, consistency, continuity, and compactness properties. A",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "When AI Meets Early Childhood Education: Large Language Models as Assessment Teammates in Chinese Preschools",
-      "url": "https://arxiv.org/abs/2603.24389v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-25T15:05:34.000Z",
-      "score": 50,
-      "summary_en": "High-quality teacher-child interaction (TCI) is fundamental to early childhood development, yet traditional expert-based assessment faces a critical scalability challenge. In large systems like China's-serving 36 million children across 250,000+ kindergartens-the cost and time requirements of manual observation make continuous quality monitoring infeasible, relegating assessment to infrequent episodic audits that limit timely intervention and improvement tracking. In this paper, we investigate whether AI can serve as a scalable assessment teammate by extracting structured quality indicators an",
-      "summary_fr": "High-quality teacher-child interaction (TCI) is fundamental to early childhood development, yet traditional expert-based assessment faces a critical scalability challenge. In large systems like China's-serving 36 million children across 250,000+ kindergartens-the cost and time requirements of manual observation make continuous quality monitoring infeasible, relegating assessment to infrequent episodic audits that limit timely intervention and improvement tracking. In this paper, we investigate whether AI can serve as a scalable assessment teammate by extracting structured quality indicators an",
-      "resume_fr": "High-quality teacher-child interaction (TCI) is fundamental to early childhood development, yet traditional expert-based assessment faces a critical scalability challenge. In large systems like China's-serving 36 million children across 250,000+ kindergartens-the cost and time requirements of manual observation make continuous quality monitoring infeasible, relegating assessment to infrequent episodic audits that limit timely intervention and improvement tracking. In this paper, we investigate whether AI can serve as a scalable assessment teammate by extracting structured quality indicators an",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Are U.S. Engineering Ph.D. Programs Losing Students?",
-      "url": "https://spectrum.ieee.org/us-engineering-phd-enrollment-drop",
-      "source": "IEEE Spectrum – AI",
-      "published": "2026-03-25T13:00:05.000Z",
-      "score": 50,
-      "summary_en": "U.S. doctoral programs in electrical engineering form the foundation of technological advancement, training the brightest minds in the world to research, develop, and design next-generation electronics, software, electrical infrastructure, and other high-tech products and systems. Elite institutions have long served as launchpads for the engineers behind tomorrow’s technology. Now that foundation is under strain. With U.S. universities increasingly entangled in political battles under the second Trump administration, uncertainty is beginning to ripple through doctoral admissions for electrical",
-      "summary_fr": "U.S. doctoral programs in electrical engineering form the foundation of technological advancement, training the brightest minds in the world to research, develop, and design next-generation electronics, software, electrical infrastructure, and other high-tech products and systems. Elite institutions have long served as launchpads for the engineers behind tomorrow’s technology. Now that foundation is under strain. With U.S. universities increasingly entangled in political battles under the second Trump administration, uncertainty is beginning to ripple through doctoral admissions for electrical",
-      "resume_fr": "U.S. doctoral programs in electrical engineering form the foundation of technological advancement, training the brightest minds in the world to research, develop, and design next-generation electronics, software, electrical infrastructure, and other high-tech products and systems. Elite institutions have long served as launchpads for the engineers behind tomorrow’s technology. Now that foundation is under strain. With U.S. universities increasingly entangled in political battles under the second Trump administration, uncertainty is beginning to ripple through doctoral admissions for electrical",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
-    },
-    {
-      "title": "From Untamed Black Box to Interpretable Pedagogical Orchestration: The Ensemble of Specialized LLMs Architecture for Adaptive Tutoring",
-      "url": "https://arxiv.org/abs/2603.23990v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-25T06:38:19.000Z",
-      "score": 50,
-      "summary_en": "Monolithic Large Language Models (LLMs) used in educational dialogue often behave as \"black boxes,\" where pedagogical decisions are implicit and difficult to audit, frequently violating instructional constraints by providing answers too early. We introduce the Ensemble of Specialized LLMS (ES-LLMS) architecture that separates decision-making from wording. Pedagogical actions are selected by a deterministic rules-based orchestrator coordinating specialized agents covering tutoring, assessment, feedback, scaffolding, motivation and ethics-guided by an interpretable Bayesian Knowledge Tracing (BK",
-      "summary_fr": "Monolithic Large Language Models (LLMs) used in educational dialogue often behave as \"black boxes,\" where pedagogical decisions are implicit and difficult to audit, frequently violating instructional constraints by providing answers too early. We introduce the Ensemble of Specialized LLMS (ES-LLMS) architecture that separates decision-making from wording. Pedagogical actions are selected by a deterministic rules-based orchestrator coordinating specialized agents covering tutoring, assessment, feedback, scaffolding, motivation and ethics-guided by an interpretable Bayesian Knowledge Tracing (BK",
-      "resume_fr": "Monolithic Large Language Models (LLMs) used in educational dialogue often behave as \"black boxes,\" where pedagogical decisions are implicit and difficult to audit, frequently violating instructional constraints by providing answers too early. We introduce the Ensemble of Specialized LLMS (ES-LLMS) architecture that separates decision-making from wording. Pedagogical actions are selected by a deterministic rules-based orchestrator coordinating specialized agents covering tutoring, assessment, feedback, scaffolding, motivation and ethics-guided by an interpretable Bayesian Knowledge Tracing (BK",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions",
-      "url": "https://arxiv.org/abs/2603.23495v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-03-24T17:58:17.000Z",
-      "score": 70,
-      "summary_en": "Existing approaches for improving the efficiency of Large Vision-Language Models (LVLMs) are largely based on the concept of visual token reduction. This approach, however, creates an information bottleneck that impairs performance, especially on challenging tasks that require fine-grained understanding and reasoning. In this work, we challenge this paradigm by introducing VISion On Request (VISOR), a method that reduces inference cost without discarding visual information. Instead of compressing the image, VISOR improves efficiency by sparsifying the interaction between image and text tokens.",
-      "summary_fr": "Existing approaches for improving the efficiency of Large Vision-Language Models (LVLMs) are largely based on the concept of visual token reduction. This approach, however, creates an information bottleneck that impairs performance, especially on challenging tasks that require fine-grained understanding and reasoning. In this work, we challenge this paradigm by introducing VISion On Request (VISOR), a method that reduces inference cost without discarding visual information. Instead of compressing the image, VISOR improves efficiency by sparsifying the interaction between image and text tokens.",
-      "resume_fr": "Existing approaches for improving the efficiency of Large Vision-Language Models (LVLMs) are largely based on the concept of visual token reduction. This approach, however, creates an information bottleneck that impairs performance, especially on challenging tasks that require fine-grained understanding and reasoning. In this work, we challenge this paradigm by introducing VISion On Request (VISOR), a method that reduces inference cost without discarding visual information. Instead of compressing the image, VISOR improves efficiency by sparsifying the interaction between image and text tokens.",
       "tags": [],
       "breakdown": {
         "research": 35,
