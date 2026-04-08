@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T07:47:20.579Z",
+  "generatedAt": "2026-04-08T07:51:09.307Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,158 @@
     }
   },
   "items": [
+    {
+      "title": "Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework",
+      "url": "https://arxiv.org/abs/2604.06170v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-04-07T17:59:58.000Z",
+      "score": 70,
+      "summary_en": "The rapid growth of scientific literature has made it increasingly difficult for researchers to efficiently discover, evaluate, and synthesize relevant work. Recent advances in multi-agent large language models (LLMs) have demonstrated strong potential for understanding user intent and are being trained to utilize various tools. In this paper, we introduce Paper Circle, a multi-agent research discovery and analysis system designed to reduce the effort required to find, assess, organize, and understand academic literature. The system comprises two complementary pipelines: (1) a Discovery Pipeli",
+      "summary_fr": "The rapid growth of scientific literature has made it increasingly difficult for researchers to efficiently discover, evaluate, and synthesize relevant work. Recent advances in multi-agent large language models (LLMs) have demonstrated strong potential for understanding user intent and are being trained to utilize various tools. In this paper, we introduce Paper Circle, a multi-agent research discovery and analysis system designed to reduce the effort required to find, assess, organize, and understand academic literature. The system comprises two complementary pipelines: (1) a Discovery Pipeli",
+      "resume_fr": "The rapid growth of scientific literature has made it increasingly difficult for researchers to efficiently discover, evaluate, and synthesize relevant work. Recent advances in multi-agent large language models (LLMs) have demonstrated strong potential for understanding user intent and are being trained to utilize various tools. In this paper, we introduce Paper Circle, a multi-agent research discovery and analysis system designed to reduce the effort required to find, assess, organize, and understand academic literature. The system comprises two complementary pipelines: (1) a Discovery Pipeli",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Topological Characterization of Churn Flow and Unsupervised Correction to the Wu Flow-Regime Map in Small-Diameter Vertical Pipes",
+      "url": "https://arxiv.org/abs/2604.06167v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-04-07T17:59:15.000Z",
+      "score": 70,
+      "summary_en": "Churn flow-the chaotic, oscillatory regime in vertical two-phase flow-has lacked a quantitative mathematical definition for over $40$ years. We introduce the first topology-based characterization using Euler Characteristic Surfaces (ECS). We formulate unsupervised regime discovery as Multiple Kernel Learning (MKL), blending two complementary ECS-derived kernels-temporal alignment ($L^1$ distance on the $χ(s,t)$ surface) and amplitude statistics (scale-wise mean, standard deviation, max, min)-with gas velocity. Applied to $37$ unlabeled air-water trials from Montana Tech, the self-calibrating f",
+      "summary_fr": "Churn flow-the chaotic, oscillatory regime in vertical two-phase flow-has lacked a quantitative mathematical definition for over $40$ years. We introduce the first topology-based characterization using Euler Characteristic Surfaces (ECS). We formulate unsupervised regime discovery as Multiple Kernel Learning (MKL), blending two complementary ECS-derived kernels-temporal alignment ($L^1$ distance on the $χ(s,t)$ surface) and amplitude statistics (scale-wise mean, standard deviation, max, min)-with gas velocity. Applied to $37$ unlabeled air-water trials from Montana Tech, the self-calibrating f",
+      "resume_fr": "Churn flow-the chaotic, oscillatory regime in vertical two-phase flow-has lacked a quantitative mathematical definition for over $40$ years. We introduce the first topology-based characterization using Euler Characteristic Surfaces (ECS). We formulate unsupervised regime discovery as Multiple Kernel Learning (MKL), blending two complementary ECS-derived kernels-temporal alignment ($L^1$ distance on the $χ(s,t)$ surface) and amplitude statistics (scale-wise mean, standard deviation, max, min)-with gas velocity. Applied to $37$ unlabeled air-water trials from Montana Tech, the self-calibrating f",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "The Character Error Vector: Decomposable errors for page-level OCR evaluation",
+      "url": "https://arxiv.org/abs/2604.06160v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-04-07T17:56:06.000Z",
+      "score": 70,
+      "summary_en": "The Character Error Rate (CER) is a key metric for evaluating the quality of Optical Character Recognition (OCR). However, this metric assumes that text has been perfectly parsed, which is often not the case. Under page-parsing errors, CER becomes undefined, limiting its use as a metric and making evaluating page-level OCR challenging, particularly when using data that do not share a labelling schema. We introduce the Character Error Vector (CEV), a bag-of-characters evaluator for OCR. The CEV can be decomposed into parsing and OCR, and interaction error components. This decomposability allows",
+      "summary_fr": "The Character Error Rate (CER) is a key metric for evaluating the quality of Optical Character Recognition (OCR). However, this metric assumes that text has been perfectly parsed, which is often not the case. Under page-parsing errors, CER becomes undefined, limiting its use as a metric and making evaluating page-level OCR challenging, particularly when using data that do not share a labelling schema. We introduce the Character Error Vector (CEV), a bag-of-characters evaluator for OCR. The CEV can be decomposed into parsing and OCR, and interaction error components. This decomposability allows",
+      "resume_fr": "The Character Error Rate (CER) is a key metric for evaluating the quality of Optical Character Recognition (OCR). However, this metric assumes that text has been perfectly parsed, which is often not the case. Under page-parsing errors, CER becomes undefined, limiting its use as a metric and making evaluating page-level OCR challenging, particularly when using data that do not share a labelling schema. We introduce the Character Error Vector (CEV), a bag-of-characters evaluator for OCR. The CEV can be decomposed into parsing and OCR, and interaction error components. This decomposability allows",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Target Policy Optimization",
+      "url": "https://arxiv.org/abs/2604.06159v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-04-07T17:55:59.000Z",
+      "score": 70,
+      "summary_en": "In RL, given a prompt, we sample a group of completions from a model and score them. Two questions follow: which completions should gain probability mass, and how should the parameters move to realize that change? Standard policy-gradient methods answer both at once, so the update can overshoot or undershoot depending on the learning rate, clipping, and other optimizer choices. We introduce \\emph{Target Policy Optimization} (TPO), which separates the two questions. Given scored completions, TPO constructs a target distribution $q_i \\propto p_i^{\\,\\mathrm{old}} \\exp(u_i)$ and fits the policy to",
+      "summary_fr": "In RL, given a prompt, we sample a group of completions from a model and score them. Two questions follow: which completions should gain probability mass, and how should the parameters move to realize that change? Standard policy-gradient methods answer both at once, so the update can overshoot or undershoot depending on the learning rate, clipping, and other optimizer choices. We introduce \\emph{Target Policy Optimization} (TPO), which separates the two questions. Given scored completions, TPO constructs a target distribution $q_i \\propto p_i^{\\,\\mathrm{old}} \\exp(u_i)$ and fits the policy to",
+      "resume_fr": "In RL, given a prompt, we sample a group of completions from a model and score them. Two questions follow: which completions should gain probability mass, and how should the parameters move to realize that change? Standard policy-gradient methods answer both at once, so the update can overshoot or undershoot depending on the learning rate, clipping, and other optimizer choices. We introduce \\emph{Target Policy Optimization} (TPO), which separates the two questions. Given scored completions, TPO constructs a target distribution $q_i \\propto p_i^{\\,\\mathrm{old}} \\exp(u_i)$ and fits the policy to",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Understanding Educators' Perceptions of AI-generated Non-consensual Intimate Imagery",
+      "url": "https://arxiv.org/abs/2604.06131v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-07T17:41:22.000Z",
+      "score": 50,
+      "summary_en": "AI-generated non-consensual intimate imagery (AIG-NCII) is an emerging social problem due to the advancement of AI tools. While recent incidents in middle and high schools have highlighted the urgency of this issue, there is limited understanding of what concrete supports schools need to effectively address AIG-NCII. To fill this gap, we conducted an interview study with 20 educators in the U.S. and investigated their attitudes, experiences, and practices related to AIG-NCII. Educators expressed concerns about both students' and their own vulnerability, as AIG-NCII may cause moral decline amon",
+      "summary_fr": "AI-generated non-consensual intimate imagery (AIG-NCII) is an emerging social problem due to the advancement of AI tools. While recent incidents in middle and high schools have highlighted the urgency of this issue, there is limited understanding of what concrete supports schools need to effectively address AIG-NCII. To fill this gap, we conducted an interview study with 20 educators in the U.S. and investigated their attitudes, experiences, and practices related to AIG-NCII. Educators expressed concerns about both students' and their own vulnerability, as AIG-NCII may cause moral decline amon",
+      "resume_fr": "AI-generated non-consensual intimate imagery (AIG-NCII) is an emerging social problem due to the advancement of AI tools. While recent incidents in middle and high schools have highlighted the urgency of this issue, there is limited understanding of what concrete supports schools need to effectively address AIG-NCII. To fill this gap, we conducted an interview study with 20 educators in the U.S. and investigated their attitudes, experiences, and practices related to AIG-NCII. Educators expressed concerns about both students' and their own vulnerability, as AIG-NCII may cause moral decline amon",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Designing Around Stigma: Human-Centered LLMs for Menstrual Health",
+      "url": "https://arxiv.org/abs/2604.06008v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-07T16:01:52.000Z",
+      "score": 50,
+      "summary_en": "Menstrual health education (MHE) in Pakistan is constrained by cultural taboos and inadequate formal curricula, leaving women with few trusted resources to lean on. In response to these challenges, we introduce a WhatsApp-based chatbot powered by a large language model (LLM) and Retrieval Augmented Generation (RAG), co-designed with Pakistani college women. Workshops (N=30) revealed key design requirements -- support for Roman Urdu, use of subsidized platforms, and an expert -- curated knowledge base. We then deployed the chatbot with 13 participants for two weeks (403 messages and interviews)",
+      "summary_fr": "Menstrual health education (MHE) in Pakistan is constrained by cultural taboos and inadequate formal curricula, leaving women with few trusted resources to lean on. In response to these challenges, we introduce a WhatsApp-based chatbot powered by a large language model (LLM) and Retrieval Augmented Generation (RAG), co-designed with Pakistani college women. Workshops (N=30) revealed key design requirements -- support for Roman Urdu, use of subsidized platforms, and an expert -- curated knowledge base. We then deployed the chatbot with 13 participants for two weeks (403 messages and interviews)",
+      "resume_fr": "Menstrual health education (MHE) in Pakistan is constrained by cultural taboos and inadequate formal curricula, leaving women with few trusted resources to lean on. In response to these challenges, we introduce a WhatsApp-based chatbot powered by a large language model (LLM) and Retrieval Augmented Generation (RAG), co-designed with Pakistani college women. Workshops (N=30) revealed key design requirements -- support for Roman Urdu, use of subsidized platforms, and an expert -- curated knowledge base. We then deployed the chatbot with 13 participants for two weeks (403 messages and interviews)",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "INTERACT: An AI-Driven Extended Reality Framework for Accesible Communication Featuring Real-Time Sign Language Interpretation and Emotion Recognition",
+      "url": "https://arxiv.org/abs/2604.05605v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-07T08:56:53.000Z",
+      "score": 85,
+      "summary_en": "Video conferencing has become central to professional collaboration, yet most platforms offer limited support for deaf, hard-of-hearing, and multilingual users. The World Health Organisation estimates that over 430 million people worldwide require rehabilitation for disabling hearing loss, a figure projected to exceed 700 million by 2050. Conventional accessibility measures remain constrained by high costs, limited availability, and logistical barriers, while Extended Reality (XR) technologies open new possibilities for immersive and inclusive communication. This paper presents INTERACT (Inclu",
+      "summary_fr": "Video conferencing has become central to professional collaboration, yet most platforms offer limited support for deaf, hard-of-hearing, and multilingual users. The World Health Organisation estimates that over 430 million people worldwide require rehabilitation for disabling hearing loss, a figure projected to exceed 700 million by 2050. Conventional accessibility measures remain constrained by high costs, limited availability, and logistical barriers, while Extended Reality (XR) technologies open new possibilities for immersive and inclusive communication. This paper presents INTERACT (Inclu",
+      "resume_fr": "Video conferencing has become central to professional collaboration, yet most platforms offer limited support for deaf, hard-of-hearing, and multilingual users. The World Health Organisation estimates that over 430 million people worldwide require rehabilitation for disabling hearing loss, a figure projected to exceed 700 million by 2050. Conventional accessibility measures remain constrained by high costs, limited availability, and logistical barriers, while Extended Reality (XR) technologies open new possibilities for immersive and inclusive communication. This paper presents INTERACT (Inclu",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Investigating Ethical Data Communication with Purrsuasion: An Educational Game about Negotiated Data Disclosure",
+      "url": "https://arxiv.org/abs/2604.05200v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-06T21:57:07.000Z",
+      "score": 85,
+      "summary_en": "Data communication entails ethical dilemmas where situational constraints forbid full disclosure of source data. Whereas visualization research and pedagogy often frames ethics as a matter of individuals making deceptive design choices or being misled, disclosure problems involve negotiation between pro-social actors. To provide observability into these situated judgments, we contribute Purrsuasion, an open-source visualization game where participants play the roles of (i) data providers designing visualizations subject to disclosure constraints and (ii) data seekers requesting information and",
+      "summary_fr": "Data communication entails ethical dilemmas where situational constraints forbid full disclosure of source data. Whereas visualization research and pedagogy often frames ethics as a matter of individuals making deceptive design choices or being misled, disclosure problems involve negotiation between pro-social actors. To provide observability into these situated judgments, we contribute Purrsuasion, an open-source visualization game where participants play the roles of (i) data providers designing visualizations subject to disclosure constraints and (ii) data seekers requesting information and",
+      "resume_fr": "Data communication entails ethical dilemmas where situational constraints forbid full disclosure of source data. Whereas visualization research and pedagogy often frames ethics as a matter of individuals making deceptive design choices or being misled, disclosure problems involve negotiation between pro-social actors. To provide observability into these situated judgments, we contribute Purrsuasion, an open-source visualization game where participants play the roles of (i) data providers designing visualizations subject to disclosure constraints and (ii) data seekers requesting information and",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "Beyond the Final Actor: Modeling the Dual Roles of Creator and Editor for Fine-Grained LLM-Generated Text Detection",
       "url": "https://arxiv.org/abs/2604.04932v1",
@@ -1081,158 +1233,6 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Agent Factories for High Level Synthesis: How Far Can General-Purpose Coding Agents Go in Hardware Optimization?",
-      "url": "https://arxiv.org/abs/2603.25719v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-03-26T17:57:50.000Z",
-      "score": 85,
-      "summary_en": "We present an empirical study of how far general-purpose coding agents -- without hardware-specific training -- can optimize hardware designs from high-level algorithmic specifications. We introduce an agent factory, a two-stage pipeline that constructs and coordinates multiple autonomous optimization agents. In Stage~1, the pipeline decomposes a design into sub-kernels, independently optimizes each using pragma and code-level transformations, and formulates an Integer Linear Program (ILP) to assemble globally promising configurations under an area constraint. In Stage~2, it launches $N$ exper",
-      "summary_fr": "We present an empirical study of how far general-purpose coding agents -- without hardware-specific training -- can optimize hardware designs from high-level algorithmic specifications. We introduce an agent factory, a two-stage pipeline that constructs and coordinates multiple autonomous optimization agents. In Stage~1, the pipeline decomposes a design into sub-kernels, independently optimizes each using pragma and code-level transformations, and formulates an Integer Linear Program (ILP) to assemble globally promising configurations under an area constraint. In Stage~2, it launches $N$ exper",
-      "resume_fr": "We present an empirical study of how far general-purpose coding agents -- without hardware-specific training -- can optimize hardware designs from high-level algorithmic specifications. We introduce an agent factory, a two-stage pipeline that constructs and coordinates multiple autonomous optimization agents. In Stage~1, the pipeline decomposes a design into sub-kernels, independently optimizes each using pragma and code-level transformations, and formulates an Integer Linear Program (ILP) to assemble globally promising configurations under an area constraint. In Stage~2, it launches $N$ exper",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "On Neural Scaling Laws for Weather Emulation through Continual Training",
-      "url": "https://arxiv.org/abs/2603.25687v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-03-26T17:37:25.000Z",
-      "score": 70,
-      "summary_en": "Neural scaling laws, which in some domains can predict the performance of large neural networks as a function of model, data, and compute scale, are the cornerstone of building foundation models in Natural Language Processing and Computer Vision. We study neural scaling in Scientific Machine Learning, focusing on models for weather forecasting. To analyze scaling behavior in as simple a setting as possible, we adopt a minimal, scalable, general-purpose Swin Transformer architecture, and we use continual training with constant learning rates and periodic cooldowns as an efficient training strat",
-      "summary_fr": "Neural scaling laws, which in some domains can predict the performance of large neural networks as a function of model, data, and compute scale, are the cornerstone of building foundation models in Natural Language Processing and Computer Vision. We study neural scaling in Scientific Machine Learning, focusing on models for weather forecasting. To analyze scaling behavior in as simple a setting as possible, we adopt a minimal, scalable, general-purpose Swin Transformer architecture, and we use continual training with constant learning rates and periodic cooldowns as an efficient training strat",
-      "resume_fr": "Neural scaling laws, which in some domains can predict the performance of large neural networks as a function of model, data, and compute scale, are the cornerstone of building foundation models in Natural Language Processing and Computer Vision. We study neural scaling in Scientific Machine Learning, focusing on models for weather forecasting. To analyze scaling behavior in as simple a setting as possible, we adopt a minimal, scalable, general-purpose Swin Transformer architecture, and we use continual training with constant learning rates and periodic cooldowns as an efficient training strat",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Measuring What Matters -- or What's Convenient?: Robustness of LLM-Based Scoring Systems to Construct-Irrelevant Factors",
-      "url": "https://arxiv.org/abs/2603.25674v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-26T17:29:20.000Z",
-      "score": 85,
-      "summary_en": "Automated systems have been widely adopted across the educational testing industry for open-response assessment and essay scoring. These systems commonly achieve performance levels comparable to or superior than trained human raters, but have frequently been demonstrated to be vulnerable to the influence of construct-irrelevant factors (i.e., features of responses that are unrelated to the construct assessed) and adversarial conditions. Given the rising usage of large language models in automated scoring systems, there is a renewed focus on ``hallucinations'' and the robustness of these LLM-ba",
-      "summary_fr": "Automated systems have been widely adopted across the educational testing industry for open-response assessment and essay scoring. These systems commonly achieve performance levels comparable to or superior than trained human raters, but have frequently been demonstrated to be vulnerable to the influence of construct-irrelevant factors (i.e., features of responses that are unrelated to the construct assessed) and adversarial conditions. Given the rising usage of large language models in automated scoring systems, there is a renewed focus on ``hallucinations'' and the robustness of these LLM-ba",
-      "resume_fr": "Automated systems have been widely adopted across the educational testing industry for open-response assessment and essay scoring. These systems commonly achieve performance levels comparable to or superior than trained human raters, but have frequently been demonstrated to be vulnerable to the influence of construct-irrelevant factors (i.e., features of responses that are unrelated to the construct assessed) and adversarial conditions. Given the rising usage of large language models in automated scoring systems, there is a renewed focus on ``hallucinations'' and the robustness of these LLM-ba",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Beyond Via: Analysis and Estimation of the Impact of Large Language Models in Academic Papers",
-      "url": "https://arxiv.org/abs/2603.25638v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-03-26T16:49:00.000Z",
-      "score": 70,
-      "summary_en": "Through an analysis of arXiv papers, we report several shifts in word usage that are likely driven by large language models (LLMs) but have not previously received sufficient attention, such as the increased frequency of \"beyond\" and \"via\" in titles and the decreased frequency of \"the\" and \"of\" in abstracts. Due to the similarities among different LLMs, experiments show that current classifiers struggle to accurately determine which specific model generated a given text in multi-class classification tasks. Meanwhile, variations across LLMs also result in evolving patterns of word usage in acad",
-      "summary_fr": "Through an analysis of arXiv papers, we report several shifts in word usage that are likely driven by large language models (LLMs) but have not previously received sufficient attention, such as the increased frequency of \"beyond\" and \"via\" in titles and the decreased frequency of \"the\" and \"of\" in abstracts. Due to the similarities among different LLMs, experiments show that current classifiers struggle to accurately determine which specific model generated a given text in multi-class classification tasks. Meanwhile, variations across LLMs also result in evolving patterns of word usage in acad",
-      "resume_fr": "Through an analysis of arXiv papers, we report several shifts in word usage that are likely driven by large language models (LLMs) but have not previously received sufficient attention, such as the increased frequency of \"beyond\" and \"via\" in titles and the decreased frequency of \"the\" and \"of\" in abstracts. Due to the similarities among different LLMs, experiments show that current classifiers struggle to accurately determine which specific model generated a given text in multi-class classification tasks. Meanwhile, variations across LLMs also result in evolving patterns of word usage in acad",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Is Mathematical Problem-Solving Expertise in Large Language Models Associated with Assessment Performance?",
-      "url": "https://arxiv.org/abs/2603.25633v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-26T16:43:54.000Z",
-      "score": 50,
-      "summary_en": "Large Language Models (LLMs) are increasingly used in math education not only as problem solvers but also as assessors of learners' reasoning. However, it remains unclear whether stronger math problem-solving ability is associated with stronger step-level assessment performance. This study examines that relationship using the GSM8K and MATH subsets of PROCESSBENCH, a human-annotated benchmark for identifying the earliest erroneous step in mathematical reasoning. We evaluate two LLM-based math tutor agent settings, instantiated with GPT-4 and GPT-5, in two independent tasks on the same math pro",
-      "summary_fr": "Large Language Models (LLMs) are increasingly used in math education not only as problem solvers but also as assessors of learners' reasoning. However, it remains unclear whether stronger math problem-solving ability is associated with stronger step-level assessment performance. This study examines that relationship using the GSM8K and MATH subsets of PROCESSBENCH, a human-annotated benchmark for identifying the earliest erroneous step in mathematical reasoning. We evaluate two LLM-based math tutor agent settings, instantiated with GPT-4 and GPT-5, in two independent tasks on the same math pro",
-      "resume_fr": "Large Language Models (LLMs) are increasingly used in math education not only as problem solvers but also as assessors of learners' reasoning. However, it remains unclear whether stronger math problem-solving ability is associated with stronger step-level assessment performance. This study examines that relationship using the GSM8K and MATH subsets of PROCESSBENCH, a human-annotated benchmark for identifying the earliest erroneous step in mathematical reasoning. We evaluate two LLM-based math tutor agent settings, instantiated with GPT-4 and GPT-5, in two independent tasks on the same math pro",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Visual or Textual: Effects of Explanation Format and Personal Characteristics on the Perception of Explanations in an Educational Recommender System",
-      "url": "https://arxiv.org/abs/2603.25624v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-26T16:37:13.000Z",
-      "score": 85,
-      "summary_en": "Explanations are central to improving transparency, trust, and user satisfaction in recommender systems (RS), yet it remains unclear how different explanation formats (visual vs. textual) are suited to users with different personal characteristics (PCs). To this end, we report a within-subject user study (n=54) comparing visual and textual explanations and examine how explanation format and PCs jointly influence perceived control, transparency, trust, and satisfaction in an educational recommender system (ERS). Using robust mixed-effects models, we analyze the moderating effects of a wide rang",
-      "summary_fr": "Explanations are central to improving transparency, trust, and user satisfaction in recommender systems (RS), yet it remains unclear how different explanation formats (visual vs. textual) are suited to users with different personal characteristics (PCs). To this end, we report a within-subject user study (n=54) comparing visual and textual explanations and examine how explanation format and PCs jointly influence perceived control, transparency, trust, and satisfaction in an educational recommender system (ERS). Using robust mixed-effects models, we analyze the moderating effects of a wide rang",
-      "resume_fr": "Explanations are central to improving transparency, trust, and user satisfaction in recommender systems (RS), yet it remains unclear how different explanation formats (visual vs. textual) are suited to users with different personal characteristics (PCs). To this end, we report a within-subject user study (n=54) comparing visual and textual explanations and examine how explanation format and PCs jointly influence perceived control, transparency, trust, and satisfaction in an educational recommender system (ERS). Using robust mixed-effects models, we analyze the moderating effects of a wide rang",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Efficient Detection of Bad Benchmark Items with Novel Scalability Coefficients",
-      "url": "https://arxiv.org/abs/2603.24999v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-26T03:47:49.000Z",
-      "score": 50,
-      "summary_en": "The validity of assessments, from large-scale AI benchmarks to human classrooms, depends on the quality of individual items, yet modern evaluation instruments often contain thousands of items with minimal psychometric vetting. We introduce a new family of nonparametric scalability coefficients based on interitem isotonic regression for efficiently detecting globally bad items (e.g., miskeyed, ambiguously worded, or construct-misaligned). The central contribution is the signed isotonic $R^2$, which measures the maximal proportion of variance in one item explainable by a monotone function of ano",
-      "summary_fr": "The validity of assessments, from large-scale AI benchmarks to human classrooms, depends on the quality of individual items, yet modern evaluation instruments often contain thousands of items with minimal psychometric vetting. We introduce a new family of nonparametric scalability coefficients based on interitem isotonic regression for efficiently detecting globally bad items (e.g., miskeyed, ambiguously worded, or construct-misaligned). The central contribution is the signed isotonic $R^2$, which measures the maximal proportion of variance in one item explainable by a monotone function of ano",
-      "resume_fr": "The validity of assessments, from large-scale AI benchmarks to human classrooms, depends on the quality of individual items, yet modern evaluation instruments often contain thousands of items with minimal psychometric vetting. We introduce a new family of nonparametric scalability coefficients based on interitem isotonic regression for efficiently detecting globally bad items (e.g., miskeyed, ambiguously worded, or construct-misaligned). The central contribution is the signed isotonic $R^2$, which measures the maximal proportion of variance in one item explainable by a monotone function of ano",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Retrieval Improvements Do Not Guarantee Better Answers: A Study of RAG for AI Policy QA",
-      "url": "https://arxiv.org/abs/2603.24580v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-03-25T17:54:39.000Z",
-      "score": 70,
-      "summary_en": "Retrieval-augmented generation (RAG) systems are increasingly used to analyze complex policy documents, but achieving sufficient reliability for expert usage remains challenging in domains characterized by dense legal language and evolving, overlapping regulatory frameworks. We study the application of RAG to AI governance and policy analysis using the AI Governance and Regulatory Archive (AGORA) corpus, a curated collection of 947 AI policy documents. Our system combines a ColBERT-based retriever fine-tuned with contrastive learning and a generator aligned to human preferences using Direct Pr",
-      "summary_fr": "Retrieval-augmented generation (RAG) systems are increasingly used to analyze complex policy documents, but achieving sufficient reliability for expert usage remains challenging in domains characterized by dense legal language and evolving, overlapping regulatory frameworks. We study the application of RAG to AI governance and policy analysis using the AI Governance and Regulatory Archive (AGORA) corpus, a curated collection of 947 AI policy documents. Our system combines a ColBERT-based retriever fine-tuned with contrastive learning and a generator aligned to human preferences using Direct Pr",
-      "resume_fr": "Retrieval-augmented generation (RAG) systems are increasingly used to analyze complex policy documents, but achieving sufficient reliability for expert usage remains challenging in domains characterized by dense legal language and evolving, overlapping regulatory frameworks. We study the application of RAG to AI governance and policy analysis using the AI Governance and Regulatory Archive (AGORA) corpus, a curated collection of 947 AI policy documents. Our system combines a ColBERT-based retriever fine-tuned with contrastive learning and a generator aligned to human preferences using Direct Pr",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
