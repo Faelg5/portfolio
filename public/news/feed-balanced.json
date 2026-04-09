@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T07:51:09.307Z",
+  "generatedAt": "2026-04-09T07:53:00.887Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,25 @@
     }
   },
   "items": [
+    {
+      "title": "Temple University Student Highlights IEEE Membership Perks",
+      "url": "https://spectrum.ieee.org/temple-university-student-membership-perks",
+      "source": "IEEE Spectrum – AI",
+      "published": "2026-04-07T18:00:02.000Z",
+      "score": 50,
+      "summary_en": "Kyle McGinley graduated from high school in 2018 and, like many teenagers, he was unsure what career he wanted to pursue. Recuperating from a sports injury led him to consider becoming a physical therapist for athletes. But he was skilled at repairing cars and fixing things around the house, so he thought about becoming an engineer, like his father. McGinley, who lives in Sellersville, Pa., took some classes at Montgomery County Community College in Blue Bell, while also working. During his years at the college, he took a variety of courses and was drawn to electrical engineering and computing",
+      "summary_fr": "Kyle McGinley graduated from high school in 2018 and, like many teenagers, he was unsure what career he wanted to pursue. Recuperating from a sports injury led him to consider becoming a physical therapist for athletes. But he was skilled at repairing cars and fixing things around the house, so he thought about becoming an engineer, like his father. McGinley, who lives in Sellersville, Pa., took some classes at Montgomery County Community College in Blue Bell, while also working. During his years at the college, he took a variety of courses and was drawn to electrical engineering and computing",
+      "resume_fr": "Kyle McGinley graduated from high school in 2018 and, like many teenagers, he was unsure what career he wanted to pursue. Recuperating from a sports injury led him to consider becoming a physical therapist for athletes. But he was skilled at repairing cars and fixing things around the house, so he thought about becoming an engineer, like his father. McGinley, who lives in Sellersville, Pa., took some classes at Montgomery County Community College in Blue Bell, while also working. During his years at the college, he took a variety of courses and was drawn to electrical engineering and computing",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
+    },
     {
       "title": "Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework",
       "url": "https://arxiv.org/abs/2604.06170v1",
@@ -1214,25 +1233,6 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "No Hard Negatives Required: Concept Centric Learning Leads to Compositionality without Degrading Zero-shot Capabilities of Contrastive Models",
-      "url": "https://arxiv.org/abs/2603.25722v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-03-26T17:58:04.000Z",
-      "score": 50,
-      "summary_en": "Contrastive vision-language (V&L) models remain a popular choice for various applications. However, several limitations have emerged, most notably the limited ability of V&L models to learn compositional representations. Prior methods often addressed this limitation by generating custom training data to obtain hard negative samples. Hard negatives have been shown to improve performance on compositionality tasks, but are often specific to a single benchmark, do not generalize, and can cause substantial degradation of basic V&L capabilities such as zero-shot or retrieval performance, rendering t",
-      "summary_fr": "Contrastive vision-language (V&L) models remain a popular choice for various applications. However, several limitations have emerged, most notably the limited ability of V&L models to learn compositional representations. Prior methods often addressed this limitation by generating custom training data to obtain hard negative samples. Hard negatives have been shown to improve performance on compositionality tasks, but are often specific to a single benchmark, do not generalize, and can cause substantial degradation of basic V&L capabilities such as zero-shot or retrieval performance, rendering t",
-      "resume_fr": "Contrastive vision-language (V&L) models remain a popular choice for various applications. However, several limitations have emerged, most notably the limited ability of V&L models to learn compositional representations. Prior methods often addressed this limitation by generating custom training data to obtain hard negative samples. Hard negatives have been shown to improve performance on compositionality tasks, but are often specific to a single benchmark, do not generalize, and can cause substantial degradation of basic V&L capabilities such as zero-shot or retrieval performance, rendering t",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
