@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T07:53:00.887Z",
+  "generatedAt": "2026-04-10T07:57:08.569Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,215 @@
     }
   },
   "items": [
+    {
+      "title": "Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts",
+      "url": "https://arxiv.org/abs/2604.08541v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-04-09T17:59:44.000Z",
+      "score": 70,
+      "summary_en": "Multimodal Mixture-of-Experts (MoE) models have achieved remarkable performance on vision-language tasks. However, we identify a puzzling phenomenon termed Seeing but Not Thinking: models accurately perceive image content yet fail in subsequent reasoning, while correctly solving identical problems presented as pure text. Through systematic analysis, we first verify that cross-modal semantic sharing exists in MoE architectures, ruling out semantic alignment failure as the sole explanation. We then reveal that visual experts and domain experts exhibit layer-wise separation, with image inputs ind",
+      "summary_fr": "Multimodal Mixture-of-Experts (MoE) models have achieved remarkable performance on vision-language tasks. However, we identify a puzzling phenomenon termed Seeing but Not Thinking: models accurately perceive image content yet fail in subsequent reasoning, while correctly solving identical problems presented as pure text. Through systematic analysis, we first verify that cross-modal semantic sharing exists in MoE architectures, ruling out semantic alignment failure as the sole explanation. We then reveal that visual experts and domain experts exhibit layer-wise separation, with image inputs ind",
+      "resume_fr": "Multimodal Mixture-of-Experts (MoE) models have achieved remarkable performance on vision-language tasks. However, we identify a puzzling phenomenon termed Seeing but Not Thinking: models accurately perceive image content yet fail in subsequent reasoning, while correctly solving identical problems presented as pure text. Through systematic analysis, we first verify that cross-modal semantic sharing exists in MoE architectures, ruling out semantic alignment failure as the sole explanation. We then reveal that visual experts and domain experts exhibit layer-wise separation, with image inputs ind",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Demystifying OPD: Length Inflation and Stabilization Strategies for Large Language Models",
+      "url": "https://arxiv.org/abs/2604.08527v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-04-09T17:58:02.000Z",
+      "score": 50,
+      "summary_en": "On-policy distillation (OPD) trains student models under their own induced distribution while leveraging supervision from stronger teachers. We identify a failure mode of OPD: as training progresses, on-policy rollouts can undergo abrupt length inflation, causing truncated trajectories to dominate the training data. This truncation collapse coincides with abrupt repetition saturation and induces biased gradient signals, leading to severe training instability and sharp degradation in validation performance. We attribute this problem to the interaction between student-induced data collection and",
+      "summary_fr": "On-policy distillation (OPD) trains student models under their own induced distribution while leveraging supervision from stronger teachers. We identify a failure mode of OPD: as training progresses, on-policy rollouts can undergo abrupt length inflation, causing truncated trajectories to dominate the training data. This truncation collapse coincides with abrupt repetition saturation and induces biased gradient signals, leading to severe training instability and sharp degradation in validation performance. We attribute this problem to the interaction between student-induced data collection and",
+      "resume_fr": "On-policy distillation (OPD) trains student models under their own induced distribution while leveraging supervision from stronger teachers. We identify a failure mode of OPD: as training progresses, on-policy rollouts can undergo abrupt length inflation, causing truncated trajectories to dominate the training data. This truncation collapse coincides with abrupt repetition saturation and induces biased gradient signals, leading to severe training instability and sharp degradation in validation performance. We attribute this problem to the interaction between student-induced data collection and",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "ClawBench: Can AI Agents Complete Everyday Online Tasks?",
+      "url": "https://arxiv.org/abs/2604.08523v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-04-09T17:57:13.000Z",
+      "score": 70,
+      "summary_en": "AI agents may be able to automate your inbox, but can they automate other routine aspects of your life? Everyday online tasks offer a realistic yet unsolved testbed for evaluating the next generation of AI agents. To this end, we introduce ClawBench, an evaluation framework of 153 simple tasks that people need to accomplish regularly in their lives and work, spanning 144 live platforms across 15 categories, from completing purchases and booking appointments to submitting job applications. These tasks require demanding capabilities beyond existing benchmarks, such as obtaining relevant informat",
+      "summary_fr": "AI agents may be able to automate your inbox, but can they automate other routine aspects of your life? Everyday online tasks offer a realistic yet unsolved testbed for evaluating the next generation of AI agents. To this end, we introduce ClawBench, an evaluation framework of 153 simple tasks that people need to accomplish regularly in their lives and work, spanning 144 live platforms across 15 categories, from completing purchases and booking appointments to submitting job applications. These tasks require demanding capabilities beyond existing benchmarks, such as obtaining relevant informat",
+      "resume_fr": "AI agents may be able to automate your inbox, but can they automate other routine aspects of your life? Everyday online tasks offer a realistic yet unsolved testbed for evaluating the next generation of AI agents. To this end, we introduce ClawBench, an evaluation framework of 153 simple tasks that people need to accomplish regularly in their lives and work, spanning 144 live platforms across 15 categories, from completing purchases and booking appointments to submitting job applications. These tasks require demanding capabilities beyond existing benchmarks, such as obtaining relevant informat",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "The Impact of Dimensionality on the Stability of Node Embeddings",
+      "url": "https://arxiv.org/abs/2604.08492v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-04-09T17:33:02.000Z",
+      "score": 70,
+      "summary_en": "Previous work has established that neural network-based node embeddings return different outcomes when trained with identical parameters on the same dataset, just from using different training seeds. Yet, it has not been thoroughly analyzed how key hyperparameters such as embedding dimension could impact this instability. In this work, we investigate how varying the dimensionality of node embeddings influences both their stability and downstream performance. We systematically evaluate five widely used methods -- ASNE, DGI, GraphSAGE, node2vec, and VERSE -- across multiple datasets and embeddin",
+      "summary_fr": "Previous work has established that neural network-based node embeddings return different outcomes when trained with identical parameters on the same dataset, just from using different training seeds. Yet, it has not been thoroughly analyzed how key hyperparameters such as embedding dimension could impact this instability. In this work, we investigate how varying the dimensionality of node embeddings influences both their stability and downstream performance. We systematically evaluate five widely used methods -- ASNE, DGI, GraphSAGE, node2vec, and VERSE -- across multiple datasets and embeddin",
+      "resume_fr": "Previous work has established that neural network-based node embeddings return different outcomes when trained with identical parameters on the same dataset, just from using different training seeds. Yet, it has not been thoroughly analyzed how key hyperparameters such as embedding dimension could impact this instability. In this work, we investigate how varying the dimensionality of node embeddings influences both their stability and downstream performance. We systematically evaluate five widely used methods -- ASNE, DGI, GraphSAGE, node2vec, and VERSE -- across multiple datasets and embeddin",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling",
+      "url": "https://arxiv.org/abs/2604.08263v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-09T13:49:07.000Z",
+      "score": 50,
+      "summary_en": "The growing use of artificial intelligence (AI) in education, particularly large language models (LLMs), has increased interest in intelligent tutoring systems. However, LLMs often show limited adaptivity and struggle to model learners' evolving knowledge over time, highlighting the need for dedicated learner modelling approaches. Although deep knowledge tracing methods achieve strong predictive performance, their opacity and susceptibility to bias can limit alignment with pedagogical principles. To address this, we propose Responsible-DKT, a neural-symbolic deep knowledge tracing approach tha",
+      "summary_fr": "The growing use of artificial intelligence (AI) in education, particularly large language models (LLMs), has increased interest in intelligent tutoring systems. However, LLMs often show limited adaptivity and struggle to model learners' evolving knowledge over time, highlighting the need for dedicated learner modelling approaches. Although deep knowledge tracing methods achieve strong predictive performance, their opacity and susceptibility to bias can limit alignment with pedagogical principles. To address this, we propose Responsible-DKT, a neural-symbolic deep knowledge tracing approach tha",
+      "resume_fr": "The growing use of artificial intelligence (AI) in education, particularly large language models (LLMs), has increased interest in intelligent tutoring systems. However, LLMs often show limited adaptivity and struggle to model learners' evolving knowledge over time, highlighting the need for dedicated learner modelling approaches. Although deep knowledge tracing methods achieve strong predictive performance, their opacity and susceptibility to bias can limit alignment with pedagogical principles. To address this, we propose Responsible-DKT, a neural-symbolic deep knowledge tracing approach tha",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "An Agentic Evaluation Architecture for Historical Bias Detection in Educational Textbooks",
+      "url": "https://arxiv.org/abs/2604.07883v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-09T06:51:32.000Z",
+      "score": 50,
+      "summary_en": "History textbooks often contain implicit biases, nationalist framing, and selective omissions that are difficult to audit at scale. We propose an agentic evaluation architecture comprising a multimodal screening agent, a heterogeneous jury of five evaluative agents, and a meta-agent for verdict synthesis and human escalation. A central contribution is a Source Attribution Protocol that distinguishes textbook narrative from quoted historical sources, preventing the misattribution that causes systematic false positives in single-model evaluators. In an empirical study on Romanian upper-secondary",
+      "summary_fr": "History textbooks often contain implicit biases, nationalist framing, and selective omissions that are difficult to audit at scale. We propose an agentic evaluation architecture comprising a multimodal screening agent, a heterogeneous jury of five evaluative agents, and a meta-agent for verdict synthesis and human escalation. A central contribution is a Source Attribution Protocol that distinguishes textbook narrative from quoted historical sources, preventing the misattribution that causes systematic false positives in single-model evaluators. In an empirical study on Romanian upper-secondary",
+      "resume_fr": "History textbooks often contain implicit biases, nationalist framing, and selective omissions that are difficult to audit at scale. We propose an agentic evaluation architecture comprising a multimodal screening agent, a heterogeneous jury of five evaluative agents, and a meta-agent for verdict synthesis and human escalation. A central contribution is a Source Attribution Protocol that distinguishes textbook narrative from quoted historical sources, preventing the misattribution that causes systematic false positives in single-model evaluators. In an empirical study on Romanian upper-secondary",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "From Clicking to Moving: Embodied Micro-Movements as a New Modality for Data Literacy Learning",
+      "url": "https://arxiv.org/abs/2604.07881v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-09T06:50:55.000Z",
+      "score": 50,
+      "summary_en": "Widespread digital learning has expanded access to education but has resulted in highly sedentary, click-based interaction, contributing to digital fatigue, reduced cognitive flexibility, and health risks associated with prolonged passive screen time. Meanwhile, data literacy has become an essential competency in a data-driven society, yet it is typically taught through passive, disembodied interfaces that offer little physical engagement. We present Kinetiq (Kinetic+IQ), a novel system that integrates fun, full-body micro-movements directly into data and numeracy problem solving. Instead of s",
+      "summary_fr": "Widespread digital learning has expanded access to education but has resulted in highly sedentary, click-based interaction, contributing to digital fatigue, reduced cognitive flexibility, and health risks associated with prolonged passive screen time. Meanwhile, data literacy has become an essential competency in a data-driven society, yet it is typically taught through passive, disembodied interfaces that offer little physical engagement. We present Kinetiq (Kinetic+IQ), a novel system that integrates fun, full-body micro-movements directly into data and numeracy problem solving. Instead of s",
+      "resume_fr": "Widespread digital learning has expanded access to education but has resulted in highly sedentary, click-based interaction, contributing to digital fatigue, reduced cognitive flexibility, and health risks associated with prolonged passive screen time. Meanwhile, data literacy has become an essential competency in a data-driven society, yet it is typically taught through passive, disembodied interfaces that offer little physical engagement. We present Kinetiq (Kinetic+IQ), a novel system that integrates fun, full-body micro-movements directly into data and numeracy problem solving. Instead of s",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Language Preferences and Practices in Multilingual EdTech: Flexible Primary Language Use with Secondary Language Support",
+      "url": "https://arxiv.org/abs/2604.07843v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-09T05:50:21.000Z",
+      "score": 85,
+      "summary_en": "The benefits of learning in one's mother tongue are well documented, yet colonial languages dominate education, marginalizing local languages and limiting access for learners who rely on their mother tongue for understanding. With the rapid growth of educational technology, there is potential to integrate multilingual instruction supporting both colonial and local languages. This study is part of a larger quasi-experiment conducted in Uganda, where learners could choose to learn in English, Leb-Lango (a local language), or in Hybrid mode (a combination of both) in a remote EdTech course. We ex",
+      "summary_fr": "The benefits of learning in one's mother tongue are well documented, yet colonial languages dominate education, marginalizing local languages and limiting access for learners who rely on their mother tongue for understanding. With the rapid growth of educational technology, there is potential to integrate multilingual instruction supporting both colonial and local languages. This study is part of a larger quasi-experiment conducted in Uganda, where learners could choose to learn in English, Leb-Lango (a local language), or in Hybrid mode (a combination of both) in a remote EdTech course. We ex",
+      "resume_fr": "The benefits of learning in one's mother tongue are well documented, yet colonial languages dominate education, marginalizing local languages and limiting access for learners who rely on their mother tongue for understanding. With the rapid growth of educational technology, there is potential to integrate multilingual instruction supporting both colonial and local languages. This study is part of a larger quasi-experiment conducted in Uganda, where learners could choose to learn in English, Leb-Lango (a local language), or in Hybrid mode (a combination of both) in a remote EdTech course. We ex",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Designing Annotations in Visualization: Considerations from Visualization Practitioners and Educators",
+      "url": "https://arxiv.org/abs/2604.07691v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-09T01:26:27.000Z",
+      "score": 85,
+      "summary_en": "Annotation is a central mechanism in visualization design that enables people to communicate key insights. Prior research has provided essential accounts of the visual forms annotations take, but less attention has been paid to the decisions behind them. This paper examines how annotations are designed in practice and how educators reflect on those practices. We conducted a two-phase qualitative study: interviews with ten practitioners from diverse backgrounds revealed the heuristics they draw on when creating annotations, and interviews with seven visualization educators offered complementary",
+      "summary_fr": "Annotation is a central mechanism in visualization design that enables people to communicate key insights. Prior research has provided essential accounts of the visual forms annotations take, but less attention has been paid to the decisions behind them. This paper examines how annotations are designed in practice and how educators reflect on those practices. We conducted a two-phase qualitative study: interviews with ten practitioners from diverse backgrounds revealed the heuristics they draw on when creating annotations, and interviews with seven visualization educators offered complementary",
+      "resume_fr": "Annotation is a central mechanism in visualization design that enables people to communicate key insights. Prior research has provided essential accounts of the visual forms annotations take, but less attention has been paid to the decisions behind them. This paper examines how annotations are designed in practice and how educators reflect on those practices. We conducted a two-phase qualitative study: interviews with ten practitioners from diverse backgrounds revealed the heuristics they draw on when creating annotations, and interviews with seven visualization educators offered complementary",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "TR-EduVSum: A Turkish-Focused Dataset and Consensus Framework for Educational Video Summarization",
+      "url": "https://arxiv.org/abs/2604.07553v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-08T19:53:39.000Z",
+      "score": 85,
+      "summary_en": "This study presents a framework for generating the gold-standard summary fully automatically and reproducibly based on multiple human summaries of Turkish educational videos. Within the scope of the study, a new dataset called TR-EduVSum was created, encompassing 82 Turkish course videos in the field of \"Data Structures and Algorithms\" and containing a total of 3281 independent human summaries. Inspired by existing pyramid-based evaluation approaches, the AutoMUP (Automatic Meaning Unit Pyramid) method is proposed, which extracts consensus-based content from multiple human summaries. AutoMUP c",
+      "summary_fr": "This study presents a framework for generating the gold-standard summary fully automatically and reproducibly based on multiple human summaries of Turkish educational videos. Within the scope of the study, a new dataset called TR-EduVSum was created, encompassing 82 Turkish course videos in the field of \"Data Structures and Algorithms\" and containing a total of 3281 independent human summaries. Inspired by existing pyramid-based evaluation approaches, the AutoMUP (Automatic Meaning Unit Pyramid) method is proposed, which extracts consensus-based content from multiple human summaries. AutoMUP c",
+      "resume_fr": "This study presents a framework for generating the gold-standard summary fully automatically and reproducibly based on multiple human summaries of Turkish educational videos. Within the scope of the study, a new dataset called TR-EduVSum was created, encompassing 82 Turkish course videos in the field of \"Data Structures and Algorithms\" and containing a total of 3281 independent human summaries. Inspired by existing pyramid-based evaluation approaches, the AutoMUP (Automatic Meaning Unit Pyramid) method is proposed, which extracts consensus-based content from multiple human summaries. AutoMUP c",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "The Impact of Steering Large Language Models with Persona Vectors in Educational Applications",
+      "url": "https://arxiv.org/abs/2604.07102v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-08T13:55:32.000Z",
+      "score": 85,
+      "summary_en": "Activation-based steering can personalize large language models at inference time, but its effects in educational settings remain unclear. We study persona vectors for seven character traits in short-answer generation and automated scoring on the ASAP-SAS benchmark across three models spanning two architectures. Persona steering lowers answer quality overall, with much larger effects on open-ended English Language Arts (ELA) prompts than on factual science prompts; interpretive and argumentative tasks are up to 11x more sensitive. On the scoring side, we observe predictable valence-aligned cal",
+      "summary_fr": "Activation-based steering can personalize large language models at inference time, but its effects in educational settings remain unclear. We study persona vectors for seven character traits in short-answer generation and automated scoring on the ASAP-SAS benchmark across three models spanning two architectures. Persona steering lowers answer quality overall, with much larger effects on open-ended English Language Arts (ELA) prompts than on factual science prompts; interpretive and argumentative tasks are up to 11x more sensitive. On the scoring side, we observe predictable valence-aligned cal",
+      "resume_fr": "Activation-based steering can personalize large language models at inference time, but its effects in educational settings remain unclear. We study persona vectors for seven character traits in short-answer generation and automated scoring on the ASAP-SAS benchmark across three models spanning two architectures. Persona steering lowers answer quality overall, with much larger effects on open-ended English Language Arts (ELA) prompts than on factual science prompts; interpretive and argumentative tasks are up to 11x more sensitive. On the scoring side, we observe predictable valence-aligned cal",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "Temple University Student Highlights IEEE Membership Perks",
       "url": "https://spectrum.ieee.org/temple-university-student-membership-perks",
@@ -1025,215 +1234,6 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
-    },
-    {
-      "title": "Generating Key Postures of Bharatanatyam Adavus with Pose Estimation",
-      "url": "https://arxiv.org/abs/2603.29570v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-31T10:51:58.000Z",
-      "score": 50,
-      "summary_en": "Preserving intangible cultural dances rooted in centuries of tradition and governed by strict structural and symbolic rules presents unique challenges in the digital era. Among these, Bharatanatyam, a classical Indian dance form, stands out for its emphasis on codified adavus and precise key postures. Accurately generating these postures is crucial not only for maintaining anatomical and stylistic integrity, but also for enabling effective documentation, analysis, and transmission to broader global audiences through digital means. We propose a pose-aware generative framework integrated with a ",
-      "summary_fr": "Preserving intangible cultural dances rooted in centuries of tradition and governed by strict structural and symbolic rules presents unique challenges in the digital era. Among these, Bharatanatyam, a classical Indian dance form, stands out for its emphasis on codified adavus and precise key postures. Accurately generating these postures is crucial not only for maintaining anatomical and stylistic integrity, but also for enabling effective documentation, analysis, and transmission to broader global audiences through digital means. We propose a pose-aware generative framework integrated with a ",
-      "resume_fr": "Preserving intangible cultural dances rooted in centuries of tradition and governed by strict structural and symbolic rules presents unique challenges in the digital era. Among these, Bharatanatyam, a classical Indian dance form, stands out for its emphasis on codified adavus and precise key postures. Accurately generating these postures is crucial not only for maintaining anatomical and stylistic integrity, but also for enabling effective documentation, analysis, and transmission to broader global audiences through digital means. We propose a pose-aware generative framework integrated with a ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Kwame 2.0: Human-in-the-Loop Generative AI Teaching Assistant for Large Scale Online Coding Education in Africa",
-      "url": "https://arxiv.org/abs/2603.29159v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-31T02:19:28.000Z",
-      "score": 50,
-      "summary_en": "Providing timely and accurate learning support in large-scale online coding courses is challenging, particularly in resource-constrained contexts. We present Kwame 2.0, a bilingual (English-French) generative AI teaching assistant built using retrieval-augmented generation and deployed in a human-in-the-loop forum within SuaCode, an introductory mobile-based coding course for learners across Africa. Kwame 2.0 retrieves relevant course materials and generates context-aware responses while encouraging human oversight and community participation. We deployed the system in a 15-month longitudinal ",
-      "summary_fr": "Providing timely and accurate learning support in large-scale online coding courses is challenging, particularly in resource-constrained contexts. We present Kwame 2.0, a bilingual (English-French) generative AI teaching assistant built using retrieval-augmented generation and deployed in a human-in-the-loop forum within SuaCode, an introductory mobile-based coding course for learners across Africa. Kwame 2.0 retrieves relevant course materials and generates context-aware responses while encouraging human oversight and community participation. We deployed the system in a 15-month longitudinal ",
-      "resume_fr": "Providing timely and accurate learning support in large-scale online coding courses is challenging, particularly in resource-constrained contexts. We present Kwame 2.0, a bilingual (English-French) generative AI teaching assistant built using retrieval-augmented generation and deployed in a human-in-the-loop forum within SuaCode, an introductory mobile-based coding course for learners across Africa. Kwame 2.0 retrieves relevant course materials and generates context-aware responses while encouraging human oversight and community participation. We deployed the system in a 15-month longitudinal ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "REFINE: Real-world Exploration of Interactive Feedback and Student Behaviour",
-      "url": "https://arxiv.org/abs/2603.29142v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-31T01:48:08.000Z",
-      "score": 85,
-      "summary_en": "Formative feedback is central to effective learning, yet providing timely, individualised feedback at scale remains a persistent challenge. While recent work has explored the use of large language models (LLMs) to automate feedback, most existing systems still conceptualise feedback as a static, one-way artifact, offering limited support for interpretation, clarification, or follow-up. In this work, we introduce REFINE, a locally deployable, multi-agent feedback system built on small, open-source LLMs that treats feedback as an interactive process. REFINE combines a pedagogically-grounded feed",
-      "summary_fr": "Formative feedback is central to effective learning, yet providing timely, individualised feedback at scale remains a persistent challenge. While recent work has explored the use of large language models (LLMs) to automate feedback, most existing systems still conceptualise feedback as a static, one-way artifact, offering limited support for interpretation, clarification, or follow-up. In this work, we introduce REFINE, a locally deployable, multi-agent feedback system built on small, open-source LLMs that treats feedback as an interactive process. REFINE combines a pedagogically-grounded feed",
-      "resume_fr": "Formative feedback is central to effective learning, yet providing timely, individualised feedback at scale remains a persistent challenge. While recent work has explored the use of large language models (LLMs) to automate feedback, most existing systems still conceptualise feedback as a static, one-way artifact, offering limited support for interpretation, clarification, or follow-up. In this work, we introduce REFINE, a locally deployable, multi-agent feedback system built on small, open-source LLMs that treats feedback as an interactive process. REFINE combines a pedagogically-grounded feed",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers",
-      "url": "https://arxiv.org/abs/2603.28762v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-03-30T17:59:13.000Z",
-      "score": 50,
-      "summary_en": "Modern Text-to-Image (T2I) diffusion models have achieved remarkable semantic alignment, yet they often suffer from a significant lack of variety, converging on a narrow set of visual solutions for any given prompt. This typicality bias presents a challenge for creative applications that require a wide range of generative outcomes. We identify a fundamental trade-off in current approaches to diversity: modifying model inputs requires costly optimization to incorporate feedback from the generative path. In contrast, acting on spatially-committed intermediate latents tends to disrupt the forming",
-      "summary_fr": "Modern Text-to-Image (T2I) diffusion models have achieved remarkable semantic alignment, yet they often suffer from a significant lack of variety, converging on a narrow set of visual solutions for any given prompt. This typicality bias presents a challenge for creative applications that require a wide range of generative outcomes. We identify a fundamental trade-off in current approaches to diversity: modifying model inputs requires costly optimization to incorporate feedback from the generative path. In contrast, acting on spatially-committed intermediate latents tends to disrupt the forming",
-      "resume_fr": "Modern Text-to-Image (T2I) diffusion models have achieved remarkable semantic alignment, yet they often suffer from a significant lack of variety, converging on a narrow set of visual solutions for any given prompt. This typicality bias presents a challenge for creative applications that require a wide range of generative outcomes. We identify a fundamental trade-off in current approaches to diversity: modifying model inputs requires costly optimization to incorporate feedback from the generative path. In contrast, acting on spatially-committed intermediate latents tends to disrupt the forming",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Rethinking Language Model Scaling under Transferable Hypersphere Optimization",
-      "url": "https://arxiv.org/abs/2603.28743v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-03-30T17:51:47.000Z",
-      "score": 50,
-      "summary_en": "Scaling laws for large language models depend critically on the optimizer and parameterization. Existing hyperparameter transfer laws are mainly developed for first-order optimizers, and they do not structurally prevent training instability at scale. Recent hypersphere optimization methods constrain weight matrices to a fixed-norm hypersphere, offering a promising alternative for more stable scaling. We introduce HyperP (Hypersphere Parameterization), the first framework for transferring optimal learning rates across model width, depth, training tokens, and Mixture-of-Experts (MoE) granularity",
-      "summary_fr": "Scaling laws for large language models depend critically on the optimizer and parameterization. Existing hyperparameter transfer laws are mainly developed for first-order optimizers, and they do not structurally prevent training instability at scale. Recent hypersphere optimization methods constrain weight matrices to a fixed-norm hypersphere, offering a promising alternative for more stable scaling. We introduce HyperP (Hypersphere Parameterization), the first framework for transferring optimal learning rates across model width, depth, training tokens, and Mixture-of-Experts (MoE) granularity",
-      "resume_fr": "Scaling laws for large language models depend critically on the optimizer and parameterization. Existing hyperparameter transfer laws are mainly developed for first-order optimizers, and they do not structurally prevent training instability at scale. Recent hypersphere optimization methods constrain weight matrices to a fixed-norm hypersphere, offering a promising alternative for more stable scaling. We introduce HyperP (Hypersphere Parameterization), the first framework for transferring optimal learning rates across model width, depth, training tokens, and Mixture-of-Experts (MoE) granularity",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Expectation Error Bounds for Transfer Learning in Linear Regression and Linear Neural Networks",
-      "url": "https://arxiv.org/abs/2603.28739v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-03-30T17:50:52.000Z",
-      "score": 50,
-      "summary_en": "In transfer learning, the learner leverages auxiliary data to improve generalization on a main task. However, the precise theoretical understanding of when and how auxiliary data help remains incomplete. We provide new insights on this issue in two canonical linear settings: ordinary least squares regression and under-parameterized linear neural networks. For linear regression, we derive exact closed-form expressions for the expected generalization error with bias-variance decomposition, yielding necessary and sufficient conditions for auxiliary tasks to improve generalization on the main task",
-      "summary_fr": "In transfer learning, the learner leverages auxiliary data to improve generalization on a main task. However, the precise theoretical understanding of when and how auxiliary data help remains incomplete. We provide new insights on this issue in two canonical linear settings: ordinary least squares regression and under-parameterized linear neural networks. For linear regression, we derive exact closed-form expressions for the expected generalization error with bias-variance decomposition, yielding necessary and sufficient conditions for auxiliary tasks to improve generalization on the main task",
-      "resume_fr": "In transfer learning, the learner leverages auxiliary data to improve generalization on a main task. However, the precise theoretical understanding of when and how auxiliary data help remains incomplete. We provide new insights on this issue in two canonical linear settings: ordinary least squares regression and under-parameterized linear neural networks. For linear regression, we derive exact closed-form expressions for the expected generalization error with bias-variance decomposition, yielding necessary and sufficient conditions for auxiliary tasks to improve generalization on the main task",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Multimodal Analytics of Cybersecurity Crisis Preparation Exercises: What Predicts Success?",
-      "url": "https://arxiv.org/abs/2603.28553v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-30T15:14:56.000Z",
-      "score": 50,
-      "summary_en": "Instructional alignment, the match between intended cognition and enacted activity, is central to effective instruction but hard to operationalize at scale. We examine alignment in cybersecurity simulations using multimodal traces from 23 teams (76 students) across five exercise sessions. Study 1 codes objectives and team emails with Bloom's taxonomy and models the completion of key exercise tasks with generalized linear mixed models. Alignment, defined as the discrepancy between required and enacted Bloom levels, predicts success, whereas the Bloom category alone does not predict success once",
-      "summary_fr": "Instructional alignment, the match between intended cognition and enacted activity, is central to effective instruction but hard to operationalize at scale. We examine alignment in cybersecurity simulations using multimodal traces from 23 teams (76 students) across five exercise sessions. Study 1 codes objectives and team emails with Bloom's taxonomy and models the completion of key exercise tasks with generalized linear mixed models. Alignment, defined as the discrepancy between required and enacted Bloom levels, predicts success, whereas the Bloom category alone does not predict success once",
-      "resume_fr": "Instructional alignment, the match between intended cognition and enacted activity, is central to effective instruction but hard to operationalize at scale. We examine alignment in cybersecurity simulations using multimodal traces from 23 teams (76 students) across five exercise sessions. Study 1 codes objectives and team emails with Bloom's taxonomy and models the completion of key exercise tasks with generalized linear mixed models. Alignment, defined as the discrepancy between required and enacted Bloom levels, predicts success, whereas the Bloom category alone does not predict success once",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Tailoring AI-Driven Reading Scaffolds to the Distinct Needs of Neurodiverse Learners",
-      "url": "https://arxiv.org/abs/2603.28370v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-30T12:38:41.000Z",
-      "score": 50,
-      "summary_en": "Neurodiverse learners often require reading supports, yet increasing scaffold richness can sometimes overload attention and working memory rather than improve comprehension. Grounded in the Construction-Integration model and a contingent scaffolding perspective, we examine how structural versus semantic scaffolds shape comprehension and reading experience in a supervised inclusive context. Using an adapted reading interface, we compared four modalities: unmodified text, sentence-segmented text, segmented text with pictograms, and segmented text with pictograms plus keyword labels. In a within-",
-      "summary_fr": "Neurodiverse learners often require reading supports, yet increasing scaffold richness can sometimes overload attention and working memory rather than improve comprehension. Grounded in the Construction-Integration model and a contingent scaffolding perspective, we examine how structural versus semantic scaffolds shape comprehension and reading experience in a supervised inclusive context. Using an adapted reading interface, we compared four modalities: unmodified text, sentence-segmented text, segmented text with pictograms, and segmented text with pictograms plus keyword labels. In a within-",
-      "resume_fr": "Neurodiverse learners often require reading supports, yet increasing scaffold richness can sometimes overload attention and working memory rather than improve comprehension. Grounded in the Construction-Integration model and a contingent scaffolding perspective, we examine how structural versus semantic scaffolds shape comprehension and reading experience in a supervised inclusive context. Using an adapted reading interface, we compared four modalities: unmodified text, sentence-segmented text, segmented text with pictograms, and segmented text with pictograms plus keyword labels. In a within-",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Mapping data literacy trajectories in K-12 education",
-      "url": "https://arxiv.org/abs/2603.28317v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-30T11:38:07.000Z",
-      "score": 65,
-      "summary_en": "Data literacy skills are fundamental in computer science education. However, understanding how data-driven systems work represents a paradigm shift from traditional rule-based programming. We conducted a systematic literature review of 84 studies to understand K-12 learners' engagement with data across disciplines and contexts. We propose the data paradigms framework that categorises learning activities along two dimensions: (i) logic (knowledge-based or data-driven systems), and (ii) explainability (transparent or opaque models). We further apply the notion of learning trajectories to visuali",
-      "summary_fr": "Data literacy skills are fundamental in computer science education. However, understanding how data-driven systems work represents a paradigm shift from traditional rule-based programming. We conducted a systematic literature review of 84 studies to understand K-12 learners' engagement with data across disciplines and contexts. We propose the data paradigms framework that categorises learning activities along two dimensions: (i) logic (knowledge-based or data-driven systems), and (ii) explainability (transparent or opaque models). We further apply the notion of learning trajectories to visuali",
-      "resume_fr": "Data literacy skills are fundamental in computer science education. However, understanding how data-driven systems work represents a paradigm shift from traditional rule-based programming. We conducted a systematic literature review of 84 studies to understand K-12 learners' engagement with data across disciplines and contexts. We propose the data paradigms framework that categorises learning activities along two dimensions: (i) logic (knowledge-based or data-driven systems), and (ii) explainability (transparent or opaque models). We further apply the notion of learning trajectories to visuali",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Shaping Credibility Judgments in Human-GenAI Partnership via Weaker LLMs: A Transactive Memory Perspective on AI Literacy",
-      "url": "https://arxiv.org/abs/2603.26522v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-27T15:36:20.000Z",
-      "score": 85,
-      "summary_en": "Generative AI (GenAI) is increasingly used as a knowledge partner in higher education, raising the need for instructional designs that emphasize AI literacy practices such as evaluating output credibility and maintaining human accountability. Existing AI literacy frameworks focus more on what learners should do than on how these practices are enacted in routine student-GenAI collaboration. We address this gap by framing student-GenAI interaction as a transactive memory partnership, where credibility regulates reliance and verification. To make this process visible during coursework, we used a ",
-      "summary_fr": "Generative AI (GenAI) is increasingly used as a knowledge partner in higher education, raising the need for instructional designs that emphasize AI literacy practices such as evaluating output credibility and maintaining human accountability. Existing AI literacy frameworks focus more on what learners should do than on how these practices are enacted in routine student-GenAI collaboration. We address this gap by framing student-GenAI interaction as a transactive memory partnership, where credibility regulates reliance and verification. To make this process visible during coursework, we used a ",
-      "resume_fr": "Generative AI (GenAI) is increasingly used as a knowledge partner in higher education, raising the need for instructional designs that emphasize AI literacy practices such as evaluating output credibility and maintaining human accountability. Existing AI literacy frameworks focus more on what learners should do than on how these practices are enacted in routine student-GenAI collaboration. We address this gap by framing student-GenAI interaction as a transactive memory partnership, where credibility regulates reliance and verification. To make this process visible during coursework, we used a ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving",
-      "url": "https://arxiv.org/abs/2603.25740v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-03-26T17:59:54.000Z",
-      "score": 70,
-      "summary_en": "Human driving behavior is inherently personal, which is shaped by long-term habits and influenced by short-term intentions. Individuals differ in how they accelerate, brake, merge, yield, and overtake across diverse situations. However, existing end-to-end autonomous driving systems either optimize for generic objectives or rely on fixed driving modes, lacking the ability to adapt to individual preferences or interpret natural language intent. To address this gap, we propose Drive My Way (DMW), a personalized Vision-Language-Action (VLA) driving framework that aligns with users' long-term driv",
-      "summary_fr": "Human driving behavior is inherently personal, which is shaped by long-term habits and influenced by short-term intentions. Individuals differ in how they accelerate, brake, merge, yield, and overtake across diverse situations. However, existing end-to-end autonomous driving systems either optimize for generic objectives or rely on fixed driving modes, lacking the ability to adapt to individual preferences or interpret natural language intent. To address this gap, we propose Drive My Way (DMW), a personalized Vision-Language-Action (VLA) driving framework that aligns with users' long-term driv",
-      "resume_fr": "Human driving behavior is inherently personal, which is shaped by long-term habits and influenced by short-term intentions. Individuals differ in how they accelerate, brake, merge, yield, and overtake across diverse situations. However, existing end-to-end autonomous driving systems either optimize for generic objectives or rely on fixed driving modes, lacking the ability to adapt to individual preferences or interpret natural language intent. To address this gap, we propose Drive My Way (DMW), a personalized Vision-Language-Action (VLA) driving framework that aligns with users' long-term driv",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
 }
