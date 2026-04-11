@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T07:57:08.569Z",
+  "generatedAt": "2026-04-11T07:15:10.343Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,25 @@
     }
   },
   "items": [
+    {
+      "title": "Best Practices for Outdoor Campus Safety Planning",
+      "url": "https://edtechmagazine.com/higher/article/2026/04/best-practices-outdoor-campus-safety-planning",
+      "source": "EdTech Magazine (Higher Ed)",
+      "published": "2026-04-10T17:14:20.000Z",
+      "score": 50,
+      "summary_en": "As spring brings warmer weather, campus life spills outside, onto quads, walkways, playing fields and open-air event spaces. For campus safety personnel, securing outdoor environments can be more complex than indoor spaces. “Outdoor spaces are harder to secure because they’re more open, less controllable and are often multipurpose or shared spaces,” says Rob Kilfoyle, director of public safety and emergency management at Humber College in Toronto and president of the International Association of Campus Law Enforcement Administrators. “Outdoor space security is influenced by factors such as…",
+      "summary_fr": "As spring brings warmer weather, campus life spills outside, onto quads, walkways, playing fields and open-air event spaces. For campus safety personnel, securing outdoor environments can be more complex than indoor spaces. “Outdoor spaces are harder to secure because they’re more open, less controllable and are often multipurpose or shared spaces,” says Rob Kilfoyle, director of public safety and emergency management at Humber College in Toronto and president of the International Association of Campus Law Enforcement Administrators. “Outdoor space security is influenced by factors such as…",
+      "resume_fr": "As spring brings warmer weather, campus life spills outside, onto quads, walkways, playing fields and open-air event spaces. For campus safety personnel, securing outdoor environments can be more complex than indoor spaces. “Outdoor spaces are harder to secure because they’re more open, less controllable and are often multipurpose or shared spaces,” says Rob Kilfoyle, director of public safety and emergency management at Humber College in Toronto and president of the International Association of Campus Law Enforcement Administrators. “Outdoor space security is influenced by factors such as…",
+      "tags": [],
+      "breakdown": {
+        "research": 0,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=edtechmagazine.com&sz=128"
+    },
     {
       "title": "Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts",
       "url": "https://arxiv.org/abs/2604.08541v1",
@@ -1215,25 +1234,6 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "The ’80s Submersible That Transformed Underwater Exploration",
-      "url": "https://spectrum.ieee.org/deep-sea-submersible",
-      "source": "IEEE Spectrum – AI",
-      "published": "2026-03-31T13:00:02.000Z",
-      "score": 50,
-      "summary_en": "As a kid, I loved the 1980s aquatic adventure show Danger Bay. True to the TV show’s name, danger was always lurking at the Vancouver Aquarium, where the show was set. In one memorable episode, young Jonah and a friend get trapped in a sabotaged mini-submarine, and Jonah’s dad, a marine-mammal veterinarian, comes to the rescue in a bubble-shaped underwater vehicle. Good stuff! Only recently—as in when I started working on this column—did I learn that the rescue vehicle was not a stage prop but rather a real-world research submersible named Deep Rover. What Was Deep Rover and What Did It Do? Bu",
-      "summary_fr": "As a kid, I loved the 1980s aquatic adventure show Danger Bay. True to the TV show’s name, danger was always lurking at the Vancouver Aquarium, where the show was set. In one memorable episode, young Jonah and a friend get trapped in a sabotaged mini-submarine, and Jonah’s dad, a marine-mammal veterinarian, comes to the rescue in a bubble-shaped underwater vehicle. Good stuff! Only recently—as in when I started working on this column—did I learn that the rescue vehicle was not a stage prop but rather a real-world research submersible named Deep Rover. What Was Deep Rover and What Did It Do? Bu",
-      "resume_fr": "As a kid, I loved the 1980s aquatic adventure show Danger Bay. True to the TV show’s name, danger was always lurking at the Vancouver Aquarium, where the show was set. In one memorable episode, young Jonah and a friend get trapped in a sabotaged mini-submarine, and Jonah’s dad, a marine-mammal veterinarian, comes to the rescue in a bubble-shaped underwater vehicle. Good stuff! Only recently—as in when I started working on this column—did I learn that the rescue vehicle was not a stage prop but rather a real-world research submersible named Deep Rover. What Was Deep Rover and What Did It Do? Bu",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
     }
   ]
 }
