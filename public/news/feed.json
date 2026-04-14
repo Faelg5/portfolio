@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T08:19:38.603Z",
+  "generatedAt": "2026-04-14T08:01:18.725Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,158 @@
     }
   },
   "items": [
+    {
+      "title": "CLSGen: A Dual-Head Fine-Tuning Framework for Joint Probabilistic Classification and Verbalized Explanation",
+      "url": "https://arxiv.org/abs/2604.11801v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-04-13T17:58:43.000Z",
+      "score": 70,
+      "summary_en": "With the recent progress of Large Language Models (LLMs), there is a growing interest in applying these models to solve complex and challenging problems. Modern LLMs, capable of processing long contexts and generating verbalized explanations, offer significant potential in addressing real-world applications. However, a critical hurdle in deploying LLMs for practical decision-making is their inability to provide reliable, quantitative probabilities. While task-specific fine-tuning of LLMs using traditional discriminative objectives (similar to encoder-only models) can yield probability estimate",
+      "summary_fr": "With the recent progress of Large Language Models (LLMs), there is a growing interest in applying these models to solve complex and challenging problems. Modern LLMs, capable of processing long contexts and generating verbalized explanations, offer significant potential in addressing real-world applications. However, a critical hurdle in deploying LLMs for practical decision-making is their inability to provide reliable, quantitative probabilities. While task-specific fine-tuning of LLMs using traditional discriminative objectives (similar to encoder-only models) can yield probability estimate",
+      "resume_fr": "With the recent progress of Large Language Models (LLMs), there is a growing interest in applying these models to solve complex and challenging problems. Modern LLMs, capable of processing long contexts and generating verbalized explanations, offer significant potential in addressing real-world applications. However, a critical hurdle in deploying LLMs for practical decision-making is their inability to provide reliable, quantitative probabilities. While task-specific fine-tuning of LLMs using traditional discriminative objectives (similar to encoder-only models) can yield probability estimate",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents",
+      "url": "https://arxiv.org/abs/2604.11784v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-04-13T17:52:04.000Z",
+      "score": 70,
+      "summary_en": "GUI agents drive applications through their visual interfaces instead of programmatic APIs, interacting with arbitrary software via taps, swipes, and keystrokes, reaching a long tail of applications that CLI-based agents cannot. Yet progress in this area is bottlenecked less by modeling capacity than by the absence of a coherent full-stack infrastructure: online RL training suffers from environment instability and closed pipelines, evaluation protocols drift silently across works, and trained agents rarely reach real users on real devices. We present \\textbf{ClawGUI}, an open-source framework ",
+      "summary_fr": "GUI agents drive applications through their visual interfaces instead of programmatic APIs, interacting with arbitrary software via taps, swipes, and keystrokes, reaching a long tail of applications that CLI-based agents cannot. Yet progress in this area is bottlenecked less by modeling capacity than by the absence of a coherent full-stack infrastructure: online RL training suffers from environment instability and closed pipelines, evaluation protocols drift silently across works, and trained agents rarely reach real users on real devices. We present \\textbf{ClawGUI}, an open-source framework ",
+      "resume_fr": "GUI agents drive applications through their visual interfaces instead of programmatic APIs, interacting with arbitrary software via taps, swipes, and keystrokes, reaching a long tail of applications that CLI-based agents cannot. Yet progress in this area is bottlenecked less by modeling capacity than by the absence of a coherent full-stack infrastructure: online RL training suffers from environment instability and closed pipelines, evaluation protocols drift silently across works, and trained agents rarely reach real users on real devices. We present \\textbf{ClawGUI}, an open-source framework ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Autonomous Diffractometry Enabled by Visual Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2604.11773v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-04-13T17:42:19.000Z",
+      "score": 70,
+      "summary_en": "Automation underpins progress across scientific and industrial disciplines. Yet, automating tasks requiring interpretation of abstract visual information remain challenging. For example, crystal alignment strongly relies on humans with the ability to comprehend diffraction patterns. Here we introduce an autonomous system that aligns single crystals without access to crystallography and diffraction theory. Using a model-free reinforcement learning framework, an agent learns to identify and navigate towards high-symmetry orientations directly from Laue diffraction patterns. Despite the absence o",
+      "summary_fr": "Automation underpins progress across scientific and industrial disciplines. Yet, automating tasks requiring interpretation of abstract visual information remain challenging. For example, crystal alignment strongly relies on humans with the ability to comprehend diffraction patterns. Here we introduce an autonomous system that aligns single crystals without access to crystallography and diffraction theory. Using a model-free reinforcement learning framework, an agent learns to identify and navigate towards high-symmetry orientations directly from Laue diffraction patterns. Despite the absence o",
+      "resume_fr": "Automation underpins progress across scientific and industrial disciplines. Yet, automating tasks requiring interpretation of abstract visual information remain challenging. For example, crystal alignment strongly relies on humans with the ability to comprehend diffraction patterns. Here we introduce an autonomous system that aligns single crystals without access to crystallography and diffraction theory. Using a model-free reinforcement learning framework, an agent learns to identify and navigate towards high-symmetry orientations directly from Laue diffraction patterns. Despite the absence o",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "A Simulation-Based Method for Testing Collaborative Learning Scaffolds Using LLM-Based Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2604.11161v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-13T08:25:17.000Z",
+      "score": 50,
+      "summary_en": "Background: Traditional research on collaborative learning scaffolding is often time-consuming and resource-heavy, which hinders the rapid iteration and optimization of instructional strategies. LLM-based multi-agent systems have recently emerged as a powerful tool to simulate complex social interactions and provide a novel paradigm for educational research. Objectives: This study proposes an LLM-based multi-agent simulation approach to investigate collaborative learning processes and the effectiveness of instructional scaffolds prior to actual classroom deployment. The research specifically e",
+      "summary_fr": "Background: Traditional research on collaborative learning scaffolding is often time-consuming and resource-heavy, which hinders the rapid iteration and optimization of instructional strategies. LLM-based multi-agent systems have recently emerged as a powerful tool to simulate complex social interactions and provide a novel paradigm for educational research. Objectives: This study proposes an LLM-based multi-agent simulation approach to investigate collaborative learning processes and the effectiveness of instructional scaffolds prior to actual classroom deployment. The research specifically e",
+      "resume_fr": "Background: Traditional research on collaborative learning scaffolding is often time-consuming and resource-heavy, which hinders the rapid iteration and optimization of instructional strategies. LLM-based multi-agent systems have recently emerged as a powerful tool to simulate complex social interactions and provide a novel paradigm for educational research. Objectives: This study proposes an LLM-based multi-agent simulation approach to investigate collaborative learning processes and the effectiveness of instructional scaffolds prior to actual classroom deployment. The research specifically e",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Use of AI Tools: Guidelines to Maintain Academic Integrity in Computing Colleges",
+      "url": "https://arxiv.org/abs/2604.11111v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-13T07:25:47.000Z",
+      "score": 50,
+      "summary_en": "The rapid adoption of AI tools such as ChatGPT has significantly transformed academic practices, offering considerable benefits for both students and faculty in computing disciplines. These tools have been shown to enhance learning efficiency, academic self-efficacy, and confidence. However, their increasing use also raises pressing concerns regarding the preservation of academic integrity -- an essential pillar of the educational process. This paper explores the implications of widespread AI tool usage within computing colleges, with a particular focus on how to align their use with the princ",
+      "summary_fr": "The rapid adoption of AI tools such as ChatGPT has significantly transformed academic practices, offering considerable benefits for both students and faculty in computing disciplines. These tools have been shown to enhance learning efficiency, academic self-efficacy, and confidence. However, their increasing use also raises pressing concerns regarding the preservation of academic integrity -- an essential pillar of the educational process. This paper explores the implications of widespread AI tool usage within computing colleges, with a particular focus on how to align their use with the princ",
+      "resume_fr": "The rapid adoption of AI tools such as ChatGPT has significantly transformed academic practices, offering considerable benefits for both students and faculty in computing disciplines. These tools have been shown to enhance learning efficiency, academic self-efficacy, and confidence. However, their increasing use also raises pressing concerns regarding the preservation of academic integrity -- an essential pillar of the educational process. This paper explores the implications of widespread AI tool usage within computing colleges, with a particular focus on how to align their use with the princ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "AI Integrity: A New Paradigm for Verifiable AI Governance",
+      "url": "https://arxiv.org/abs/2604.11065v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-13T06:45:30.000Z",
+      "score": 50,
+      "summary_en": "AI systems increasingly shape high-stakes decisions in healthcare, law, defense, and education, yet existing governance paradigms -- AI Ethics, AI Safety, and AI Alignment -- share a common limitation: they evaluate outcomes rather than verifying the reasoning process itself. This paper introduces AI Integrity, a concept defined as a state in which the Authority Stack of an AI system -- its layered hierarchy of values, epistemological standards, source preferences, and data selection criteria -- is protected from corruption, contamination, manipulation, and bias, and maintained in a verifiable",
+      "summary_fr": "AI systems increasingly shape high-stakes decisions in healthcare, law, defense, and education, yet existing governance paradigms -- AI Ethics, AI Safety, and AI Alignment -- share a common limitation: they evaluate outcomes rather than verifying the reasoning process itself. This paper introduces AI Integrity, a concept defined as a state in which the Authority Stack of an AI system -- its layered hierarchy of values, epistemological standards, source preferences, and data selection criteria -- is protected from corruption, contamination, manipulation, and bias, and maintained in a verifiable",
+      "resume_fr": "AI systems increasingly shape high-stakes decisions in healthcare, law, defense, and education, yet existing governance paradigms -- AI Ethics, AI Safety, and AI Alignment -- share a common limitation: they evaluate outcomes rather than verifying the reasoning process itself. This paper introduces AI Integrity, a concept defined as a state in which the Authority Stack of an AI system -- its layered hierarchy of values, epistemological standards, source preferences, and data selection criteria -- is protected from corruption, contamination, manipulation, and bias, and maintained in a verifiable",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Participatory, not Punitive: Student-Driven AI Policy Recommendations in a Design Classroom",
+      "url": "https://arxiv.org/abs/2604.10851v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-12T23:06:49.000Z",
+      "score": 85,
+      "summary_en": "Generative AI is reshaping education, yet most university AI policies are written without students and focus on penalizing misuse. This top-down approach sidelines those most affected from decisions that shape their everyday learning, resulting in confusion and fear about acceptable use. We examine how participatory, student-driven AI policy design can address this disconnect. We report on a three-part workshop series in a graduate design course at a minority-serving university in the U.S., where two student leaders facilitated discussions without faculty present. Eight participants shared can",
+      "summary_fr": "Generative AI is reshaping education, yet most university AI policies are written without students and focus on penalizing misuse. This top-down approach sidelines those most affected from decisions that shape their everyday learning, resulting in confusion and fear about acceptable use. We examine how participatory, student-driven AI policy design can address this disconnect. We report on a three-part workshop series in a graduate design course at a minority-serving university in the U.S., where two student leaders facilitated discussions without faculty present. Eight participants shared can",
+      "resume_fr": "Generative AI is reshaping education, yet most university AI policies are written without students and focus on penalizing misuse. This top-down approach sidelines those most affected from decisions that shape their everyday learning, resulting in confusion and fear about acceptable use. We examine how participatory, student-driven AI policy design can address this disconnect. We report on a three-part workshop series in a graduate design course at a minority-serving university in the U.S., where two student leaders facilitated discussions without faculty present. Eight participants shared can",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Towards an Appropriate Level of Reliance on AI: A Preliminary Reliance-Control Framework for AI in Software Engineering",
+      "url": "https://arxiv.org/abs/2604.10530v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-12T08:47:34.000Z",
+      "score": 85,
+      "summary_en": "How software developers interact with Artificial Intelligence (AI)-powered tools, including Large Language Models (LLMs), plays a vital role in how these AI-powered tools impact them. While overreliance on AI may lead to long-term negative consequences (e.g., atrophy of critical thinking skills); underreliance might deprive software developers of potential gains in productivity and quality. Based on twenty-two interviews with software developers on using LLMs for software development, we propose a preliminary reliance-control framework where the level of control can be used as a way to identif",
+      "summary_fr": "How software developers interact with Artificial Intelligence (AI)-powered tools, including Large Language Models (LLMs), plays a vital role in how these AI-powered tools impact them. While overreliance on AI may lead to long-term negative consequences (e.g., atrophy of critical thinking skills); underreliance might deprive software developers of potential gains in productivity and quality. Based on twenty-two interviews with software developers on using LLMs for software development, we propose a preliminary reliance-control framework where the level of control can be used as a way to identif",
+      "resume_fr": "How software developers interact with Artificial Intelligence (AI)-powered tools, including Large Language Models (LLMs), plays a vital role in how these AI-powered tools impact them. While overreliance on AI may lead to long-term negative consequences (e.g., atrophy of critical thinking skills); underreliance might deprive software developers of potential gains in productivity and quality. Based on twenty-two interviews with software developers on using LLMs for software development, we propose a preliminary reliance-control framework where the level of control can be used as a way to identif",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "Best Practices for Outdoor Campus Safety Planning",
       "url": "https://edtechmagazine.com/higher/article/2026/04/best-practices-outdoor-campus-safety-planning",
@@ -1082,158 +1234,6 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
-    },
-    {
-      "title": "Play-Testing REMind: Evaluating an Educational Robot-Mediated Role-Play Game",
-      "url": "https://arxiv.org/abs/2604.00300v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-31T22:51:53.000Z",
-      "score": 50,
-      "summary_en": "This paper presents REMind, an innovative educational robot-mediated role-play game designed to support anti-bullying bystander intervention among children. REMind invites players to observe a bullying scenario enacted by social robots, reflect on the perspectives of the characters, and rehearse defending strategies by puppeteering a robotic avatar. We evaluated REMind through a mixed-methods play-testing study with 18 children aged 9--10. The findings suggest that the experience supported key learning goals related to self-efficacy, perspective-taking, understanding outcomes of defending, and",
-      "summary_fr": "This paper presents REMind, an innovative educational robot-mediated role-play game designed to support anti-bullying bystander intervention among children. REMind invites players to observe a bullying scenario enacted by social robots, reflect on the perspectives of the characters, and rehearse defending strategies by puppeteering a robotic avatar. We evaluated REMind through a mixed-methods play-testing study with 18 children aged 9--10. The findings suggest that the experience supported key learning goals related to self-efficacy, perspective-taking, understanding outcomes of defending, and",
-      "resume_fr": "This paper presents REMind, an innovative educational robot-mediated role-play game designed to support anti-bullying bystander intervention among children. REMind invites players to observe a bullying scenario enacted by social robots, reflect on the perspectives of the characters, and rehearse defending strategies by puppeteering a robotic avatar. We evaluated REMind through a mixed-methods play-testing study with 18 children aged 9--10. The findings suggest that the experience supported key learning goals related to self-efficacy, perspective-taking, understanding outcomes of defending, and",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "NeuroVase: A Tangible Mobile Augmented Reality Learning System for Neurovascular Anatomy and Stroke Education",
-      "url": "https://arxiv.org/abs/2604.00296v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-03-31T22:45:41.000Z",
-      "score": 50,
-      "summary_en": "Stroke remains a leading cause of mortality and disability worldwide, requiring rapid and informed clinical decision-making. A solid spatial understanding of cerebrovascular anatomy and vascular territories in relation to stroke symptoms and severity is critical for timely clinical decision and patient care. However, this knowledge is typically conveyed through static 2D diagrams and printed materials, which can hinder mastery of the complex neurovascular system and their clinical implications. Mobile augmented reality (AR) offers an accessible medium for delivering intuitive 3D anatomical edu",
-      "summary_fr": "Stroke remains a leading cause of mortality and disability worldwide, requiring rapid and informed clinical decision-making. A solid spatial understanding of cerebrovascular anatomy and vascular territories in relation to stroke symptoms and severity is critical for timely clinical decision and patient care. However, this knowledge is typically conveyed through static 2D diagrams and printed materials, which can hinder mastery of the complex neurovascular system and their clinical implications. Mobile augmented reality (AR) offers an accessible medium for delivering intuitive 3D anatomical edu",
-      "resume_fr": "Stroke remains a leading cause of mortality and disability worldwide, requiring rapid and informed clinical decision-making. A solid spatial understanding of cerebrovascular anatomy and vascular territories in relation to stroke symptoms and severity is critical for timely clinical decision and patient care. However, this knowledge is typically conveyed through static 2D diagrams and printed materials, which can hinder mastery of the complex neurovascular system and their clinical implications. Mobile augmented reality (AR) offers an accessible medium for delivering intuitive 3D anatomical edu",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Human-in-the-Loop Control of Objective Drift in LLM-Assisted Computer Science Education",
-      "url": "https://arxiv.org/abs/2604.00281v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-31T22:14:02.000Z",
-      "score": 50,
-      "summary_en": "Large language models (LLMs) are increasingly embedded in computer science education through AI-assisted programming tools, yet such workflows often exhibit objective drift, in which locally plausible outputs diverge from stated task specifications. Existing instructional responses frequently emphasize tool-specific prompting practices, limiting durability as AI platforms evolve. This paper adopts a human-centered stance, treating human-in-the-loop (HITL) control as a stable educational problem rather than a transitional step toward AI autonomy. Drawing on systems engineering and control-theor",
-      "summary_fr": "Large language models (LLMs) are increasingly embedded in computer science education through AI-assisted programming tools, yet such workflows often exhibit objective drift, in which locally plausible outputs diverge from stated task specifications. Existing instructional responses frequently emphasize tool-specific prompting practices, limiting durability as AI platforms evolve. This paper adopts a human-centered stance, treating human-in-the-loop (HITL) control as a stable educational problem rather than a transitional step toward AI autonomy. Drawing on systems engineering and control-theor",
-      "resume_fr": "Large language models (LLMs) are increasingly embedded in computer science education through AI-assisted programming tools, yet such workflows often exhibit objective drift, in which locally plausible outputs diverge from stated task specifications. Existing instructional responses frequently emphasize tool-specific prompting practices, limiting durability as AI platforms evolve. This paper adopts a human-centered stance, treating human-in-the-loop (HITL) control as a stable educational problem rather than a transitional step toward AI autonomy. Drawing on systems engineering and control-theor",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Phyelds: A Pythonic Framework for Aggregate Computing",
-      "url": "https://arxiv.org/abs/2603.29999v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-31T16:57:32.000Z",
-      "score": 85,
-      "summary_en": "Aggregate programming is a field-based coordination paradigm with over a decade of exploration and successful applications across domains including sensor networks, robotics, and IoT, with implementations in various programming languages, such as Protelis, ScaFi (Scala), and FCPP (C++). A recent research direction integrates machine learning with aggregate computing, aiming to support large-scale distributed learning and provide new abstractions for implementing learning algorithms. However, existing implementations do not target data science practitioners, who predominantly work in Python--th",
-      "summary_fr": "Aggregate programming is a field-based coordination paradigm with over a decade of exploration and successful applications across domains including sensor networks, robotics, and IoT, with implementations in various programming languages, such as Protelis, ScaFi (Scala), and FCPP (C++). A recent research direction integrates machine learning with aggregate computing, aiming to support large-scale distributed learning and provide new abstractions for implementing learning algorithms. However, existing implementations do not target data science practitioners, who predominantly work in Python--th",
-      "resume_fr": "Aggregate programming is a field-based coordination paradigm with over a decade of exploration and successful applications across domains including sensor networks, robotics, and IoT, with implementations in various programming languages, such as Protelis, ScaFi (Scala), and FCPP (C++). A recent research direction integrates machine learning with aggregate computing, aiming to support large-scale distributed learning and provide new abstractions for implementing learning algorithms. However, existing implementations do not target data science practitioners, who predominantly work in Python--th",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Enhancing Structural Mapping with LLM-derived Abstractions for Analogical Reasoning in Narratives",
-      "url": "https://arxiv.org/abs/2603.29997v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-03-31T16:57:11.000Z",
-      "score": 70,
-      "summary_en": "Analogical reasoning is a key driver of human generalization in problem-solving and argumentation. Yet, analogies between narrative structures remain challenging for machines. Cognitive engines for structural mapping are not directly applicable, as they assume pre-extracted entities, whereas LLMs' performance is sensitive to prompt format and the degree of surface similarity between narratives. This gap motivates a key question: What is the impact of enhancing structural mapping with LLM-derived abstractions on their analogical reasoning ability in narratives? To that end, we propose a modular",
-      "summary_fr": "Analogical reasoning is a key driver of human generalization in problem-solving and argumentation. Yet, analogies between narrative structures remain challenging for machines. Cognitive engines for structural mapping are not directly applicable, as they assume pre-extracted entities, whereas LLMs' performance is sensitive to prompt format and the degree of surface similarity between narratives. This gap motivates a key question: What is the impact of enhancing structural mapping with LLM-derived abstractions on their analogical reasoning ability in narratives? To that end, we propose a modular",
-      "resume_fr": "Analogical reasoning is a key driver of human generalization in problem-solving and argumentation. Yet, analogies between narrative structures remain challenging for machines. Cognitive engines for structural mapping are not directly applicable, as they assume pre-extracted entities, whereas LLMs' performance is sensitive to prompt format and the degree of surface similarity between narratives. This gap motivates a key question: What is the impact of enhancing structural mapping with LLM-derived abstractions on their analogical reasoning ability in narratives? To that end, we propose a modular",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Quantifying Cross-Modal Interactions in Multimodal Glioma Survival Prediction via InterSHAP: Evidence for Additive Signal Integration",
-      "url": "https://arxiv.org/abs/2603.29977v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-03-31T16:39:56.000Z",
-      "score": 70,
-      "summary_en": "Multimodal deep learning for cancer prognosis is commonly assumed to benefit from synergistic cross-modal interactions, yet this assumption has not been directly tested in survival prediction settings. This work adapts InterSHAP, a Shapley interaction index-based metric, from classification to Cox proportional hazards models and applies it to quantify cross-modal interactions in glioma survival prediction. Using TCGA-GBM and TCGA-LGG data (n=575), we evaluate four fusion architectures combining whole-slide image (WSI) and RNA-seq features. Our central finding is an inverse relationship between",
-      "summary_fr": "Multimodal deep learning for cancer prognosis is commonly assumed to benefit from synergistic cross-modal interactions, yet this assumption has not been directly tested in survival prediction settings. This work adapts InterSHAP, a Shapley interaction index-based metric, from classification to Cox proportional hazards models and applies it to quantify cross-modal interactions in glioma survival prediction. Using TCGA-GBM and TCGA-LGG data (n=575), we evaluate four fusion architectures combining whole-slide image (WSI) and RNA-seq features. Our central finding is an inverse relationship between",
-      "resume_fr": "Multimodal deep learning for cancer prognosis is commonly assumed to benefit from synergistic cross-modal interactions, yet this assumption has not been directly tested in survival prediction settings. This work adapts InterSHAP, a Shapley interaction index-based metric, from classification to Cox proportional hazards models and applies it to quantify cross-modal interactions in glioma survival prediction. Using TCGA-GBM and TCGA-LGG data (n=575), we evaluate four fusion architectures combining whole-slide image (WSI) and RNA-seq features. Our central finding is an inverse relationship between",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Physiological and Semantic Patterns in Medical Teams Using an Intelligent Tutoring System",
-      "url": "https://arxiv.org/abs/2603.29950v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-31T16:18:57.000Z",
-      "score": 50,
-      "summary_en": "Effective collaboration requires teams to manage complex cognitive and emotional states through Socially Shared Regulation of Learning (SSRL). Physiological synchrony (i.e., longitudinal alignment in physiological signals) can indicate these states, but is hard to interpret on its own. We investigate the physiological and conversational dynamics of four medical dyads diagnosing a virtual patient case using an intelligent tutoring system. Semantic shifts in dialogue were correlated with transient physiological synchrony peaks. We also coded utterance segments for SSRL and derived cosine similar",
-      "summary_fr": "Effective collaboration requires teams to manage complex cognitive and emotional states through Socially Shared Regulation of Learning (SSRL). Physiological synchrony (i.e., longitudinal alignment in physiological signals) can indicate these states, but is hard to interpret on its own. We investigate the physiological and conversational dynamics of four medical dyads diagnosing a virtual patient case using an intelligent tutoring system. Semantic shifts in dialogue were correlated with transient physiological synchrony peaks. We also coded utterance segments for SSRL and derived cosine similar",
-      "resume_fr": "Effective collaboration requires teams to manage complex cognitive and emotional states through Socially Shared Regulation of Learning (SSRL). Physiological synchrony (i.e., longitudinal alignment in physiological signals) can indicate these states, but is hard to interpret on its own. We investigate the physiological and conversational dynamics of four medical dyads diagnosing a virtual patient case using an intelligent tutoring system. Semantic shifts in dialogue were correlated with transient physiological synchrony peaks. We also coded utterance segments for SSRL and derived cosine similar",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Rethinking AI Literacy Education in Higher Education: Bridging Risk Perception and Responsible Adoption",
-      "url": "https://arxiv.org/abs/2603.29935v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-03-31T16:08:16.000Z",
-      "score": 50,
-      "summary_en": "As AI becomes increasingly embedded across societal domains, understanding how future AI practitioners, particularly technology students, perceive its risks is essential for responsible development and adoption. This study analyzed responses from 139 students in Computer Science, Data Science/Data Analytics, and other disciplines using both explicit AI risk ratings and scenario-based assessments of risk and adoption willingness. Four key findings emerged: (1) Students expressed substantially higher concern for concrete, explicitly stated risks than for abstract or scenario-embedded risks; (2) ",
-      "summary_fr": "As AI becomes increasingly embedded across societal domains, understanding how future AI practitioners, particularly technology students, perceive its risks is essential for responsible development and adoption. This study analyzed responses from 139 students in Computer Science, Data Science/Data Analytics, and other disciplines using both explicit AI risk ratings and scenario-based assessments of risk and adoption willingness. Four key findings emerged: (1) Students expressed substantially higher concern for concrete, explicitly stated risks than for abstract or scenario-embedded risks; (2) ",
-      "resume_fr": "As AI becomes increasingly embedded across societal domains, understanding how future AI practitioners, particularly technology students, perceive its risks is essential for responsible development and adoption. This study analyzed responses from 139 students in Computer Science, Data Science/Data Analytics, and other disciplines using both explicit AI risk ratings and scenario-based assessments of risk and adoption willingness. Four key findings emerged: (1) Students expressed substantially higher concern for concrete, explicitly stated risks than for abstract or scenario-embedded risks; (2) ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
 }
