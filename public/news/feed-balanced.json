@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T08:02:14.704Z",
+  "generatedAt": "2026-04-17T08:02:33.617Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,101 @@
     }
   },
   "items": [
+    {
+      "title": "The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows",
+      "url": "https://arxiv.org/abs/2604.14807v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-16T09:30:28.000Z",
+      "score": 50,
+      "summary_en": "The rapid integration of large language models (LLMs) into everyday workflows has transformed how individuals perform cognitive tasks such as writing, programming, analysis, and multilingual communication. While prior research has focused on model reliability, hallucination, and user trust calibration, less attention has been given to how LLM usage reshapes users' perceptions of their own capabilities. This paper introduces the LLM fallacy, a cognitive attribution error in which individuals misinterpret LLM-assisted outputs as evidence of their own independent competence, producing a systemati",
+      "summary_fr": "The rapid integration of large language models (LLMs) into everyday workflows has transformed how individuals perform cognitive tasks such as writing, programming, analysis, and multilingual communication. While prior research has focused on model reliability, hallucination, and user trust calibration, less attention has been given to how LLM usage reshapes users' perceptions of their own capabilities. This paper introduces the LLM fallacy, a cognitive attribution error in which individuals misinterpret LLM-assisted outputs as evidence of their own independent competence, producing a systemati",
+      "resume_fr": "The rapid integration of large language models (LLMs) into everyday workflows has transformed how individuals perform cognitive tasks such as writing, programming, analysis, and multilingual communication. While prior research has focused on model reliability, hallucination, and user trust calibration, less attention has been given to how LLM usage reshapes users' perceptions of their own capabilities. This paper introduces the LLM fallacy, a cognitive attribution error in which individuals misinterpret LLM-assisted outputs as evidence of their own independent competence, producing a systemati",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "CogEvolution: A Human-like Generative Educational Agent to Simulate Student's Cognitive Evolution",
+      "url": "https://arxiv.org/abs/2604.14786v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-16T08:49:10.000Z",
+      "score": 50,
+      "summary_en": "Generative Agents, owing to their precise modeling and simulation capabilities of human behavior, have become a pivotal tool in the field of Artificial Intelligence in Education (AIEd) for uncovering complex cognitive processes of learners. However, existing educational agents predominantly rely on static personas to simulate student learning behaviors, neglecting the decisive role of deep cognitive capabilities in learning outcomes during practice interactions. Furthermore, they struggle to characterize the dynamic fluidity of knowledge internalization, transfer, and cognitive state transitio",
+      "summary_fr": "Generative Agents, owing to their precise modeling and simulation capabilities of human behavior, have become a pivotal tool in the field of Artificial Intelligence in Education (AIEd) for uncovering complex cognitive processes of learners. However, existing educational agents predominantly rely on static personas to simulate student learning behaviors, neglecting the decisive role of deep cognitive capabilities in learning outcomes during practice interactions. Furthermore, they struggle to characterize the dynamic fluidity of knowledge internalization, transfer, and cognitive state transitio",
+      "resume_fr": "Generative Agents, owing to their precise modeling and simulation capabilities of human behavior, have become a pivotal tool in the field of Artificial Intelligence in Education (AIEd) for uncovering complex cognitive processes of learners. However, existing educational agents predominantly rely on static personas to simulate student learning behaviors, neglecting the decisive role of deep cognitive capabilities in learning outcomes during practice interactions. Furthermore, they struggle to characterize the dynamic fluidity of knowledge internalization, transfer, and cognitive state transitio",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Rethinking Patient Education as Multi-turn Multi-modal Interaction",
+      "url": "https://arxiv.org/abs/2604.14656v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-16T06:06:50.000Z",
+      "score": 85,
+      "summary_en": "Most medical multimodal benchmarks focus on static tasks such as image question answering, report generation, and plain-language rewriting. Patient education is more demanding: systems must identify relevant evidence across images, show patients where to look, explain findings in accessible language, and handle confusion or distress. Yet most patient education work remains text-only, even though combined image-and-text explanations may better support understanding. We introduce MedImageEdu, a benchmark for multi-turn, evidence-grounded radiology patient education. Each case provides a radiolog",
+      "summary_fr": "Most medical multimodal benchmarks focus on static tasks such as image question answering, report generation, and plain-language rewriting. Patient education is more demanding: systems must identify relevant evidence across images, show patients where to look, explain findings in accessible language, and handle confusion or distress. Yet most patient education work remains text-only, even though combined image-and-text explanations may better support understanding. We introduce MedImageEdu, a benchmark for multi-turn, evidence-grounded radiology patient education. Each case provides a radiolog",
+      "resume_fr": "Most medical multimodal benchmarks focus on static tasks such as image question answering, report generation, and plain-language rewriting. Patient education is more demanding: systems must identify relevant evidence across images, show patients where to look, explain findings in accessible language, and handle confusion or distress. Yet most patient education work remains text-only, even though combined image-and-text explanations may better support understanding. We introduce MedImageEdu, a benchmark for multi-turn, evidence-grounded radiology patient education. Each case provides a radiolog",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Uncertainty-aware Generative Learning Path Recommendation with Cognition-Adaptive Diffusion",
+      "url": "https://arxiv.org/abs/2604.14613v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-16T04:39:53.000Z",
+      "score": 50,
+      "summary_en": "Learning Path Recommendation (LPR) is critical for personalized education, yet current methods often fail to account for historical interaction uncertainty (e.g., lucky guesses or accidental slips) and lack adaptability to diverse learning goals. We propose U-GLAD (Uncertainty-aware Generative Learning Path Recommendation with Cognition-Adaptive Diffusion). To address representation bias, the framework models cognitive states as probability distributions, capturing the learner's underlying true state via a Gaussian LSTM. To ensure highly personalized recommendation, a goal-oriented concept enc",
+      "summary_fr": "Learning Path Recommendation (LPR) is critical for personalized education, yet current methods often fail to account for historical interaction uncertainty (e.g., lucky guesses or accidental slips) and lack adaptability to diverse learning goals. We propose U-GLAD (Uncertainty-aware Generative Learning Path Recommendation with Cognition-Adaptive Diffusion). To address representation bias, the framework models cognitive states as probability distributions, capturing the learner's underlying true state via a Gaussian LSTM. To ensure highly personalized recommendation, a goal-oriented concept enc",
+      "resume_fr": "Learning Path Recommendation (LPR) is critical for personalized education, yet current methods often fail to account for historical interaction uncertainty (e.g., lucky guesses or accidental slips) and lack adaptability to diverse learning goals. We propose U-GLAD (Uncertainty-aware Generative Learning Path Recommendation with Cognition-Adaptive Diffusion). To address representation bias, the framework models cognitive states as probability distributions, capturing the learner's underlying true state via a Gaussian LSTM. To ensure highly personalized recommendation, a goal-oriented concept enc",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Executive functions as mediators of early educational disparities by SES, gender and birth month",
+      "url": "https://www.nature.com/articles/s41539-026-00422-w",
+      "source": "npj Science of Learning (Nature)",
+      "published": "2026-04-16T00:00:00.000Z",
+      "score": 65,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
+    },
     {
       "title": "SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments",
       "url": "https://arxiv.org/abs/2604.14144v1",
@@ -1138,101 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Comparing the Impact of Pedagogy-Informed Custom and General-Purpose GAI Chatbots on Students' Science Problem-Solving Processes and Performance Using Heterogeneous Interaction Network Analysis",
-      "url": "https://arxiv.org/abs/2604.03022v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-03T13:13:28.000Z",
-      "score": 85,
-      "summary_en": "Problem solving plays an essential role in science education, and generative AI (GAI) chatbots have emerged as a promising tool for supporting students' science problem solving. However, general-purpose chatbots (e.g., ChatGPT), which often provide direct, ready-made answers, may lead to students' cognitive offloading. Prior research has rarely focused on custom chatbots for facilitating students' science problem solving, nor has it examined how they differently influence problem-solving processes and performance compared to general-purpose chatbots. To address this gap, we developed a pedagog",
-      "summary_fr": "Problem solving plays an essential role in science education, and generative AI (GAI) chatbots have emerged as a promising tool for supporting students' science problem solving. However, general-purpose chatbots (e.g., ChatGPT), which often provide direct, ready-made answers, may lead to students' cognitive offloading. Prior research has rarely focused on custom chatbots for facilitating students' science problem solving, nor has it examined how they differently influence problem-solving processes and performance compared to general-purpose chatbots. To address this gap, we developed a pedagog",
-      "resume_fr": "Problem solving plays an essential role in science education, and generative AI (GAI) chatbots have emerged as a promising tool for supporting students' science problem solving. However, general-purpose chatbots (e.g., ChatGPT), which often provide direct, ready-made answers, may lead to students' cognitive offloading. Prior research has rarely focused on custom chatbots for facilitating students' science problem solving, nor has it examined how they differently influence problem-solving processes and performance compared to general-purpose chatbots. To address this gap, we developed a pedagog",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "ENIAC’s Architects Wove Stories Through Computing",
-      "url": "https://spectrum.ieee.org/eniac-80th-anniversary-weaving",
-      "source": "IEEE Spectrum – AI",
-      "published": "2026-04-03T13:00:02.000Z",
-      "score": 50,
-      "summary_en": "This year marks the 80th anniversary of ENIAC, the first general-purpose digital computer. The computer was built during World War II to speed up ballistics calculations, but its contributions to computing extend well beyond military applications. Two of ENIAC’s key architects—John W. Mauchly, its co-inventor, and Kathleen “Kay” McNulty, one of the six original programmers—married a few years after its completion and raised seven children together. Mauchly and McNulty’s grandchild Naomi Most delivered a talk as part of a celebration in honor of ENIAC’s anniversary on 15 February, which was hel",
-      "summary_fr": "This year marks the 80th anniversary of ENIAC, the first general-purpose digital computer. The computer was built during World War II to speed up ballistics calculations, but its contributions to computing extend well beyond military applications. Two of ENIAC’s key architects—John W. Mauchly, its co-inventor, and Kathleen “Kay” McNulty, one of the six original programmers—married a few years after its completion and raised seven children together. Mauchly and McNulty’s grandchild Naomi Most delivered a talk as part of a celebration in honor of ENIAC’s anniversary on 15 February, which was hel",
-      "resume_fr": "This year marks the 80th anniversary of ENIAC, the first general-purpose digital computer. The computer was built during World War II to speed up ballistics calculations, but its contributions to computing extend well beyond military applications. Two of ENIAC’s key architects—John W. Mauchly, its co-inventor, and Kathleen “Kay” McNulty, one of the six original programmers—married a few years after its completion and raised seven children together. Mauchly and McNulty’s grandchild Naomi Most delivered a talk as part of a celebration in honor of ENIAC’s anniversary on 15 February, which was hel",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
-    },
-    {
-      "title": "Home numeracy experiences are associated with number-related brain activity and connectivity in early childhood",
-      "url": "https://www.nature.com/articles/s41539-026-00419-5",
-      "source": "npj Science of Learning (Nature)",
-      "published": "2026-04-03T00:00:00.000Z",
-      "score": 70,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
-    },
-    {
-      "title": "Student teacher inter brain coupling forecast cross semester academic fluctuation in real world classrooms",
-      "url": "https://www.nature.com/articles/s41539-026-00421-x",
-      "source": "npj Science of Learning (Nature)",
-      "published": "2026-04-03T00:00:00.000Z",
-      "score": 50,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
-    },
-    {
-      "title": "ActionParty: Multi-Subject Action Binding in Generative Video Games",
-      "url": "https://arxiv.org/abs/2604.02330v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-04-02T17:59:58.000Z",
-      "score": 70,
-      "summary_en": "Recent advances in video diffusion have enabled the development of \"world models\" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings, failing to control multiple agents simultaneously in a scene. In this work, we tackle a fundamental issue of action binding in existing video diffusion models, which struggle to associate specific actions with their corresponding subjects. For this purpose, we propose ActionParty, an action controllable multi-subject world model for generative video games. It introduces subject state tokens, i.e.",
-      "summary_fr": "Recent advances in video diffusion have enabled the development of \"world models\" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings, failing to control multiple agents simultaneously in a scene. In this work, we tackle a fundamental issue of action binding in existing video diffusion models, which struggle to associate specific actions with their corresponding subjects. For this purpose, we propose ActionParty, an action controllable multi-subject world model for generative video games. It introduces subject state tokens, i.e.",
-      "resume_fr": "Recent advances in video diffusion have enabled the development of \"world models\" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings, failing to control multiple agents simultaneously in a scene. In this work, we tackle a fundamental issue of action binding in existing video diffusion models, which struggle to associate specific actions with their corresponding subjects. For this purpose, we propose ActionParty, an action controllable multi-subject world model for generative video games. It introduces subject state tokens, i.e.",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
