@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T07:43:49.082Z",
+  "generatedAt": "2026-04-20T08:25:15.814Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,120 @@
     }
   },
   "items": [
+    {
+      "title": "Evaluating the Progression of Large Language Model Capabilities for Small-Molecule Drug Design",
+      "url": "https://arxiv.org/abs/2604.16279v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-04-17T17:40:26.000Z",
+      "score": 50,
+      "summary_en": "Large Language Models (LLMs) have the potential to accelerate small molecule drug design due to their ability to reason about information from diverse sources and formats. However, their practical utility remains unclear due to the lack of benchmarks that reflect real-world scenarios. In this work, we introduce a suite of chemically-grounded tasks spanning molecular property prediction, molecular representation transformations, and molecular design. Importantly, we formulate these tasks as reinforcement learning (RL) environments, enabling a unified approach for evaluation and post-training. A",
+      "summary_fr": "Large Language Models (LLMs) have the potential to accelerate small molecule drug design due to their ability to reason about information from diverse sources and formats. However, their practical utility remains unclear due to the lack of benchmarks that reflect real-world scenarios. In this work, we introduce a suite of chemically-grounded tasks spanning molecular property prediction, molecular representation transformations, and molecular design. Importantly, we formulate these tasks as reinforcement learning (RL) environments, enabling a unified approach for evaluation and post-training. A",
+      "resume_fr": "Large Language Models (LLMs) have the potential to accelerate small molecule drug design due to their ability to reason about information from diverse sources and formats. However, their practical utility remains unclear due to the lack of benchmarks that reflect real-world scenarios. In this work, we introduce a suite of chemically-grounded tasks spanning molecular property prediction, molecular representation transformations, and molecular design. Importantly, we formulate these tasks as reinforcement learning (RL) environments, enabling a unified approach for evaluation and post-training. A",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "SwanNLP at SemEval-2026 Task 5: An LLM-based Framework for Plausibility Scoring in Narrative Word Sense Disambiguation",
+      "url": "https://arxiv.org/abs/2604.16262v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-04-17T17:18:51.000Z",
+      "score": 70,
+      "summary_en": "Recent advances in language models have substantially improved Natural Language Understanding (NLU). Although widely used benchmarks suggest that Large Language Models (LLMs) can effectively disambiguate, their practical applicability in real-world narrative contexts remains underexplored. SemEval-2026 Task 5 addresses this gap by introducing a task that predicts the human-perceived plausibility of a word sense within a short story. In this work, we propose an LLM-based framework for plausibility scoring of homonymous word senses in narrative texts using a structured reasoning mechanism. We ex",
+      "summary_fr": "Recent advances in language models have substantially improved Natural Language Understanding (NLU). Although widely used benchmarks suggest that Large Language Models (LLMs) can effectively disambiguate, their practical applicability in real-world narrative contexts remains underexplored. SemEval-2026 Task 5 addresses this gap by introducing a task that predicts the human-perceived plausibility of a word sense within a short story. In this work, we propose an LLM-based framework for plausibility scoring of homonymous word senses in narrative texts using a structured reasoning mechanism. We ex",
+      "resume_fr": "Recent advances in language models have substantially improved Natural Language Understanding (NLU). Although widely used benchmarks suggest that Large Language Models (LLMs) can effectively disambiguate, their practical applicability in real-world narrative contexts remains underexplored. SemEval-2026 Task 5 addresses this gap by introducing a task that predicts the human-perceived plausibility of a word sense within a short story. In this work, we propose an LLM-based framework for plausibility scoring of homonymous word senses in narrative texts using a structured reasoning mechanism. We ex",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "SCRIPT: Implementing an Intelligent Tutoring System for Programming in a German University Context",
+      "url": "https://arxiv.org/abs/2604.16117v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-17T14:53:38.000Z",
+      "score": 50,
+      "summary_en": "Practice and extensive exercises are essential in programming education. Intelligent tutoring systems (ITSs) are a viable option to provide individualized hints and advice to programming students even when human tutors are not available. However, prior ITS for programming rarely support the Python programming language, mostly focus on introductory programming, and rarely take recent developments in generative models into account. We aim to establish a novel ITS for Python programming that is highly adaptable, serves both as a teaching and research platform, provides interfaces to plug in hint ",
+      "summary_fr": "Practice and extensive exercises are essential in programming education. Intelligent tutoring systems (ITSs) are a viable option to provide individualized hints and advice to programming students even when human tutors are not available. However, prior ITS for programming rarely support the Python programming language, mostly focus on introductory programming, and rarely take recent developments in generative models into account. We aim to establish a novel ITS for Python programming that is highly adaptable, serves both as a teaching and research platform, provides interfaces to plug in hint ",
+      "resume_fr": "Practice and extensive exercises are essential in programming education. Intelligent tutoring systems (ITSs) are a viable option to provide individualized hints and advice to programming students even when human tutors are not available. However, prior ITS for programming rarely support the Python programming language, mostly focus on introductory programming, and rarely take recent developments in generative models into account. We aim to establish a novel ITS for Python programming that is highly adaptable, serves both as a teaching and research platform, provides interfaces to plug in hint ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Reasoning-targeted Jailbreak Attacks on Large Reasoning Models via Semantic Triggers and Psychological Framing",
+      "url": "https://arxiv.org/abs/2604.15725v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-17T05:56:46.000Z",
+      "score": 50,
+      "summary_en": "Large Reasoning Models (LRMs) have demonstrated strong capabilities in generating step-by-step reasoning chains alongside final answers, enabling their deployment in high-stakes domains such as healthcare and education. While prior jailbreak attack studies have focused on the safety of final answers, little attention has been given to the safety of the reasoning process. In this work, we identify a novel problem that injects harmful content into the reasoning steps while preserving unchanged answers. This type of attack presents two key challenges: 1) manipulating the input instructions may in",
+      "summary_fr": "Large Reasoning Models (LRMs) have demonstrated strong capabilities in generating step-by-step reasoning chains alongside final answers, enabling their deployment in high-stakes domains such as healthcare and education. While prior jailbreak attack studies have focused on the safety of final answers, little attention has been given to the safety of the reasoning process. In this work, we identify a novel problem that injects harmful content into the reasoning steps while preserving unchanged answers. This type of attack presents two key challenges: 1) manipulating the input instructions may in",
+      "resume_fr": "Large Reasoning Models (LRMs) have demonstrated strong capabilities in generating step-by-step reasoning chains alongside final answers, enabling their deployment in high-stakes domains such as healthcare and education. While prior jailbreak attack studies have focused on the safety of final answers, little attention has been given to the safety of the reasoning process. In this work, we identify a novel problem that injects harmful content into the reasoning steps while preserving unchanged answers. This type of attack presents two key challenges: 1) manipulating the input instructions may in",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Designing More Engaging Serious Games to Support Students' Mental Health: A Pilot Study Based on A CBT-Informed Design Framework",
+      "url": "https://arxiv.org/abs/2604.15662v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-17T03:33:36.000Z",
+      "score": 85,
+      "summary_en": "Addressing the issues of dullness, low compliance, and lack of appeal in current digital mental health education and serious games for students and adolescents, this study proposes a novel, experience-centered framework for serious game design: the Therapeutic Procedural Rhetoric and Mechanism Mapping Framework (TPR-MMF). Based on this framework, a side-scrolling serious game prototype, \"World + You - World,\" was developed. This study compared the effectiveness of TPR-MMF-based games with traditional explicit educational serious games through a small-sample randomized controlled trial (N=28). ",
+      "summary_fr": "Addressing the issues of dullness, low compliance, and lack of appeal in current digital mental health education and serious games for students and adolescents, this study proposes a novel, experience-centered framework for serious game design: the Therapeutic Procedural Rhetoric and Mechanism Mapping Framework (TPR-MMF). Based on this framework, a side-scrolling serious game prototype, \"World + You - World,\" was developed. This study compared the effectiveness of TPR-MMF-based games with traditional explicit educational serious games through a small-sample randomized controlled trial (N=28). ",
+      "resume_fr": "Addressing the issues of dullness, low compliance, and lack of appeal in current digital mental health education and serious games for students and adolescents, this study proposes a novel, experience-centered framework for serious game design: the Therapeutic Procedural Rhetoric and Mechanism Mapping Framework (TPR-MMF). Based on this framework, a side-scrolling serious game prototype, \"World + You - World,\" was developed. This study compared the effectiveness of TPR-MMF-based games with traditional explicit educational serious games through a small-sample randomized controlled trial (N=28). ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "The Crutch or the Ceiling? How Different Generations of LLMs Shape EFL Student Writings",
+      "url": "https://arxiv.org/abs/2604.15460v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-16T18:19:46.000Z",
+      "score": 50,
+      "summary_en": "The rapid evolution of Large Language Models (LLMs) has made them powerful tools for enhancing student writing. This study explores the extent and limitations of LLMs in assisting secondary-level English as a Foreign Language (EFL) students with their writing tasks. While existing studies focus on output quality, our research examines the developmental shift in LLMs and their impact on EFL students, assessing whether smarter models act as true scaffolds or mere compensatory crutches. To achieve this, we analyse student compositions assisted by LLMs before and after ChatGPT's release, using bot",
+      "summary_fr": "The rapid evolution of Large Language Models (LLMs) has made them powerful tools for enhancing student writing. This study explores the extent and limitations of LLMs in assisting secondary-level English as a Foreign Language (EFL) students with their writing tasks. While existing studies focus on output quality, our research examines the developmental shift in LLMs and their impact on EFL students, assessing whether smarter models act as true scaffolds or mere compensatory crutches. To achieve this, we analyse student compositions assisted by LLMs before and after ChatGPT's release, using bot",
+      "resume_fr": "The rapid evolution of Large Language Models (LLMs) has made them powerful tools for enhancing student writing. This study explores the extent and limitations of LLMs in assisting secondary-level English as a Foreign Language (EFL) students with their writing tasks. While existing studies focus on output quality, our research examines the developmental shift in LLMs and their impact on EFL students, assessing whether smarter models act as true scaffolds or mere compensatory crutches. To achieve this, we analyse student compositions assisted by LLMs before and after ChatGPT's release, using bot",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows",
       "url": "https://arxiv.org/abs/2604.14807v1",
@@ -1119,120 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Learning to adaptively cooperate through social interactions during childhood and adolescence",
-      "url": "https://www.nature.com/articles/s41539-026-00423-9",
-      "source": "npj Science of Learning (Nature)",
-      "published": "2026-04-04T00:00:00.000Z",
-      "score": 70,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
-    },
-    {
-      "title": "Semantic relatedness and the efficacy of retrieval practice",
-      "url": "https://www.nature.com/articles/s41539-026-00416-8",
-      "source": "npj Science of Learning (Nature)",
-      "published": "2026-04-04T00:00:00.000Z",
-      "score": 70,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
-    },
-    {
-      "title": "PR3DICTR: A modular AI framework for medical 3D image-based detection and outcome prediction",
-      "url": "https://arxiv.org/abs/2604.03203v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-04-03T17:25:17.000Z",
-      "score": 70,
-      "summary_en": "Three-dimensional medical image data and computer-aided decision making, particularly using deep learning, are becoming increasingly important in the medical field. To aid in these developments we introduce PR3DICTR: Platform for Research in 3D Image Classification and sTandardised tRaining. Built using community-standard distributions (PyTorch and MONAI), PR3DICTR provides an open-access, flexible and convenient framework for prediction model development, with an explicit focus on classification using three-dimensional medical image data. By combining modular design principles and standardiza",
-      "summary_fr": "Three-dimensional medical image data and computer-aided decision making, particularly using deep learning, are becoming increasingly important in the medical field. To aid in these developments we introduce PR3DICTR: Platform for Research in 3D Image Classification and sTandardised tRaining. Built using community-standard distributions (PyTorch and MONAI), PR3DICTR provides an open-access, flexible and convenient framework for prediction model development, with an explicit focus on classification using three-dimensional medical image data. By combining modular design principles and standardiza",
-      "resume_fr": "Three-dimensional medical image data and computer-aided decision making, particularly using deep learning, are becoming increasingly important in the medical field. To aid in these developments we introduce PR3DICTR: Platform for Research in 3D Image Classification and sTandardised tRaining. Built using community-standard distributions (PyTorch and MONAI), PR3DICTR provides an open-access, flexible and convenient framework for prediction model development, with an explicit focus on classification using three-dimensional medical image data. By combining modular design principles and standardiza",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Reliability Gated Multi-Teacher Distillation for Low Resource Abstractive Summarization",
-      "url": "https://arxiv.org/abs/2604.03192v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-04-03T17:06:51.000Z",
-      "score": 85,
-      "summary_en": "We study multiteacher knowledge distillation for low resource abstractive summarization from a reliability aware perspective. We introduce EWAD (Entropy Weighted Agreement Aware Distillation), a token level mechanism that routes supervision between teacher distillation and gold supervision based on inter teacher agreement, and CPDP (Capacity Proportional Divergence Preservation), a geometric constraint on the student position relative to heterogeneous teachers. Across two Bangla datasets, 13 BanglaT5 ablations, and eight Qwen2.5 experiments, we find that logit level KD provides the most reliab",
-      "summary_fr": "We study multiteacher knowledge distillation for low resource abstractive summarization from a reliability aware perspective. We introduce EWAD (Entropy Weighted Agreement Aware Distillation), a token level mechanism that routes supervision between teacher distillation and gold supervision based on inter teacher agreement, and CPDP (Capacity Proportional Divergence Preservation), a geometric constraint on the student position relative to heterogeneous teachers. Across two Bangla datasets, 13 BanglaT5 ablations, and eight Qwen2.5 experiments, we find that logit level KD provides the most reliab",
-      "resume_fr": "We study multiteacher knowledge distillation for low resource abstractive summarization from a reliability aware perspective. We introduce EWAD (Entropy Weighted Agreement Aware Distillation), a token level mechanism that routes supervision between teacher distillation and gold supervision based on inter teacher agreement, and CPDP (Capacity Proportional Divergence Preservation), a geometric constraint on the student position relative to heterogeneous teachers. Across two Bangla datasets, 13 BanglaT5 ablations, and eight Qwen2.5 experiments, we find that logit level KD provides the most reliab",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling",
-      "url": "https://arxiv.org/abs/2604.03191v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-04-03T17:06:31.000Z",
-      "score": 70,
-      "summary_en": "Scaling Vision-Language-Action (VLA) models by upgrading the vision encoder is expected to improve downstream manipulation performance--as it does in vision-language modeling. We show that this expectation fails when actions are represented as discrete tokens, and explain why through an information-theoretic principle we call the Compression Gap: in any visuomotor pipeline, scaling behavior is governed by the location of the tightest information bottleneck. When actions are continuous (e.g., Diffusion Policy), the vision encoder is the binding constraint, and upgrading it directly improves per",
-      "summary_fr": "Scaling Vision-Language-Action (VLA) models by upgrading the vision encoder is expected to improve downstream manipulation performance--as it does in vision-language modeling. We show that this expectation fails when actions are represented as discrete tokens, and explain why through an information-theoretic principle we call the Compression Gap: in any visuomotor pipeline, scaling behavior is governed by the location of the tightest information bottleneck. When actions are continuous (e.g., Diffusion Policy), the vision encoder is the binding constraint, and upgrading it directly improves per",
-      "resume_fr": "Scaling Vision-Language-Action (VLA) models by upgrading the vision encoder is expected to improve downstream manipulation performance--as it does in vision-language modeling. We show that this expectation fails when actions are represented as discrete tokens, and explain why through an information-theoretic principle we call the Compression Gap: in any visuomotor pipeline, scaling behavior is governed by the location of the tightest information bottleneck. When actions are continuous (e.g., Diffusion Policy), the vision encoder is the binding constraint, and upgrading it directly improves per",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Same Feedback, Different Source: How AI vs. Human Feedback Attribution and Credibility Shape Learner Behavior in Computing Education",
-      "url": "https://arxiv.org/abs/2604.03075v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-03T14:52:24.000Z",
-      "score": 50,
-      "summary_en": "As AI systems increasingly take on instructional roles - providing feedback, guiding practice, evaluating work - a fundamental question emerges: does it matter to learners who they believe is on the other side? We investigated this using a three-condition experiment (N=148) in which participants completed a creative coding tutorial and received feedback generated by the same large language model, attributed to either an AI system (with instant or delayed delivery) or a human teaching assistant (with matched delayed delivery). This three-condition design separates the effect of source attributi",
-      "summary_fr": "As AI systems increasingly take on instructional roles - providing feedback, guiding practice, evaluating work - a fundamental question emerges: does it matter to learners who they believe is on the other side? We investigated this using a three-condition experiment (N=148) in which participants completed a creative coding tutorial and received feedback generated by the same large language model, attributed to either an AI system (with instant or delayed delivery) or a human teaching assistant (with matched delayed delivery). This three-condition design separates the effect of source attributi",
-      "resume_fr": "As AI systems increasingly take on instructional roles - providing feedback, guiding practice, evaluating work - a fundamental question emerges: does it matter to learners who they believe is on the other side? We investigated this using a three-condition experiment (N=148) in which participants completed a creative coding tutorial and received feedback generated by the same large language model, attributed to either an AI system (with instant or delayed delivery) or a human teaching assistant (with matched delayed delivery). This three-condition design separates the effect of source attributi",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
