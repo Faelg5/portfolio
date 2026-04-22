@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T08:06:52.217Z",
+  "generatedAt": "2026-04-22T08:04:01.133Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -96,6 +96,120 @@
   },
   "items": [
     {
+      "title": "VLA Foundry: A Unified Framework for Training Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2604.19728v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-04-21T17:51:51.000Z",
+      "score": 70,
+      "summary_en": "We present VLA Foundry, an open-source framework that unifies LLM, VLM, and VLA training in a single codebase. Most open-source VLA efforts specialize on the action training stage, often stitching together incompatible pretraining pipelines. VLA Foundry instead provides a shared training stack with end-to-end control, from language pretraining to action-expert fine-tuning. VLA Foundry supports both from-scratch training and pretrained backbones from Hugging Face. To demonstrate the utility of our framework, we train and release two types of models: the first trained fully from scratch through ",
+      "summary_fr": "We present VLA Foundry, an open-source framework that unifies LLM, VLM, and VLA training in a single codebase. Most open-source VLA efforts specialize on the action training stage, often stitching together incompatible pretraining pipelines. VLA Foundry instead provides a shared training stack with end-to-end control, from language pretraining to action-expert fine-tuning. VLA Foundry supports both from-scratch training and pretrained backbones from Hugging Face. To demonstrate the utility of our framework, we train and release two types of models: the first trained fully from scratch through ",
+      "resume_fr": "We present VLA Foundry, an open-source framework that unifies LLM, VLM, and VLA training in a single codebase. Most open-source VLA efforts specialize on the action training stage, often stitching together incompatible pretraining pipelines. VLA Foundry instead provides a shared training stack with end-to-end control, from language pretraining to action-expert fine-tuning. VLA Foundry supports both from-scratch training and pretrained backbones from Hugging Face. To demonstrate the utility of our framework, we train and release two types of models: the first trained fully from scratch through ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Benign Overfitting in Adversarial Training for Vision Transformers",
+      "url": "https://arxiv.org/abs/2604.19724v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-04-21T17:48:51.000Z",
+      "score": 50,
+      "summary_en": "Despite the remarkable success of Vision Transformers (ViTs) across a wide range of vision tasks, recent studies have revealed that they remain vulnerable to adversarial examples, much like Convolutional Neural Networks (CNNs). A common empirical defense strategy is adversarial training, yet the theoretical underpinnings of its robustness in ViTs remain largely unexplored. In this work, we present the first theoretical analysis of adversarial training under simplified ViT architectures. We show that, when trained under a signal-to-noise ratio that satisfies a certain condition and within a mod",
+      "summary_fr": "Despite the remarkable success of Vision Transformers (ViTs) across a wide range of vision tasks, recent studies have revealed that they remain vulnerable to adversarial examples, much like Convolutional Neural Networks (CNNs). A common empirical defense strategy is adversarial training, yet the theoretical underpinnings of its robustness in ViTs remain largely unexplored. In this work, we present the first theoretical analysis of adversarial training under simplified ViT architectures. We show that, when trained under a signal-to-noise ratio that satisfies a certain condition and within a mod",
+      "resume_fr": "Despite the remarkable success of Vision Transformers (ViTs) across a wide range of vision tasks, recent studies have revealed that they remain vulnerable to adversarial examples, much like Convolutional Neural Networks (CNNs). A common empirical defense strategy is adversarial training, yet the theoretical underpinnings of its robustness in ViTs remain largely unexplored. In this work, we present the first theoretical analysis of adversarial training under simplified ViT architectures. We show that, when trained under a signal-to-noise ratio that satisfies a certain condition and within a mod",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Fairness Audits of Institutional Risk Models in Deployed ML Pipelines",
+      "url": "https://arxiv.org/abs/2604.19468v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-21T13:50:43.000Z",
+      "score": 50,
+      "summary_en": "Fairness audits of institutional risk models are critical for understanding how deployed machine learning pipelines allocate resources. Drawing on multi-year collaboration with Centennial College, where our prior ethnographic work introduced the ASP-HEI Cycle, we present a replica-based audit of a deployed Early Warning System (EWS), replicating its model using institutional training data and design specifications. We evaluate disparities by gender, age, and residency status across the full pipeline (training data, model predictions, and post-processing) using standard fairness metrics. Our au",
+      "summary_fr": "Fairness audits of institutional risk models are critical for understanding how deployed machine learning pipelines allocate resources. Drawing on multi-year collaboration with Centennial College, where our prior ethnographic work introduced the ASP-HEI Cycle, we present a replica-based audit of a deployed Early Warning System (EWS), replicating its model using institutional training data and design specifications. We evaluate disparities by gender, age, and residency status across the full pipeline (training data, model predictions, and post-processing) using standard fairness metrics. Our au",
+      "resume_fr": "Fairness audits of institutional risk models are critical for understanding how deployed machine learning pipelines allocate resources. Drawing on multi-year collaboration with Centennial College, where our prior ethnographic work introduced the ASP-HEI Cycle, we present a replica-based audit of a deployed Early Warning System (EWS), replicating its model using institutional training data and design specifications. We evaluate disparities by gender, age, and residency status across the full pipeline (training data, model predictions, and post-processing) using standard fairness metrics. Our au",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Relational AI in Education: Reciprocity, Participatory Design, and Indigenous Worldviews",
+      "url": "https://arxiv.org/abs/2604.19099v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-21T05:25:11.000Z",
+      "score": 50,
+      "summary_en": "Education is not merely the transmission of information or the optimisation of individual performance; it is a fundamentally social, constructive, and relational practice. However, recent advances in generative artificial intelligence (GenAI) increasingly emphasise efficiency, automation, and individualised assistance, risking the weakening of relational learning processes. Despite growing adoption, AI in education (AIED) research has yet to fully articulate how AI can be designed in ways that sustain the social and ecological relationships through which learning occurs. In this paper, we re-c",
+      "summary_fr": "Education is not merely the transmission of information or the optimisation of individual performance; it is a fundamentally social, constructive, and relational practice. However, recent advances in generative artificial intelligence (GenAI) increasingly emphasise efficiency, automation, and individualised assistance, risking the weakening of relational learning processes. Despite growing adoption, AI in education (AIED) research has yet to fully articulate how AI can be designed in ways that sustain the social and ecological relationships through which learning occurs. In this paper, we re-c",
+      "resume_fr": "Education is not merely the transmission of information or the optimisation of individual performance; it is a fundamentally social, constructive, and relational practice. However, recent advances in generative artificial intelligence (GenAI) increasingly emphasise efficiency, automation, and individualised assistance, risking the weakening of relational learning processes. Despite growing adoption, AI in education (AIED) research has yet to fully articulate how AI can be designed in ways that sustain the social and ecological relationships through which learning occurs. In this paper, we re-c",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Relationships Between Trust, Compliance, and Performance for Novice Programmers Using AI Code Generation",
+      "url": "https://arxiv.org/abs/2604.18948v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-21T00:52:29.000Z",
+      "score": 50,
+      "summary_en": "Objective. To explore how novice programmers' trust in Artificial Intelligence-driven Development Environments (AIDEs) relates to their coding performance and AI compliance while programming under time pressure. Background. Computer programming has undergone rapid upheaval due to state-of-the-art AIDEs, which provide clever automation for many aspects of software development. A longstanding interest of researchers of automation more generally has been the attitude of trust. Decades of research seek to explain how influencing trust can help to achieve desirable outcomes in different domains, bu",
+      "summary_fr": "Objective. To explore how novice programmers' trust in Artificial Intelligence-driven Development Environments (AIDEs) relates to their coding performance and AI compliance while programming under time pressure. Background. Computer programming has undergone rapid upheaval due to state-of-the-art AIDEs, which provide clever automation for many aspects of software development. A longstanding interest of researchers of automation more generally has been the attitude of trust. Decades of research seek to explain how influencing trust can help to achieve desirable outcomes in different domains, bu",
+      "resume_fr": "Objective. To explore how novice programmers' trust in Artificial Intelligence-driven Development Environments (AIDEs) relates to their coding performance and AI compliance while programming under time pressure. Background. Computer programming has undergone rapid upheaval due to state-of-the-art AIDEs, which provide clever automation for many aspects of software development. A longstanding interest of researchers of automation more generally has been the attitude of trust. Decades of research seek to explain how influencing trust can help to achieve desirable outcomes in different domains, bu",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Students Know AI Should Not Replace Thinking, but How Do They Regulate It? The TACO Framework for Human-AI Cognitive Partnership",
+      "url": "https://arxiv.org/abs/2604.18737v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-20T18:43:18.000Z",
+      "score": 85,
+      "summary_en": "As generative artificial intelligence becomes increasingly embedded in educational practice, a central concern is whether students use AI as cognitive support or as a substitute for thinking. Prior research shows that learners recognise this boundary conceptually and acknowledge that \"AI should not replace thinking.\" However, whether such awareness translates into structured regulation during actual AI use remains unclear. Drawing on data from Hong Kong secondary students, this study examines how learners perceive their management of the boundary between assistance and outsourcing in practice.",
+      "summary_fr": "As generative artificial intelligence becomes increasingly embedded in educational practice, a central concern is whether students use AI as cognitive support or as a substitute for thinking. Prior research shows that learners recognise this boundary conceptually and acknowledge that \"AI should not replace thinking.\" However, whether such awareness translates into structured regulation during actual AI use remains unclear. Drawing on data from Hong Kong secondary students, this study examines how learners perceive their management of the boundary between assistance and outsourcing in practice.",
+      "resume_fr": "As generative artificial intelligence becomes increasingly embedded in educational practice, a central concern is whether students use AI as cognitive support or as a substitute for thinking. Prior research shows that learners recognise this boundary conceptually and acknowledge that \"AI should not replace thinking.\" However, whether such awareness translates into structured regulation during actual AI use remains unclear. Drawing on data from Hong Kong secondary students, this study examines how learners perceive their management of the boundary between assistance and outsourcing in practice.",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
       "title": "Revisiting Active Sequential Prediction-Powered Mean Estimation",
       "url": "https://arxiv.org/abs/2604.18569v1",
       "source": "arXiv – cs.LG + learning analytics",
@@ -153,6 +267,25 @@
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
+      "title": "Evaluating Answer Leakage Robustness of LLM Tutors against Adversarial Student Attacks",
+      "url": "https://arxiv.org/abs/2604.18660v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-20T11:29:22.000Z",
+      "score": 50,
+      "summary_en": "Large Language Models (LLMs) are increasingly used in education, yet their default helpfulness often conflicts with pedagogical principles. Prior work evaluates pedagogical quality via answer leakage-the disclosure of complete solutions instead of scaffolding-but typically assumes well-intentioned learners, leaving tutor robustness under student misuse largely unexplored. In this paper, we study scenarios where students behave adversarially and aim to obtain the correct answer from the tutor. We evaluate a broad set of LLM-based tutor models, including different model families, pedagogically a",
+      "summary_fr": "Large Language Models (LLMs) are increasingly used in education, yet their default helpfulness often conflicts with pedagogical principles. Prior work evaluates pedagogical quality via answer leakage-the disclosure of complete solutions instead of scaffolding-but typically assumes well-intentioned learners, leaving tutor robustness under student misuse largely unexplored. In this paper, we study scenarios where students behave adversarially and aim to obtain the correct answer from the tutor. We evaluate a broad set of LLM-based tutor models, including different model families, pedagogically a",
+      "resume_fr": "Large Language Models (LLMs) are increasingly used in education, yet their default helpfulness often conflicts with pedagogical principles. Prior work evaluates pedagogical quality via answer leakage-the disclosure of complete solutions instead of scaffolding-but typically assumes well-intentioned learners, leaving tutor robustness under student misuse largely unexplored. In this paper, we study scenarios where students behave adversarially and aim to obtain the correct answer from the tutor. We evaluate a broad set of LLM-based tutor models, including different model families, pedagogically a",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
       "title": "Mix and Match: Context Pairing for Scalable Topic-Controlled Educational Summarisation",
       "url": "https://arxiv.org/abs/2604.18087v1",
       "source": "arXiv – cs.AI + education/MOOC",
@@ -172,8 +305,46 @@
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
+      "title": "AIT Academy: Cultivating the Complete Agent with a Confucian Three-Domain Curriculum",
+      "url": "https://arxiv.org/abs/2604.17989v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-20T09:12:47.000Z",
+      "score": 50,
+      "summary_en": "What does it mean to give an AI agent a complete education? Current agent development produces specialists systems optimized for a single capability dimension, whether tool use, code generation, or security awareness that exhibit predictable deficits wherever they were not trained. We argue this pattern reflects a structural absence: there is no curriculum theory for agents, no principled account of what a fully developed agent should know, be, and be able to do across the full scope of intelligent behavior. This paper introduces the AIT Academy (Agents Institute of Technology Academy), a curr",
+      "summary_fr": "What does it mean to give an AI agent a complete education? Current agent development produces specialists systems optimized for a single capability dimension, whether tool use, code generation, or security awareness that exhibit predictable deficits wherever they were not trained. We argue this pattern reflects a structural absence: there is no curriculum theory for agents, no principled account of what a fully developed agent should know, be, and be able to do across the full scope of intelligent behavior. This paper introduces the AIT Academy (Agents Institute of Technology Academy), a curr",
+      "resume_fr": "What does it mean to give an AI agent a complete education? Current agent development produces specialists systems optimized for a single capability dimension, whether tool use, code generation, or security awareness that exhibit predictable deficits wherever they were not trained. We argue this pattern reflects a structural absence: there is no curriculum theory for agents, no principled account of what a fully developed agent should know, be, and be able to do across the full scope of intelligent behavior. This paper introduces the AIT Academy (Agents Institute of Technology Academy), a curr",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
       "title": "Teaching Usable Privacy in HCI Education: Designing, Implementing, and Evaluating an Active Learning Graduate",
       "url": "https://arxiv.org/abs/2604.17796v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-20T04:36:33.000Z",
+      "score": 85,
+      "summary_en": "As digital systems increasingly rely on pervasive data collection and inference, educating future designers and researchers about Usable Privacy has become a critical need for HCI. However, privacy education in higher education is often fragmented, theory-heavy, or detached from real-world applications. Thus, in this paper, we present the design, implementation, and evaluation of a 15-week graduate-level course on Usable Privacy that addresses this through active, practice-oriented pedagogy. The course integrates use cases, structured role playing, case-based discussions, guest lectures, and a",
+      "summary_fr": "As digital systems increasingly rely on pervasive data collection and inference, educating future designers and researchers about Usable Privacy has become a critical need for HCI. However, privacy education in higher education is often fragmented, theory-heavy, or detached from real-world applications. Thus, in this paper, we present the design, implementation, and evaluation of a 15-week graduate-level course on Usable Privacy that addresses this through active, practice-oriented pedagogy. The course integrates use cases, structured role playing, case-based discussions, guest lectures, and a",
+      "resume_fr": "As digital systems increasingly rely on pervasive data collection and inference, educating future designers and researchers about Usable Privacy has become a critical need for HCI. However, privacy education in higher education is often fragmented, theory-heavy, or detached from real-world applications. Thus, in this paper, we present the design, implementation, and evaluation of a 15-week graduate-level course on Usable Privacy that addresses this through active, practice-oriented pedagogy. The course integrates use cases, structured role playing, case-based discussions, guest lectures, and a",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Teaching Usable Privacy in HCI Education: Designing, Implementing, and Evaluating an Active Learning Graduate",
+      "url": "https://arxiv.org/abs/2604.17796v2",
       "source": "arXiv – cs.HC + education",
       "published": "2026-04-20T04:36:33.000Z",
       "score": 85,
@@ -1054,177 +1225,6 @@
       "summary_en": "Activation-based steering can personalize large language models at inference time, but its effects in educational settings remain unclear. We study persona vectors for seven character traits in short-answer generation and automated scoring on the ASAP-SAS benchmark across three models spanning two architectures. Persona steering lowers answer quality overall, with much larger effects on open-ended English Language Arts (ELA) prompts than on factual science prompts; interpretive and argumentative tasks are up to 11x more sensitive. On the scoring side, we observe predictable valence-aligned cal",
       "summary_fr": "Activation-based steering can personalize large language models at inference time, but its effects in educational settings remain unclear. We study persona vectors for seven character traits in short-answer generation and automated scoring on the ASAP-SAS benchmark across three models spanning two architectures. Persona steering lowers answer quality overall, with much larger effects on open-ended English Language Arts (ELA) prompts than on factual science prompts; interpretive and argumentative tasks are up to 11x more sensitive. On the scoring side, we observe predictable valence-aligned cal",
       "resume_fr": "Activation-based steering can personalize large language models at inference time, but its effects in educational settings remain unclear. We study persona vectors for seven character traits in short-answer generation and automated scoring on the ASAP-SAS benchmark across three models spanning two architectures. Persona steering lowers answer quality overall, with much larger effects on open-ended English Language Arts (ELA) prompts than on factual science prompts; interpretive and argumentative tasks are up to 11x more sensitive. On the scoring side, we observe predictable valence-aligned cal",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Temple University Student Highlights IEEE Membership Perks",
-      "url": "https://spectrum.ieee.org/temple-university-student-membership-perks",
-      "source": "IEEE Spectrum – AI",
-      "published": "2026-04-07T18:00:02.000Z",
-      "score": 50,
-      "summary_en": "Kyle McGinley graduated from high school in 2018 and, like many teenagers, he was unsure what career he wanted to pursue. Recuperating from a sports injury led him to consider becoming a physical therapist for athletes. But he was skilled at repairing cars and fixing things around the house, so he thought about becoming an engineer, like his father. McGinley, who lives in Sellersville, Pa., took some classes at Montgomery County Community College in Blue Bell, while also working. During his years at the college, he took a variety of courses and was drawn to electrical engineering and computing",
-      "summary_fr": "Kyle McGinley graduated from high school in 2018 and, like many teenagers, he was unsure what career he wanted to pursue. Recuperating from a sports injury led him to consider becoming a physical therapist for athletes. But he was skilled at repairing cars and fixing things around the house, so he thought about becoming an engineer, like his father. McGinley, who lives in Sellersville, Pa., took some classes at Montgomery County Community College in Blue Bell, while also working. During his years at the college, he took a variety of courses and was drawn to electrical engineering and computing",
-      "resume_fr": "Kyle McGinley graduated from high school in 2018 and, like many teenagers, he was unsure what career he wanted to pursue. Recuperating from a sports injury led him to consider becoming a physical therapist for athletes. But he was skilled at repairing cars and fixing things around the house, so he thought about becoming an engineer, like his father. McGinley, who lives in Sellersville, Pa., took some classes at Montgomery County Community College in Blue Bell, while also working. During his years at the college, he took a variety of courses and was drawn to electrical engineering and computing",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
-    },
-    {
-      "title": "Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework",
-      "url": "https://arxiv.org/abs/2604.06170v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-04-07T17:59:58.000Z",
-      "score": 70,
-      "summary_en": "The rapid growth of scientific literature has made it increasingly difficult for researchers to efficiently discover, evaluate, and synthesize relevant work. Recent advances in multi-agent large language models (LLMs) have demonstrated strong potential for understanding user intent and are being trained to utilize various tools. In this paper, we introduce Paper Circle, a multi-agent research discovery and analysis system designed to reduce the effort required to find, assess, organize, and understand academic literature. The system comprises two complementary pipelines: (1) a Discovery Pipeli",
-      "summary_fr": "The rapid growth of scientific literature has made it increasingly difficult for researchers to efficiently discover, evaluate, and synthesize relevant work. Recent advances in multi-agent large language models (LLMs) have demonstrated strong potential for understanding user intent and are being trained to utilize various tools. In this paper, we introduce Paper Circle, a multi-agent research discovery and analysis system designed to reduce the effort required to find, assess, organize, and understand academic literature. The system comprises two complementary pipelines: (1) a Discovery Pipeli",
-      "resume_fr": "The rapid growth of scientific literature has made it increasingly difficult for researchers to efficiently discover, evaluate, and synthesize relevant work. Recent advances in multi-agent large language models (LLMs) have demonstrated strong potential for understanding user intent and are being trained to utilize various tools. In this paper, we introduce Paper Circle, a multi-agent research discovery and analysis system designed to reduce the effort required to find, assess, organize, and understand academic literature. The system comprises two complementary pipelines: (1) a Discovery Pipeli",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Topological Characterization of Churn Flow and Unsupervised Correction to the Wu Flow-Regime Map in Small-Diameter Vertical Pipes",
-      "url": "https://arxiv.org/abs/2604.06167v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-04-07T17:59:15.000Z",
-      "score": 70,
-      "summary_en": "Churn flow-the chaotic, oscillatory regime in vertical two-phase flow-has lacked a quantitative mathematical definition for over $40$ years. We introduce the first topology-based characterization using Euler Characteristic Surfaces (ECS). We formulate unsupervised regime discovery as Multiple Kernel Learning (MKL), blending two complementary ECS-derived kernels-temporal alignment ($L^1$ distance on the $χ(s,t)$ surface) and amplitude statistics (scale-wise mean, standard deviation, max, min)-with gas velocity. Applied to $37$ unlabeled air-water trials from Montana Tech, the self-calibrating f",
-      "summary_fr": "Churn flow-the chaotic, oscillatory regime in vertical two-phase flow-has lacked a quantitative mathematical definition for over $40$ years. We introduce the first topology-based characterization using Euler Characteristic Surfaces (ECS). We formulate unsupervised regime discovery as Multiple Kernel Learning (MKL), blending two complementary ECS-derived kernels-temporal alignment ($L^1$ distance on the $χ(s,t)$ surface) and amplitude statistics (scale-wise mean, standard deviation, max, min)-with gas velocity. Applied to $37$ unlabeled air-water trials from Montana Tech, the self-calibrating f",
-      "resume_fr": "Churn flow-the chaotic, oscillatory regime in vertical two-phase flow-has lacked a quantitative mathematical definition for over $40$ years. We introduce the first topology-based characterization using Euler Characteristic Surfaces (ECS). We formulate unsupervised regime discovery as Multiple Kernel Learning (MKL), blending two complementary ECS-derived kernels-temporal alignment ($L^1$ distance on the $χ(s,t)$ surface) and amplitude statistics (scale-wise mean, standard deviation, max, min)-with gas velocity. Applied to $37$ unlabeled air-water trials from Montana Tech, the self-calibrating f",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "The Character Error Vector: Decomposable errors for page-level OCR evaluation",
-      "url": "https://arxiv.org/abs/2604.06160v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-04-07T17:56:06.000Z",
-      "score": 70,
-      "summary_en": "The Character Error Rate (CER) is a key metric for evaluating the quality of Optical Character Recognition (OCR). However, this metric assumes that text has been perfectly parsed, which is often not the case. Under page-parsing errors, CER becomes undefined, limiting its use as a metric and making evaluating page-level OCR challenging, particularly when using data that do not share a labelling schema. We introduce the Character Error Vector (CEV), a bag-of-characters evaluator for OCR. The CEV can be decomposed into parsing and OCR, and interaction error components. This decomposability allows",
-      "summary_fr": "The Character Error Rate (CER) is a key metric for evaluating the quality of Optical Character Recognition (OCR). However, this metric assumes that text has been perfectly parsed, which is often not the case. Under page-parsing errors, CER becomes undefined, limiting its use as a metric and making evaluating page-level OCR challenging, particularly when using data that do not share a labelling schema. We introduce the Character Error Vector (CEV), a bag-of-characters evaluator for OCR. The CEV can be decomposed into parsing and OCR, and interaction error components. This decomposability allows",
-      "resume_fr": "The Character Error Rate (CER) is a key metric for evaluating the quality of Optical Character Recognition (OCR). However, this metric assumes that text has been perfectly parsed, which is often not the case. Under page-parsing errors, CER becomes undefined, limiting its use as a metric and making evaluating page-level OCR challenging, particularly when using data that do not share a labelling schema. We introduce the Character Error Vector (CEV), a bag-of-characters evaluator for OCR. The CEV can be decomposed into parsing and OCR, and interaction error components. This decomposability allows",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Target Policy Optimization",
-      "url": "https://arxiv.org/abs/2604.06159v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-04-07T17:55:59.000Z",
-      "score": 70,
-      "summary_en": "In RL, given a prompt, we sample a group of completions from a model and score them. Two questions follow: which completions should gain probability mass, and how should the parameters move to realize that change? Standard policy-gradient methods answer both at once, so the update can overshoot or undershoot depending on the learning rate, clipping, and other optimizer choices. We introduce \\emph{Target Policy Optimization} (TPO), which separates the two questions. Given scored completions, TPO constructs a target distribution $q_i \\propto p_i^{\\,\\mathrm{old}} \\exp(u_i)$ and fits the policy to",
-      "summary_fr": "In RL, given a prompt, we sample a group of completions from a model and score them. Two questions follow: which completions should gain probability mass, and how should the parameters move to realize that change? Standard policy-gradient methods answer both at once, so the update can overshoot or undershoot depending on the learning rate, clipping, and other optimizer choices. We introduce \\emph{Target Policy Optimization} (TPO), which separates the two questions. Given scored completions, TPO constructs a target distribution $q_i \\propto p_i^{\\,\\mathrm{old}} \\exp(u_i)$ and fits the policy to",
-      "resume_fr": "In RL, given a prompt, we sample a group of completions from a model and score them. Two questions follow: which completions should gain probability mass, and how should the parameters move to realize that change? Standard policy-gradient methods answer both at once, so the update can overshoot or undershoot depending on the learning rate, clipping, and other optimizer choices. We introduce \\emph{Target Policy Optimization} (TPO), which separates the two questions. Given scored completions, TPO constructs a target distribution $q_i \\propto p_i^{\\,\\mathrm{old}} \\exp(u_i)$ and fits the policy to",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Understanding Educators' Perceptions of AI-generated Non-consensual Intimate Imagery",
-      "url": "https://arxiv.org/abs/2604.06131v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-07T17:41:22.000Z",
-      "score": 50,
-      "summary_en": "AI-generated non-consensual intimate imagery (AIG-NCII) is an emerging social problem due to the advancement of AI tools. While recent incidents in middle and high schools have highlighted the urgency of this issue, there is limited understanding of what concrete supports schools need to effectively address AIG-NCII. To fill this gap, we conducted an interview study with 20 educators in the U.S. and investigated their attitudes, experiences, and practices related to AIG-NCII. Educators expressed concerns about both students' and their own vulnerability, as AIG-NCII may cause moral decline amon",
-      "summary_fr": "AI-generated non-consensual intimate imagery (AIG-NCII) is an emerging social problem due to the advancement of AI tools. While recent incidents in middle and high schools have highlighted the urgency of this issue, there is limited understanding of what concrete supports schools need to effectively address AIG-NCII. To fill this gap, we conducted an interview study with 20 educators in the U.S. and investigated their attitudes, experiences, and practices related to AIG-NCII. Educators expressed concerns about both students' and their own vulnerability, as AIG-NCII may cause moral decline amon",
-      "resume_fr": "AI-generated non-consensual intimate imagery (AIG-NCII) is an emerging social problem due to the advancement of AI tools. While recent incidents in middle and high schools have highlighted the urgency of this issue, there is limited understanding of what concrete supports schools need to effectively address AIG-NCII. To fill this gap, we conducted an interview study with 20 educators in the U.S. and investigated their attitudes, experiences, and practices related to AIG-NCII. Educators expressed concerns about both students' and their own vulnerability, as AIG-NCII may cause moral decline amon",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Designing Around Stigma: Human-Centered LLMs for Menstrual Health",
-      "url": "https://arxiv.org/abs/2604.06008v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-07T16:01:52.000Z",
-      "score": 50,
-      "summary_en": "Menstrual health education (MHE) in Pakistan is constrained by cultural taboos and inadequate formal curricula, leaving women with few trusted resources to lean on. In response to these challenges, we introduce a WhatsApp-based chatbot powered by a large language model (LLM) and Retrieval Augmented Generation (RAG), co-designed with Pakistani college women. Workshops (N=30) revealed key design requirements -- support for Roman Urdu, use of subsidized platforms, and an expert -- curated knowledge base. We then deployed the chatbot with 13 participants for two weeks (403 messages and interviews)",
-      "summary_fr": "Menstrual health education (MHE) in Pakistan is constrained by cultural taboos and inadequate formal curricula, leaving women with few trusted resources to lean on. In response to these challenges, we introduce a WhatsApp-based chatbot powered by a large language model (LLM) and Retrieval Augmented Generation (RAG), co-designed with Pakistani college women. Workshops (N=30) revealed key design requirements -- support for Roman Urdu, use of subsidized platforms, and an expert -- curated knowledge base. We then deployed the chatbot with 13 participants for two weeks (403 messages and interviews)",
-      "resume_fr": "Menstrual health education (MHE) in Pakistan is constrained by cultural taboos and inadequate formal curricula, leaving women with few trusted resources to lean on. In response to these challenges, we introduce a WhatsApp-based chatbot powered by a large language model (LLM) and Retrieval Augmented Generation (RAG), co-designed with Pakistani college women. Workshops (N=30) revealed key design requirements -- support for Roman Urdu, use of subsidized platforms, and an expert -- curated knowledge base. We then deployed the chatbot with 13 participants for two weeks (403 messages and interviews)",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "INTERACT: An AI-Driven Extended Reality Framework for Accesible Communication Featuring Real-Time Sign Language Interpretation and Emotion Recognition",
-      "url": "https://arxiv.org/abs/2604.05605v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-07T08:56:53.000Z",
-      "score": 85,
-      "summary_en": "Video conferencing has become central to professional collaboration, yet most platforms offer limited support for deaf, hard-of-hearing, and multilingual users. The World Health Organisation estimates that over 430 million people worldwide require rehabilitation for disabling hearing loss, a figure projected to exceed 700 million by 2050. Conventional accessibility measures remain constrained by high costs, limited availability, and logistical barriers, while Extended Reality (XR) technologies open new possibilities for immersive and inclusive communication. This paper presents INTERACT (Inclu",
-      "summary_fr": "Video conferencing has become central to professional collaboration, yet most platforms offer limited support for deaf, hard-of-hearing, and multilingual users. The World Health Organisation estimates that over 430 million people worldwide require rehabilitation for disabling hearing loss, a figure projected to exceed 700 million by 2050. Conventional accessibility measures remain constrained by high costs, limited availability, and logistical barriers, while Extended Reality (XR) technologies open new possibilities for immersive and inclusive communication. This paper presents INTERACT (Inclu",
-      "resume_fr": "Video conferencing has become central to professional collaboration, yet most platforms offer limited support for deaf, hard-of-hearing, and multilingual users. The World Health Organisation estimates that over 430 million people worldwide require rehabilitation for disabling hearing loss, a figure projected to exceed 700 million by 2050. Conventional accessibility measures remain constrained by high costs, limited availability, and logistical barriers, while Extended Reality (XR) technologies open new possibilities for immersive and inclusive communication. This paper presents INTERACT (Inclu",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Investigating Ethical Data Communication with Purrsuasion: An Educational Game about Negotiated Data Disclosure",
-      "url": "https://arxiv.org/abs/2604.05200v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-06T21:57:07.000Z",
-      "score": 85,
-      "summary_en": "Data communication entails ethical dilemmas where situational constraints forbid full disclosure of source data. Whereas visualization research and pedagogy often frames ethics as a matter of individuals making deceptive design choices or being misled, disclosure problems involve negotiation between pro-social actors. To provide observability into these situated judgments, we contribute Purrsuasion, an open-source visualization game where participants play the roles of (i) data providers designing visualizations subject to disclosure constraints and (ii) data seekers requesting information and",
-      "summary_fr": "Data communication entails ethical dilemmas where situational constraints forbid full disclosure of source data. Whereas visualization research and pedagogy often frames ethics as a matter of individuals making deceptive design choices or being misled, disclosure problems involve negotiation between pro-social actors. To provide observability into these situated judgments, we contribute Purrsuasion, an open-source visualization game where participants play the roles of (i) data providers designing visualizations subject to disclosure constraints and (ii) data seekers requesting information and",
-      "resume_fr": "Data communication entails ethical dilemmas where situational constraints forbid full disclosure of source data. Whereas visualization research and pedagogy often frames ethics as a matter of individuals making deceptive design choices or being misled, disclosure problems involve negotiation between pro-social actors. To provide observability into these situated judgments, we contribute Purrsuasion, an open-source visualization game where participants play the roles of (i) data providers designing visualizations subject to disclosure constraints and (ii) data seekers requesting information and",
       "tags": [],
       "breakdown": {
         "research": 35,
