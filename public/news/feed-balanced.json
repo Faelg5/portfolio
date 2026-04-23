@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T08:04:01.133Z",
+  "generatedAt": "2026-04-23T08:08:43.377Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,120 @@
     }
   },
   "items": [
+    {
+      "title": "Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL",
+      "url": "https://arxiv.org/abs/2604.20835v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-04-22T17:58:36.000Z",
+      "score": 50,
+      "summary_en": "Modern language models demonstrate impressive coding capabilities in common programming languages (PLs), such as C++ and Python, but their performance in lower-resource PLs is often limited by training data availability. In principle, however, most programming skills are universal across PLs, so the capability acquired in one PL should transfer to others. In this work, we propose the task of zero-shot cross-programming-language transfer for code RL. We find that, for Llama-3.1, RL training for code generation in a source PL fails to improve, and sometimes even degrades, the performance on othe",
+      "summary_fr": "Modern language models demonstrate impressive coding capabilities in common programming languages (PLs), such as C++ and Python, but their performance in lower-resource PLs is often limited by training data availability. In principle, however, most programming skills are universal across PLs, so the capability acquired in one PL should transfer to others. In this work, we propose the task of zero-shot cross-programming-language transfer for code RL. We find that, for Llama-3.1, RL training for code generation in a source PL fails to improve, and sometimes even degrades, the performance on othe",
+      "resume_fr": "Modern language models demonstrate impressive coding capabilities in common programming languages (PLs), such as C++ and Python, but their performance in lower-resource PLs is often limited by training data availability. In principle, however, most programming skills are universal across PLs, so the capability acquired in one PL should transfer to others. In this work, we propose the task of zero-shot cross-programming-language transfer for code RL. We find that, for Llama-3.1, RL training for code generation in a source PL fails to improve, and sometimes even degrades, the performance on othe",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "AVISE: Framework for Evaluating the Security of AI Systems",
+      "url": "https://arxiv.org/abs/2604.20833v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-04-22T17:58:17.000Z",
+      "score": 70,
+      "summary_en": "As artificial intelligence (AI) systems are increasingly deployed across critical domains, their security vulnerabilities pose growing risks of high-profile exploits and consequential system failures. Yet systematic approaches to evaluating AI security remain underdeveloped. In this paper, we introduce AVISE (AI Vulnerability Identification and Security Evaluation), a modular open-source framework for identifying vulnerabilities in and evaluating the security of AI systems and models. As a demonstration of the framework, we extend the theory-of-mind-based multi-turn Red Queen attack into an Ad",
+      "summary_fr": "As artificial intelligence (AI) systems are increasingly deployed across critical domains, their security vulnerabilities pose growing risks of high-profile exploits and consequential system failures. Yet systematic approaches to evaluating AI security remain underdeveloped. In this paper, we introduce AVISE (AI Vulnerability Identification and Security Evaluation), a modular open-source framework for identifying vulnerabilities in and evaluating the security of AI systems and models. As a demonstration of the framework, we extend the theory-of-mind-based multi-turn Red Queen attack into an Ad",
+      "resume_fr": "As artificial intelligence (AI) systems are increasingly deployed across critical domains, their security vulnerabilities pose growing risks of high-profile exploits and consequential system failures. Yet systematic approaches to evaluating AI security remain underdeveloped. In this paper, we introduce AVISE (AI Vulnerability Identification and Security Evaluation), a modular open-source framework for identifying vulnerabilities in and evaluating the security of AI systems and models. As a demonstration of the framework, we extend the theory-of-mind-based multi-turn Red Queen attack into an Ad",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series",
+      "url": "https://arxiv.org/abs/2604.20822v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-04-22T17:47:33.000Z",
+      "score": 50,
+      "summary_en": "The offshore wind energy sector is expanding rapidly, increasing the need for independent, high-temporal-resolution monitoring of infrastructure deployment and operation at global scale. While Earth Observation based offshore wind infrastructure mapping has matured for spatial localization, existing open datasets lack temporally dense and semantically fine-grained information on construction and operational dynamics. We introduce a global Sentinel-1 synthetic aperture radar (SAR) time series data corpus that resolves deployment and operational phases of offshore wind infrastructure from 2016Q1",
+      "summary_fr": "The offshore wind energy sector is expanding rapidly, increasing the need for independent, high-temporal-resolution monitoring of infrastructure deployment and operation at global scale. While Earth Observation based offshore wind infrastructure mapping has matured for spatial localization, existing open datasets lack temporally dense and semantically fine-grained information on construction and operational dynamics. We introduce a global Sentinel-1 synthetic aperture radar (SAR) time series data corpus that resolves deployment and operational phases of offshore wind infrastructure from 2016Q1",
+      "resume_fr": "The offshore wind energy sector is expanding rapidly, increasing the need for independent, high-temporal-resolution monitoring of infrastructure deployment and operation at global scale. While Earth Observation based offshore wind infrastructure mapping has matured for spatial localization, existing open datasets lack temporally dense and semantically fine-grained information on construction and operational dynamics. We introduce a global Sentinel-1 synthetic aperture radar (SAR) time series data corpus that resolves deployment and operational phases of offshore wind infrastructure from 2016Q1",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "LEXIS: LatEnt ProXimal Interaction Signatures for 3D HOI from an Image",
+      "url": "https://arxiv.org/abs/2604.20800v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-04-22T17:27:13.000Z",
+      "score": 70,
+      "summary_en": "Reconstructing 3D Human-Object Interaction from an RGB image is essential for perceptive systems. Yet, this remains challenging as it requires capturing the subtle physical coupling between the body and objects. While current methods rely on sparse, binary contact cues, these fail to model the continuous proximity and dense spatial relationships that characterize natural interactions. We address this limitation via InterFields, a representation that encodes dense, continuous proximity across the entire body and object surfaces. However, inferring these fields from single images is inherently i",
+      "summary_fr": "Reconstructing 3D Human-Object Interaction from an RGB image is essential for perceptive systems. Yet, this remains challenging as it requires capturing the subtle physical coupling between the body and objects. While current methods rely on sparse, binary contact cues, these fail to model the continuous proximity and dense spatial relationships that characterize natural interactions. We address this limitation via InterFields, a representation that encodes dense, continuous proximity across the entire body and object surfaces. However, inferring these fields from single images is inherently i",
+      "resume_fr": "Reconstructing 3D Human-Object Interaction from an RGB image is essential for perceptive systems. Yet, this remains challenging as it requires capturing the subtle physical coupling between the body and objects. While current methods rely on sparse, binary contact cues, these fail to model the continuous proximity and dense spatial relationships that characterize natural interactions. We address this limitation via InterFields, a representation that encodes dense, continuous proximity across the entire body and object surfaces. However, inferring these fields from single images is inherently i",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Working Memory Constraints Scaffold Learning in Transformers under Data Scarcity",
+      "url": "https://arxiv.org/abs/2604.20789v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-04-22T17:14:52.000Z",
+      "score": 50,
+      "summary_en": "We investigate the integration of human-like working memory constraints into the Transformer architecture and implement several cognitively inspired attention variants, including fixed-width windows based and temporal decay based attention mechanisms. Our modified GPT-2 models are trained from scratch on developmentally plausible datasets (10M and 100M words). Performance is evaluated on grammatical judgment tasks (BLiMP) and alignment with human reading time data. Our results indicate that these cognitively-inspired constraints, particularly fixed-width attention, can significantly improve gr",
+      "summary_fr": "We investigate the integration of human-like working memory constraints into the Transformer architecture and implement several cognitively inspired attention variants, including fixed-width windows based and temporal decay based attention mechanisms. Our modified GPT-2 models are trained from scratch on developmentally plausible datasets (10M and 100M words). Performance is evaluated on grammatical judgment tasks (BLiMP) and alignment with human reading time data. Our results indicate that these cognitively-inspired constraints, particularly fixed-width attention, can significantly improve gr",
+      "resume_fr": "We investigate the integration of human-like working memory constraints into the Transformer architecture and implement several cognitively inspired attention variants, including fixed-width windows based and temporal decay based attention mechanisms. Our modified GPT-2 models are trained from scratch on developmentally plausible datasets (10M and 100M words). Performance is evaluated on grammatical judgment tasks (BLiMP) and alignment with human reading time data. Our results indicate that these cognitively-inspired constraints, particularly fixed-width attention, can significantly improve gr",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "ActuBench: A Multi-Agent LLM Pipeline for Generation and Evaluation of Actuarial Reasoning Tasks",
+      "url": "https://arxiv.org/abs/2604.20273v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-22T07:20:03.000Z",
+      "score": 85,
+      "summary_en": "We present ActuBench, a multi-agent LLM pipeline for the automated generation and evaluation of advanced actuarial assessment items aligned with the International Actuarial Association (IAA) Education Syllabus. The pipeline separates four LLM roles by adapter: one agent drafts items, one constructs distractors, a third independently verifies both stages and drives bounded one-shot repair loops, and a cost-optimized auxiliary agent handles Wikipedia-note summarization and topic labelling. The items, per-model responses and complete leaderboard are published as a browsable web interface at https",
+      "summary_fr": "We present ActuBench, a multi-agent LLM pipeline for the automated generation and evaluation of advanced actuarial assessment items aligned with the International Actuarial Association (IAA) Education Syllabus. The pipeline separates four LLM roles by adapter: one agent drafts items, one constructs distractors, a third independently verifies both stages and drives bounded one-shot repair loops, and a cost-optimized auxiliary agent handles Wikipedia-note summarization and topic labelling. The items, per-model responses and complete leaderboard are published as a browsable web interface at https",
+      "resume_fr": "We present ActuBench, a multi-agent LLM pipeline for the automated generation and evaluation of advanced actuarial assessment items aligned with the International Actuarial Association (IAA) Education Syllabus. The pipeline separates four LLM roles by adapter: one agent drafts items, one constructs distractors, a third independently verifies both stages and drives bounded one-shot repair loops, and a cost-optimized auxiliary agent handles Wikipedia-note summarization and topic labelling. The items, per-model responses and complete leaderboard are published as a browsable web interface at https",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "VLA Foundry: A Unified Framework for Training Vision-Language-Action Models",
       "url": "https://arxiv.org/abs/2604.19728v1",
@@ -364,7 +478,7 @@
     {
       "title": "Generative AI Technologies, Techniques & Tensions: A Primer",
       "url": "https://arxiv.org/abs/2604.17497v1",
-      "source": "arXiv – cs.HC + education",
+      "source": "arXiv – cs.AI + education/MOOC",
       "published": "2026-04-19T15:32:48.000Z",
       "score": 65,
       "summary_en": "Generative AI systems have entered everyday academic, professional, and personal life with remarkable speed, yet most users encounter them as mysterious artifacts rather than intelligible systems. This chapter discusses large language models within a broader historical shift in computing paradigms and argues that many of the confusions surrounding their use arise from a mismatch between how these systems are built, how they behave, and how people expect computers to behave writ large. Rather than treating generative AI as a monolithic technology, the chapter decomposes it into interacting comp",
@@ -1119,120 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "An Agentic Evaluation Architecture for Historical Bias Detection in Educational Textbooks",
-      "url": "https://arxiv.org/abs/2604.07883v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-09T06:51:32.000Z",
-      "score": 50,
-      "summary_en": "History textbooks often contain implicit biases, nationalist framing, and selective omissions that are difficult to audit at scale. We propose an agentic evaluation architecture comprising a multimodal screening agent, a heterogeneous jury of five evaluative agents, and a meta-agent for verdict synthesis and human escalation. A central contribution is a Source Attribution Protocol that distinguishes textbook narrative from quoted historical sources, preventing the misattribution that causes systematic false positives in single-model evaluators. In an empirical study on Romanian upper-secondary",
-      "summary_fr": "History textbooks often contain implicit biases, nationalist framing, and selective omissions that are difficult to audit at scale. We propose an agentic evaluation architecture comprising a multimodal screening agent, a heterogeneous jury of five evaluative agents, and a meta-agent for verdict synthesis and human escalation. A central contribution is a Source Attribution Protocol that distinguishes textbook narrative from quoted historical sources, preventing the misattribution that causes systematic false positives in single-model evaluators. In an empirical study on Romanian upper-secondary",
-      "resume_fr": "History textbooks often contain implicit biases, nationalist framing, and selective omissions that are difficult to audit at scale. We propose an agentic evaluation architecture comprising a multimodal screening agent, a heterogeneous jury of five evaluative agents, and a meta-agent for verdict synthesis and human escalation. A central contribution is a Source Attribution Protocol that distinguishes textbook narrative from quoted historical sources, preventing the misattribution that causes systematic false positives in single-model evaluators. In an empirical study on Romanian upper-secondary",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "From Clicking to Moving: Embodied Micro-Movements as a New Modality for Data Literacy Learning",
-      "url": "https://arxiv.org/abs/2604.07881v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-09T06:50:55.000Z",
-      "score": 50,
-      "summary_en": "Widespread digital learning has expanded access to education but has resulted in highly sedentary, click-based interaction, contributing to digital fatigue, reduced cognitive flexibility, and health risks associated with prolonged passive screen time. Meanwhile, data literacy has become an essential competency in a data-driven society, yet it is typically taught through passive, disembodied interfaces that offer little physical engagement. We present Kinetiq (Kinetic+IQ), a novel system that integrates fun, full-body micro-movements directly into data and numeracy problem solving. Instead of s",
-      "summary_fr": "Widespread digital learning has expanded access to education but has resulted in highly sedentary, click-based interaction, contributing to digital fatigue, reduced cognitive flexibility, and health risks associated with prolonged passive screen time. Meanwhile, data literacy has become an essential competency in a data-driven society, yet it is typically taught through passive, disembodied interfaces that offer little physical engagement. We present Kinetiq (Kinetic+IQ), a novel system that integrates fun, full-body micro-movements directly into data and numeracy problem solving. Instead of s",
-      "resume_fr": "Widespread digital learning has expanded access to education but has resulted in highly sedentary, click-based interaction, contributing to digital fatigue, reduced cognitive flexibility, and health risks associated with prolonged passive screen time. Meanwhile, data literacy has become an essential competency in a data-driven society, yet it is typically taught through passive, disembodied interfaces that offer little physical engagement. We present Kinetiq (Kinetic+IQ), a novel system that integrates fun, full-body micro-movements directly into data and numeracy problem solving. Instead of s",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Language Preferences and Practices in Multilingual EdTech: Flexible Primary Language Use with Secondary Language Support",
-      "url": "https://arxiv.org/abs/2604.07843v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-09T05:50:21.000Z",
-      "score": 85,
-      "summary_en": "The benefits of learning in one's mother tongue are well documented, yet colonial languages dominate education, marginalizing local languages and limiting access for learners who rely on their mother tongue for understanding. With the rapid growth of educational technology, there is potential to integrate multilingual instruction supporting both colonial and local languages. This study is part of a larger quasi-experiment conducted in Uganda, where learners could choose to learn in English, Leb-Lango (a local language), or in Hybrid mode (a combination of both) in a remote EdTech course. We ex",
-      "summary_fr": "The benefits of learning in one's mother tongue are well documented, yet colonial languages dominate education, marginalizing local languages and limiting access for learners who rely on their mother tongue for understanding. With the rapid growth of educational technology, there is potential to integrate multilingual instruction supporting both colonial and local languages. This study is part of a larger quasi-experiment conducted in Uganda, where learners could choose to learn in English, Leb-Lango (a local language), or in Hybrid mode (a combination of both) in a remote EdTech course. We ex",
-      "resume_fr": "The benefits of learning in one's mother tongue are well documented, yet colonial languages dominate education, marginalizing local languages and limiting access for learners who rely on their mother tongue for understanding. With the rapid growth of educational technology, there is potential to integrate multilingual instruction supporting both colonial and local languages. This study is part of a larger quasi-experiment conducted in Uganda, where learners could choose to learn in English, Leb-Lango (a local language), or in Hybrid mode (a combination of both) in a remote EdTech course. We ex",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Designing Annotations in Visualization: Considerations from Visualization Practitioners and Educators",
-      "url": "https://arxiv.org/abs/2604.07691v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-09T01:26:27.000Z",
-      "score": 85,
-      "summary_en": "Annotation is a central mechanism in visualization design that enables people to communicate key insights. Prior research has provided essential accounts of the visual forms annotations take, but less attention has been paid to the decisions behind them. This paper examines how annotations are designed in practice and how educators reflect on those practices. We conducted a two-phase qualitative study: interviews with ten practitioners from diverse backgrounds revealed the heuristics they draw on when creating annotations, and interviews with seven visualization educators offered complementary",
-      "summary_fr": "Annotation is a central mechanism in visualization design that enables people to communicate key insights. Prior research has provided essential accounts of the visual forms annotations take, but less attention has been paid to the decisions behind them. This paper examines how annotations are designed in practice and how educators reflect on those practices. We conducted a two-phase qualitative study: interviews with ten practitioners from diverse backgrounds revealed the heuristics they draw on when creating annotations, and interviews with seven visualization educators offered complementary",
-      "resume_fr": "Annotation is a central mechanism in visualization design that enables people to communicate key insights. Prior research has provided essential accounts of the visual forms annotations take, but less attention has been paid to the decisions behind them. This paper examines how annotations are designed in practice and how educators reflect on those practices. We conducted a two-phase qualitative study: interviews with ten practitioners from diverse backgrounds revealed the heuristics they draw on when creating annotations, and interviews with seven visualization educators offered complementary",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "TR-EduVSum: A Turkish-Focused Dataset and Consensus Framework for Educational Video Summarization",
-      "url": "https://arxiv.org/abs/2604.07553v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-08T19:53:39.000Z",
-      "score": 85,
-      "summary_en": "This study presents a framework for generating the gold-standard summary fully automatically and reproducibly based on multiple human summaries of Turkish educational videos. Within the scope of the study, a new dataset called TR-EduVSum was created, encompassing 82 Turkish course videos in the field of \"Data Structures and Algorithms\" and containing a total of 3281 independent human summaries. Inspired by existing pyramid-based evaluation approaches, the AutoMUP (Automatic Meaning Unit Pyramid) method is proposed, which extracts consensus-based content from multiple human summaries. AutoMUP c",
-      "summary_fr": "This study presents a framework for generating the gold-standard summary fully automatically and reproducibly based on multiple human summaries of Turkish educational videos. Within the scope of the study, a new dataset called TR-EduVSum was created, encompassing 82 Turkish course videos in the field of \"Data Structures and Algorithms\" and containing a total of 3281 independent human summaries. Inspired by existing pyramid-based evaluation approaches, the AutoMUP (Automatic Meaning Unit Pyramid) method is proposed, which extracts consensus-based content from multiple human summaries. AutoMUP c",
-      "resume_fr": "This study presents a framework for generating the gold-standard summary fully automatically and reproducibly based on multiple human summaries of Turkish educational videos. Within the scope of the study, a new dataset called TR-EduVSum was created, encompassing 82 Turkish course videos in the field of \"Data Structures and Algorithms\" and containing a total of 3281 independent human summaries. Inspired by existing pyramid-based evaluation approaches, the AutoMUP (Automatic Meaning Unit Pyramid) method is proposed, which extracts consensus-based content from multiple human summaries. AutoMUP c",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "The Impact of Steering Large Language Models with Persona Vectors in Educational Applications",
-      "url": "https://arxiv.org/abs/2604.07102v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-08T13:55:32.000Z",
-      "score": 85,
-      "summary_en": "Activation-based steering can personalize large language models at inference time, but its effects in educational settings remain unclear. We study persona vectors for seven character traits in short-answer generation and automated scoring on the ASAP-SAS benchmark across three models spanning two architectures. Persona steering lowers answer quality overall, with much larger effects on open-ended English Language Arts (ELA) prompts than on factual science prompts; interpretive and argumentative tasks are up to 11x more sensitive. On the scoring side, we observe predictable valence-aligned cal",
-      "summary_fr": "Activation-based steering can personalize large language models at inference time, but its effects in educational settings remain unclear. We study persona vectors for seven character traits in short-answer generation and automated scoring on the ASAP-SAS benchmark across three models spanning two architectures. Persona steering lowers answer quality overall, with much larger effects on open-ended English Language Arts (ELA) prompts than on factual science prompts; interpretive and argumentative tasks are up to 11x more sensitive. On the scoring side, we observe predictable valence-aligned cal",
-      "resume_fr": "Activation-based steering can personalize large language models at inference time, but its effects in educational settings remain unclear. We study persona vectors for seven character traits in short-answer generation and automated scoring on the ASAP-SAS benchmark across three models spanning two architectures. Persona steering lowers answer quality overall, with much larger effects on open-ended English Language Arts (ELA) prompts than on factual science prompts; interpretive and argumentative tasks are up to 11x more sensitive. On the scoring side, we observe predictable valence-aligned cal",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
