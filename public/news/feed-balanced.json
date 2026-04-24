@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T08:08:43.377Z",
+  "generatedAt": "2026-04-24T08:20:14.777Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,139 @@
     }
   },
   "items": [
+    {
+      "title": "A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models",
+      "url": "https://arxiv.org/abs/2604.21903v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-04-23T17:49:16.000Z",
+      "score": 70,
+      "summary_en": "Deep-learning video super-resolution has progressed rapidly, but climate applications typically super-resolve (increase resolution) either space or time, and joint spatiotemporal models are often designed for a single pair of super-resolution (SR) factors (upscaling spatial and temporal ratio between the low-resolution sequence and the high-resolution sequence), limiting transfer across spatial resolutions and temporal cadences (frame rates). We present a scale-adaptive framework that reuses the same architecture across factors by decomposing spatiotemporal SR into a deterministic prediction o",
+      "summary_fr": "Deep-learning video super-resolution has progressed rapidly, but climate applications typically super-resolve (increase resolution) either space or time, and joint spatiotemporal models are often designed for a single pair of super-resolution (SR) factors (upscaling spatial and temporal ratio between the low-resolution sequence and the high-resolution sequence), limiting transfer across spatial resolutions and temporal cadences (frame rates). We present a scale-adaptive framework that reuses the same architecture across factors by decomposing spatiotemporal SR into a deterministic prediction o",
+      "resume_fr": "Deep-learning video super-resolution has progressed rapidly, but climate applications typically super-resolve (increase resolution) either space or time, and joint spatiotemporal models are often designed for a single pair of super-resolution (SR) factors (upscaling spatial and temporal ratio between the low-resolution sequence and the high-resolution sequence), limiting transfer across spatial resolutions and temporal cadences (frame rates). We present a scale-adaptive framework that reuses the same architecture across factors by decomposing spatiotemporal SR into a deterministic prediction o",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Mapping the Political Discourse in the Brazilian Chamber of Deputies: A Multi-Faceted Computational Approach",
+      "url": "https://arxiv.org/abs/2604.21897v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-04-23T17:46:33.000Z",
+      "score": 50,
+      "summary_en": "Analyses of legislative behavior often rely on voting records, overlooking the rich semantic and rhetorical content of political speech. In this paper, we ask three complementary questions about parliamentary discourse: how things are said, what is being said, and who is speaking in discursively similar ways. To answer these questions, we introduce a scalable and generalizable computational framework that combines diachronic stylometric analysis, contextual topic modeling, and semantic clustering of deputies' speeches. We apply this framework to a large-scale case study of the Brazilian Chambe",
+      "summary_fr": "Analyses of legislative behavior often rely on voting records, overlooking the rich semantic and rhetorical content of political speech. In this paper, we ask three complementary questions about parliamentary discourse: how things are said, what is being said, and who is speaking in discursively similar ways. To answer these questions, we introduce a scalable and generalizable computational framework that combines diachronic stylometric analysis, contextual topic modeling, and semantic clustering of deputies' speeches. We apply this framework to a large-scale case study of the Brazilian Chambe",
+      "resume_fr": "Analyses of legislative behavior often rely on voting records, overlooking the rich semantic and rhetorical content of political speech. In this paper, we ask three complementary questions about parliamentary discourse: how things are said, what is being said, and who is speaking in discursively similar ways. To answer these questions, we introduce a scalable and generalizable computational framework that combines diachronic stylometric analysis, contextual topic modeling, and semantic clustering of deputies' speeches. We apply this framework to a large-scale case study of the Brazilian Chambe",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "EVENT5Ws: A Large Dataset for Open-Domain Event Extraction from Documents",
+      "url": "https://arxiv.org/abs/2604.21890v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-04-23T17:42:07.000Z",
+      "score": 70,
+      "summary_en": "Event extraction identifies the central aspects of events from text. It supports event understanding and analysis, which is crucial for tasks such as informed decision-making in emergencies. Therefore, it is necessary to develop automated event extraction approaches. However, existing datasets for algorithm development have limitations, including limited coverage of event types in closed-domain settings and a lack of large, manually verified dataset in open-domain settings. To address these limitations, we create EVENT5Ws , a large, manually annotated, and statistically verified open-domain ev",
+      "summary_fr": "Event extraction identifies the central aspects of events from text. It supports event understanding and analysis, which is crucial for tasks such as informed decision-making in emergencies. Therefore, it is necessary to develop automated event extraction approaches. However, existing datasets for algorithm development have limitations, including limited coverage of event types in closed-domain settings and a lack of large, manually verified dataset in open-domain settings. To address these limitations, we create EVENT5Ws , a large, manually annotated, and statistically verified open-domain ev",
+      "resume_fr": "Event extraction identifies the central aspects of events from text. It supports event understanding and analysis, which is crucial for tasks such as informed decision-making in emergencies. Therefore, it is necessary to develop automated event extraction approaches. However, existing datasets for algorithm development have limitations, including limited coverage of event types in closed-domain settings and a lack of large, manually verified dataset in open-domain settings. To address these limitations, we create EVENT5Ws , a large, manually annotated, and statistically verified open-domain ev",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Enabling and Inhibitory Pathways of University Students' Willingness to Disclose AI Use: A Cognition-Affect-Conation Perspective",
+      "url": "https://arxiv.org/abs/2604.21733v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-23T14:38:15.000Z",
+      "score": 50,
+      "summary_en": "The increasing integration of artificial intelligence (AI) in higher education has raised important questions regarding students' transparency in reporting AI-assisted work. This study investigates the psychological mechanisms underlying university students' willingness to disclose AI use by applying the Cognition--Affect--Conation (CAC) framework. A sequential explanatory mixed-methods design was employed. In the quantitative phase, survey data were collected from 546 university students and analysed using structural equation modelling to examine the relationships among cognitive perceptions,",
+      "summary_fr": "The increasing integration of artificial intelligence (AI) in higher education has raised important questions regarding students' transparency in reporting AI-assisted work. This study investigates the psychological mechanisms underlying university students' willingness to disclose AI use by applying the Cognition--Affect--Conation (CAC) framework. A sequential explanatory mixed-methods design was employed. In the quantitative phase, survey data were collected from 546 university students and analysed using structural equation modelling to examine the relationships among cognitive perceptions,",
+      "resume_fr": "The increasing integration of artificial intelligence (AI) in higher education has raised important questions regarding students' transparency in reporting AI-assisted work. This study investigates the psychological mechanisms underlying university students' willingness to disclose AI use by applying the Cognition--Affect--Conation (CAC) framework. A sequential explanatory mixed-methods design was employed. In the quantitative phase, survey data were collected from 546 university students and analysed using structural equation modelling to examine the relationships among cognitive perceptions,",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "On Reasoning Behind Next Occupation Recommendation",
+      "url": "https://arxiv.org/abs/2604.21204v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-23T01:52:14.000Z",
+      "score": 50,
+      "summary_en": "In this work, we develop a novel reasoning approach to enhance the performance of large language models (LLMs) in future occupation prediction. In this approach, a reason generator first derives a ``reason'' for a user using his/her past education and career history. The reason summarizes the user's preference and is used as the input of an occupation predictor to recommend the user's next occupation. This two-step occupation prediction approach is, however, non-trivial as LLMs are not aligned with career paths or the unobserved reasons behind each occupation decision. We therefore propose to ",
+      "summary_fr": "In this work, we develop a novel reasoning approach to enhance the performance of large language models (LLMs) in future occupation prediction. In this approach, a reason generator first derives a ``reason'' for a user using his/her past education and career history. The reason summarizes the user's preference and is used as the input of an occupation predictor to recommend the user's next occupation. This two-step occupation prediction approach is, however, non-trivial as LLMs are not aligned with career paths or the unobserved reasons behind each occupation decision. We therefore propose to ",
+      "resume_fr": "In this work, we develop a novel reasoning approach to enhance the performance of large language models (LLMs) in future occupation prediction. In this approach, a reason generator first derives a ``reason'' for a user using his/her past education and career history. The reason summarizes the user's preference and is used as the input of an occupation predictor to recommend the user's next occupation. This two-step occupation prediction approach is, however, non-trivial as LLMs are not aligned with career paths or the unobserved reasons behind each occupation decision. We therefore propose to ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Algebraic language models for inverse design of metamaterials via diffusion transformers",
+      "url": "https://www.nature.com/articles/s42256-026-01218-8",
+      "source": "Nature Machine Intelligence",
+      "published": "2026-04-23T00:00:00.000Z",
+      "score": 50,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
+    },
+    {
+      "title": "Enhancing Science Classroom Discourse Analysis through Joint Multi-Task Learning for Reasoning-Component Classification",
+      "url": "https://arxiv.org/abs/2604.21137v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-22T22:56:53.000Z",
+      "score": 50,
+      "summary_en": "Analyzing the reasoning patterns of students in science classrooms is critical for understanding knowledge construction mechanism and improving instructional practice to maximize cognitive engagement, yet manual coding of classroom discourse at scale remains prohibitively labor-intensive. We present an automated discourse analysis system (ADAS) that jointly classifies teacher and student utterances along two complementary dimensions: Utterance Type and Reasoning Component derived from our prior CDAT framework. To address severe label imbalance among minority classes, we (1) stratify-resplit th",
+      "summary_fr": "Analyzing the reasoning patterns of students in science classrooms is critical for understanding knowledge construction mechanism and improving instructional practice to maximize cognitive engagement, yet manual coding of classroom discourse at scale remains prohibitively labor-intensive. We present an automated discourse analysis system (ADAS) that jointly classifies teacher and student utterances along two complementary dimensions: Utterance Type and Reasoning Component derived from our prior CDAT framework. To address severe label imbalance among minority classes, we (1) stratify-resplit th",
+      "resume_fr": "Analyzing the reasoning patterns of students in science classrooms is critical for understanding knowledge construction mechanism and improving instructional practice to maximize cognitive engagement, yet manual coding of classroom discourse at scale remains prohibitively labor-intensive. We present an automated discourse analysis system (ADAS) that jointly classifies teacher and student utterances along two complementary dimensions: Utterance Type and Reasoning Component derived from our prior CDAT framework. To address severe label imbalance among minority classes, we (1) stratify-resplit th",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL",
       "url": "https://arxiv.org/abs/2604.20835v1",
@@ -1100,139 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Towards an Appropriate Level of Reliance on AI: A Preliminary Reliance-Control Framework for AI in Software Engineering",
-      "url": "https://arxiv.org/abs/2604.10530v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-12T08:47:34.000Z",
-      "score": 85,
-      "summary_en": "How software developers interact with Artificial Intelligence (AI)-powered tools, including Large Language Models (LLMs), plays a vital role in how these AI-powered tools impact them. While overreliance on AI may lead to long-term negative consequences (e.g., atrophy of critical thinking skills); underreliance might deprive software developers of potential gains in productivity and quality. Based on twenty-two interviews with software developers on using LLMs for software development, we propose a preliminary reliance-control framework where the level of control can be used as a way to identif",
-      "summary_fr": "How software developers interact with Artificial Intelligence (AI)-powered tools, including Large Language Models (LLMs), plays a vital role in how these AI-powered tools impact them. While overreliance on AI may lead to long-term negative consequences (e.g., atrophy of critical thinking skills); underreliance might deprive software developers of potential gains in productivity and quality. Based on twenty-two interviews with software developers on using LLMs for software development, we propose a preliminary reliance-control framework where the level of control can be used as a way to identif",
-      "resume_fr": "How software developers interact with Artificial Intelligence (AI)-powered tools, including Large Language Models (LLMs), plays a vital role in how these AI-powered tools impact them. While overreliance on AI may lead to long-term negative consequences (e.g., atrophy of critical thinking skills); underreliance might deprive software developers of potential gains in productivity and quality. Based on twenty-two interviews with software developers on using LLMs for software development, we propose a preliminary reliance-control framework where the level of control can be used as a way to identif",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Best Practices for Outdoor Campus Safety Planning",
-      "url": "https://edtechmagazine.com/higher/article/2026/04/best-practices-outdoor-campus-safety-planning",
-      "source": "EdTech Magazine (Higher Ed)",
-      "published": "2026-04-10T17:14:20.000Z",
-      "score": 50,
-      "summary_en": "As spring brings warmer weather, campus life spills outside, onto quads, walkways, playing fields and open-air event spaces. For campus safety personnel, securing outdoor environments can be more complex than indoor spaces. “Outdoor spaces are harder to secure because they’re more open, less controllable and are often multipurpose or shared spaces,” says Rob Kilfoyle, director of public safety and emergency management at Humber College in Toronto and president of the International Association of Campus Law Enforcement Administrators. “Outdoor space security is influenced by factors such as…",
-      "summary_fr": "As spring brings warmer weather, campus life spills outside, onto quads, walkways, playing fields and open-air event spaces. For campus safety personnel, securing outdoor environments can be more complex than indoor spaces. “Outdoor spaces are harder to secure because they’re more open, less controllable and are often multipurpose or shared spaces,” says Rob Kilfoyle, director of public safety and emergency management at Humber College in Toronto and president of the International Association of Campus Law Enforcement Administrators. “Outdoor space security is influenced by factors such as…",
-      "resume_fr": "As spring brings warmer weather, campus life spills outside, onto quads, walkways, playing fields and open-air event spaces. For campus safety personnel, securing outdoor environments can be more complex than indoor spaces. “Outdoor spaces are harder to secure because they’re more open, less controllable and are often multipurpose or shared spaces,” says Rob Kilfoyle, director of public safety and emergency management at Humber College in Toronto and president of the International Association of Campus Law Enforcement Administrators. “Outdoor space security is influenced by factors such as…",
-      "tags": [],
-      "breakdown": {
-        "research": 0,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=edtechmagazine.com&sz=128"
-    },
-    {
-      "title": "Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts",
-      "url": "https://arxiv.org/abs/2604.08541v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-04-09T17:59:44.000Z",
-      "score": 70,
-      "summary_en": "Multimodal Mixture-of-Experts (MoE) models have achieved remarkable performance on vision-language tasks. However, we identify a puzzling phenomenon termed Seeing but Not Thinking: models accurately perceive image content yet fail in subsequent reasoning, while correctly solving identical problems presented as pure text. Through systematic analysis, we first verify that cross-modal semantic sharing exists in MoE architectures, ruling out semantic alignment failure as the sole explanation. We then reveal that visual experts and domain experts exhibit layer-wise separation, with image inputs ind",
-      "summary_fr": "Multimodal Mixture-of-Experts (MoE) models have achieved remarkable performance on vision-language tasks. However, we identify a puzzling phenomenon termed Seeing but Not Thinking: models accurately perceive image content yet fail in subsequent reasoning, while correctly solving identical problems presented as pure text. Through systematic analysis, we first verify that cross-modal semantic sharing exists in MoE architectures, ruling out semantic alignment failure as the sole explanation. We then reveal that visual experts and domain experts exhibit layer-wise separation, with image inputs ind",
-      "resume_fr": "Multimodal Mixture-of-Experts (MoE) models have achieved remarkable performance on vision-language tasks. However, we identify a puzzling phenomenon termed Seeing but Not Thinking: models accurately perceive image content yet fail in subsequent reasoning, while correctly solving identical problems presented as pure text. Through systematic analysis, we first verify that cross-modal semantic sharing exists in MoE architectures, ruling out semantic alignment failure as the sole explanation. We then reveal that visual experts and domain experts exhibit layer-wise separation, with image inputs ind",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Demystifying OPD: Length Inflation and Stabilization Strategies for Large Language Models",
-      "url": "https://arxiv.org/abs/2604.08527v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-04-09T17:58:02.000Z",
-      "score": 50,
-      "summary_en": "On-policy distillation (OPD) trains student models under their own induced distribution while leveraging supervision from stronger teachers. We identify a failure mode of OPD: as training progresses, on-policy rollouts can undergo abrupt length inflation, causing truncated trajectories to dominate the training data. This truncation collapse coincides with abrupt repetition saturation and induces biased gradient signals, leading to severe training instability and sharp degradation in validation performance. We attribute this problem to the interaction between student-induced data collection and",
-      "summary_fr": "On-policy distillation (OPD) trains student models under their own induced distribution while leveraging supervision from stronger teachers. We identify a failure mode of OPD: as training progresses, on-policy rollouts can undergo abrupt length inflation, causing truncated trajectories to dominate the training data. This truncation collapse coincides with abrupt repetition saturation and induces biased gradient signals, leading to severe training instability and sharp degradation in validation performance. We attribute this problem to the interaction between student-induced data collection and",
-      "resume_fr": "On-policy distillation (OPD) trains student models under their own induced distribution while leveraging supervision from stronger teachers. We identify a failure mode of OPD: as training progresses, on-policy rollouts can undergo abrupt length inflation, causing truncated trajectories to dominate the training data. This truncation collapse coincides with abrupt repetition saturation and induces biased gradient signals, leading to severe training instability and sharp degradation in validation performance. We attribute this problem to the interaction between student-induced data collection and",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "ClawBench: Can AI Agents Complete Everyday Online Tasks?",
-      "url": "https://arxiv.org/abs/2604.08523v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-04-09T17:57:13.000Z",
-      "score": 70,
-      "summary_en": "AI agents may be able to automate your inbox, but can they automate other routine aspects of your life? Everyday online tasks offer a realistic yet unsolved testbed for evaluating the next generation of AI agents. To this end, we introduce ClawBench, an evaluation framework of 153 simple tasks that people need to accomplish regularly in their lives and work, spanning 144 live platforms across 15 categories, from completing purchases and booking appointments to submitting job applications. These tasks require demanding capabilities beyond existing benchmarks, such as obtaining relevant informat",
-      "summary_fr": "AI agents may be able to automate your inbox, but can they automate other routine aspects of your life? Everyday online tasks offer a realistic yet unsolved testbed for evaluating the next generation of AI agents. To this end, we introduce ClawBench, an evaluation framework of 153 simple tasks that people need to accomplish regularly in their lives and work, spanning 144 live platforms across 15 categories, from completing purchases and booking appointments to submitting job applications. These tasks require demanding capabilities beyond existing benchmarks, such as obtaining relevant informat",
-      "resume_fr": "AI agents may be able to automate your inbox, but can they automate other routine aspects of your life? Everyday online tasks offer a realistic yet unsolved testbed for evaluating the next generation of AI agents. To this end, we introduce ClawBench, an evaluation framework of 153 simple tasks that people need to accomplish regularly in their lives and work, spanning 144 live platforms across 15 categories, from completing purchases and booking appointments to submitting job applications. These tasks require demanding capabilities beyond existing benchmarks, such as obtaining relevant informat",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "The Impact of Dimensionality on the Stability of Node Embeddings",
-      "url": "https://arxiv.org/abs/2604.08492v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-04-09T17:33:02.000Z",
-      "score": 70,
-      "summary_en": "Previous work has established that neural network-based node embeddings return different outcomes when trained with identical parameters on the same dataset, just from using different training seeds. Yet, it has not been thoroughly analyzed how key hyperparameters such as embedding dimension could impact this instability. In this work, we investigate how varying the dimensionality of node embeddings influences both their stability and downstream performance. We systematically evaluate five widely used methods -- ASNE, DGI, GraphSAGE, node2vec, and VERSE -- across multiple datasets and embeddin",
-      "summary_fr": "Previous work has established that neural network-based node embeddings return different outcomes when trained with identical parameters on the same dataset, just from using different training seeds. Yet, it has not been thoroughly analyzed how key hyperparameters such as embedding dimension could impact this instability. In this work, we investigate how varying the dimensionality of node embeddings influences both their stability and downstream performance. We systematically evaluate five widely used methods -- ASNE, DGI, GraphSAGE, node2vec, and VERSE -- across multiple datasets and embeddin",
-      "resume_fr": "Previous work has established that neural network-based node embeddings return different outcomes when trained with identical parameters on the same dataset, just from using different training seeds. Yet, it has not been thoroughly analyzed how key hyperparameters such as embedding dimension could impact this instability. In this work, we investigate how varying the dimensionality of node embeddings influences both their stability and downstream performance. We systematically evaluate five widely used methods -- ASNE, DGI, GraphSAGE, node2vec, and VERSE -- across multiple datasets and embeddin",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling",
-      "url": "https://arxiv.org/abs/2604.08263v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-09T13:49:07.000Z",
-      "score": 50,
-      "summary_en": "The growing use of artificial intelligence (AI) in education, particularly large language models (LLMs), has increased interest in intelligent tutoring systems. However, LLMs often show limited adaptivity and struggle to model learners' evolving knowledge over time, highlighting the need for dedicated learner modelling approaches. Although deep knowledge tracing methods achieve strong predictive performance, their opacity and susceptibility to bias can limit alignment with pedagogical principles. To address this, we propose Responsible-DKT, a neural-symbolic deep knowledge tracing approach tha",
-      "summary_fr": "The growing use of artificial intelligence (AI) in education, particularly large language models (LLMs), has increased interest in intelligent tutoring systems. However, LLMs often show limited adaptivity and struggle to model learners' evolving knowledge over time, highlighting the need for dedicated learner modelling approaches. Although deep knowledge tracing methods achieve strong predictive performance, their opacity and susceptibility to bias can limit alignment with pedagogical principles. To address this, we propose Responsible-DKT, a neural-symbolic deep knowledge tracing approach tha",
-      "resume_fr": "The growing use of artificial intelligence (AI) in education, particularly large language models (LLMs), has increased interest in intelligent tutoring systems. However, LLMs often show limited adaptivity and struggle to model learners' evolving knowledge over time, highlighting the need for dedicated learner modelling approaches. Although deep knowledge tracing methods achieve strong predictive performance, their opacity and susceptibility to bias can limit alignment with pedagogical principles. To address this, we propose Responsible-DKT, a neural-symbolic deep knowledge tracing approach tha",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
