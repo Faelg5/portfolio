@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T07:43:28.335Z",
+  "generatedAt": "2026-04-26T07:53:05.319Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -172,6 +172,25 @@
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
+      "title": "This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC",
+      "url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
+      "source": "IEEE Spectrum – AI",
+      "published": "2026-04-23T13:00:01.000Z",
+      "score": 50,
+      "summary_en": "Tom Burick has always considered himself a builder. Over the years he’s designed robots, constructed a vintage teardrop trailer, and most recently, led a group of students in building a full-scale replica of a pivotal 1940s computer. Burick is a technology instructor at PS Academy in Gilbert, Ariz., a middle and high school for students with autism and other specialized learning needs. At the start of the 2025–26 school year, he began a project with his students to build a full-scale replica of the Electronic Numerical Integrator and Computer, or ENIAC, for the 80th anniversary of the historic",
+      "summary_fr": "Tom Burick has always considered himself a builder. Over the years he’s designed robots, constructed a vintage teardrop trailer, and most recently, led a group of students in building a full-scale replica of a pivotal 1940s computer. Burick is a technology instructor at PS Academy in Gilbert, Ariz., a middle and high school for students with autism and other specialized learning needs. At the start of the 2025–26 school year, he began a project with his students to build a full-scale replica of the Electronic Numerical Integrator and Computer, or ENIAC, for the 80th anniversary of the historic",
+      "resume_fr": "Tom Burick has always considered himself a builder. Over the years he’s designed robots, constructed a vintage teardrop trailer, and most recently, led a group of students in building a full-scale replica of a pivotal 1940s computer. Burick is a technology instructor at PS Academy in Gilbert, Ariz., a middle and high school for students with autism and other specialized learning needs. At the start of the 2025–26 school year, he began a project with his students to build a full-scale replica of the Electronic Numerical Integrator and Computer, or ENIAC, for the 80th anniversary of the historic",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
+    },
+    {
       "title": "On Reasoning Behind Next Occupation Recommendation",
       "url": "https://arxiv.org/abs/2604.21204v1",
       "source": "arXiv – cs.AI + education/MOOC",
@@ -340,6 +359,25 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Hint-Writing with Deferred AI Assistance: Fostering Critical Engagement in Data Science Education",
+      "url": "https://arxiv.org/abs/2604.19931v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-21T19:20:41.000Z",
+      "score": 50,
+      "summary_en": "Generating hints for incorrect code is a cognitively demanding task that fosters learning and metacognitive development. This study investigates three designs for personalized, scalable, and reflective hint-writing activities within a data science course: (i) writing a hint independently, (ii) writing a hint with on-demand AI assistance, and (iii) deferred AI assistance, in which students first write a hint independently and then revise it with the help of an AI-generated one. We examine how AI support can scaffold the learning process without diminishing students' productive cognitive effort.",
+      "summary_fr": "Generating hints for incorrect code is a cognitively demanding task that fosters learning and metacognitive development. This study investigates three designs for personalized, scalable, and reflective hint-writing activities within a data science course: (i) writing a hint independently, (ii) writing a hint with on-demand AI assistance, and (iii) deferred AI assistance, in which students first write a hint independently and then revise it with the help of an AI-generated one. We examine how AI support can scaffold the learning process without diminishing students' productive cognitive effort.",
+      "resume_fr": "Generating hints for incorrect code is a cognitively demanding task that fosters learning and metacognitive development. This study investigates three designs for personalized, scalable, and reflective hint-writing activities within a data science course: (i) writing a hint independently, (ii) writing a hint with on-demand AI assistance, and (iii) deferred AI assistance, in which students first write a hint independently and then revise it with the help of an AI-generated one. We examine how AI support can scaffold the learning process without diminishing students' productive cognitive effort.",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
@@ -1195,44 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "AI Integrity: A New Paradigm for Verifiable AI Governance",
-      "url": "https://arxiv.org/abs/2604.11065v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-13T06:45:30.000Z",
-      "score": 50,
-      "summary_en": "AI systems increasingly shape high-stakes decisions in healthcare, law, defense, and education, yet existing governance paradigms -- AI Ethics, AI Safety, and AI Alignment -- share a common limitation: they evaluate outcomes rather than verifying the reasoning process itself. This paper introduces AI Integrity, a concept defined as a state in which the Authority Stack of an AI system -- its layered hierarchy of values, epistemological standards, source preferences, and data selection criteria -- is protected from corruption, contamination, manipulation, and bias, and maintained in a verifiable",
-      "summary_fr": "AI systems increasingly shape high-stakes decisions in healthcare, law, defense, and education, yet existing governance paradigms -- AI Ethics, AI Safety, and AI Alignment -- share a common limitation: they evaluate outcomes rather than verifying the reasoning process itself. This paper introduces AI Integrity, a concept defined as a state in which the Authority Stack of an AI system -- its layered hierarchy of values, epistemological standards, source preferences, and data selection criteria -- is protected from corruption, contamination, manipulation, and bias, and maintained in a verifiable",
-      "resume_fr": "AI systems increasingly shape high-stakes decisions in healthcare, law, defense, and education, yet existing governance paradigms -- AI Ethics, AI Safety, and AI Alignment -- share a common limitation: they evaluate outcomes rather than verifying the reasoning process itself. This paper introduces AI Integrity, a concept defined as a state in which the Authority Stack of an AI system -- its layered hierarchy of values, epistemological standards, source preferences, and data selection criteria -- is protected from corruption, contamination, manipulation, and bias, and maintained in a verifiable",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Participatory, not Punitive: Student-Driven AI Policy Recommendations in a Design Classroom",
-      "url": "https://arxiv.org/abs/2604.10851v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-12T23:06:49.000Z",
-      "score": 85,
-      "summary_en": "Generative AI is reshaping education, yet most university AI policies are written without students and focus on penalizing misuse. This top-down approach sidelines those most affected from decisions that shape their everyday learning, resulting in confusion and fear about acceptable use. We examine how participatory, student-driven AI policy design can address this disconnect. We report on a three-part workshop series in a graduate design course at a minority-serving university in the U.S., where two student leaders facilitated discussions without faculty present. Eight participants shared can",
-      "summary_fr": "Generative AI is reshaping education, yet most university AI policies are written without students and focus on penalizing misuse. This top-down approach sidelines those most affected from decisions that shape their everyday learning, resulting in confusion and fear about acceptable use. We examine how participatory, student-driven AI policy design can address this disconnect. We report on a three-part workshop series in a graduate design course at a minority-serving university in the U.S., where two student leaders facilitated discussions without faculty present. Eight participants shared can",
-      "resume_fr": "Generative AI is reshaping education, yet most university AI policies are written without students and focus on penalizing misuse. This top-down approach sidelines those most affected from decisions that shape their everyday learning, resulting in confusion and fear about acceptable use. We examine how participatory, student-driven AI policy design can address this disconnect. We report on a three-part workshop series in a graduate design course at a minority-serving university in the U.S., where two student leaders facilitated discussions without faculty present. Eight participants shared can",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
