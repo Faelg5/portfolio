@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T07:53:05.319Z",
+  "generatedAt": "2026-04-27T08:40:14.718Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,177 @@
     }
   },
   "items": [
+    {
+      "title": "Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection",
+      "url": "https://arxiv.org/abs/2604.22753v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-04-24T17:59:42.000Z",
+      "score": 70,
+      "summary_en": "Scaling laws are used to plan multi-million-dollar training runs, but fitting those laws can itself cost millions. In modern large-scale workflows, assembling a sufficiently informative set of pilot experiments is already a major budget-allocation problem rather than a routine preprocessing step. We formulate scaling-law fitting as budget-aware sequential experimental design: given a finite pool of runnable experiments with heterogeneous costs, choose which runs to execute so as to maximize extrapolation accuracy in a high-cost target region. We then propose an uncertainty-aware method for seq",
+      "summary_fr": "Scaling laws are used to plan multi-million-dollar training runs, but fitting those laws can itself cost millions. In modern large-scale workflows, assembling a sufficiently informative set of pilot experiments is already a major budget-allocation problem rather than a routine preprocessing step. We formulate scaling-law fitting as budget-aware sequential experimental design: given a finite pool of runnable experiments with heterogeneous costs, choose which runs to execute so as to maximize extrapolation accuracy in a high-cost target region. We then propose an uncertainty-aware method for seq",
+      "resume_fr": "Scaling laws are used to plan multi-million-dollar training runs, but fitting those laws can itself cost millions. In modern large-scale workflows, assembling a sufficiently informative set of pilot experiments is already a major budget-allocation problem rather than a routine preprocessing step. We formulate scaling-law fitting as budget-aware sequential experimental design: given a finite pool of runnable experiments with heterogeneous costs, choose which runs to execute so as to maximize extrapolation accuracy in a high-cost target region. We then propose an uncertainty-aware method for seq",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities",
+      "url": "https://arxiv.org/abs/2604.22749v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-04-24T17:49:09.000Z",
+      "score": 50,
+      "summary_en": "Large language models (LLMs) are increasingly used for text generation tasks from everyday use to high-stakes enterprise and government applications, including simulated interviews with asylum seekers. While many works highlight the new potential applications of LLMs, there are risks of LLMs encoding and perpetuating harmful biases about non-dominant communities across the globe. To better evaluate and mitigate such harms, more research examining how LLMs portray diverse individuals is needed. In this work, we study how national origin identities are portrayed by widely-adopted LLMs in respons",
+      "summary_fr": "Large language models (LLMs) are increasingly used for text generation tasks from everyday use to high-stakes enterprise and government applications, including simulated interviews with asylum seekers. While many works highlight the new potential applications of LLMs, there are risks of LLMs encoding and perpetuating harmful biases about non-dominant communities across the globe. To better evaluate and mitigate such harms, more research examining how LLMs portray diverse individuals is needed. In this work, we study how national origin identities are portrayed by widely-adopted LLMs in respons",
+      "resume_fr": "Large language models (LLMs) are increasingly used for text generation tasks from everyday use to high-stakes enterprise and government applications, including simulated interviews with asylum seekers. While many works highlight the new potential applications of LLMs, there are risks of LLMs encoding and perpetuating harmful biases about non-dominant communities across the globe. To better evaluate and mitigate such harms, more research examining how LLMs portray diverse individuals is needed. In this work, we study how national origin identities are portrayed by widely-adopted LLMs in respons",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Zero-Shot Morphological Discovery in Low-Resource Bantu Languages via Cross-Lingual Transfer and Unsupervised Clustering",
+      "url": "https://arxiv.org/abs/2604.22723v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-04-24T17:21:00.000Z",
+      "score": 50,
+      "summary_en": "We present a method for discovering morphological features in low-resource Bantu languages by combining cross-lingual transfer learning with unsupervised clustering. Applied to Giriama (nyf), a language with only 91 labeled paradigms, our pipeline discovers noun class assignments for 2,455 words and identifies two previously undocumented morphological patterns: an a- prefix variant for Class 2 (vowel coalescence - the merger of two adjacent vowels - of wa-, 95.1% consistency) and a contracted k'- prefix (98.5% consistency). External validation on 444 known Giriama verb paradigms confirms 78.2%",
+      "summary_fr": "We present a method for discovering morphological features in low-resource Bantu languages by combining cross-lingual transfer learning with unsupervised clustering. Applied to Giriama (nyf), a language with only 91 labeled paradigms, our pipeline discovers noun class assignments for 2,455 words and identifies two previously undocumented morphological patterns: an a- prefix variant for Class 2 (vowel coalescence - the merger of two adjacent vowels - of wa-, 95.1% consistency) and a contracted k'- prefix (98.5% consistency). External validation on 444 known Giriama verb paradigms confirms 78.2%",
+      "resume_fr": "We present a method for discovering morphological features in low-resource Bantu languages by combining cross-lingual transfer learning with unsupervised clustering. Applied to Giriama (nyf), a language with only 91 labeled paradigms, our pipeline discovers noun class assignments for 2,455 words and identifies two previously undocumented morphological patterns: an a- prefix variant for Class 2 (vowel coalescence - the merger of two adjacent vowels - of wa-, 95.1% consistency) and a contracted k'- prefix (98.5% consistency). External validation on 444 known Giriama verb paradigms confirms 78.2%",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Thinking Without Words: Efficient Latent Reasoning with Abstract Chain-of-Thought",
+      "url": "https://arxiv.org/abs/2604.22709v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-04-24T16:45:51.000Z",
+      "score": 70,
+      "summary_en": "While long, explicit chains-of-thought (CoT) have proven effective on complex reasoning tasks, they are costly to generate during inference. Non-verbal reasoning methods have emerged with shorter generation lengths by leveraging continuous representations, yet their performance lags behind verbalized CoT. We propose $\\textbf{Abstract Chain-of-Thought}$, a discrete latent reasoning post-training mechanism in which the language model produces a short sequence of tokens from a reserved vocabulary in lieu of a natural language CoT, before generating a response. To make previously unseen ''abstract",
+      "summary_fr": "While long, explicit chains-of-thought (CoT) have proven effective on complex reasoning tasks, they are costly to generate during inference. Non-verbal reasoning methods have emerged with shorter generation lengths by leveraging continuous representations, yet their performance lags behind verbalized CoT. We propose $\\textbf{Abstract Chain-of-Thought}$, a discrete latent reasoning post-training mechanism in which the language model produces a short sequence of tokens from a reserved vocabulary in lieu of a natural language CoT, before generating a response. To make previously unseen ''abstract",
+      "resume_fr": "While long, explicit chains-of-thought (CoT) have proven effective on complex reasoning tasks, they are costly to generate during inference. Non-verbal reasoning methods have emerged with shorter generation lengths by leveraging continuous representations, yet their performance lags behind verbalized CoT. We propose $\\textbf{Abstract Chain-of-Thought}$, a discrete latent reasoning post-training mechanism in which the language model produces a short sequence of tokens from a reserved vocabulary in lieu of a natural language CoT, before generating a response. To make previously unseen ''abstract",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "RFID-Based Non-Biometric Classroom Attendance System: Proxy Attendance Detection via Weight Sensor Integration",
+      "url": "https://arxiv.org/abs/2604.22697v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-24T16:30:32.000Z",
+      "score": 50,
+      "summary_en": "Attendance tracking in educational institutions, when conducted through traditional methods, leads to structural problems that consume instruction time and threaten academic integrity. Attendance durations spanning several minutes in primary and secondary education and exceeding ten minutes in higher education, combined with the proxy attendance problem of signing on behalf of someone else, demonstrate the need for electronic systems. Most existing electronic solutions rely on biometric authentication, which raises legal and ethical risks under the European General Data Protection Regulation (",
+      "summary_fr": "Attendance tracking in educational institutions, when conducted through traditional methods, leads to structural problems that consume instruction time and threaten academic integrity. Attendance durations spanning several minutes in primary and secondary education and exceeding ten minutes in higher education, combined with the proxy attendance problem of signing on behalf of someone else, demonstrate the need for electronic systems. Most existing electronic solutions rely on biometric authentication, which raises legal and ethical risks under the European General Data Protection Regulation (",
+      "resume_fr": "Attendance tracking in educational institutions, when conducted through traditional methods, leads to structural problems that consume instruction time and threaten academic integrity. Attendance durations spanning several minutes in primary and secondary education and exceeding ten minutes in higher education, combined with the proxy attendance problem of signing on behalf of someone else, demonstrate the need for electronic systems. Most existing electronic solutions rely on biometric authentication, which raises legal and ethical risks under the European General Data Protection Regulation (",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Controllable Spoken Dialogue Generation: An LLM-Driven Grading System for K-12 Non-Native English Learners",
+      "url": "https://arxiv.org/abs/2604.22542v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-24T13:33:12.000Z",
+      "score": 50,
+      "summary_en": "Large language models (LLMs) often fail to meet the pedagogical needs of K-12 English learners in non-native contexts due to a proficiency mismatch. To address this widespread challenge, we introduce a proficiency-aligned framework that adapts LLM outputs to learner abilities, using China's national curriculum (CSE) as a representative case. Our framework enables precise control over lexical complexity through a four-tier grading system, supported by a comprehensive suite of new resources: graded vocabulary lists and a multi-turn dialogue corpus. Our core technical contribution is the \\textbf{",
+      "summary_fr": "Large language models (LLMs) often fail to meet the pedagogical needs of K-12 English learners in non-native contexts due to a proficiency mismatch. To address this widespread challenge, we introduce a proficiency-aligned framework that adapts LLM outputs to learner abilities, using China's national curriculum (CSE) as a representative case. Our framework enables precise control over lexical complexity through a four-tier grading system, supported by a comprehensive suite of new resources: graded vocabulary lists and a multi-turn dialogue corpus. Our core technical contribution is the \\textbf{",
+      "resume_fr": "Large language models (LLMs) often fail to meet the pedagogical needs of K-12 English learners in non-native contexts due to a proficiency mismatch. To address this widespread challenge, we introduce a proficiency-aligned framework that adapts LLM outputs to learner abilities, using China's national curriculum (CSE) as a representative case. Our framework enables precise control over lexical complexity through a four-tier grading system, supported by a comprehensive suite of new resources: graded vocabulary lists and a multi-turn dialogue corpus. Our core technical contribution is the \\textbf{",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Tell Me Why: Designing an Explainable LLM-based Dialogue System for Student Problem Behavior Diagnosis",
+      "url": "https://arxiv.org/abs/2604.22237v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-24T05:23:25.000Z",
+      "score": 50,
+      "summary_en": "Diagnosing student problem behaviors requires teachers to synthesize multifaceted information, identify behavioral categories, and plan intervention strategies. Although fine-tuned large language models (LLMs) can support this process through multi-turn dialogue, they rarely explain why a strategy is recommended, limiting transparency and teachers' trust. To address this issue, we present an explainable dialogue system built on a fine-tuned LLM. The system uses a hierarchical attribution method based on explainable AI (xAI) to identify dialogue evidence for each recommendation and generate a n",
+      "summary_fr": "Diagnosing student problem behaviors requires teachers to synthesize multifaceted information, identify behavioral categories, and plan intervention strategies. Although fine-tuned large language models (LLMs) can support this process through multi-turn dialogue, they rarely explain why a strategy is recommended, limiting transparency and teachers' trust. To address this issue, we present an explainable dialogue system built on a fine-tuned LLM. The system uses a hierarchical attribution method based on explainable AI (xAI) to identify dialogue evidence for each recommendation and generate a n",
+      "resume_fr": "Diagnosing student problem behaviors requires teachers to synthesize multifaceted information, identify behavioral categories, and plan intervention strategies. Although fine-tuned large language models (LLMs) can support this process through multi-turn dialogue, they rarely explain why a strategy is recommended, limiting transparency and teachers' trust. To address this issue, we present an explainable dialogue system built on a fine-tuned LLM. The system uses a hierarchical attribution method based on explainable AI (xAI) to identify dialogue evidence for each recommendation and generate a n",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "ArguMath: AI-Simulated Environment for Pre-Service Teacher Training in Orchestrating Classroom Mathematics Argumentation",
+      "url": "https://arxiv.org/abs/2604.22205v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-24T04:18:18.000Z",
+      "score": 50,
+      "summary_en": "Facilitating productive mathematical argumentation, especially asking rational questions, is essential yet remains challenging for pre-service mathematics teachers (PMTs), who often have limited opportunities to apply abstract theoretical knowledge in authentic practice. At the same time, recent advances in large language models (LLMs) have expanded the potential for simulating students in educational settings, enabling low-risk environments for instructional practice. To inform the design of a system that supports PMTs in orchestrating classroom argumentation, we conducted a formative study w",
+      "summary_fr": "Facilitating productive mathematical argumentation, especially asking rational questions, is essential yet remains challenging for pre-service mathematics teachers (PMTs), who often have limited opportunities to apply abstract theoretical knowledge in authentic practice. At the same time, recent advances in large language models (LLMs) have expanded the potential for simulating students in educational settings, enabling low-risk environments for instructional practice. To inform the design of a system that supports PMTs in orchestrating classroom argumentation, we conducted a formative study w",
+      "resume_fr": "Facilitating productive mathematical argumentation, especially asking rational questions, is essential yet remains challenging for pre-service mathematics teachers (PMTs), who often have limited opportunities to apply abstract theoretical knowledge in authentic practice. At the same time, recent advances in large language models (LLMs) have expanded the potential for simulating students in educational settings, enabling low-risk environments for instructional practice. To inform the design of a system that supports PMTs in orchestrating classroom argumentation, we conducted a formative study w",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Community-Based AI Learning: Redistributing Artificial Intelligence's Epistemic Authority in Education",
+      "url": "https://arxiv.org/abs/2604.21986v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-23T18:12:17.000Z",
+      "score": 50,
+      "summary_en": "As generative AI systems increasingly mediate learning, they are often treated as authoritative sources of knowledge. This perspective paper introduces community-based AI learning as a framework that repositions authority, grounding AI engagement in learners' lived and community-based epistemologies. Drawing from community-driven learning and constructionist traditions, we articulate three commitments: epistemic fine tuning, redistribution of authority, and situated discernment. Together, these processes localize critical AI literacy by calibrating trust, foregrounding community knowledge, and",
+      "summary_fr": "As generative AI systems increasingly mediate learning, they are often treated as authoritative sources of knowledge. This perspective paper introduces community-based AI learning as a framework that repositions authority, grounding AI engagement in learners' lived and community-based epistemologies. Drawing from community-driven learning and constructionist traditions, we articulate three commitments: epistemic fine tuning, redistribution of authority, and situated discernment. Together, these processes localize critical AI literacy by calibrating trust, foregrounding community knowledge, and",
+      "resume_fr": "As generative AI systems increasingly mediate learning, they are often treated as authoritative sources of knowledge. This perspective paper introduces community-based AI learning as a framework that repositions authority, grounding AI engagement in learners' lived and community-based epistemologies. Drawing from community-driven learning and constructionist traditions, we articulate three commitments: epistemic fine tuning, redistribution of authority, and situated discernment. Together, these processes localize critical AI literacy by calibrating trust, foregrounding community knowledge, and",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models",
       "url": "https://arxiv.org/abs/2604.21903v1",
@@ -1062,177 +1233,6 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Causal Diffusion Models for Counterfactual Outcome Distributions in Longitudinal Data",
-      "url": "https://arxiv.org/abs/2604.12992v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-04-14T17:25:53.000Z",
-      "score": 70,
-      "summary_en": "Predicting counterfactual outcomes in longitudinal data, where sequential treatment decisions heavily depend on evolving patient states, is critical yet notoriously challenging due to complex time-dependent confounding and inadequate uncertainty quantification in existing methods. We introduce the Causal Diffusion Model (CDM), the first denoising diffusion probabilistic approach explicitly designed to generate full probabilistic distributions of counterfactual outcomes under sequential interventions. CDM employs a novel residual denoising architecture with relational self-attention, capturing ",
-      "summary_fr": "Predicting counterfactual outcomes in longitudinal data, where sequential treatment decisions heavily depend on evolving patient states, is critical yet notoriously challenging due to complex time-dependent confounding and inadequate uncertainty quantification in existing methods. We introduce the Causal Diffusion Model (CDM), the first denoising diffusion probabilistic approach explicitly designed to generate full probabilistic distributions of counterfactual outcomes under sequential interventions. CDM employs a novel residual denoising architecture with relational self-attention, capturing ",
-      "resume_fr": "Predicting counterfactual outcomes in longitudinal data, where sequential treatment decisions heavily depend on evolving patient states, is critical yet notoriously challenging due to complex time-dependent confounding and inadequate uncertainty quantification in existing methods. We introduce the Causal Diffusion Model (CDM), the first denoising diffusion probabilistic approach explicitly designed to generate full probabilistic distributions of counterfactual outcomes under sequential interventions. CDM employs a novel residual denoising architecture with relational self-attention, capturing ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "A sequential explanatory mixed-methods study on the acceptance of a social robot for EFL speaking practice among Chinese primary school students: Insights from the Computers Are Social Actors (CASA) paradigm",
-      "url": "https://arxiv.org/abs/2604.12789v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-14T14:22:03.000Z",
-      "score": 85,
-      "summary_en": "This study investigates Chinese primary school students' acceptance of a social robot for English-as-a-foreign-language (EFL) speaking practice through a sequential explanatory mixed-methods design. Integrating the Technology Acceptance Model (TAM) and the Computers Are Social Actors (CASA) paradigm, the research explores both functional and social factors influencing learners' behavioural intention to use the robot. Quantitative data from 436 students were analysed using structural equation modelling, followed by qualitative interviews with twelve students to interpret the findings. Results s",
-      "summary_fr": "This study investigates Chinese primary school students' acceptance of a social robot for English-as-a-foreign-language (EFL) speaking practice through a sequential explanatory mixed-methods design. Integrating the Technology Acceptance Model (TAM) and the Computers Are Social Actors (CASA) paradigm, the research explores both functional and social factors influencing learners' behavioural intention to use the robot. Quantitative data from 436 students were analysed using structural equation modelling, followed by qualitative interviews with twelve students to interpret the findings. Results s",
-      "resume_fr": "This study investigates Chinese primary school students' acceptance of a social robot for English-as-a-foreign-language (EFL) speaking practice through a sequential explanatory mixed-methods design. Integrating the Technology Acceptance Model (TAM) and the Computers Are Social Actors (CASA) paradigm, the research explores both functional and social factors influencing learners' behavioural intention to use the robot. Quantitative data from 436 students were analysed using structural equation modelling, followed by qualitative interviews with twelve students to interpret the findings. Results s",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "A Scoping Review of Large Language Model-Based Pedagogical Agents",
-      "url": "https://arxiv.org/abs/2604.12253v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-14T03:58:11.000Z",
-      "score": 50,
-      "summary_en": "This scoping review examines the emerging field of Large Language Model (LLM)-based pedagogical agents in educational settings. While traditional pedagogical agents have been extensively studied, the integration of LLMs represents a transformative advancement with unprecedented capabilities in natural language understanding, reasoning, and adaptation. Following PRISMA-ScR guidelines, we analyzed 52 studies across five major databases from November 2022 to January 2025. Our findings reveal diverse LLM-based agents spanning K-12, higher education, and informal learning contexts across multiple s",
-      "summary_fr": "This scoping review examines the emerging field of Large Language Model (LLM)-based pedagogical agents in educational settings. While traditional pedagogical agents have been extensively studied, the integration of LLMs represents a transformative advancement with unprecedented capabilities in natural language understanding, reasoning, and adaptation. Following PRISMA-ScR guidelines, we analyzed 52 studies across five major databases from November 2022 to January 2025. Our findings reveal diverse LLM-based agents spanning K-12, higher education, and informal learning contexts across multiple s",
-      "resume_fr": "This scoping review examines the emerging field of Large Language Model (LLM)-based pedagogical agents in educational settings. While traditional pedagogical agents have been extensively studied, the integration of LLMs represents a transformative advancement with unprecedented capabilities in natural language understanding, reasoning, and adaptation. Following PRISMA-ScR guidelines, we analyzed 52 studies across five major databases from November 2022 to January 2025. Our findings reveal diverse LLM-based agents spanning K-12, higher education, and informal learning contexts across multiple s",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Mathematics Teachers Interactions with a Multi-Agent System for Personalized Problem Generation",
-      "url": "https://arxiv.org/abs/2604.12066v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-13T21:10:52.000Z",
-      "score": 85,
-      "summary_en": "Large language models can increasingly adapt educational tasks to learners characteristics. In the present study, we examine a multi-agent teacher-in-the-loop system for personalizing middle school math problems. The teacher enters a base problem and desired topic, the LLM generates the problem, and then four AI agents evaluate the problem using criteria that each specializes in (mathematical accuracy, authenticity, readability, and realism). Eight middle school mathematics teachers created 212 problems in ASSISTments using the system and assigned these problems to their students. We find that",
-      "summary_fr": "Large language models can increasingly adapt educational tasks to learners characteristics. In the present study, we examine a multi-agent teacher-in-the-loop system for personalizing middle school math problems. The teacher enters a base problem and desired topic, the LLM generates the problem, and then four AI agents evaluate the problem using criteria that each specializes in (mathematical accuracy, authenticity, readability, and realism). Eight middle school mathematics teachers created 212 problems in ASSISTments using the system and assigned these problems to their students. We find that",
-      "resume_fr": "Large language models can increasingly adapt educational tasks to learners characteristics. In the present study, we examine a multi-agent teacher-in-the-loop system for personalizing middle school math problems. The teacher enters a base problem and desired topic, the LLM generates the problem, and then four AI agents evaluate the problem using criteria that each specializes in (mathematical accuracy, authenticity, readability, and realism). Eight middle school mathematics teachers created 212 problems in ASSISTments using the system and assigned these problems to their students. We find that",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "CLSGen: A Dual-Head Fine-Tuning Framework for Joint Probabilistic Classification and Verbalized Explanation",
-      "url": "https://arxiv.org/abs/2604.11801v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-04-13T17:58:43.000Z",
-      "score": 70,
-      "summary_en": "With the recent progress of Large Language Models (LLMs), there is a growing interest in applying these models to solve complex and challenging problems. Modern LLMs, capable of processing long contexts and generating verbalized explanations, offer significant potential in addressing real-world applications. However, a critical hurdle in deploying LLMs for practical decision-making is their inability to provide reliable, quantitative probabilities. While task-specific fine-tuning of LLMs using traditional discriminative objectives (similar to encoder-only models) can yield probability estimate",
-      "summary_fr": "With the recent progress of Large Language Models (LLMs), there is a growing interest in applying these models to solve complex and challenging problems. Modern LLMs, capable of processing long contexts and generating verbalized explanations, offer significant potential in addressing real-world applications. However, a critical hurdle in deploying LLMs for practical decision-making is their inability to provide reliable, quantitative probabilities. While task-specific fine-tuning of LLMs using traditional discriminative objectives (similar to encoder-only models) can yield probability estimate",
-      "resume_fr": "With the recent progress of Large Language Models (LLMs), there is a growing interest in applying these models to solve complex and challenging problems. Modern LLMs, capable of processing long contexts and generating verbalized explanations, offer significant potential in addressing real-world applications. However, a critical hurdle in deploying LLMs for practical decision-making is their inability to provide reliable, quantitative probabilities. While task-specific fine-tuning of LLMs using traditional discriminative objectives (similar to encoder-only models) can yield probability estimate",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents",
-      "url": "https://arxiv.org/abs/2604.11784v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-04-13T17:52:04.000Z",
-      "score": 70,
-      "summary_en": "GUI agents drive applications through their visual interfaces instead of programmatic APIs, interacting with arbitrary software via taps, swipes, and keystrokes, reaching a long tail of applications that CLI-based agents cannot. Yet progress in this area is bottlenecked less by modeling capacity than by the absence of a coherent full-stack infrastructure: online RL training suffers from environment instability and closed pipelines, evaluation protocols drift silently across works, and trained agents rarely reach real users on real devices. We present \\textbf{ClawGUI}, an open-source framework ",
-      "summary_fr": "GUI agents drive applications through their visual interfaces instead of programmatic APIs, interacting with arbitrary software via taps, swipes, and keystrokes, reaching a long tail of applications that CLI-based agents cannot. Yet progress in this area is bottlenecked less by modeling capacity than by the absence of a coherent full-stack infrastructure: online RL training suffers from environment instability and closed pipelines, evaluation protocols drift silently across works, and trained agents rarely reach real users on real devices. We present \\textbf{ClawGUI}, an open-source framework ",
-      "resume_fr": "GUI agents drive applications through their visual interfaces instead of programmatic APIs, interacting with arbitrary software via taps, swipes, and keystrokes, reaching a long tail of applications that CLI-based agents cannot. Yet progress in this area is bottlenecked less by modeling capacity than by the absence of a coherent full-stack infrastructure: online RL training suffers from environment instability and closed pipelines, evaluation protocols drift silently across works, and trained agents rarely reach real users on real devices. We present \\textbf{ClawGUI}, an open-source framework ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Autonomous Diffractometry Enabled by Visual Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2604.11773v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-04-13T17:42:19.000Z",
-      "score": 70,
-      "summary_en": "Automation underpins progress across scientific and industrial disciplines. Yet, automating tasks requiring interpretation of abstract visual information remain challenging. For example, crystal alignment strongly relies on humans with the ability to comprehend diffraction patterns. Here we introduce an autonomous system that aligns single crystals without access to crystallography and diffraction theory. Using a model-free reinforcement learning framework, an agent learns to identify and navigate towards high-symmetry orientations directly from Laue diffraction patterns. Despite the absence o",
-      "summary_fr": "Automation underpins progress across scientific and industrial disciplines. Yet, automating tasks requiring interpretation of abstract visual information remain challenging. For example, crystal alignment strongly relies on humans with the ability to comprehend diffraction patterns. Here we introduce an autonomous system that aligns single crystals without access to crystallography and diffraction theory. Using a model-free reinforcement learning framework, an agent learns to identify and navigate towards high-symmetry orientations directly from Laue diffraction patterns. Despite the absence o",
-      "resume_fr": "Automation underpins progress across scientific and industrial disciplines. Yet, automating tasks requiring interpretation of abstract visual information remain challenging. For example, crystal alignment strongly relies on humans with the ability to comprehend diffraction patterns. Here we introduce an autonomous system that aligns single crystals without access to crystallography and diffraction theory. Using a model-free reinforcement learning framework, an agent learns to identify and navigate towards high-symmetry orientations directly from Laue diffraction patterns. Despite the absence o",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "A Simulation-Based Method for Testing Collaborative Learning Scaffolds Using LLM-Based Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2604.11161v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-13T08:25:17.000Z",
-      "score": 50,
-      "summary_en": "Background: Traditional research on collaborative learning scaffolding is often time-consuming and resource-heavy, which hinders the rapid iteration and optimization of instructional strategies. LLM-based multi-agent systems have recently emerged as a powerful tool to simulate complex social interactions and provide a novel paradigm for educational research. Objectives: This study proposes an LLM-based multi-agent simulation approach to investigate collaborative learning processes and the effectiveness of instructional scaffolds prior to actual classroom deployment. The research specifically e",
-      "summary_fr": "Background: Traditional research on collaborative learning scaffolding is often time-consuming and resource-heavy, which hinders the rapid iteration and optimization of instructional strategies. LLM-based multi-agent systems have recently emerged as a powerful tool to simulate complex social interactions and provide a novel paradigm for educational research. Objectives: This study proposes an LLM-based multi-agent simulation approach to investigate collaborative learning processes and the effectiveness of instructional scaffolds prior to actual classroom deployment. The research specifically e",
-      "resume_fr": "Background: Traditional research on collaborative learning scaffolding is often time-consuming and resource-heavy, which hinders the rapid iteration and optimization of instructional strategies. LLM-based multi-agent systems have recently emerged as a powerful tool to simulate complex social interactions and provide a novel paradigm for educational research. Objectives: This study proposes an LLM-based multi-agent simulation approach to investigate collaborative learning processes and the effectiveness of instructional scaffolds prior to actual classroom deployment. The research specifically e",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Use of AI Tools: Guidelines to Maintain Academic Integrity in Computing Colleges",
-      "url": "https://arxiv.org/abs/2604.11111v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-13T07:25:47.000Z",
-      "score": 50,
-      "summary_en": "The rapid adoption of AI tools such as ChatGPT has significantly transformed academic practices, offering considerable benefits for both students and faculty in computing disciplines. These tools have been shown to enhance learning efficiency, academic self-efficacy, and confidence. However, their increasing use also raises pressing concerns regarding the preservation of academic integrity -- an essential pillar of the educational process. This paper explores the implications of widespread AI tool usage within computing colleges, with a particular focus on how to align their use with the princ",
-      "summary_fr": "The rapid adoption of AI tools such as ChatGPT has significantly transformed academic practices, offering considerable benefits for both students and faculty in computing disciplines. These tools have been shown to enhance learning efficiency, academic self-efficacy, and confidence. However, their increasing use also raises pressing concerns regarding the preservation of academic integrity -- an essential pillar of the educational process. This paper explores the implications of widespread AI tool usage within computing colleges, with a particular focus on how to align their use with the princ",
-      "resume_fr": "The rapid adoption of AI tools such as ChatGPT has significantly transformed academic practices, offering considerable benefits for both students and faculty in computing disciplines. These tools have been shown to enhance learning efficiency, academic self-efficacy, and confidence. However, their increasing use also raises pressing concerns regarding the preservation of academic integrity -- an essential pillar of the educational process. This paper explores the implications of widespread AI tool usage within computing colleges, with a particular focus on how to align their use with the princ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
