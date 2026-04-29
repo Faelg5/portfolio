@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-28T08:38:34.441Z",
+  "generatedAt": "2026-04-29T08:31:28.568Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
-  "totalAnalyzed": 73,
+  "totalAnalyzed": 100,
   "totalPublished": 60,
   "publishTarget": "default",
   "debug": {
@@ -96,6 +96,177 @@
   },
   "items": [
     {
+      "title": "Teacher Forcing as Generalized Bayes: Optimization Geometry Mismatch in Switching Surrogates for Chaotic Dynamics",
+      "url": "https://arxiv.org/abs/2604.25904v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-04-28T17:50:37.000Z",
+      "score": 50,
+      "summary_en": "Identity teacher forcing (ITF) enables stable training of deterministic recurrent surrogates for chaotic dynamical systems and has been highly effective for dynamical systems reconstruction (DSR) with recurrent neural networks (RNNs), including interpretable almost-linear RNNs (AL-RNNs). However, as an intervention-based prediction loss (and thus a generalized Bayes update), teacher forcing need not match the free-running model's marginal likelihood geometry. We compare the objective-induced curvatures of ITF and marginal likelihood in a probabilistic switching augmentation of AL-RNNs, estimat",
+      "summary_fr": "Identity teacher forcing (ITF) enables stable training of deterministic recurrent surrogates for chaotic dynamical systems and has been highly effective for dynamical systems reconstruction (DSR) with recurrent neural networks (RNNs), including interpretable almost-linear RNNs (AL-RNNs). However, as an intervention-based prediction loss (and thus a generalized Bayes update), teacher forcing need not match the free-running model's marginal likelihood geometry. We compare the objective-induced curvatures of ITF and marginal likelihood in a probabilistic switching augmentation of AL-RNNs, estimat",
+      "resume_fr": "Identity teacher forcing (ITF) enables stable training of deterministic recurrent surrogates for chaotic dynamical systems and has been highly effective for dynamical systems reconstruction (DSR) with recurrent neural networks (RNNs), including interpretable almost-linear RNNs (AL-RNNs). However, as an intervention-based prediction loss (and thus a generalized Bayes update), teacher forcing need not match the free-running model's marginal likelihood geometry. We compare the objective-induced curvatures of ITF and marginal likelihood in a probabilistic switching augmentation of AL-RNNs, estimat",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Carbon-Taxed Transformers: A Green Compression Pipeline for Overgrown Language Models",
+      "url": "https://arxiv.org/abs/2604.25903v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-04-28T17:48:16.000Z",
+      "score": 50,
+      "summary_en": "The accelerating adoption of Large Language Models (LLMs) in software engineering (SE) has brought with it a silent crisis: unsustainable computational cost. While these models demonstrate remarkable capabilities in different SE tasks, they are unmanageably large, slow to deploy, memory-intensive, and carbon-heavy. This reality threatens not only the scalability and accessibility of AI-powered SE, but also its long-term environmental sustainability. The research challenge is clear: we must go beyond accuracy and address efficiency and environmental cost as first-class design constraints. To me",
+      "summary_fr": "The accelerating adoption of Large Language Models (LLMs) in software engineering (SE) has brought with it a silent crisis: unsustainable computational cost. While these models demonstrate remarkable capabilities in different SE tasks, they are unmanageably large, slow to deploy, memory-intensive, and carbon-heavy. This reality threatens not only the scalability and accessibility of AI-powered SE, but also its long-term environmental sustainability. The research challenge is clear: we must go beyond accuracy and address efficiency and environmental cost as first-class design constraints. To me",
+      "resume_fr": "The accelerating adoption of Large Language Models (LLMs) in software engineering (SE) has brought with it a silent crisis: unsustainable computational cost. While these models demonstrate remarkable capabilities in different SE tasks, they are unmanageably large, slow to deploy, memory-intensive, and carbon-heavy. This reality threatens not only the scalability and accessibility of AI-powered SE, but also its long-term environmental sustainability. The research challenge is clear: we must go beyond accuracy and address efficiency and environmental cost as first-class design constraints. To me",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "MAIC-UI: Making Interactive Courseware with Generative UI",
+      "url": "https://arxiv.org/abs/2604.25806v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-28T16:15:04.000Z",
+      "score": 85,
+      "summary_en": "Creating interactive STEM courseware traditionally requires HTML/CSS/JavaScript expertise, leaving barriers for educators. While generative AI can produce HTML codes, existing tools generate static presentations rather than interactive simulations, struggle with long documents, and lack pedagogical accuracy mechanisms. Furthermore, full regeneration for modifications requires 200--600 seconds, disrupting creative flow. We present MAIC-UI, a zero-code authoring system that enables educators to create and rapidly edit interactive courseware from textbooks, PPTs, and PDFs. MAIC-UI employs: (1) st",
+      "summary_fr": "Creating interactive STEM courseware traditionally requires HTML/CSS/JavaScript expertise, leaving barriers for educators. While generative AI can produce HTML codes, existing tools generate static presentations rather than interactive simulations, struggle with long documents, and lack pedagogical accuracy mechanisms. Furthermore, full regeneration for modifications requires 200--600 seconds, disrupting creative flow. We present MAIC-UI, a zero-code authoring system that enables educators to create and rapidly edit interactive courseware from textbooks, PPTs, and PDFs. MAIC-UI employs: (1) st",
+      "resume_fr": "Creating interactive STEM courseware traditionally requires HTML/CSS/JavaScript expertise, leaving barriers for educators. While generative AI can produce HTML codes, existing tools generate static presentations rather than interactive simulations, struggle with long documents, and lack pedagogical accuracy mechanisms. Furthermore, full regeneration for modifications requires 200--600 seconds, disrupting creative flow. We present MAIC-UI, a zero-code authoring system that enables educators to create and rapidly edit interactive courseware from textbooks, PPTs, and PDFs. MAIC-UI employs: (1) st",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Can Code Evaluation Metrics Detect Code Plagiarism?",
+      "url": "https://arxiv.org/abs/2604.25778v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-28T15:45:44.000Z",
+      "score": 50,
+      "summary_en": "Source Code Plagiarism Detection (SCPD) plays an important role in maintaining fairness and academic integrity in software engineering education. Code Evaluation Metrics (CEMs) are developed for assessing code generation tasks. However, it remains unclear whether such metrics can reliably detect plagiarism across different levels of modification (L1-L6), increasing in complexity. In this paper, we perform a comparative empirical study using two open-source labelled datasets, ConPlag (raw and template-free versions) and IRPlag. We evaluate five CEMs, namely CodeBLEU, CrystalBLEU, RUBY, Tree Str",
+      "summary_fr": "Source Code Plagiarism Detection (SCPD) plays an important role in maintaining fairness and academic integrity in software engineering education. Code Evaluation Metrics (CEMs) are developed for assessing code generation tasks. However, it remains unclear whether such metrics can reliably detect plagiarism across different levels of modification (L1-L6), increasing in complexity. In this paper, we perform a comparative empirical study using two open-source labelled datasets, ConPlag (raw and template-free versions) and IRPlag. We evaluate five CEMs, namely CodeBLEU, CrystalBLEU, RUBY, Tree Str",
+      "resume_fr": "Source Code Plagiarism Detection (SCPD) plays an important role in maintaining fairness and academic integrity in software engineering education. Code Evaluation Metrics (CEMs) are developed for assessing code generation tasks. However, it remains unclear whether such metrics can reliably detect plagiarism across different levels of modification (L1-L6), increasing in complexity. In this paper, we perform a comparative empirical study using two open-source labelled datasets, ConPlag (raw and template-free versions) and IRPlag. We evaluate five CEMs, namely CodeBLEU, CrystalBLEU, RUBY, Tree Str",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "The Nonverbal Syntax Framework: An Evidence-Based Tiered System for Inferring Learner States from Observable Behavioral Cues",
+      "url": "https://arxiv.org/abs/2604.25612v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-28T13:20:44.000Z",
+      "score": 85,
+      "summary_en": "Understanding learners' cognitive and affective states underpins adaptive educational systems and effective teaching. Although research links nonverbal cues to internal states, no framework calibrates them to evidence. We present the Nonverbal Syntax Framework, drawn from a systematic review of 908 studies and 17,043 cue-state mappings (Turaev et al., 2026). The framework addresses three challenges: terminological fragmentation (behaviors described inconsistently), evidence heterogeneity (single observations to replicated findings), and state ambiguity (similar patterns indicating multiple sta",
+      "summary_fr": "Understanding learners' cognitive and affective states underpins adaptive educational systems and effective teaching. Although research links nonverbal cues to internal states, no framework calibrates them to evidence. We present the Nonverbal Syntax Framework, drawn from a systematic review of 908 studies and 17,043 cue-state mappings (Turaev et al., 2026). The framework addresses three challenges: terminological fragmentation (behaviors described inconsistently), evidence heterogeneity (single observations to replicated findings), and state ambiguity (similar patterns indicating multiple sta",
+      "resume_fr": "Understanding learners' cognitive and affective states underpins adaptive educational systems and effective teaching. Although research links nonverbal cues to internal states, no framework calibrates them to evidence. We present the Nonverbal Syntax Framework, drawn from a systematic review of 908 studies and 17,043 cue-state mappings (Turaev et al., 2026). The framework addresses three challenges: terminological fragmentation (behaviors described inconsistently), evidence heterogeneity (single observations to replicated findings), and state ambiguity (similar patterns indicating multiple sta",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "SciEval: A Benchmark for Automatic Evaluation of K-12 Science Instructional Materials",
+      "url": "https://arxiv.org/abs/2604.25472v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-28T10:23:32.000Z",
+      "score": 50,
+      "summary_en": "The need to evaluate instructional materials for K-12 science education has become increasingly important, as more educators use generative AI to create instructional materials. However, the review of instructional materials is time-consuming, expertise-intensive, and difficult to scale, motivating interest in automated evaluation approaches. While large language models (LLMs) have shown strong performance on general evaluation tasks, their performance and reliability on instructional materials remain unclear. To address this gap, we formulate Automatic Instructional Materials Evaluation (AIME",
+      "summary_fr": "The need to evaluate instructional materials for K-12 science education has become increasingly important, as more educators use generative AI to create instructional materials. However, the review of instructional materials is time-consuming, expertise-intensive, and difficult to scale, motivating interest in automated evaluation approaches. While large language models (LLMs) have shown strong performance on general evaluation tasks, their performance and reliability on instructional materials remain unclear. To address this gap, we formulate Automatic Instructional Materials Evaluation (AIME",
+      "resume_fr": "The need to evaluate instructional materials for K-12 science education has become increasingly important, as more educators use generative AI to create instructional materials. However, the review of instructional materials is time-consuming, expertise-intensive, and difficult to scale, motivating interest in automated evaluation approaches. While large language models (LLMs) have shown strong performance on general evaluation tasks, their performance and reliability on instructional materials remain unclear. To address this gap, we formulate Automatic Instructional Materials Evaluation (AIME",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "DATAREEL: Automated Data-Driven Video Story Generation with Animations",
+      "url": "https://arxiv.org/abs/2604.25220v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-28T04:56:25.000Z",
+      "score": 50,
+      "summary_en": "Data videos are a powerful medium for visual data based storytelling, combining animated, chart-centric visualizations with synchronized narration. Widely used in journalism, education, and public communication, they help audiences understand complex data through clear and engaging visual explanations. Despite their growing impact, generating data-driven video stories remains challenging, as it requires careful coordination of visual encoding, temporal progression, and narration and substantial expertise in visualization design, animation, and video-editing tools. Recent advances in large lang",
+      "summary_fr": "Data videos are a powerful medium for visual data based storytelling, combining animated, chart-centric visualizations with synchronized narration. Widely used in journalism, education, and public communication, they help audiences understand complex data through clear and engaging visual explanations. Despite their growing impact, generating data-driven video stories remains challenging, as it requires careful coordination of visual encoding, temporal progression, and narration and substantial expertise in visualization design, animation, and video-editing tools. Recent advances in large lang",
+      "resume_fr": "Data videos are a powerful medium for visual data based storytelling, combining animated, chart-centric visualizations with synchronized narration. Widely used in journalism, education, and public communication, they help audiences understand complex data through clear and engaging visual explanations. Despite their growing impact, generating data-driven video stories remains challenging, as it requires careful coordination of visual encoding, temporal progression, and narration and substantial expertise in visualization design, animation, and video-editing tools. Recent advances in large lang",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Barriers and Enablers of Online Instruction in Hospitality Education in the Philippines: An Exploratory Study",
+      "url": "https://arxiv.org/abs/2604.25047v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-27T22:57:18.000Z",
+      "score": 50,
+      "summary_en": "This study examined the barriers and enablers of online instruction in hospitality education. A sequential exploratory design was implemented with hospitality teachers from both public and private higher educational institutions in the Philippines. Thematic analysis of interviews identified four key themes: technological barriers, pedagogical challenges, institutional and personal support, and integration of artificial intelligence (AI). These themes were transformed into survey constructs and tested for reliability. Pedagogical challenges, including difficulties in teaching hands-on subjects ",
+      "summary_fr": "This study examined the barriers and enablers of online instruction in hospitality education. A sequential exploratory design was implemented with hospitality teachers from both public and private higher educational institutions in the Philippines. Thematic analysis of interviews identified four key themes: technological barriers, pedagogical challenges, institutional and personal support, and integration of artificial intelligence (AI). These themes were transformed into survey constructs and tested for reliability. Pedagogical challenges, including difficulties in teaching hands-on subjects ",
+      "resume_fr": "This study examined the barriers and enablers of online instruction in hospitality education. A sequential exploratory design was implemented with hospitality teachers from both public and private higher educational institutions in the Philippines. Thematic analysis of interviews identified four key themes: technological barriers, pedagogical challenges, institutional and personal support, and integration of artificial intelligence (AI). These themes were transformed into survey constructs and tested for reliability. Pedagogical challenges, including difficulties in teaching hands-on subjects ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Personalized Worked Example Generation from Student Code Submissions using Pattern-based Knowledge Components",
+      "url": "https://arxiv.org/abs/2604.24758v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-27T17:56:56.000Z",
+      "score": 50,
+      "summary_en": "Adaptive programming practice often relies on fixed libraries of worked examples and practice problems, which require substantial authoring effort and may not correspond well to the logical errors and partial solutions students produce while writing code. As a result, students may receive learning content that does not directly address the concepts they are working to understand, while instructors must either invest additional effort in expanding content libraries or accept a coarse level of personalization. We present an approach for knowledge-component (KC) guided educational content generat",
+      "summary_fr": "Adaptive programming practice often relies on fixed libraries of worked examples and practice problems, which require substantial authoring effort and may not correspond well to the logical errors and partial solutions students produce while writing code. As a result, students may receive learning content that does not directly address the concepts they are working to understand, while instructors must either invest additional effort in expanding content libraries or accept a coarse level of personalization. We present an approach for knowledge-component (KC) guided educational content generat",
+      "resume_fr": "Adaptive programming practice often relies on fixed libraries of worked examples and practice problems, which require substantial authoring effort and may not correspond well to the logical errors and partial solutions students produce while writing code. As a result, students may receive learning content that does not directly address the concepts they are working to understand, while instructors must either invest additional effort in expanding content libraries or accept a coarse level of personalization. We present an approach for knowledge-component (KC) guided educational content generat",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
       "title": "Contextual Linear Activation Steering of Language Models",
       "url": "https://arxiv.org/abs/2604.24693v1",
       "source": "arXiv – cs.CL (NLP/LLM)",
@@ -151,6 +322,25 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "A domain-adapted large language model to support clinicians in psychiatric clinical practice",
+      "url": "https://www.nature.com/articles/s42256-026-01224-w",
+      "source": "Nature Machine Intelligence",
+      "published": "2026-04-27T00:00:00.000Z",
+      "score": 70,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
     },
     {
       "title": "Applications of the Transformer Architecture in AI-Assisted English Reading Comprehension",
@@ -1044,196 +1234,6 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows",
-      "url": "https://arxiv.org/abs/2604.14807v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-16T09:30:28.000Z",
-      "score": 50,
-      "summary_en": "The rapid integration of large language models (LLMs) into everyday workflows has transformed how individuals perform cognitive tasks such as writing, programming, analysis, and multilingual communication. While prior research has focused on model reliability, hallucination, and user trust calibration, less attention has been given to how LLM usage reshapes users' perceptions of their own capabilities. This paper introduces the LLM fallacy, a cognitive attribution error in which individuals misinterpret LLM-assisted outputs as evidence of their own independent competence, producing a systemati",
-      "summary_fr": "The rapid integration of large language models (LLMs) into everyday workflows has transformed how individuals perform cognitive tasks such as writing, programming, analysis, and multilingual communication. While prior research has focused on model reliability, hallucination, and user trust calibration, less attention has been given to how LLM usage reshapes users' perceptions of their own capabilities. This paper introduces the LLM fallacy, a cognitive attribution error in which individuals misinterpret LLM-assisted outputs as evidence of their own independent competence, producing a systemati",
-      "resume_fr": "The rapid integration of large language models (LLMs) into everyday workflows has transformed how individuals perform cognitive tasks such as writing, programming, analysis, and multilingual communication. While prior research has focused on model reliability, hallucination, and user trust calibration, less attention has been given to how LLM usage reshapes users' perceptions of their own capabilities. This paper introduces the LLM fallacy, a cognitive attribution error in which individuals misinterpret LLM-assisted outputs as evidence of their own independent competence, producing a systemati",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "CogEvolution: A Human-like Generative Educational Agent to Simulate Student's Cognitive Evolution",
-      "url": "https://arxiv.org/abs/2604.14786v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-16T08:49:10.000Z",
-      "score": 50,
-      "summary_en": "Generative Agents, owing to their precise modeling and simulation capabilities of human behavior, have become a pivotal tool in the field of Artificial Intelligence in Education (AIEd) for uncovering complex cognitive processes of learners. However, existing educational agents predominantly rely on static personas to simulate student learning behaviors, neglecting the decisive role of deep cognitive capabilities in learning outcomes during practice interactions. Furthermore, they struggle to characterize the dynamic fluidity of knowledge internalization, transfer, and cognitive state transitio",
-      "summary_fr": "Generative Agents, owing to their precise modeling and simulation capabilities of human behavior, have become a pivotal tool in the field of Artificial Intelligence in Education (AIEd) for uncovering complex cognitive processes of learners. However, existing educational agents predominantly rely on static personas to simulate student learning behaviors, neglecting the decisive role of deep cognitive capabilities in learning outcomes during practice interactions. Furthermore, they struggle to characterize the dynamic fluidity of knowledge internalization, transfer, and cognitive state transitio",
-      "resume_fr": "Generative Agents, owing to their precise modeling and simulation capabilities of human behavior, have become a pivotal tool in the field of Artificial Intelligence in Education (AIEd) for uncovering complex cognitive processes of learners. However, existing educational agents predominantly rely on static personas to simulate student learning behaviors, neglecting the decisive role of deep cognitive capabilities in learning outcomes during practice interactions. Furthermore, they struggle to characterize the dynamic fluidity of knowledge internalization, transfer, and cognitive state transitio",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Rethinking Patient Education as Multi-turn Multi-modal Interaction",
-      "url": "https://arxiv.org/abs/2604.14656v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-16T06:06:50.000Z",
-      "score": 85,
-      "summary_en": "Most medical multimodal benchmarks focus on static tasks such as image question answering, report generation, and plain-language rewriting. Patient education is more demanding: systems must identify relevant evidence across images, show patients where to look, explain findings in accessible language, and handle confusion or distress. Yet most patient education work remains text-only, even though combined image-and-text explanations may better support understanding. We introduce MedImageEdu, a benchmark for multi-turn, evidence-grounded radiology patient education. Each case provides a radiolog",
-      "summary_fr": "Most medical multimodal benchmarks focus on static tasks such as image question answering, report generation, and plain-language rewriting. Patient education is more demanding: systems must identify relevant evidence across images, show patients where to look, explain findings in accessible language, and handle confusion or distress. Yet most patient education work remains text-only, even though combined image-and-text explanations may better support understanding. We introduce MedImageEdu, a benchmark for multi-turn, evidence-grounded radiology patient education. Each case provides a radiolog",
-      "resume_fr": "Most medical multimodal benchmarks focus on static tasks such as image question answering, report generation, and plain-language rewriting. Patient education is more demanding: systems must identify relevant evidence across images, show patients where to look, explain findings in accessible language, and handle confusion or distress. Yet most patient education work remains text-only, even though combined image-and-text explanations may better support understanding. We introduce MedImageEdu, a benchmark for multi-turn, evidence-grounded radiology patient education. Each case provides a radiolog",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Uncertainty-aware Generative Learning Path Recommendation with Cognition-Adaptive Diffusion",
-      "url": "https://arxiv.org/abs/2604.14613v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-16T04:39:53.000Z",
-      "score": 50,
-      "summary_en": "Learning Path Recommendation (LPR) is critical for personalized education, yet current methods often fail to account for historical interaction uncertainty (e.g., lucky guesses or accidental slips) and lack adaptability to diverse learning goals. We propose U-GLAD (Uncertainty-aware Generative Learning Path Recommendation with Cognition-Adaptive Diffusion). To address representation bias, the framework models cognitive states as probability distributions, capturing the learner's underlying true state via a Gaussian LSTM. To ensure highly personalized recommendation, a goal-oriented concept enc",
-      "summary_fr": "Learning Path Recommendation (LPR) is critical for personalized education, yet current methods often fail to account for historical interaction uncertainty (e.g., lucky guesses or accidental slips) and lack adaptability to diverse learning goals. We propose U-GLAD (Uncertainty-aware Generative Learning Path Recommendation with Cognition-Adaptive Diffusion). To address representation bias, the framework models cognitive states as probability distributions, capturing the learner's underlying true state via a Gaussian LSTM. To ensure highly personalized recommendation, a goal-oriented concept enc",
-      "resume_fr": "Learning Path Recommendation (LPR) is critical for personalized education, yet current methods often fail to account for historical interaction uncertainty (e.g., lucky guesses or accidental slips) and lack adaptability to diverse learning goals. We propose U-GLAD (Uncertainty-aware Generative Learning Path Recommendation with Cognition-Adaptive Diffusion). To address representation bias, the framework models cognitive states as probability distributions, capturing the learner's underlying true state via a Gaussian LSTM. To ensure highly personalized recommendation, a goal-oriented concept enc",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Executive functions as mediators of early educational disparities by SES, gender and birth month",
-      "url": "https://www.nature.com/articles/s41539-026-00422-w",
-      "source": "npj Science of Learning (Nature)",
-      "published": "2026-04-16T00:00:00.000Z",
-      "score": 65,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
-    },
-    {
-      "title": "SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments",
-      "url": "https://arxiv.org/abs/2604.14144v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-04-15T17:59:12.000Z",
-      "score": 50,
-      "summary_en": "Spatial reasoning over three-dimensional scenes is a core capability for embodied intelligence, yet continuous model improvement remains bottlenecked by the cost of geometric annotation. The self-evolving paradigm offers a promising path, but its reliance on model consensus to construct pseudo-labels causes training to reinforce rather than correct the model's own geometric errors. We identify a property unique to 3D spatial reasoning that circumvents this limitation: ground truth is a deterministic consequence of the underlying geometry, computable exactly from point clouds and camera poses w",
-      "summary_fr": "Spatial reasoning over three-dimensional scenes is a core capability for embodied intelligence, yet continuous model improvement remains bottlenecked by the cost of geometric annotation. The self-evolving paradigm offers a promising path, but its reliance on model consensus to construct pseudo-labels causes training to reinforce rather than correct the model's own geometric errors. We identify a property unique to 3D spatial reasoning that circumvents this limitation: ground truth is a deterministic consequence of the underlying geometry, computable exactly from point clouds and camera poses w",
-      "resume_fr": "Spatial reasoning over three-dimensional scenes is a core capability for embodied intelligence, yet continuous model improvement remains bottlenecked by the cost of geometric annotation. The self-evolving paradigm offers a promising path, but its reliance on model consensus to construct pseudo-labels causes training to reinforce rather than correct the model's own geometric errors. We identify a property unique to 3D spatial reasoning that circumvents this limitation: ground truth is a deterministic consequence of the underlying geometry, computable exactly from point clouds and camera poses w",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Block-Based Pathfinding: A Minecraft System for Visualizing Graph Algorithms",
-      "url": "https://arxiv.org/abs/2604.13957v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-15T15:07:16.000Z",
-      "score": 50,
-      "summary_en": "Graph theory is a cornerstone of Computer Science education, yet entry-level students often struggle to map abstract node-edge relationships to practical applications. This paper presents the design and architecture of a Minecraft-based educational tool specifically built to visualize graph traversal and shortest-path algorithms. We propose a three-layer system: (1) a Grid Traversal module where terrain types (e.g., soul sand, ice) represent edge weights, allowing for the gamified study of shortest path algorithms; (2) a \"Sky Graph\" module for interactive 3D manipulation of both directed and u",
-      "summary_fr": "Graph theory is a cornerstone of Computer Science education, yet entry-level students often struggle to map abstract node-edge relationships to practical applications. This paper presents the design and architecture of a Minecraft-based educational tool specifically built to visualize graph traversal and shortest-path algorithms. We propose a three-layer system: (1) a Grid Traversal module where terrain types (e.g., soul sand, ice) represent edge weights, allowing for the gamified study of shortest path algorithms; (2) a \"Sky Graph\" module for interactive 3D manipulation of both directed and u",
-      "resume_fr": "Graph theory is a cornerstone of Computer Science education, yet entry-level students often struggle to map abstract node-edge relationships to practical applications. This paper presents the design and architecture of a Minecraft-based educational tool specifically built to visualize graph traversal and shortest-path algorithms. We propose a three-layer system: (1) a Grid Traversal module where terrain types (e.g., soul sand, ice) represent edge weights, allowing for the gamified study of shortest path algorithms; (2) a \"Sky Graph\" module for interactive 3D manipulation of both directed and u",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Automatically Inferring Teachers' Geometric Content Knowledge: A Skills Based Approach",
-      "url": "https://arxiv.org/abs/2604.13666v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-15T09:34:46.000Z",
-      "score": 50,
-      "summary_en": "Assessing teachers' geometric content knowledge is essential for geometry instructional quality and student learning, but difficult to scale. The Van Hiele model characterizes geometric reasoning through five hierarchical levels. Traditional Van Hiele assessment relies on manual expert analysis of open-ended responses. This process is time-consuming, costly, and prevents large-scale evaluation. This study develops an automated approach for diagnosing teachers' Van Hiele reasoning levels using large language models grounded in educational theory. Our central hypothesis is that integrating expli",
-      "summary_fr": "Assessing teachers' geometric content knowledge is essential for geometry instructional quality and student learning, but difficult to scale. The Van Hiele model characterizes geometric reasoning through five hierarchical levels. Traditional Van Hiele assessment relies on manual expert analysis of open-ended responses. This process is time-consuming, costly, and prevents large-scale evaluation. This study develops an automated approach for diagnosing teachers' Van Hiele reasoning levels using large language models grounded in educational theory. Our central hypothesis is that integrating expli",
-      "resume_fr": "Assessing teachers' geometric content knowledge is essential for geometry instructional quality and student learning, but difficult to scale. The Van Hiele model characterizes geometric reasoning through five hierarchical levels. Traditional Van Hiele assessment relies on manual expert analysis of open-ended responses. This process is time-consuming, costly, and prevents large-scale evaluation. This study develops an automated approach for diagnosing teachers' Van Hiele reasoning levels using large language models grounded in educational theory. Our central hypothesis is that integrating expli",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "OpenAI Engineer Helps Companies Attract Buyers and Boost Sales",
-      "url": "https://spectrum.ieee.org/openai-engineer-sarang-gupta",
-      "source": "IEEE Spectrum – AI",
-      "published": "2026-04-14T18:00:01.000Z",
-      "score": 85,
-      "summary_en": "Like many engineers, Sarang Gupta spent his childhood tinkering with everyday items around the house. From a young age he gravitated to projects that could make a difference in someone’s everyday life. When the family’s microwave plug broke, Gupta and his father figured out how to fix it. When a drawer handle started jiggling annoyingly, the youngster made sure it didn’t do so for long. Sarang Gupta Employer OpenAI in San Francisco Job Data science staff member Member grade Senior member Alma maters The Hong Kong University of Science and Technology; Columbia By age 11, his interest expanded f",
-      "summary_fr": "Like many engineers, Sarang Gupta spent his childhood tinkering with everyday items around the house. From a young age he gravitated to projects that could make a difference in someone’s everyday life. When the family’s microwave plug broke, Gupta and his father figured out how to fix it. When a drawer handle started jiggling annoyingly, the youngster made sure it didn’t do so for long. Sarang Gupta Employer OpenAI in San Francisco Job Data science staff member Member grade Senior member Alma maters The Hong Kong University of Science and Technology; Columbia By age 11, his interest expanded f",
-      "resume_fr": "Like many engineers, Sarang Gupta spent his childhood tinkering with everyday items around the house. From a young age he gravitated to projects that could make a difference in someone’s everyday life. When the family’s microwave plug broke, Gupta and his father figured out how to fix it. When a drawer handle started jiggling annoyingly, the youngster made sure it didn’t do so for long. Sarang Gupta Employer OpenAI in San Francisco Job Data science staff member Member grade Senior member Alma maters The Hong Kong University of Science and Technology; Columbia By age 11, his interest expanded f",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
-    },
-    {
-      "title": "Sarang Gupta Builds AI Systems With Real-World Impact",
-      "url": "https://spectrum.ieee.org/openai-engineer-sarang-gupta",
-      "source": "IEEE Spectrum – AI",
-      "published": "2026-04-14T18:00:01.000Z",
-      "score": 70,
-      "summary_en": "Like many engineers, Sarang Gupta spent his childhood tinkering with everyday items around the house. From a young age he gravitated to projects that could make a difference in someone’s everyday life. When the family’s microwave plug broke, Gupta and his father figured out how to fix it. When a drawer handle started jiggling annoyingly, the youngster made sure it didn’t do so for long. Sarang Gupta Employer OpenAI in San Francisco Job Data science staff member Member grade Senior member Alma maters The Hong Kong University of Science and Technology; Columbia By age 11, his interest expanded f",
-      "summary_fr": "Like many engineers, Sarang Gupta spent his childhood tinkering with everyday items around the house. From a young age he gravitated to projects that could make a difference in someone’s everyday life. When the family’s microwave plug broke, Gupta and his father figured out how to fix it. When a drawer handle started jiggling annoyingly, the youngster made sure it didn’t do so for long. Sarang Gupta Employer OpenAI in San Francisco Job Data science staff member Member grade Senior member Alma maters The Hong Kong University of Science and Technology; Columbia By age 11, his interest expanded f",
-      "resume_fr": "Like many engineers, Sarang Gupta spent his childhood tinkering with everyday items around the house. From a young age he gravitated to projects that could make a difference in someone’s everyday life. When the family’s microwave plug broke, Gupta and his father figured out how to fix it. When a drawer handle started jiggling annoyingly, the youngster made sure it didn’t do so for long. Sarang Gupta Employer OpenAI in San Francisco Job Data science staff member Member grade Senior member Alma maters The Hong Kong University of Science and Technology; Columbia By age 11, his interest expanded f",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
     }
   ]
 }
