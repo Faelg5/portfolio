@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T08:34:52.566Z",
+  "generatedAt": "2026-05-01T08:24:06.379Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,196 @@
     }
   },
   "items": [
+    {
+      "title": "PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2604.28123v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-04-30T17:12:53.000Z",
+      "score": 70,
+      "summary_en": "The standard post-training recipe for large multimodal models (LMMs) applies supervised fine-tuning (SFT) on curated demonstrations followed by reinforcement learning with verifiable rewards (RLVR). However, SFT introduces distributional drift that neither preserves the model's original capabilities nor faithfully matches the supervision distribution. This problem is further amplified in multimodal reasoning, where perception errors and reasoning failures follow distinct drift patterns that compound during subsequent RL. We introduce PRISM, a three-stage pipeline that mitigates this drift by i",
+      "summary_fr": "The standard post-training recipe for large multimodal models (LMMs) applies supervised fine-tuning (SFT) on curated demonstrations followed by reinforcement learning with verifiable rewards (RLVR). However, SFT introduces distributional drift that neither preserves the model's original capabilities nor faithfully matches the supervision distribution. This problem is further amplified in multimodal reasoning, where perception errors and reasoning failures follow distinct drift patterns that compound during subsequent RL. We introduce PRISM, a three-stage pipeline that mitigates this drift by i",
+      "resume_fr": "The standard post-training recipe for large multimodal models (LMMs) applies supervised fine-tuning (SFT) on curated demonstrations followed by reinforcement learning with verifiable rewards (RLVR). However, SFT introduces distributional drift that neither preserves the model's original capabilities nor faithfully matches the supervision distribution. This problem is further amplified in multimodal reasoning, where perception errors and reasoning failures follow distinct drift patterns that compound during subsequent RL. We introduce PRISM, a three-stage pipeline that mitigates this drift by i",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Mapping the Methodological Space of Classroom Interaction Research: Scale, Duration, and Modality in an Age of AI",
+      "url": "https://arxiv.org/abs/2604.28098v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-30T16:42:38.000Z",
+      "score": 85,
+      "summary_en": "Research on classroom interaction has long been divided between large-scale observation and in-depth ethnographic work. We propose a framework mapping this methodological space along three dimensions--scale, duration, and modality--where a study's position shapes what it reveals and obscures. We illustrate it through contrasting studies of dialogic teaching--Howe et al. (2019) and Snell and Lefstein (2018)--and an interview with the lead researchers, organized around three questions: what can be operationalized, what mechanisms become visible, and what translates to practice. We then examine h",
+      "summary_fr": "Research on classroom interaction has long been divided between large-scale observation and in-depth ethnographic work. We propose a framework mapping this methodological space along three dimensions--scale, duration, and modality--where a study's position shapes what it reveals and obscures. We illustrate it through contrasting studies of dialogic teaching--Howe et al. (2019) and Snell and Lefstein (2018)--and an interview with the lead researchers, organized around three questions: what can be operationalized, what mechanisms become visible, and what translates to practice. We then examine h",
+      "resume_fr": "Research on classroom interaction has long been divided between large-scale observation and in-depth ethnographic work. We propose a framework mapping this methodological space along three dimensions--scale, duration, and modality--where a study's position shapes what it reveals and obscures. We illustrate it through contrasting studies of dialogic teaching--Howe et al. (2019) and Snell and Lefstein (2018)--and an interview with the lead researchers, organized around three questions: what can be operationalized, what mechanisms become visible, and what translates to practice. We then examine h",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "How Generative AI Disrupts Search: An Empirical Study of Google Search, Gemini, and AI Overviews",
+      "url": "https://arxiv.org/abs/2604.27790v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-30T12:32:21.000Z",
+      "score": 50,
+      "summary_en": "Generative AI is being increasingly integrated into web search for the convenience it provides users. In this work, we aim to understand how generative AI disrupts web search by retrieving and presenting the information and sources differently from traditional search engines. We introduce a public benchmark dataset of 11,500 user queries to support our study and future research of generative search. We compare the search results returned by Google's search engine, the accompanying AI Overview (AIO), and Gemini Flash 2.5 for each query. We have made several key findings. First, we find that for",
+      "summary_fr": "Generative AI is being increasingly integrated into web search for the convenience it provides users. In this work, we aim to understand how generative AI disrupts web search by retrieving and presenting the information and sources differently from traditional search engines. We introduce a public benchmark dataset of 11,500 user queries to support our study and future research of generative search. We compare the search results returned by Google's search engine, the accompanying AI Overview (AIO), and Gemini Flash 2.5 for each query. We have made several key findings. First, we find that for",
+      "resume_fr": "Generative AI is being increasingly integrated into web search for the convenience it provides users. In this work, we aim to understand how generative AI disrupts web search by retrieving and presenting the information and sources differently from traditional search engines. We introduce a public benchmark dataset of 11,500 user queries to support our study and future research of generative search. We compare the search results returned by Google's search engine, the accompanying AI Overview (AIO), and Gemini Flash 2.5 for each query. We have made several key findings. First, we find that for",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Math Education Digital Shadows for facilitating learning with LLMs: Math performance, anxiety and confidence in simulated students and AIs",
+      "url": "https://arxiv.org/abs/2604.27618v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-30T09:08:58.000Z",
+      "score": 50,
+      "summary_en": "To enhance LLMs' impact on math education, we need data on their mathematical prowess and biases across prompts. To fill this gap, we introduce MEDS (Math Education Digital Shadows) as a dataset mapping how large language models reason about and report mathematics across human- and AI-like conditions. MEDS involves 28,000 personas from 14 LLMs (from families like Mistral, Qwen, DeepSeek, Granite, Phi and Grok) shadowing either humans or AI assistants. Each record/shadow includes a set of prompts along with psychological/sociodemographic persona metadata and four types of math tasks: (i) open m",
+      "summary_fr": "To enhance LLMs' impact on math education, we need data on their mathematical prowess and biases across prompts. To fill this gap, we introduce MEDS (Math Education Digital Shadows) as a dataset mapping how large language models reason about and report mathematics across human- and AI-like conditions. MEDS involves 28,000 personas from 14 LLMs (from families like Mistral, Qwen, DeepSeek, Granite, Phi and Grok) shadowing either humans or AI assistants. Each record/shadow includes a set of prompts along with psychological/sociodemographic persona metadata and four types of math tasks: (i) open m",
+      "resume_fr": "To enhance LLMs' impact on math education, we need data on their mathematical prowess and biases across prompts. To fill this gap, we introduce MEDS (Math Education Digital Shadows) as a dataset mapping how large language models reason about and report mathematics across human- and AI-like conditions. MEDS involves 28,000 personas from 14 LLMs (from families like Mistral, Qwen, DeepSeek, Granite, Phi and Grok) shadowing either humans or AI assistants. Each record/shadow includes a set of prompts along with psychological/sociodemographic persona metadata and four types of math tasks: (i) open m",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Beyond One-Size-Fits-All Exercises: Personalizing Computer Science Worksheets with Large Language Models",
+      "url": "https://arxiv.org/abs/2604.27433v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-30T05:15:30.000Z",
+      "score": 50,
+      "summary_en": "Large Language Models (LLMs) have been widely applied to student-facing educational tools, this work explores their use in supporting instructors by presenting a practical adaptation of the Framework for Adaptive Content using Educational Technology (FACET) system to generate personalized instructional materials for an Introduction to Computer Programming (CS1) course. We conducted a mixed-methods study with 409 first-year computer science (CS) students, focusing on regular expressions (RegEx). Students were assessed on their knowledge and motivation, classified into one of four learner profil",
+      "summary_fr": "Large Language Models (LLMs) have been widely applied to student-facing educational tools, this work explores their use in supporting instructors by presenting a practical adaptation of the Framework for Adaptive Content using Educational Technology (FACET) system to generate personalized instructional materials for an Introduction to Computer Programming (CS1) course. We conducted a mixed-methods study with 409 first-year computer science (CS) students, focusing on regular expressions (RegEx). Students were assessed on their knowledge and motivation, classified into one of four learner profil",
+      "resume_fr": "Large Language Models (LLMs) have been widely applied to student-facing educational tools, this work explores their use in supporting instructors by presenting a practical adaptation of the Framework for Adaptive Content using Educational Technology (FACET) system to generate personalized instructional materials for an Introduction to Computer Programming (CS1) course. We conducted a mixed-methods study with 409 first-year computer science (CS) students, focusing on regular expressions (RegEx). Students were assessed on their knowledge and motivation, classified into one of four learner profil",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Safe Bilevel Delegation (SBD): A Formal Framework for Runtime Delegation Safety in Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2604.27358v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-30T03:15:05.000Z",
+      "score": 85,
+      "summary_en": "As large language model (LLM) agents are deployed in high-stakes environments, the question of how safely to delegate subtasks to specialized sub-agents becomes critical. Existing work addresses multi-agent architecture selection at design time or provides broad empirical guidelines, but neither provides a runtime mechanism that dynamically adjusts the safety-efficiency trade-off as task context changes during execution. We propose Safe Bilevel Delegation (SBD), a formal framework for runtime delegation safety in hierarchical multi-agent systems. SBD formulates task delegation as a bilevel opt",
+      "summary_fr": "As large language model (LLM) agents are deployed in high-stakes environments, the question of how safely to delegate subtasks to specialized sub-agents becomes critical. Existing work addresses multi-agent architecture selection at design time or provides broad empirical guidelines, but neither provides a runtime mechanism that dynamically adjusts the safety-efficiency trade-off as task context changes during execution. We propose Safe Bilevel Delegation (SBD), a formal framework for runtime delegation safety in hierarchical multi-agent systems. SBD formulates task delegation as a bilevel opt",
+      "resume_fr": "As large language model (LLM) agents are deployed in high-stakes environments, the question of how safely to delegate subtasks to specialized sub-agents becomes critical. Existing work addresses multi-agent architecture selection at design time or provides broad empirical guidelines, but neither provides a runtime mechanism that dynamically adjusts the safety-efficiency trade-off as task context changes during execution. We propose Safe Bilevel Delegation (SBD), a formal framework for runtime delegation safety in hierarchical multi-agent systems. SBD formulates task delegation as a bilevel opt",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Profiles of AI Dependency: A Latent Class Analysis of Filipino Students' Academic Competencies",
+      "url": "https://arxiv.org/abs/2604.27349v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-30T02:59:52.000Z",
+      "score": 65,
+      "summary_en": "The increasing dependency among Filipino college students on artificial intelligence (AI) poses concerns about the potential decline of fundamental academic competencies. This study examines the extent of AI dependency and its perceived effects on students' critical thinking, writing skills, learning independence, research skills, and academic engagement. Using a cross-sectional research design, data was collected from 651 students enrolled in higher education institutions (HEIs) in Pampanga, Philippines accredited by the Commission on Higher Education. The survey data was analyzed using Laten",
+      "summary_fr": "The increasing dependency among Filipino college students on artificial intelligence (AI) poses concerns about the potential decline of fundamental academic competencies. This study examines the extent of AI dependency and its perceived effects on students' critical thinking, writing skills, learning independence, research skills, and academic engagement. Using a cross-sectional research design, data was collected from 651 students enrolled in higher education institutions (HEIs) in Pampanga, Philippines accredited by the Commission on Higher Education. The survey data was analyzed using Laten",
+      "resume_fr": "The increasing dependency among Filipino college students on artificial intelligence (AI) poses concerns about the potential decline of fundamental academic competencies. This study examines the extent of AI dependency and its perceived effects on students' critical thinking, writing skills, learning independence, research skills, and academic engagement. Using a cross-sectional research design, data was collected from 651 students enrolled in higher education institutions (HEIs) in Pampanga, Philippines accredited by the Commission on Higher Education. The survey data was analyzed using Laten",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Exploring the Adoption Intention in Using AI-Enabled Educational Tools Among Preservice Teachers in the Philippines: A Partial-Least Square Modeling",
+      "url": "https://arxiv.org/abs/2604.27346v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-30T02:56:39.000Z",
+      "score": 50,
+      "summary_en": "This study examines the factors influencing pre-service teachers' behavioral intention to use AI-enabled educational tools during their practicum, using the Unified Theory of Acceptance and Use of Technology 2 (UTAUT2) as the theoretical framework. The model includes the core UTAUT2 constructs such as performance expectancy, effort expectancy, hedonic motivation, social influence, facilitating conditions, price value, and habit. It also incorporates additional predictors including computer self-efficacy, computer anxiety, and computer playfulness. Data were collected from 563 pre-service teach",
+      "summary_fr": "This study examines the factors influencing pre-service teachers' behavioral intention to use AI-enabled educational tools during their practicum, using the Unified Theory of Acceptance and Use of Technology 2 (UTAUT2) as the theoretical framework. The model includes the core UTAUT2 constructs such as performance expectancy, effort expectancy, hedonic motivation, social influence, facilitating conditions, price value, and habit. It also incorporates additional predictors including computer self-efficacy, computer anxiety, and computer playfulness. Data were collected from 563 pre-service teach",
+      "resume_fr": "This study examines the factors influencing pre-service teachers' behavioral intention to use AI-enabled educational tools during their practicum, using the Unified Theory of Acceptance and Use of Technology 2 (UTAUT2) as the theoretical framework. The model includes the core UTAUT2 constructs such as performance expectancy, effort expectancy, hedonic motivation, social influence, facilitating conditions, price value, and habit. It also incorporates additional predictors including computer self-efficacy, computer anxiety, and computer playfulness. Data were collected from 563 pre-service teach",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Addressing the Reality Gap: A Three-Tension Framework for Agentic AI Adoption",
+      "url": "https://arxiv.org/abs/2604.27245v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-04-29T22:33:36.000Z",
+      "score": 85,
+      "summary_en": "Generative AI has rapidly entered education through free consumer tools, outpacing the ability of schools and universities to respond. Now a new wave of more autonomous agentic AI systems--with the capacity to plan and act towards goals--promises both greater educational personalization and greater disruption. This chapter argues that successfully navigating these innovations requires balancing three core tensions: (1) Implementation Feasibility, or the practical capacity to integrate AI sustainably into real classrooms; (2) Adaptation Speed, or the mismatch between fast-evolving AI capabiliti",
+      "summary_fr": "Generative AI has rapidly entered education through free consumer tools, outpacing the ability of schools and universities to respond. Now a new wave of more autonomous agentic AI systems--with the capacity to plan and act towards goals--promises both greater educational personalization and greater disruption. This chapter argues that successfully navigating these innovations requires balancing three core tensions: (1) Implementation Feasibility, or the practical capacity to integrate AI sustainably into real classrooms; (2) Adaptation Speed, or the mismatch between fast-evolving AI capabiliti",
+      "resume_fr": "Generative AI has rapidly entered education through free consumer tools, outpacing the ability of schools and universities to respond. Now a new wave of more autonomous agentic AI systems--with the capacity to plan and act towards goals--promises both greater educational personalization and greater disruption. This chapter argues that successfully navigating these innovations requires balancing three core tensions: (1) Implementation Feasibility, or the practical capacity to integrate AI sustainably into real classrooms; (2) Adaptation Speed, or the mismatch between fast-evolving AI capabiliti",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Unpacking Vibe Coding: Help-Seeking Processes in Student-AI Interactions While Programming",
+      "url": "https://arxiv.org/abs/2604.27134v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-04-29T19:35:10.000Z",
+      "score": 85,
+      "summary_en": "Generative AI is reshaping higher education programming through vibe coding, where students collaborate with AI via natural language rather than writing code line-by-line. We conceptualize this practice as help-seeking, analyzing 19,418 interaction turns from 110 undergraduate students. Using inductive coding and Heterogeneous Transition Network Analysis, we examined interaction sequences to compare top- and low-performing students. Results reveal that top performers engaged in instrumental help-seeking -- inquiry and exploration -- eliciting tutor-like AI responses. In contrast, low performer",
+      "summary_fr": "Generative AI is reshaping higher education programming through vibe coding, where students collaborate with AI via natural language rather than writing code line-by-line. We conceptualize this practice as help-seeking, analyzing 19,418 interaction turns from 110 undergraduate students. Using inductive coding and Heterogeneous Transition Network Analysis, we examined interaction sequences to compare top- and low-performing students. Results reveal that top performers engaged in instrumental help-seeking -- inquiry and exploration -- eliciting tutor-like AI responses. In contrast, low performer",
+      "resume_fr": "Generative AI is reshaping higher education programming through vibe coding, where students collaborate with AI via natural language rather than writing code line-by-line. We conceptualize this practice as help-seeking, analyzing 19,418 interaction turns from 110 undergraduate students. Using inductive coding and Heterogeneous Transition Network Analysis, we examined interaction sequences to compare top- and low-performing students. Results reveal that top performers engaged in instrumental help-seeking -- inquiry and exploration -- eliciting tutor-like AI responses. In contrast, low performer",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "Learning Over-Relaxation Policies for ADMM with Convergence Guarantees",
       "url": "https://arxiv.org/abs/2604.26932v1",
@@ -1043,196 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Students Know AI Should Not Replace Thinking, but How Do They Regulate It? The TACO Framework for Human-AI Cognitive Partnership",
-      "url": "https://arxiv.org/abs/2604.18737v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-20T18:43:18.000Z",
-      "score": 85,
-      "summary_en": "As generative artificial intelligence becomes increasingly embedded in educational practice, a central concern is whether students use AI as cognitive support or as a substitute for thinking. Prior research shows that learners recognise this boundary conceptually and acknowledge that \"AI should not replace thinking.\" However, whether such awareness translates into structured regulation during actual AI use remains unclear. Drawing on data from Hong Kong secondary students, this study examines how learners perceive their management of the boundary between assistance and outsourcing in practice.",
-      "summary_fr": "As generative artificial intelligence becomes increasingly embedded in educational practice, a central concern is whether students use AI as cognitive support or as a substitute for thinking. Prior research shows that learners recognise this boundary conceptually and acknowledge that \"AI should not replace thinking.\" However, whether such awareness translates into structured regulation during actual AI use remains unclear. Drawing on data from Hong Kong secondary students, this study examines how learners perceive their management of the boundary between assistance and outsourcing in practice.",
-      "resume_fr": "As generative artificial intelligence becomes increasingly embedded in educational practice, a central concern is whether students use AI as cognitive support or as a substitute for thinking. Prior research shows that learners recognise this boundary conceptually and acknowledge that \"AI should not replace thinking.\" However, whether such awareness translates into structured regulation during actual AI use remains unclear. Drawing on data from Hong Kong secondary students, this study examines how learners perceive their management of the boundary between assistance and outsourcing in practice.",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Revisiting Active Sequential Prediction-Powered Mean Estimation",
-      "url": "https://arxiv.org/abs/2604.18569v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-04-20T17:55:17.000Z",
-      "score": 70,
-      "summary_en": "In this work, we revisit the problem of active sequential prediction-powered mean estimation, where at each round one must decide the query probability of the ground-truth label upon observing the covariates of a sample. Furthermore, if the label is not queried, the prediction from a machine learning model is used instead. Prior work proposed an elegant scheme that determines the query probability by combining an uncertainty-based suggestion with a constant probability that encodes a soft constraint on the query probability. We explored different values of the mixing parameter and observed an ",
-      "summary_fr": "In this work, we revisit the problem of active sequential prediction-powered mean estimation, where at each round one must decide the query probability of the ground-truth label upon observing the covariates of a sample. Furthermore, if the label is not queried, the prediction from a machine learning model is used instead. Prior work proposed an elegant scheme that determines the query probability by combining an uncertainty-based suggestion with a constant probability that encodes a soft constraint on the query probability. We explored different values of the mixing parameter and observed an ",
-      "resume_fr": "In this work, we revisit the problem of active sequential prediction-powered mean estimation, where at each round one must decide the query probability of the ground-truth label upon observing the covariates of a sample. Furthermore, if the label is not queried, the prediction from a machine learning model is used instead. Prior work proposed an elegant scheme that determines the query probability by combining an uncertainty-based suggestion with a constant probability that encodes a soft constraint on the query probability. We explored different values of the mixing parameter and observed an ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "ClawEnvKit: Automatic Environment Generation for Claw-Like Agents",
-      "url": "https://arxiv.org/abs/2604.18543v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-04-20T17:36:49.000Z",
-      "score": 70,
-      "summary_en": "Constructing environments for training and evaluating claw-like agents remains a manual, human-intensive process that does not scale. We argue that what is needed is not just a dataset, but an automated pipeline capable of generating diverse, verified environments on demand. To this end, we introduce ClawEnvKit, an autonomous generation pipeline that instantiates this formalism from natural language descriptions. The pipeline comprises three modules: (1) a parser that extracts structured generation parameters from natural language input; (2) a generator that produces the task specification, to",
-      "summary_fr": "Constructing environments for training and evaluating claw-like agents remains a manual, human-intensive process that does not scale. We argue that what is needed is not just a dataset, but an automated pipeline capable of generating diverse, verified environments on demand. To this end, we introduce ClawEnvKit, an autonomous generation pipeline that instantiates this formalism from natural language descriptions. The pipeline comprises three modules: (1) a parser that extracts structured generation parameters from natural language input; (2) a generator that produces the task specification, to",
-      "resume_fr": "Constructing environments for training and evaluating claw-like agents remains a manual, human-intensive process that does not scale. We argue that what is needed is not just a dataset, but an automated pipeline capable of generating diverse, verified environments on demand. To this end, we introduce ClawEnvKit, an autonomous generation pipeline that instantiates this formalism from natural language descriptions. The pipeline comprises three modules: (1) a parser that extracts structured generation parameters from natural language input; (2) a generator that produces the task specification, to",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Fast and Forgettable: A Controlled Study of Novices' Performance, Learning, Workload, and Emotion in AI-Assisted and Human Pair Programming Paradigms",
-      "url": "https://arxiv.org/abs/2604.18538v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-20T17:33:13.000Z",
-      "score": 50,
-      "summary_en": "Code-generating Artificial Intelligence has gained popularity within both professional and educational programming settings over the past several years. While research and pedagogy are beginning to cope with this change, computing students are left to bear the unforeseen consequences of AI amidst a dearth of empirical evidence about its effects. Though pair programming between students is well studied and known to be beneficial to self-efficacy and academic achievement, it remains underutilized and further threatened by the proposition that AI can replace a human programming partner. In this p",
-      "summary_fr": "Code-generating Artificial Intelligence has gained popularity within both professional and educational programming settings over the past several years. While research and pedagogy are beginning to cope with this change, computing students are left to bear the unforeseen consequences of AI amidst a dearth of empirical evidence about its effects. Though pair programming between students is well studied and known to be beneficial to self-efficacy and academic achievement, it remains underutilized and further threatened by the proposition that AI can replace a human programming partner. In this p",
-      "resume_fr": "Code-generating Artificial Intelligence has gained popularity within both professional and educational programming settings over the past several years. While research and pedagogy are beginning to cope with this change, computing students are left to bear the unforeseen consequences of AI amidst a dearth of empirical evidence about its effects. Though pair programming between students is well studied and known to be beneficial to self-efficacy and academic achievement, it remains underutilized and further threatened by the proposition that AI can replace a human programming partner. In this p",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Evaluating Answer Leakage Robustness of LLM Tutors against Adversarial Student Attacks",
-      "url": "https://arxiv.org/abs/2604.18660v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-20T11:29:22.000Z",
-      "score": 50,
-      "summary_en": "Large Language Models (LLMs) are increasingly used in education, yet their default helpfulness often conflicts with pedagogical principles. Prior work evaluates pedagogical quality via answer leakage-the disclosure of complete solutions instead of scaffolding-but typically assumes well-intentioned learners, leaving tutor robustness under student misuse largely unexplored. In this paper, we study scenarios where students behave adversarially and aim to obtain the correct answer from the tutor. We evaluate a broad set of LLM-based tutor models, including different model families, pedagogically a",
-      "summary_fr": "Large Language Models (LLMs) are increasingly used in education, yet their default helpfulness often conflicts with pedagogical principles. Prior work evaluates pedagogical quality via answer leakage-the disclosure of complete solutions instead of scaffolding-but typically assumes well-intentioned learners, leaving tutor robustness under student misuse largely unexplored. In this paper, we study scenarios where students behave adversarially and aim to obtain the correct answer from the tutor. We evaluate a broad set of LLM-based tutor models, including different model families, pedagogically a",
-      "resume_fr": "Large Language Models (LLMs) are increasingly used in education, yet their default helpfulness often conflicts with pedagogical principles. Prior work evaluates pedagogical quality via answer leakage-the disclosure of complete solutions instead of scaffolding-but typically assumes well-intentioned learners, leaving tutor robustness under student misuse largely unexplored. In this paper, we study scenarios where students behave adversarially and aim to obtain the correct answer from the tutor. We evaluate a broad set of LLM-based tutor models, including different model families, pedagogically a",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Mix and Match: Context Pairing for Scalable Topic-Controlled Educational Summarisation",
-      "url": "https://arxiv.org/abs/2604.18087v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-20T11:04:51.000Z",
-      "score": 50,
-      "summary_en": "Topic-controlled summarisation enables users to generate summaries focused on specific aspects of source documents. This paper investigates a data augmentation strategy for training small language models (sLMs) to perform topic-controlled summarisation. We propose a pairwise data augmentation method that combines contexts from different documents to create contrastive training examples, enabling models to learn the relationship between topics and summaries more effectively. Using the SciTLDR dataset enriched with Wikipedia-derived topics, we systematically evaluate how augmentation scale affec",
-      "summary_fr": "Topic-controlled summarisation enables users to generate summaries focused on specific aspects of source documents. This paper investigates a data augmentation strategy for training small language models (sLMs) to perform topic-controlled summarisation. We propose a pairwise data augmentation method that combines contexts from different documents to create contrastive training examples, enabling models to learn the relationship between topics and summaries more effectively. Using the SciTLDR dataset enriched with Wikipedia-derived topics, we systematically evaluate how augmentation scale affec",
-      "resume_fr": "Topic-controlled summarisation enables users to generate summaries focused on specific aspects of source documents. This paper investigates a data augmentation strategy for training small language models (sLMs) to perform topic-controlled summarisation. We propose a pairwise data augmentation method that combines contexts from different documents to create contrastive training examples, enabling models to learn the relationship between topics and summaries more effectively. Using the SciTLDR dataset enriched with Wikipedia-derived topics, we systematically evaluate how augmentation scale affec",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "AIT Academy: Cultivating the Complete Agent with a Confucian Three-Domain Curriculum",
-      "url": "https://arxiv.org/abs/2604.17989v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-20T09:12:47.000Z",
-      "score": 50,
-      "summary_en": "What does it mean to give an AI agent a complete education? Current agent development produces specialists systems optimized for a single capability dimension, whether tool use, code generation, or security awareness that exhibit predictable deficits wherever they were not trained. We argue this pattern reflects a structural absence: there is no curriculum theory for agents, no principled account of what a fully developed agent should know, be, and be able to do across the full scope of intelligent behavior. This paper introduces the AIT Academy (Agents Institute of Technology Academy), a curr",
-      "summary_fr": "What does it mean to give an AI agent a complete education? Current agent development produces specialists systems optimized for a single capability dimension, whether tool use, code generation, or security awareness that exhibit predictable deficits wherever they were not trained. We argue this pattern reflects a structural absence: there is no curriculum theory for agents, no principled account of what a fully developed agent should know, be, and be able to do across the full scope of intelligent behavior. This paper introduces the AIT Academy (Agents Institute of Technology Academy), a curr",
-      "resume_fr": "What does it mean to give an AI agent a complete education? Current agent development produces specialists systems optimized for a single capability dimension, whether tool use, code generation, or security awareness that exhibit predictable deficits wherever they were not trained. We argue this pattern reflects a structural absence: there is no curriculum theory for agents, no principled account of what a fully developed agent should know, be, and be able to do across the full scope of intelligent behavior. This paper introduces the AIT Academy (Agents Institute of Technology Academy), a curr",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Teaching Usable Privacy in HCI Education: Designing, Implementing, and Evaluating an Active Learning Graduate",
-      "url": "https://arxiv.org/abs/2604.17796v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-20T04:36:33.000Z",
-      "score": 85,
-      "summary_en": "As digital systems increasingly rely on pervasive data collection and inference, educating future designers and researchers about Usable Privacy has become a critical need for HCI. However, privacy education in higher education is often fragmented, theory-heavy, or detached from real-world applications. Thus, in this paper, we present the design, implementation, and evaluation of a 15-week graduate-level course on Usable Privacy that addresses this through active, practice-oriented pedagogy. The course integrates use cases, structured role playing, case-based discussions, guest lectures, and a",
-      "summary_fr": "As digital systems increasingly rely on pervasive data collection and inference, educating future designers and researchers about Usable Privacy has become a critical need for HCI. However, privacy education in higher education is often fragmented, theory-heavy, or detached from real-world applications. Thus, in this paper, we present the design, implementation, and evaluation of a 15-week graduate-level course on Usable Privacy that addresses this through active, practice-oriented pedagogy. The course integrates use cases, structured role playing, case-based discussions, guest lectures, and a",
-      "resume_fr": "As digital systems increasingly rely on pervasive data collection and inference, educating future designers and researchers about Usable Privacy has become a critical need for HCI. However, privacy education in higher education is often fragmented, theory-heavy, or detached from real-world applications. Thus, in this paper, we present the design, implementation, and evaluation of a 15-week graduate-level course on Usable Privacy that addresses this through active, practice-oriented pedagogy. The course integrates use cases, structured role playing, case-based discussions, guest lectures, and a",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Teaching Usable Privacy in HCI Education: Designing, Implementing, and Evaluating an Active Learning Graduate",
-      "url": "https://arxiv.org/abs/2604.17796v2",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-20T04:36:33.000Z",
-      "score": 85,
-      "summary_en": "As digital systems increasingly rely on pervasive data collection and inference, educating future designers and researchers about Usable Privacy has become a critical need for HCI. However, privacy education in higher education is often fragmented, theory-heavy, or detached from real-world applications. Thus, in this paper, we present the design, implementation, and evaluation of a 15-week graduate-level course on Usable Privacy that addresses this through active, practice-oriented pedagogy. The course integrates use cases, structured role playing, case-based discussions, guest lectures, and a",
-      "summary_fr": "As digital systems increasingly rely on pervasive data collection and inference, educating future designers and researchers about Usable Privacy has become a critical need for HCI. However, privacy education in higher education is often fragmented, theory-heavy, or detached from real-world applications. Thus, in this paper, we present the design, implementation, and evaluation of a 15-week graduate-level course on Usable Privacy that addresses this through active, practice-oriented pedagogy. The course integrates use cases, structured role playing, case-based discussions, guest lectures, and a",
-      "resume_fr": "As digital systems increasingly rely on pervasive data collection and inference, educating future designers and researchers about Usable Privacy has become a critical need for HCI. However, privacy education in higher education is often fragmented, theory-heavy, or detached from real-world applications. Thus, in this paper, we present the design, implementation, and evaluation of a 15-week graduate-level course on Usable Privacy that addresses this through active, practice-oriented pedagogy. The course integrates use cases, structured role playing, case-based discussions, guest lectures, and a",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Generative AI Technologies, Techniques & Tensions: A Primer",
-      "url": "https://arxiv.org/abs/2604.17497v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-19T15:32:48.000Z",
-      "score": 65,
-      "summary_en": "Generative AI systems have entered everyday academic, professional, and personal life with remarkable speed, yet most users encounter them as mysterious artifacts rather than intelligible systems. This chapter discusses large language models within a broader historical shift in computing paradigms and argues that many of the confusions surrounding their use arise from a mismatch between how these systems are built, how they behave, and how people expect computers to behave writ large. Rather than treating generative AI as a monolithic technology, the chapter decomposes it into interacting comp",
-      "summary_fr": "Generative AI systems have entered everyday academic, professional, and personal life with remarkable speed, yet most users encounter them as mysterious artifacts rather than intelligible systems. This chapter discusses large language models within a broader historical shift in computing paradigms and argues that many of the confusions surrounding their use arise from a mismatch between how these systems are built, how they behave, and how people expect computers to behave writ large. Rather than treating generative AI as a monolithic technology, the chapter decomposes it into interacting comp",
-      "resume_fr": "Generative AI systems have entered everyday academic, professional, and personal life with remarkable speed, yet most users encounter them as mysterious artifacts rather than intelligible systems. This chapter discusses large language models within a broader historical shift in computing paradigms and argues that many of the confusions surrounding their use arise from a mismatch between how these systems are built, how they behave, and how people expect computers to behave writ large. Rather than treating generative AI as a monolithic technology, the chapter decomposes it into interacting comp",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
