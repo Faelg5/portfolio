@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T08:13:46.330Z",
+  "generatedAt": "2026-05-04T08:41:21.175Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,120 @@
     }
   },
   "items": [
+    {
+      "title": "Benefits of classroom remote microphone technology for inattentive children",
+      "url": "https://www.nature.com/articles/s41539-026-00427-5",
+      "source": "npj Science of Learning (Nature)",
+      "published": "2026-05-02T00:00:00.000Z",
+      "score": 50,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
+    },
+    {
+      "title": "SAVGO: Learning State-Action Value Geometry with Cosine Similarity for Continuous Control",
+      "url": "https://arxiv.org/abs/2605.00787v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-05-01T17:09:58.000Z",
+      "score": 70,
+      "summary_en": "While representation and similarity learning have improved the sample efficiency of Reinforcement Learning (RL), they are rarely used to shape policy updates directly in the action space. To bridge this gap, a geometry-aware RL algorithm that explicitly incorporates value-based similarity into the policy update, State-Action Value Geometry Optimization (SAVGO), is proposed. In detail, SAVGO learns a joint state-action embedding space in which pairs with similar action-value estimates exhibit high cosine similarity, while dissimilar pairs are mapped to distinct directions. This learned geometry",
+      "summary_fr": "While representation and similarity learning have improved the sample efficiency of Reinforcement Learning (RL), they are rarely used to shape policy updates directly in the action space. To bridge this gap, a geometry-aware RL algorithm that explicitly incorporates value-based similarity into the policy update, State-Action Value Geometry Optimization (SAVGO), is proposed. In detail, SAVGO learns a joint state-action embedding space in which pairs with similar action-value estimates exhibit high cosine similarity, while dissimilar pairs are mapped to distinct directions. This learned geometry",
+      "resume_fr": "While representation and similarity learning have improved the sample efficiency of Reinforcement Learning (RL), they are rarely used to shape policy updates directly in the action space. To bridge this gap, a geometry-aware RL algorithm that explicitly incorporates value-based similarity into the policy update, State-Action Value Geometry Optimization (SAVGO), is proposed. In detail, SAVGO learns a joint state-action embedding space in which pairs with similar action-value estimates exhibit high cosine similarity, while dissimilar pairs are mapped to distinct directions. This learned geometry",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Characterizing the Expressivity of Local Attention in Transformers",
+      "url": "https://arxiv.org/abs/2605.00768v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-05-01T16:30:52.000Z",
+      "score": 85,
+      "summary_en": "The transformer is the most popular neural architecture for language modeling. The cornerstone of the transformer is its global attention mechanism, which lets the model aggregate information from all preceding tokens before generating the next token. One common variant of attention is called local attention, which restricts each token to aggregating information from a bounded window of predecessors, reducing the quadratic cost of global attention to linear. Although this restriction is usually motivated by efficiency, it has also been found to improve model quality, a phenomenon that has so f",
+      "summary_fr": "The transformer is the most popular neural architecture for language modeling. The cornerstone of the transformer is its global attention mechanism, which lets the model aggregate information from all preceding tokens before generating the next token. One common variant of attention is called local attention, which restricts each token to aggregating information from a bounded window of predecessors, reducing the quadratic cost of global attention to linear. Although this restriction is usually motivated by efficiency, it has also been found to improve model quality, a phenomenon that has so f",
+      "resume_fr": "The transformer is the most popular neural architecture for language modeling. The cornerstone of the transformer is its global attention mechanism, which lets the model aggregate information from all preceding tokens before generating the next token. One common variant of attention is called local attention, which restricts each token to aggregating information from a bounded window of predecessors, reducing the quadratic cost of global attention to linear. Although this restriction is usually motivated by efficiency, it has also been found to improve model quality, a phenomenon that has so f",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "The impact of coercive, normative, and mimetic Stress on Chinese teachers' continuance intention to use generative AI: An integrated perspective of the Expectation-Confirmation Model and Institutional Theory",
+      "url": "https://arxiv.org/abs/2605.00522v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-05-01T08:56:13.000Z",
+      "score": 85,
+      "summary_en": "This study investigates Chinese teachers' continuance intention to use generative artificial intelligence (AI) by integrating the Expectation-Confirmation Model with Institutional Theory. A sequential explanatory mixed-methods design was employed. Questionnaire data from 437 teachers were analysed using structural equation modelling, followed by semi-structured interviews with 15 teachers to further interpret the findings. The results indicate that confirmation, perceived usefulness, and satisfaction play important roles in shaping teachers' continuance intention, while institutional pressures",
+      "summary_fr": "This study investigates Chinese teachers' continuance intention to use generative artificial intelligence (AI) by integrating the Expectation-Confirmation Model with Institutional Theory. A sequential explanatory mixed-methods design was employed. Questionnaire data from 437 teachers were analysed using structural equation modelling, followed by semi-structured interviews with 15 teachers to further interpret the findings. The results indicate that confirmation, perceived usefulness, and satisfaction play important roles in shaping teachers' continuance intention, while institutional pressures",
+      "resume_fr": "This study investigates Chinese teachers' continuance intention to use generative artificial intelligence (AI) by integrating the Expectation-Confirmation Model with Institutional Theory. A sequential explanatory mixed-methods design was employed. Questionnaire data from 437 teachers were analysed using structural equation modelling, followed by semi-structured interviews with 15 teachers to further interpret the findings. The results indicate that confirmation, perceived usefulness, and satisfaction play important roles in shaping teachers' continuance intention, while institutional pressures",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education",
+      "url": "https://arxiv.org/abs/2605.00361v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-01T02:44:19.000Z",
+      "score": 50,
+      "summary_en": "GenAI systems such as ChatGPT are increasingly discussed in programming education, but the ways in which the research literature conceptualizes and frames their role remain unclear. This chapter applies text mining to publications indexed in a leading academic database to map scholarly discourse on ChatGPT in programming education. Term frequency analysis, phrase pattern extraction, and topic modeling reveal four dominant themes: pedagogical implementation, student-centered learning and engagement, AI infrastructure and human-AI collaboration, and assessment, prompting, and model evaluation. T",
+      "summary_fr": "GenAI systems such as ChatGPT are increasingly discussed in programming education, but the ways in which the research literature conceptualizes and frames their role remain unclear. This chapter applies text mining to publications indexed in a leading academic database to map scholarly discourse on ChatGPT in programming education. Term frequency analysis, phrase pattern extraction, and topic modeling reveal four dominant themes: pedagogical implementation, student-centered learning and engagement, AI infrastructure and human-AI collaboration, and assessment, prompting, and model evaluation. T",
+      "resume_fr": "GenAI systems such as ChatGPT are increasingly discussed in programming education, but the ways in which the research literature conceptualizes and frames their role remain unclear. This chapter applies text mining to publications indexed in a leading academic database to map scholarly discourse on ChatGPT in programming education. Term frequency analysis, phrase pattern extraction, and topic modeling reveal four dominant themes: pedagogical implementation, student-centered learning and engagement, AI infrastructure and human-AI collaboration, and assessment, prompting, and model evaluation. T",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes",
+      "url": "https://arxiv.org/abs/2605.00343v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-01T01:53:10.000Z",
+      "score": 50,
+      "summary_en": "The study examines the adoption of artificial intelligence (AI) tools in education by analyzing the roles of institutional support, teacher confidence, and teacher concerns. It aims to determine whether teacher concerns moderate the relationship between institutional support and two outcomes: teacher confidence and attitudes toward AI adoption. The sample included 260 teachers from the Philippines. Composite scores were calculated for institutional support, confidence, concerns, and attitudes. Moderated multiple regression analysis showed that institutional support significantly predicted both",
+      "summary_fr": "The study examines the adoption of artificial intelligence (AI) tools in education by analyzing the roles of institutional support, teacher confidence, and teacher concerns. It aims to determine whether teacher concerns moderate the relationship between institutional support and two outcomes: teacher confidence and attitudes toward AI adoption. The sample included 260 teachers from the Philippines. Composite scores were calculated for institutional support, confidence, concerns, and attitudes. Moderated multiple regression analysis showed that institutional support significantly predicted both",
+      "resume_fr": "The study examines the adoption of artificial intelligence (AI) tools in education by analyzing the roles of institutional support, teacher confidence, and teacher concerns. It aims to determine whether teacher concerns moderate the relationship between institutional support and two outcomes: teacher confidence and attitudes toward AI adoption. The sample included 260 teachers from the Philippines. Composite scores were calculated for institutional support, confidence, concerns, and attitudes. Moderated multiple regression analysis showed that institutional support significantly predicted both",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning",
       "url": "https://arxiv.org/abs/2604.28123v1",
@@ -1119,120 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Hint-Writing with Deferred AI Assistance: Fostering Critical Engagement in Data Science Education",
-      "url": "https://arxiv.org/abs/2604.19931v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-21T19:20:41.000Z",
-      "score": 50,
-      "summary_en": "Generating hints for incorrect code is a cognitively demanding task that fosters learning and metacognitive development. This study investigates three designs for personalized, scalable, and reflective hint-writing activities within a data science course: (i) writing a hint independently, (ii) writing a hint with on-demand AI assistance, and (iii) deferred AI assistance, in which students first write a hint independently and then revise it with the help of an AI-generated one. We examine how AI support can scaffold the learning process without diminishing students' productive cognitive effort.",
-      "summary_fr": "Generating hints for incorrect code is a cognitively demanding task that fosters learning and metacognitive development. This study investigates three designs for personalized, scalable, and reflective hint-writing activities within a data science course: (i) writing a hint independently, (ii) writing a hint with on-demand AI assistance, and (iii) deferred AI assistance, in which students first write a hint independently and then revise it with the help of an AI-generated one. We examine how AI support can scaffold the learning process without diminishing students' productive cognitive effort.",
-      "resume_fr": "Generating hints for incorrect code is a cognitively demanding task that fosters learning and metacognitive development. This study investigates three designs for personalized, scalable, and reflective hint-writing activities within a data science course: (i) writing a hint independently, (ii) writing a hint with on-demand AI assistance, and (iii) deferred AI assistance, in which students first write a hint independently and then revise it with the help of an AI-generated one. We examine how AI support can scaffold the learning process without diminishing students' productive cognitive effort.",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "VLA Foundry: A Unified Framework for Training Vision-Language-Action Models",
-      "url": "https://arxiv.org/abs/2604.19728v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-04-21T17:51:51.000Z",
-      "score": 70,
-      "summary_en": "We present VLA Foundry, an open-source framework that unifies LLM, VLM, and VLA training in a single codebase. Most open-source VLA efforts specialize on the action training stage, often stitching together incompatible pretraining pipelines. VLA Foundry instead provides a shared training stack with end-to-end control, from language pretraining to action-expert fine-tuning. VLA Foundry supports both from-scratch training and pretrained backbones from Hugging Face. To demonstrate the utility of our framework, we train and release two types of models: the first trained fully from scratch through ",
-      "summary_fr": "We present VLA Foundry, an open-source framework that unifies LLM, VLM, and VLA training in a single codebase. Most open-source VLA efforts specialize on the action training stage, often stitching together incompatible pretraining pipelines. VLA Foundry instead provides a shared training stack with end-to-end control, from language pretraining to action-expert fine-tuning. VLA Foundry supports both from-scratch training and pretrained backbones from Hugging Face. To demonstrate the utility of our framework, we train and release two types of models: the first trained fully from scratch through ",
-      "resume_fr": "We present VLA Foundry, an open-source framework that unifies LLM, VLM, and VLA training in a single codebase. Most open-source VLA efforts specialize on the action training stage, often stitching together incompatible pretraining pipelines. VLA Foundry instead provides a shared training stack with end-to-end control, from language pretraining to action-expert fine-tuning. VLA Foundry supports both from-scratch training and pretrained backbones from Hugging Face. To demonstrate the utility of our framework, we train and release two types of models: the first trained fully from scratch through ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Benign Overfitting in Adversarial Training for Vision Transformers",
-      "url": "https://arxiv.org/abs/2604.19724v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-04-21T17:48:51.000Z",
-      "score": 50,
-      "summary_en": "Despite the remarkable success of Vision Transformers (ViTs) across a wide range of vision tasks, recent studies have revealed that they remain vulnerable to adversarial examples, much like Convolutional Neural Networks (CNNs). A common empirical defense strategy is adversarial training, yet the theoretical underpinnings of its robustness in ViTs remain largely unexplored. In this work, we present the first theoretical analysis of adversarial training under simplified ViT architectures. We show that, when trained under a signal-to-noise ratio that satisfies a certain condition and within a mod",
-      "summary_fr": "Despite the remarkable success of Vision Transformers (ViTs) across a wide range of vision tasks, recent studies have revealed that they remain vulnerable to adversarial examples, much like Convolutional Neural Networks (CNNs). A common empirical defense strategy is adversarial training, yet the theoretical underpinnings of its robustness in ViTs remain largely unexplored. In this work, we present the first theoretical analysis of adversarial training under simplified ViT architectures. We show that, when trained under a signal-to-noise ratio that satisfies a certain condition and within a mod",
-      "resume_fr": "Despite the remarkable success of Vision Transformers (ViTs) across a wide range of vision tasks, recent studies have revealed that they remain vulnerable to adversarial examples, much like Convolutional Neural Networks (CNNs). A common empirical defense strategy is adversarial training, yet the theoretical underpinnings of its robustness in ViTs remain largely unexplored. In this work, we present the first theoretical analysis of adversarial training under simplified ViT architectures. We show that, when trained under a signal-to-noise ratio that satisfies a certain condition and within a mod",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Fairness Audits of Institutional Risk Models in Deployed ML Pipelines",
-      "url": "https://arxiv.org/abs/2604.19468v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-21T13:50:43.000Z",
-      "score": 50,
-      "summary_en": "Fairness audits of institutional risk models are critical for understanding how deployed machine learning pipelines allocate resources. Drawing on multi-year collaboration with Centennial College, where our prior ethnographic work introduced the ASP-HEI Cycle, we present a replica-based audit of a deployed Early Warning System (EWS), replicating its model using institutional training data and design specifications. We evaluate disparities by gender, age, and residency status across the full pipeline (training data, model predictions, and post-processing) using standard fairness metrics. Our au",
-      "summary_fr": "Fairness audits of institutional risk models are critical for understanding how deployed machine learning pipelines allocate resources. Drawing on multi-year collaboration with Centennial College, where our prior ethnographic work introduced the ASP-HEI Cycle, we present a replica-based audit of a deployed Early Warning System (EWS), replicating its model using institutional training data and design specifications. We evaluate disparities by gender, age, and residency status across the full pipeline (training data, model predictions, and post-processing) using standard fairness metrics. Our au",
-      "resume_fr": "Fairness audits of institutional risk models are critical for understanding how deployed machine learning pipelines allocate resources. Drawing on multi-year collaboration with Centennial College, where our prior ethnographic work introduced the ASP-HEI Cycle, we present a replica-based audit of a deployed Early Warning System (EWS), replicating its model using institutional training data and design specifications. We evaluate disparities by gender, age, and residency status across the full pipeline (training data, model predictions, and post-processing) using standard fairness metrics. Our au",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Relational AI in Education: Reciprocity, Participatory Design, and Indigenous Worldviews",
-      "url": "https://arxiv.org/abs/2604.19099v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-21T05:25:11.000Z",
-      "score": 50,
-      "summary_en": "Education is not merely the transmission of information or the optimisation of individual performance; it is a fundamentally social, constructive, and relational practice. However, recent advances in generative artificial intelligence (GenAI) increasingly emphasise efficiency, automation, and individualised assistance, risking the weakening of relational learning processes. Despite growing adoption, AI in education (AIED) research has yet to fully articulate how AI can be designed in ways that sustain the social and ecological relationships through which learning occurs. In this paper, we re-c",
-      "summary_fr": "Education is not merely the transmission of information or the optimisation of individual performance; it is a fundamentally social, constructive, and relational practice. However, recent advances in generative artificial intelligence (GenAI) increasingly emphasise efficiency, automation, and individualised assistance, risking the weakening of relational learning processes. Despite growing adoption, AI in education (AIED) research has yet to fully articulate how AI can be designed in ways that sustain the social and ecological relationships through which learning occurs. In this paper, we re-c",
-      "resume_fr": "Education is not merely the transmission of information or the optimisation of individual performance; it is a fundamentally social, constructive, and relational practice. However, recent advances in generative artificial intelligence (GenAI) increasingly emphasise efficiency, automation, and individualised assistance, risking the weakening of relational learning processes. Despite growing adoption, AI in education (AIED) research has yet to fully articulate how AI can be designed in ways that sustain the social and ecological relationships through which learning occurs. In this paper, we re-c",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Relationships Between Trust, Compliance, and Performance for Novice Programmers Using AI Code Generation",
-      "url": "https://arxiv.org/abs/2604.18948v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-21T00:52:29.000Z",
-      "score": 50,
-      "summary_en": "Objective. To explore how novice programmers' trust in Artificial Intelligence-driven Development Environments (AIDEs) relates to their coding performance and AI compliance while programming under time pressure. Background. Computer programming has undergone rapid upheaval due to state-of-the-art AIDEs, which provide clever automation for many aspects of software development. A longstanding interest of researchers of automation more generally has been the attitude of trust. Decades of research seek to explain how influencing trust can help to achieve desirable outcomes in different domains, bu",
-      "summary_fr": "Objective. To explore how novice programmers' trust in Artificial Intelligence-driven Development Environments (AIDEs) relates to their coding performance and AI compliance while programming under time pressure. Background. Computer programming has undergone rapid upheaval due to state-of-the-art AIDEs, which provide clever automation for many aspects of software development. A longstanding interest of researchers of automation more generally has been the attitude of trust. Decades of research seek to explain how influencing trust can help to achieve desirable outcomes in different domains, bu",
-      "resume_fr": "Objective. To explore how novice programmers' trust in Artificial Intelligence-driven Development Environments (AIDEs) relates to their coding performance and AI compliance while programming under time pressure. Background. Computer programming has undergone rapid upheaval due to state-of-the-art AIDEs, which provide clever automation for many aspects of software development. A longstanding interest of researchers of automation more generally has been the attitude of trust. Decades of research seek to explain how influencing trust can help to achieve desirable outcomes in different domains, bu",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
