@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T08:39:54.125Z",
+  "generatedAt": "2026-05-07T08:46:46.676Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -96,6 +96,158 @@
   },
   "items": [
     {
+      "title": "Taming Outlier Tokens in Diffusion Transformers",
+      "url": "https://arxiv.org/abs/2605.05206v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-05-06T17:59:42.000Z",
+      "score": 50,
+      "summary_en": "We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a small number of high-norm tokens that attract disproportionate attention while carrying limited local information, but their role in generative models remains underexplored. We show that this phenomenon appears in both the encoder and denoiser of modern Representation Autoencoder (RAE)-DiT pipelines: pretrained ViT encoders can produce outlier representations, and DiTs themselves can develop internal outlier tokens, especially in intermediate layers.",
+      "summary_fr": "We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a small number of high-norm tokens that attract disproportionate attention while carrying limited local information, but their role in generative models remains underexplored. We show that this phenomenon appears in both the encoder and denoiser of modern Representation Autoencoder (RAE)-DiT pipelines: pretrained ViT encoders can produce outlier representations, and DiTs themselves can develop internal outlier tokens, especially in intermediate layers.",
+      "resume_fr": "We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a small number of high-norm tokens that attract disproportionate attention while carrying limited local information, but their role in generative models remains underexplored. We show that this phenomenon appears in both the encoder and denoiser of modern Representation Autoencoder (RAE)-DiT pipelines: pretrained ViT encoders can produce outlier representations, and DiTs themselves can develop internal outlier tokens, especially in intermediate layers.",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Understanding In-Context Learning for Nonlinear Regression with Transformers: Attention as Featurizer",
+      "url": "https://arxiv.org/abs/2605.05176v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-05-06T17:42:07.000Z",
+      "score": 50,
+      "summary_en": "Pre-trained transformers are able to learn from examples provided as part of the prompt without any weight updates, a remarkable ability known as in-context learning (ICL). Despite its demonstrated efficacy across various domains, the theoretical understanding of ICL is still developing. Whereas most existing theory has focused on linear models, we study ICL in the nonlinear regression setting. Through the interaction mechanism in attention, we explicitly construct transformer networks to realize nonlinear features, such as polynomial or spline bases, which span a wide class of functions. Base",
+      "summary_fr": "Pre-trained transformers are able to learn from examples provided as part of the prompt without any weight updates, a remarkable ability known as in-context learning (ICL). Despite its demonstrated efficacy across various domains, the theoretical understanding of ICL is still developing. Whereas most existing theory has focused on linear models, we study ICL in the nonlinear regression setting. Through the interaction mechanism in attention, we explicitly construct transformer networks to realize nonlinear features, such as polynomial or spline bases, which span a wide class of functions. Base",
+      "resume_fr": "Pre-trained transformers are able to learn from examples provided as part of the prompt without any weight updates, a remarkable ability known as in-context learning (ICL). Despite its demonstrated efficacy across various domains, the theoretical understanding of ICL is still developing. Whereas most existing theory has focused on linear models, we study ICL in the nonlinear regression setting. Through the interaction mechanism in attention, we explicitly construct transformer networks to realize nonlinear features, such as polynomial or spline bases, which span a wide class of functions. Base",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Superposition Is Not Necessary: A Mechanistic Interpretability Analysis of Transformer Representations for Time Series Forecasting",
+      "url": "https://arxiv.org/abs/2605.05151v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-05-06T17:23:27.000Z",
+      "score": 50,
+      "summary_en": "Transformer architectures have been widely adopted for time series forecasting, yet whether the representational mechanisms that make them powerful in NLP actually engage on time series data remains unexplored. The persistent competitiveness of simple linear models such as DLinear has fueled ongoing debate, but no mechanistic explanation for this phenomenon has been offered. We address this gap by applying sparse autoencoders (SAEs), a tool from mechanistic interpretability, to probe the internal representations of PatchTST. We first establish that a single-layer, narrow-dimensional transforme",
+      "summary_fr": "Transformer architectures have been widely adopted for time series forecasting, yet whether the representational mechanisms that make them powerful in NLP actually engage on time series data remains unexplored. The persistent competitiveness of simple linear models such as DLinear has fueled ongoing debate, but no mechanistic explanation for this phenomenon has been offered. We address this gap by applying sparse autoencoders (SAEs), a tool from mechanistic interpretability, to probe the internal representations of PatchTST. We first establish that a single-layer, narrow-dimensional transforme",
+      "resume_fr": "Transformer architectures have been widely adopted for time series forecasting, yet whether the representational mechanisms that make them powerful in NLP actually engage on time series data remains unexplored. The persistent competitiveness of simple linear models such as DLinear has fueled ongoing debate, but no mechanistic explanation for this phenomenon has been offered. We address this gap by applying sparse autoencoders (SAEs), a tool from mechanistic interpretability, to probe the internal representations of PatchTST. We first establish that a single-layer, narrow-dimensional transforme",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "What Matters in Practical Learned Image Compression",
+      "url": "https://arxiv.org/abs/2605.05148v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-05-06T17:17:51.000Z",
+      "score": 70,
+      "summary_en": "One of the major differentiators unlocked by learned codecs relative to their hard-coded traditional counterparts is their ability to be optimized directly to appeal to the human visual system. Despite this potential, a perceptual yet practical image codec is yet to be proposed. In this work, we aim to close this gap. We conduct a comprehensive study of the key modeling choices that govern the design of a practical learned image codec, jointly optimized for perceptual quality and runtime -- including within the ablations several novel techniques. We then perform performance-aware neural archit",
+      "summary_fr": "One of the major differentiators unlocked by learned codecs relative to their hard-coded traditional counterparts is their ability to be optimized directly to appeal to the human visual system. Despite this potential, a perceptual yet practical image codec is yet to be proposed. In this work, we aim to close this gap. We conduct a comprehensive study of the key modeling choices that govern the design of a practical learned image codec, jointly optimized for perceptual quality and runtime -- including within the ablations several novel techniques. We then perform performance-aware neural archit",
+      "resume_fr": "One of the major differentiators unlocked by learned codecs relative to their hard-coded traditional counterparts is their ability to be optimized directly to appeal to the human visual system. Despite this potential, a perceptual yet practical image codec is yet to be proposed. In this work, we aim to close this gap. We conduct a comprehensive study of the key modeling choices that govern the design of a practical learned image codec, jointly optimized for perceptual quality and runtime -- including within the ablations several novel techniques. We then perform performance-aware neural archit",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Beyond Semantics: An Evidential Reasoning-Aware Multi-View Learning Framework for Trustworthy Mental Health Prediction",
+      "url": "https://arxiv.org/abs/2605.05121v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-05-06T16:49:17.000Z",
+      "score": 70,
+      "summary_en": "Automated mental health prediction using textual data has shown promising results with deep learning and large language models. However, deploying these models in high-stakes real-world settings remains challenging, as existing approaches largely rely on semantic representations and often produce overconfident predictions under ambiguous, noisy, or shifted data. Moreover, most methods lack reliable uncertainty estimation, undermining trust in risk-sensitive mental health applications. To address these limitations, we formulate the task as a multi-view learning problem that integrates semantic ",
+      "summary_fr": "Automated mental health prediction using textual data has shown promising results with deep learning and large language models. However, deploying these models in high-stakes real-world settings remains challenging, as existing approaches largely rely on semantic representations and often produce overconfident predictions under ambiguous, noisy, or shifted data. Moreover, most methods lack reliable uncertainty estimation, undermining trust in risk-sensitive mental health applications. To address these limitations, we formulate the task as a multi-view learning problem that integrates semantic ",
+      "resume_fr": "Automated mental health prediction using textual data has shown promising results with deep learning and large language models. However, deploying these models in high-stakes real-world settings remains challenging, as existing approaches largely rely on semantic representations and often produce overconfident predictions under ambiguous, noisy, or shifted data. Moreover, most methods lack reliable uncertainty estimation, undermining trust in risk-sensitive mental health applications. To address these limitations, we formulate the task as a multi-view learning problem that integrates semantic ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "RTMS: A Real-Time Multimodal Scaffolding System for Improving Debugging in Computing Education",
+      "url": "https://arxiv.org/abs/2605.04848v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-05-06T12:45:31.000Z",
+      "score": 50,
+      "summary_en": "Debugging is a demanding aspect of programming yet guidance on how to teach it effectively remains limited. Novices often struggle to recognize impasses regulate their problem solving and manage cognitive load and stress. This study investigates whether real time multimodal feedback triggered by indicators of cognitive load and physiological stress can improve debugging performance narrow expert novice gaps and reduce the influence of prior programming experience on success. We conducted a between subjects experiment with 120 undergraduate computer science students who debugged a medium sized ",
+      "summary_fr": "Debugging is a demanding aspect of programming yet guidance on how to teach it effectively remains limited. Novices often struggle to recognize impasses regulate their problem solving and manage cognitive load and stress. This study investigates whether real time multimodal feedback triggered by indicators of cognitive load and physiological stress can improve debugging performance narrow expert novice gaps and reduce the influence of prior programming experience on success. We conducted a between subjects experiment with 120 undergraduate computer science students who debugged a medium sized ",
+      "resume_fr": "Debugging is a demanding aspect of programming yet guidance on how to teach it effectively remains limited. Novices often struggle to recognize impasses regulate their problem solving and manage cognitive load and stress. This study investigates whether real time multimodal feedback triggered by indicators of cognitive load and physiological stress can improve debugging performance narrow expert novice gaps and reduce the influence of prior programming experience on success. We conducted a between subjects experiment with 120 undergraduate computer science students who debugged a medium sized ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Guidelines for Designing AI Technologies to Support Adult Learning",
+      "url": "https://arxiv.org/abs/2605.04616v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-06T08:06:17.000Z",
+      "score": 65,
+      "summary_en": "AI-powered educational technologies have demonstrated measurable benefits for learners, but their design and evaluation have largely centered on K-12 contexts. As a result, many AI-supported learning systems remain poorly aligned with the needs, constraints, and goals of adult learners. To better understand how AI systems function in adult education, this paper examines the deployment of several AI learning technologies developed within a multidisciplinary, national research institute in the United States focused on adult learning and online education. Drawing on longitudinal deployment data, ",
+      "summary_fr": "AI-powered educational technologies have demonstrated measurable benefits for learners, but their design and evaluation have largely centered on K-12 contexts. As a result, many AI-supported learning systems remain poorly aligned with the needs, constraints, and goals of adult learners. To better understand how AI systems function in adult education, this paper examines the deployment of several AI learning technologies developed within a multidisciplinary, national research institute in the United States focused on adult learning and online education. Drawing on longitudinal deployment data, ",
+      "resume_fr": "AI-powered educational technologies have demonstrated measurable benefits for learners, but their design and evaluation have largely centered on K-12 contexts. As a result, many AI-supported learning systems remain poorly aligned with the needs, constraints, and goals of adult learners. To better understand how AI systems function in adult education, this paper examines the deployment of several AI learning technologies developed within a multidisciplinary, national research institute in the United States focused on adult learning and online education. Drawing on longitudinal deployment data, ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "OPENJ: A Conceptual Framework for Open-Source Digital Human Modeling and Ergonomic Assessment in a CAD Environment",
+      "url": "https://arxiv.org/abs/2605.04270v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-05-05T20:04:46.000Z",
+      "score": 85,
+      "summary_en": "Industrial workplace challenges range from musculoskeletal disorders -- a leading cause of occupational injury -- to suboptimal workstation layouts, inefficient task sequences, and poor human-equipment fit. Digital human modeling (DHM) tools address several of these challenges by placing a scalable virtual mannequin in a computer-aided design (CAD) environment, enabling engineers to evaluate ergonomic risk through standardized assessment methods (RULA, REBA, NIOSH Lifting Equation, OWAS), optimize workstation layouts for reach and visibility, predict task postures through inverse kinematics, a",
+      "summary_fr": "Industrial workplace challenges range from musculoskeletal disorders -- a leading cause of occupational injury -- to suboptimal workstation layouts, inefficient task sequences, and poor human-equipment fit. Digital human modeling (DHM) tools address several of these challenges by placing a scalable virtual mannequin in a computer-aided design (CAD) environment, enabling engineers to evaluate ergonomic risk through standardized assessment methods (RULA, REBA, NIOSH Lifting Equation, OWAS), optimize workstation layouts for reach and visibility, predict task postures through inverse kinematics, a",
+      "resume_fr": "Industrial workplace challenges range from musculoskeletal disorders -- a leading cause of occupational injury -- to suboptimal workstation layouts, inefficient task sequences, and poor human-equipment fit. Digital human modeling (DHM) tools address several of these challenges by placing a scalable virtual mannequin in a computer-aided design (CAD) environment, enabling engineers to evaluate ergonomic risk through standardized assessment methods (RULA, REBA, NIOSH Lifting Equation, OWAS), optimize workstation layouts for reach and visibility, predict task postures through inverse kinematics, a",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
       "title": "Safety and accuracy follow different scaling laws in clinical large language models",
       "url": "https://arxiv.org/abs/2605.04039v1",
       "source": "arXiv – cs.LG + learning analytics",
@@ -151,6 +303,25 @@
       },
       "reason": "Heuristique: Recherche=0, Politiques=35, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=edtechmagazine.com&sz=128"
+    },
+    {
+      "title": "A Dialogue-Based Framework for Correcting Multimodal Errors in AI-Assisted STEM Education",
+      "url": "https://arxiv.org/abs/2605.04131v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-05T17:07:16.000Z",
+      "score": 85,
+      "summary_en": "Large Language Models (LLMs) are democratizing access to personalized tutoring; however, their effectiveness is hindered by challenges in processing multimodal content, which limits AI's potential to provide equitable, high-quality STEM support. This study evaluates LLM performance on multimodal physics problems, identifies specific failure modes through an empirical error taxonomy, and tests practical interventions designed to overcome multimodal processing limitations. We assessed three publicly available LLMs (Claude, Gemini, and ChatGPT) on multimodal physics problems from the OpenStax dat",
+      "summary_fr": "Large Language Models (LLMs) are democratizing access to personalized tutoring; however, their effectiveness is hindered by challenges in processing multimodal content, which limits AI's potential to provide equitable, high-quality STEM support. This study evaluates LLM performance on multimodal physics problems, identifies specific failure modes through an empirical error taxonomy, and tests practical interventions designed to overcome multimodal processing limitations. We assessed three publicly available LLMs (Claude, Gemini, and ChatGPT) on multimodal physics problems from the OpenStax dat",
+      "resume_fr": "Large Language Models (LLMs) are democratizing access to personalized tutoring; however, their effectiveness is hindered by challenges in processing multimodal content, which limits AI's potential to provide equitable, high-quality STEM support. This study evaluates LLM performance on multimodal physics problems, identifies specific failure modes through an empirical error taxonomy, and tests practical interventions designed to overcome multimodal processing limitations. We assessed three publicly available LLMs (Claude, Gemini, and ChatGPT) on multimodal physics problems from the OpenStax dat",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
       "title": "AI Advocate: Educational Path to Transform Squads to the Future",
@@ -1062,177 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection",
-      "url": "https://arxiv.org/abs/2604.22753v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-04-24T17:59:42.000Z",
-      "score": 70,
-      "summary_en": "Scaling laws are used to plan multi-million-dollar training runs, but fitting those laws can itself cost millions. In modern large-scale workflows, assembling a sufficiently informative set of pilot experiments is already a major budget-allocation problem rather than a routine preprocessing step. We formulate scaling-law fitting as budget-aware sequential experimental design: given a finite pool of runnable experiments with heterogeneous costs, choose which runs to execute so as to maximize extrapolation accuracy in a high-cost target region. We then propose an uncertainty-aware method for seq",
-      "summary_fr": "Scaling laws are used to plan multi-million-dollar training runs, but fitting those laws can itself cost millions. In modern large-scale workflows, assembling a sufficiently informative set of pilot experiments is already a major budget-allocation problem rather than a routine preprocessing step. We formulate scaling-law fitting as budget-aware sequential experimental design: given a finite pool of runnable experiments with heterogeneous costs, choose which runs to execute so as to maximize extrapolation accuracy in a high-cost target region. We then propose an uncertainty-aware method for seq",
-      "resume_fr": "Scaling laws are used to plan multi-million-dollar training runs, but fitting those laws can itself cost millions. In modern large-scale workflows, assembling a sufficiently informative set of pilot experiments is already a major budget-allocation problem rather than a routine preprocessing step. We formulate scaling-law fitting as budget-aware sequential experimental design: given a finite pool of runnable experiments with heterogeneous costs, choose which runs to execute so as to maximize extrapolation accuracy in a high-cost target region. We then propose an uncertainty-aware method for seq",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities",
-      "url": "https://arxiv.org/abs/2604.22749v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-04-24T17:49:09.000Z",
-      "score": 50,
-      "summary_en": "Large language models (LLMs) are increasingly used for text generation tasks from everyday use to high-stakes enterprise and government applications, including simulated interviews with asylum seekers. While many works highlight the new potential applications of LLMs, there are risks of LLMs encoding and perpetuating harmful biases about non-dominant communities across the globe. To better evaluate and mitigate such harms, more research examining how LLMs portray diverse individuals is needed. In this work, we study how national origin identities are portrayed by widely-adopted LLMs in respons",
-      "summary_fr": "Large language models (LLMs) are increasingly used for text generation tasks from everyday use to high-stakes enterprise and government applications, including simulated interviews with asylum seekers. While many works highlight the new potential applications of LLMs, there are risks of LLMs encoding and perpetuating harmful biases about non-dominant communities across the globe. To better evaluate and mitigate such harms, more research examining how LLMs portray diverse individuals is needed. In this work, we study how national origin identities are portrayed by widely-adopted LLMs in respons",
-      "resume_fr": "Large language models (LLMs) are increasingly used for text generation tasks from everyday use to high-stakes enterprise and government applications, including simulated interviews with asylum seekers. While many works highlight the new potential applications of LLMs, there are risks of LLMs encoding and perpetuating harmful biases about non-dominant communities across the globe. To better evaluate and mitigate such harms, more research examining how LLMs portray diverse individuals is needed. In this work, we study how national origin identities are portrayed by widely-adopted LLMs in respons",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Zero-Shot Morphological Discovery in Low-Resource Bantu Languages via Cross-Lingual Transfer and Unsupervised Clustering",
-      "url": "https://arxiv.org/abs/2604.22723v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-04-24T17:21:00.000Z",
-      "score": 50,
-      "summary_en": "We present a method for discovering morphological features in low-resource Bantu languages by combining cross-lingual transfer learning with unsupervised clustering. Applied to Giriama (nyf), a language with only 91 labeled paradigms, our pipeline discovers noun class assignments for 2,455 words and identifies two previously undocumented morphological patterns: an a- prefix variant for Class 2 (vowel coalescence - the merger of two adjacent vowels - of wa-, 95.1% consistency) and a contracted k'- prefix (98.5% consistency). External validation on 444 known Giriama verb paradigms confirms 78.2%",
-      "summary_fr": "We present a method for discovering morphological features in low-resource Bantu languages by combining cross-lingual transfer learning with unsupervised clustering. Applied to Giriama (nyf), a language with only 91 labeled paradigms, our pipeline discovers noun class assignments for 2,455 words and identifies two previously undocumented morphological patterns: an a- prefix variant for Class 2 (vowel coalescence - the merger of two adjacent vowels - of wa-, 95.1% consistency) and a contracted k'- prefix (98.5% consistency). External validation on 444 known Giriama verb paradigms confirms 78.2%",
-      "resume_fr": "We present a method for discovering morphological features in low-resource Bantu languages by combining cross-lingual transfer learning with unsupervised clustering. Applied to Giriama (nyf), a language with only 91 labeled paradigms, our pipeline discovers noun class assignments for 2,455 words and identifies two previously undocumented morphological patterns: an a- prefix variant for Class 2 (vowel coalescence - the merger of two adjacent vowels - of wa-, 95.1% consistency) and a contracted k'- prefix (98.5% consistency). External validation on 444 known Giriama verb paradigms confirms 78.2%",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Thinking Without Words: Efficient Latent Reasoning with Abstract Chain-of-Thought",
-      "url": "https://arxiv.org/abs/2604.22709v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-04-24T16:45:51.000Z",
-      "score": 70,
-      "summary_en": "While long, explicit chains-of-thought (CoT) have proven effective on complex reasoning tasks, they are costly to generate during inference. Non-verbal reasoning methods have emerged with shorter generation lengths by leveraging continuous representations, yet their performance lags behind verbalized CoT. We propose $\\textbf{Abstract Chain-of-Thought}$, a discrete latent reasoning post-training mechanism in which the language model produces a short sequence of tokens from a reserved vocabulary in lieu of a natural language CoT, before generating a response. To make previously unseen ''abstract",
-      "summary_fr": "While long, explicit chains-of-thought (CoT) have proven effective on complex reasoning tasks, they are costly to generate during inference. Non-verbal reasoning methods have emerged with shorter generation lengths by leveraging continuous representations, yet their performance lags behind verbalized CoT. We propose $\\textbf{Abstract Chain-of-Thought}$, a discrete latent reasoning post-training mechanism in which the language model produces a short sequence of tokens from a reserved vocabulary in lieu of a natural language CoT, before generating a response. To make previously unseen ''abstract",
-      "resume_fr": "While long, explicit chains-of-thought (CoT) have proven effective on complex reasoning tasks, they are costly to generate during inference. Non-verbal reasoning methods have emerged with shorter generation lengths by leveraging continuous representations, yet their performance lags behind verbalized CoT. We propose $\\textbf{Abstract Chain-of-Thought}$, a discrete latent reasoning post-training mechanism in which the language model produces a short sequence of tokens from a reserved vocabulary in lieu of a natural language CoT, before generating a response. To make previously unseen ''abstract",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "RFID-Based Non-Biometric Classroom Attendance System: Proxy Attendance Detection via Weight Sensor Integration",
-      "url": "https://arxiv.org/abs/2604.22697v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-24T16:30:32.000Z",
-      "score": 50,
-      "summary_en": "Attendance tracking in educational institutions, when conducted through traditional methods, leads to structural problems that consume instruction time and threaten academic integrity. Attendance durations spanning several minutes in primary and secondary education and exceeding ten minutes in higher education, combined with the proxy attendance problem of signing on behalf of someone else, demonstrate the need for electronic systems. Most existing electronic solutions rely on biometric authentication, which raises legal and ethical risks under the European General Data Protection Regulation (",
-      "summary_fr": "Attendance tracking in educational institutions, when conducted through traditional methods, leads to structural problems that consume instruction time and threaten academic integrity. Attendance durations spanning several minutes in primary and secondary education and exceeding ten minutes in higher education, combined with the proxy attendance problem of signing on behalf of someone else, demonstrate the need for electronic systems. Most existing electronic solutions rely on biometric authentication, which raises legal and ethical risks under the European General Data Protection Regulation (",
-      "resume_fr": "Attendance tracking in educational institutions, when conducted through traditional methods, leads to structural problems that consume instruction time and threaten academic integrity. Attendance durations spanning several minutes in primary and secondary education and exceeding ten minutes in higher education, combined with the proxy attendance problem of signing on behalf of someone else, demonstrate the need for electronic systems. Most existing electronic solutions rely on biometric authentication, which raises legal and ethical risks under the European General Data Protection Regulation (",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Controllable Spoken Dialogue Generation: An LLM-Driven Grading System for K-12 Non-Native English Learners",
-      "url": "https://arxiv.org/abs/2604.22542v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-24T13:33:12.000Z",
-      "score": 50,
-      "summary_en": "Large language models (LLMs) often fail to meet the pedagogical needs of K-12 English learners in non-native contexts due to a proficiency mismatch. To address this widespread challenge, we introduce a proficiency-aligned framework that adapts LLM outputs to learner abilities, using China's national curriculum (CSE) as a representative case. Our framework enables precise control over lexical complexity through a four-tier grading system, supported by a comprehensive suite of new resources: graded vocabulary lists and a multi-turn dialogue corpus. Our core technical contribution is the \\textbf{",
-      "summary_fr": "Large language models (LLMs) often fail to meet the pedagogical needs of K-12 English learners in non-native contexts due to a proficiency mismatch. To address this widespread challenge, we introduce a proficiency-aligned framework that adapts LLM outputs to learner abilities, using China's national curriculum (CSE) as a representative case. Our framework enables precise control over lexical complexity through a four-tier grading system, supported by a comprehensive suite of new resources: graded vocabulary lists and a multi-turn dialogue corpus. Our core technical contribution is the \\textbf{",
-      "resume_fr": "Large language models (LLMs) often fail to meet the pedagogical needs of K-12 English learners in non-native contexts due to a proficiency mismatch. To address this widespread challenge, we introduce a proficiency-aligned framework that adapts LLM outputs to learner abilities, using China's national curriculum (CSE) as a representative case. Our framework enables precise control over lexical complexity through a four-tier grading system, supported by a comprehensive suite of new resources: graded vocabulary lists and a multi-turn dialogue corpus. Our core technical contribution is the \\textbf{",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Tell Me Why: Designing an Explainable LLM-based Dialogue System for Student Problem Behavior Diagnosis",
-      "url": "https://arxiv.org/abs/2604.22237v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-24T05:23:25.000Z",
-      "score": 50,
-      "summary_en": "Diagnosing student problem behaviors requires teachers to synthesize multifaceted information, identify behavioral categories, and plan intervention strategies. Although fine-tuned large language models (LLMs) can support this process through multi-turn dialogue, they rarely explain why a strategy is recommended, limiting transparency and teachers' trust. To address this issue, we present an explainable dialogue system built on a fine-tuned LLM. The system uses a hierarchical attribution method based on explainable AI (xAI) to identify dialogue evidence for each recommendation and generate a n",
-      "summary_fr": "Diagnosing student problem behaviors requires teachers to synthesize multifaceted information, identify behavioral categories, and plan intervention strategies. Although fine-tuned large language models (LLMs) can support this process through multi-turn dialogue, they rarely explain why a strategy is recommended, limiting transparency and teachers' trust. To address this issue, we present an explainable dialogue system built on a fine-tuned LLM. The system uses a hierarchical attribution method based on explainable AI (xAI) to identify dialogue evidence for each recommendation and generate a n",
-      "resume_fr": "Diagnosing student problem behaviors requires teachers to synthesize multifaceted information, identify behavioral categories, and plan intervention strategies. Although fine-tuned large language models (LLMs) can support this process through multi-turn dialogue, they rarely explain why a strategy is recommended, limiting transparency and teachers' trust. To address this issue, we present an explainable dialogue system built on a fine-tuned LLM. The system uses a hierarchical attribution method based on explainable AI (xAI) to identify dialogue evidence for each recommendation and generate a n",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "ArguMath: AI-Simulated Environment for Pre-Service Teacher Training in Orchestrating Classroom Mathematics Argumentation",
-      "url": "https://arxiv.org/abs/2604.22205v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-24T04:18:18.000Z",
-      "score": 50,
-      "summary_en": "Facilitating productive mathematical argumentation, especially asking rational questions, is essential yet remains challenging for pre-service mathematics teachers (PMTs), who often have limited opportunities to apply abstract theoretical knowledge in authentic practice. At the same time, recent advances in large language models (LLMs) have expanded the potential for simulating students in educational settings, enabling low-risk environments for instructional practice. To inform the design of a system that supports PMTs in orchestrating classroom argumentation, we conducted a formative study w",
-      "summary_fr": "Facilitating productive mathematical argumentation, especially asking rational questions, is essential yet remains challenging for pre-service mathematics teachers (PMTs), who often have limited opportunities to apply abstract theoretical knowledge in authentic practice. At the same time, recent advances in large language models (LLMs) have expanded the potential for simulating students in educational settings, enabling low-risk environments for instructional practice. To inform the design of a system that supports PMTs in orchestrating classroom argumentation, we conducted a formative study w",
-      "resume_fr": "Facilitating productive mathematical argumentation, especially asking rational questions, is essential yet remains challenging for pre-service mathematics teachers (PMTs), who often have limited opportunities to apply abstract theoretical knowledge in authentic practice. At the same time, recent advances in large language models (LLMs) have expanded the potential for simulating students in educational settings, enabling low-risk environments for instructional practice. To inform the design of a system that supports PMTs in orchestrating classroom argumentation, we conducted a formative study w",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Community-Based AI Learning: Redistributing Artificial Intelligence's Epistemic Authority in Education",
-      "url": "https://arxiv.org/abs/2604.21986v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-23T18:12:17.000Z",
-      "score": 50,
-      "summary_en": "As generative AI systems increasingly mediate learning, they are often treated as authoritative sources of knowledge. This perspective paper introduces community-based AI learning as a framework that repositions authority, grounding AI engagement in learners' lived and community-based epistemologies. Drawing from community-driven learning and constructionist traditions, we articulate three commitments: epistemic fine tuning, redistribution of authority, and situated discernment. Together, these processes localize critical AI literacy by calibrating trust, foregrounding community knowledge, and",
-      "summary_fr": "As generative AI systems increasingly mediate learning, they are often treated as authoritative sources of knowledge. This perspective paper introduces community-based AI learning as a framework that repositions authority, grounding AI engagement in learners' lived and community-based epistemologies. Drawing from community-driven learning and constructionist traditions, we articulate three commitments: epistemic fine tuning, redistribution of authority, and situated discernment. Together, these processes localize critical AI literacy by calibrating trust, foregrounding community knowledge, and",
-      "resume_fr": "As generative AI systems increasingly mediate learning, they are often treated as authoritative sources of knowledge. This perspective paper introduces community-based AI learning as a framework that repositions authority, grounding AI engagement in learners' lived and community-based epistemologies. Drawing from community-driven learning and constructionist traditions, we articulate three commitments: epistemic fine tuning, redistribution of authority, and situated discernment. Together, these processes localize critical AI literacy by calibrating trust, foregrounding community knowledge, and",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
