@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-08T07:55:26.547Z",
+  "generatedAt": "2026-05-09T08:08:15.984Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
-  "totalAnalyzed": 54,
+  "totalAnalyzed": 100,
   "totalPublished": 60,
   "publishTarget": "default",
   "debug": {
@@ -95,6 +95,120 @@
     }
   },
   "items": [
+    {
+      "title": "Ana Inês Inácio Designs the Future of Wireless",
+      "url": "https://spectrum.ieee.org/ana-ines-inacio-wireless",
+      "source": "IEEE Spectrum – AI",
+      "published": "2026-05-08T18:00:01.000Z",
+      "score": 35,
+      "summary_en": "When Ana Inês Inácio goes to work at the Netherlands Organization for Applied Scientific Research (TNO) in The Hague, she thinks about signals most people never notice: radio waves moving between satellites, sensors, and future wireless networks. The integrated circuits the research scientist designs lay the foundation for next-generation RF sensor systems critical to advancing radar technologies. Ana Inês Inácio EMPLOYER Netherlands Organization for Applied Scientific Research, TNO TITLE Scientist IEEE MEMBER GRADE Senior member ALMA MATER University of Aveiro, in Portugal Those invisible RF ",
+      "summary_fr": "When Ana Inês Inácio goes to work at the Netherlands Organization for Applied Scientific Research (TNO) in The Hague, she thinks about signals most people never notice: radio waves moving between satellites, sensors, and future wireless networks. The integrated circuits the research scientist designs lay the foundation for next-generation RF sensor systems critical to advancing radar technologies. Ana Inês Inácio EMPLOYER Netherlands Organization for Applied Scientific Research, TNO TITLE Scientist IEEE MEMBER GRADE Senior member ALMA MATER University of Aveiro, in Portugal Those invisible RF ",
+      "resume_fr": "When Ana Inês Inácio goes to work at the Netherlands Organization for Applied Scientific Research (TNO) in The Hague, she thinks about signals most people never notice: radio waves moving between satellites, sensors, and future wireless networks. The integrated circuits the research scientist designs lay the foundation for next-generation RF sensor systems critical to advancing radar technologies. Ana Inês Inácio EMPLOYER Netherlands Organization for Applied Scientific Research, TNO TITLE Scientist IEEE MEMBER GRADE Senior member ALMA MATER University of Aveiro, in Portugal Those invisible RF ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
+    },
+    {
+      "title": "Real-Time Security Centers Keep a Watchful Eye on Campus Activity",
+      "url": "https://edtechmagazine.com/higher/article/2026/05/real-time-security-centers-keep-watchful-eye-campus-activity",
+      "source": "EdTech Magazine (Higher Ed)",
+      "published": "2026-05-07T19:43:50.000Z",
+      "score": 50,
+      "summary_en": "A warning to any would-be criminals considering doing business at Arizona State University: It’s likely that whatever you’re up to, the ASU police department is watching. That’s because, since the spring of 2023, the department has had access to live video feeds from more than 3,000 strategically placed cameras. Positioned both indoors and out across the university’s four Phoenix-area campuses, the devices provide police department analysts with unobstructed views of everything from parking lots to bike racks and building entrances. They follow the action on wall-to-wall monitors in their…",
+      "summary_fr": "A warning to any would-be criminals considering doing business at Arizona State University: It’s likely that whatever you’re up to, the ASU police department is watching. That’s because, since the spring of 2023, the department has had access to live video feeds from more than 3,000 strategically placed cameras. Positioned both indoors and out across the university’s four Phoenix-area campuses, the devices provide police department analysts with unobstructed views of everything from parking lots to bike racks and building entrances. They follow the action on wall-to-wall monitors in their…",
+      "resume_fr": "A warning to any would-be criminals considering doing business at Arizona State University: It’s likely that whatever you’re up to, the ASU police department is watching. That’s because, since the spring of 2023, the department has had access to live video feeds from more than 3,000 strategically placed cameras. Positioned both indoors and out across the university’s four Phoenix-area campuses, the devices provide police department analysts with unobstructed views of everything from parking lots to bike racks and building entrances. They follow the action on wall-to-wall monitors in their…",
+      "tags": [],
+      "breakdown": {
+        "research": 0,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=edtechmagazine.com&sz=128"
+    },
+    {
+      "title": "Sardinia’s Ancient Reasons for Rejecting a Clean Energy Future",
+      "url": "https://spectrum.ieee.org/sardinia-renewable-energy-conflict",
+      "source": "IEEE Spectrum – AI",
+      "published": "2026-05-07T13:00:00.000Z",
+      "score": 35,
+      "summary_en": "“Why are you here?” Fabrizio Pilo, an electrical engineer, asks me as we sit in an outdoor café near his home in Cagliari, an ancient city on the island of Sardinia. It’s a fair question. I’m a journalist from the United States. I’d just stepped off my flight 2 hours prior and come straight to this meeting, suitcase still stowed in my rental car. I’m here to see three intriguing new energy projects under development in Sardinia. I’d heard there’s strong public resistance to renewable energy, and I want to understand why that is. I tell Pilo, who is vice rector for innovation at the University ",
+      "summary_fr": "“Why are you here?” Fabrizio Pilo, an electrical engineer, asks me as we sit in an outdoor café near his home in Cagliari, an ancient city on the island of Sardinia. It’s a fair question. I’m a journalist from the United States. I’d just stepped off my flight 2 hours prior and come straight to this meeting, suitcase still stowed in my rental car. I’m here to see three intriguing new energy projects under development in Sardinia. I’d heard there’s strong public resistance to renewable energy, and I want to understand why that is. I tell Pilo, who is vice rector for innovation at the University ",
+      "resume_fr": "“Why are you here?” Fabrizio Pilo, an electrical engineer, asks me as we sit in an outdoor café near his home in Cagliari, an ancient city on the island of Sardinia. It’s a fair question. I’m a journalist from the United States. I’d just stepped off my flight 2 hours prior and come straight to this meeting, suitcase still stowed in my rental car. I’m here to see three intriguing new energy projects under development in Sardinia. I’d heard there’s strong public resistance to renewable energy, and I want to understand why that is. I tell Pilo, who is vice rector for innovation at the University ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
+    },
+    {
+      "title": "Learning the chemical language of natural products",
+      "url": "https://www.nature.com/articles/s42256-026-01241-9",
+      "source": "Nature Machine Intelligence",
+      "published": "2026-05-07T00:00:00.000Z",
+      "score": 35,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
+    },
+    {
+      "title": "Platonic representation of foundation machine learning interatomic potentials",
+      "url": "https://www.nature.com/articles/s42256-026-01235-7",
+      "source": "Nature Machine Intelligence",
+      "published": "2026-05-07T00:00:00.000Z",
+      "score": 35,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
+    },
+    {
+      "title": "Learn What It Takes to Become a Cybersecurity Consultant",
+      "url": "https://spectrum.ieee.org/ieee-guide-cybersecurity-consultant",
+      "source": "IEEE Spectrum – AI",
+      "published": "2026-05-06T18:00:01.000Z",
+      "score": 35,
+      "summary_en": "Cybersecurity consultants have never been more in demand. Information security analyst roles are projected to grow nearly 30 percent between now and 2034, according to the U.S. Bureau of Labor Statistics. More than 15 million cybercrime incidents occurred worldwide in 2024, Statista reported. Data breaches are costly and pose direct safety risks. Statista reported that more than US $10 trillion is spent annually repairing the damage caused by cybercrime, most commonly phishing, spoofing, extortion, and data breaches. In one example in the United States, breathalyzer devices installed in vehicl",
+      "summary_fr": "Cybersecurity consultants have never been more in demand. Information security analyst roles are projected to grow nearly 30 percent between now and 2034, according to the U.S. Bureau of Labor Statistics. More than 15 million cybercrime incidents occurred worldwide in 2024, Statista reported. Data breaches are costly and pose direct safety risks. Statista reported that more than US $10 trillion is spent annually repairing the damage caused by cybercrime, most commonly phishing, spoofing, extortion, and data breaches. In one example in the United States, breathalyzer devices installed in vehicl",
+      "resume_fr": "Cybersecurity consultants have never been more in demand. Information security analyst roles are projected to grow nearly 30 percent between now and 2034, according to the U.S. Bureau of Labor Statistics. More than 15 million cybercrime incidents occurred worldwide in 2024, Statista reported. Data breaches are costly and pose direct safety risks. Statista reported that more than US $10 trillion is spent annually repairing the damage caused by cybercrime, most commonly phishing, spoofing, extortion, and data breaches. In one example in the United States, breathalyzer devices installed in vehicl",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
+    },
     {
       "title": "Taming Outlier Tokens in Diffusion Transformers",
       "url": "https://arxiv.org/abs/2605.05206v1",
@@ -1119,120 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Personalized Worked Example Generation from Student Code Submissions using Pattern-based Knowledge Components",
-      "url": "https://arxiv.org/abs/2604.24758v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-27T17:56:56.000Z",
-      "score": 50,
-      "summary_en": "Adaptive programming practice often relies on fixed libraries of worked examples and practice problems, which require substantial authoring effort and may not correspond well to the logical errors and partial solutions students produce while writing code. As a result, students may receive learning content that does not directly address the concepts they are working to understand, while instructors must either invest additional effort in expanding content libraries or accept a coarse level of personalization. We present an approach for knowledge-component (KC) guided educational content generat",
-      "summary_fr": "Adaptive programming practice often relies on fixed libraries of worked examples and practice problems, which require substantial authoring effort and may not correspond well to the logical errors and partial solutions students produce while writing code. As a result, students may receive learning content that does not directly address the concepts they are working to understand, while instructors must either invest additional effort in expanding content libraries or accept a coarse level of personalization. We present an approach for knowledge-component (KC) guided educational content generat",
-      "resume_fr": "Adaptive programming practice often relies on fixed libraries of worked examples and practice problems, which require substantial authoring effort and may not correspond well to the logical errors and partial solutions students produce while writing code. As a result, students may receive learning content that does not directly address the concepts they are working to understand, while instructors must either invest additional effort in expanding content libraries or accept a coarse level of personalization. We present an approach for knowledge-component (KC) guided educational content generat",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Contextual Linear Activation Steering of Language Models",
-      "url": "https://arxiv.org/abs/2604.24693v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-04-27T16:54:16.000Z",
-      "score": 70,
-      "summary_en": "Linear activation steering is a powerful approach for eliciting the capabilities of large language models and specializing their behavior using limited labeled data. While effective, existing methods often apply a fixed steering strength to all tokens, resulting in inconsistent steering quality across diverse input prompts. In this work, we introduce Contextual Linear Activation Steering (CLAS), a method that dynamically adapts linear activation steering to context-dependent steering strengths. Across eleven steering benchmarks and four model families, it consistently outperforms standard line",
-      "summary_fr": "Linear activation steering is a powerful approach for eliciting the capabilities of large language models and specializing their behavior using limited labeled data. While effective, existing methods often apply a fixed steering strength to all tokens, resulting in inconsistent steering quality across diverse input prompts. In this work, we introduce Contextual Linear Activation Steering (CLAS), a method that dynamically adapts linear activation steering to context-dependent steering strengths. Across eleven steering benchmarks and four model families, it consistently outperforms standard line",
-      "resume_fr": "Linear activation steering is a powerful approach for eliciting the capabilities of large language models and specializing their behavior using limited labeled data. While effective, existing methods often apply a fixed steering strength to all tokens, resulting in inconsistent steering quality across diverse input prompts. In this work, we introduce Contextual Linear Activation Steering (CLAS), a method that dynamically adapts linear activation steering to context-dependent steering strengths. Across eleven steering benchmarks and four model families, it consistently outperforms standard line",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Can LLMs Act as Historians? Evaluating Historical Research Capabilities of LLMs via the Chinese Imperial Examination",
-      "url": "https://arxiv.org/abs/2604.24690v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-04-27T16:50:40.000Z",
-      "score": 85,
-      "summary_en": "While Large Language Models (LLMs) have increasingly assisted in historical tasks such as text processing, their capacity for professional-level historical reasoning remains underexplored. Existing benchmarks primarily assess basic knowledge breadth or lexical understanding, failing to capture the higher-order skills, such as evidentiary reasoning,that are central to historical research. To fill this gap, we introduce ProHist-Bench, a novel benchmark anchored in the Chinese Imperial Examination (Keju) system, a comprehensive microcosm of East Asian political, social, and intellectual history s",
-      "summary_fr": "While Large Language Models (LLMs) have increasingly assisted in historical tasks such as text processing, their capacity for professional-level historical reasoning remains underexplored. Existing benchmarks primarily assess basic knowledge breadth or lexical understanding, failing to capture the higher-order skills, such as evidentiary reasoning,that are central to historical research. To fill this gap, we introduce ProHist-Bench, a novel benchmark anchored in the Chinese Imperial Examination (Keju) system, a comprehensive microcosm of East Asian political, social, and intellectual history s",
-      "resume_fr": "While Large Language Models (LLMs) have increasingly assisted in historical tasks such as text processing, their capacity for professional-level historical reasoning remains underexplored. Existing benchmarks primarily assess basic knowledge breadth or lexical understanding, failing to capture the higher-order skills, such as evidentiary reasoning,that are central to historical research. To fill this gap, we introduce ProHist-Bench, a novel benchmark anchored in the Chinese Imperial Examination (Keju) system, a comprehensive microcosm of East Asian political, social, and intellectual history s",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "GAMED.AI: A Hierarchical Multi-Agent Framework for Automated Educational Game Generation",
-      "url": "https://arxiv.org/abs/2604.23947v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-27T01:51:44.000Z",
-      "score": 85,
-      "summary_en": "We introduce GameDAI, a hierarchical multi-agent framework that transforms instructor-provided questions into fully playable, pedagogically grounded educational games validated through formal mechanic contracts. Built on phase-based LangGraph sub-graphs, deterministic Quality Gates, and structured Pydantic schemas, GameDAI supports two template families encompassing 15 interaction mechanics across spatial reasoning, procedural execution, and higher-order Bloom's Taxonomy objectives. Evaluated on 200 questions spanning five subject domains, the system achieves a 90% validation pass rate, 98.3% ",
-      "summary_fr": "We introduce GameDAI, a hierarchical multi-agent framework that transforms instructor-provided questions into fully playable, pedagogically grounded educational games validated through formal mechanic contracts. Built on phase-based LangGraph sub-graphs, deterministic Quality Gates, and structured Pydantic schemas, GameDAI supports two template families encompassing 15 interaction mechanics across spatial reasoning, procedural execution, and higher-order Bloom's Taxonomy objectives. Evaluated on 200 questions spanning five subject domains, the system achieves a 90% validation pass rate, 98.3% ",
-      "resume_fr": "We introduce GameDAI, a hierarchical multi-agent framework that transforms instructor-provided questions into fully playable, pedagogically grounded educational games validated through formal mechanic contracts. Built on phase-based LangGraph sub-graphs, deterministic Quality Gates, and structured Pydantic schemas, GameDAI supports two template families encompassing 15 interaction mechanics across spatial reasoning, procedural execution, and higher-order Bloom's Taxonomy objectives. Evaluated on 200 questions spanning five subject domains, the system achieves a 90% validation pass rate, 98.3% ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "A domain-adapted large language model to support clinicians in psychiatric clinical practice",
-      "url": "https://www.nature.com/articles/s42256-026-01224-w",
-      "source": "Nature Machine Intelligence",
-      "published": "2026-04-27T00:00:00.000Z",
-      "score": 70,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
-    },
-    {
-      "title": "Applications of the Transformer Architecture in AI-Assisted English Reading Comprehension",
-      "url": "https://arxiv.org/abs/2604.23615v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-26T09:11:38.000Z",
-      "score": 65,
-      "summary_en": "This paper studies interpretable and fair artificial intelligence architectures for understanding English reading. Introduced transformer-based models, integrating advanced attention mechanisms and gradient-based feature attribution. The model's lack of interpretability, reduction of algorithmic bias, and unreliable performance in learning environments are the current issues faced in natural language teaching. A unified technical pipeline has been constructed, including adversarial bias correction methods, token-level attribution analysis, and multi-head attention heatmap visualization. Experi",
-      "summary_fr": "This paper studies interpretable and fair artificial intelligence architectures for understanding English reading. Introduced transformer-based models, integrating advanced attention mechanisms and gradient-based feature attribution. The model's lack of interpretability, reduction of algorithmic bias, and unreliable performance in learning environments are the current issues faced in natural language teaching. A unified technical pipeline has been constructed, including adversarial bias correction methods, token-level attribution analysis, and multi-head attention heatmap visualization. Experi",
-      "resume_fr": "This paper studies interpretable and fair artificial intelligence architectures for understanding English reading. Introduced transformer-based models, integrating advanced attention mechanisms and gradient-based feature attribution. The model's lack of interpretability, reduction of algorithmic bias, and unreliable performance in learning environments are the current issues faced in natural language teaching. A unified technical pipeline has been constructed, including adversarial bias correction methods, token-level attribution analysis, and multi-head attention heatmap visualization. Experi",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
