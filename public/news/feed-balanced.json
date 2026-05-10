@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T08:08:15.984Z",
+  "generatedAt": "2026-05-10T08:20:40.299Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -134,6 +134,101 @@
       "image": "https://www.google.com/s2/favicons?domain=edtechmagazine.com&sz=128"
     },
     {
+      "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
+      "url": "https://arxiv.org/abs/2605.06667v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-05-07T17:59:58.000Z",
+      "score": 70,
+      "summary_en": "For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot method for video generation that jointly transfers character motion from a driving video into a new scene and enables per-frame control of intrinsic and extrinsic camera parameters. ActCam builds on any pretrained image-to-video diffusion model that accepts conditioning in terms of scene depth and character pose. Given a source video with a moving character and a target camera motion, ActCam genera",
+      "summary_fr": "For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot method for video generation that jointly transfers character motion from a driving video into a new scene and enables per-frame control of intrinsic and extrinsic camera parameters. ActCam builds on any pretrained image-to-video diffusion model that accepts conditioning in terms of scene depth and character pose. Given a source video with a moving character and a target camera motion, ActCam genera",
+      "resume_fr": "For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot method for video generation that jointly transfers character motion from a driving video into a new scene and enables per-frame control of intrinsic and extrinsic camera parameters. ActCam builds on any pretrained image-to-video diffusion model that accepts conditioning in terms of scene depth and character pose. Given a source video with a moving character and a target camera motion, ActCam genera",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients",
+      "url": "https://arxiv.org/abs/2605.06650v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-05-07T17:55:21.000Z",
+      "score": 70,
+      "summary_en": "Reinforcement learning with verifiable rewards (RLVR), due to the deterministic verification, becomes a dominant paradigm for enhancing the reasoning ability of large language models (LLMs). The community witnesses the rapid change from the Proximal Policy Optimization (PPO) to Group Relative Policy Optimization (GRPO), in which GRPO reduces the complicated advantage estimation with simple estimation over grouped positive and negative rollouts. However, we note that negative rollouts may admit no gradation of failure severity, and the combinatorial vastness makes penalizing a few sampled negat",
+      "summary_fr": "Reinforcement learning with verifiable rewards (RLVR), due to the deterministic verification, becomes a dominant paradigm for enhancing the reasoning ability of large language models (LLMs). The community witnesses the rapid change from the Proximal Policy Optimization (PPO) to Group Relative Policy Optimization (GRPO), in which GRPO reduces the complicated advantage estimation with simple estimation over grouped positive and negative rollouts. However, we note that negative rollouts may admit no gradation of failure severity, and the combinatorial vastness makes penalizing a few sampled negat",
+      "resume_fr": "Reinforcement learning with verifiable rewards (RLVR), due to the deterministic verification, becomes a dominant paradigm for enhancing the reasoning ability of large language models (LLMs). The community witnesses the rapid change from the Proximal Policy Optimization (PPO) to Group Relative Policy Optimization (GRPO), in which GRPO reduces the complicated advantage estimation with simple estimation over grouped positive and negative rollouts. However, we note that negative rollouts may admit no gradation of failure severity, and the combinatorial vastness makes penalizing a few sampled negat",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction",
+      "url": "https://arxiv.org/abs/2605.06642v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-05-07T17:51:16.000Z",
+      "score": 70,
+      "summary_en": "Large language models (LLMs) are increasingly used as interactive agents, but optimizing them for long-horizon decision making remains difficult because current methods are largely purely reactive, which weakens both exploration and credit assignment over extended trajectories. In this work, we present Strategic Trajectory Abstraction (StraTA), a simple framework that introduces an explicit trajectory-level strategy into agentic reinforcement learning (RL). StraTA samples a compact strategy from the initial task state, conditions subsequent actions on that strategy, and trains strategy generat",
+      "summary_fr": "Large language models (LLMs) are increasingly used as interactive agents, but optimizing them for long-horizon decision making remains difficult because current methods are largely purely reactive, which weakens both exploration and credit assignment over extended trajectories. In this work, we present Strategic Trajectory Abstraction (StraTA), a simple framework that introduces an explicit trajectory-level strategy into agentic reinforcement learning (RL). StraTA samples a compact strategy from the initial task state, conditions subsequent actions on that strategy, and trains strategy generat",
+      "resume_fr": "Large language models (LLMs) are increasingly used as interactive agents, but optimizing them for long-horizon decision making remains difficult because current methods are largely purely reactive, which weakens both exploration and credit assignment over extended trajectories. In this work, we present Strategic Trajectory Abstraction (StraTA), a simple framework that introduces an explicit trajectory-level strategy into agentic reinforcement learning (RL). StraTA samples a compact strategy from the initial task state, conditions subsequent actions on that strategy, and trains strategy generat",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles",
+      "url": "https://arxiv.org/abs/2605.06307v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-05-07T14:09:31.000Z",
+      "score": 50,
+      "summary_en": "Student simulation with Large language models (LLMs) offers a scalable alternative for educational research and teacher training. Yet, its validity depends on whether models maintain stable personas across extended interactions. We test this prerequisite using a dual-assessment framework measuring self-reported characteristics and observer-rated behavioral expressions. Across two experiments testing four clinically-grounded ADHD persona conditions, five LLMs, and three prompt designs, we quantify between-conversation stability (N=4,968) and within-conversation stability (N=3,952 across 9 turns",
+      "summary_fr": "Student simulation with Large language models (LLMs) offers a scalable alternative for educational research and teacher training. Yet, its validity depends on whether models maintain stable personas across extended interactions. We test this prerequisite using a dual-assessment framework measuring self-reported characteristics and observer-rated behavioral expressions. Across two experiments testing four clinically-grounded ADHD persona conditions, five LLMs, and three prompt designs, we quantify between-conversation stability (N=4,968) and within-conversation stability (N=3,952 across 9 turns",
+      "resume_fr": "Student simulation with Large language models (LLMs) offers a scalable alternative for educational research and teacher training. Yet, its validity depends on whether models maintain stable personas across extended interactions. We test this prerequisite using a dual-assessment framework measuring self-reported characteristics and observer-rated behavioral expressions. Across two experiments testing four clinically-grounded ADHD persona conditions, five LLMs, and three prompt designs, we quantify between-conversation stability (N=4,968) and within-conversation stability (N=3,952 across 9 turns",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning",
+      "url": "https://arxiv.org/abs/2605.06257v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-05-07T13:33:31.000Z",
+      "score": 50,
+      "summary_en": "Personalization is crucial for effective learning, yet online learning, designed for widespread availability and open access, lacks personalized guidance. Recent advancements in large language models (LLMs) offer opportunities to bridge this gap. We explore how LLM-driven tools may be designed to support personalized and adaptive learning and examine how they shape user experience and learning outcomes. We iteratively designed \\tool{} to support online learning by providing personalized study plans, real-time contextual assistance, and adaptive learning activities. A preliminary study ($n=24$)",
+      "summary_fr": "Personalization is crucial for effective learning, yet online learning, designed for widespread availability and open access, lacks personalized guidance. Recent advancements in large language models (LLMs) offer opportunities to bridge this gap. We explore how LLM-driven tools may be designed to support personalized and adaptive learning and examine how they shape user experience and learning outcomes. We iteratively designed \\tool{} to support online learning by providing personalized study plans, real-time contextual assistance, and adaptive learning activities. A preliminary study ($n=24$)",
+      "resume_fr": "Personalization is crucial for effective learning, yet online learning, designed for widespread availability and open access, lacks personalized guidance. Recent advancements in large language models (LLMs) offer opportunities to bridge this gap. We explore how LLM-driven tools may be designed to support personalized and adaptive learning and examine how they shape user experience and learning outcomes. We iteratively designed \\tool{} to support online learning by providing personalized study plans, real-time contextual assistance, and adaptive learning activities. A preliminary study ($n=24$)",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
       "title": "Sardinia’s Ancient Reasons for Rejecting a Clean Energy Future",
       "url": "https://spectrum.ieee.org/sardinia-renewable-energy-conflict",
       "source": "IEEE Spectrum – AI",
@@ -151,6 +246,82 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
+    },
+    {
+      "title": "Reality Check: How Avatar and Face Representation Affect the Perceptual Evaluation of Synthesized Gestures",
+      "url": "https://arxiv.org/abs/2605.06063v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-05-07T11:46:15.000Z",
+      "score": 50,
+      "summary_en": "The capacity to create realistic virtual humans has progressed significantly, and such characters can be found in many applications across entertainment, education and health. As an essential element of interactive virtual humans, speech-driven 3D gesture generation still depends heavily on perceptual evaluation, yet studies often vary avatar appearance and facial presentation when judging the generated motions. Prior work suggests these visual choices can bias motion judgments, but controlled evidence remains limited. We address this gap with controlled evaluations of co-speech gestures acros",
+      "summary_fr": "The capacity to create realistic virtual humans has progressed significantly, and such characters can be found in many applications across entertainment, education and health. As an essential element of interactive virtual humans, speech-driven 3D gesture generation still depends heavily on perceptual evaluation, yet studies often vary avatar appearance and facial presentation when judging the generated motions. Prior work suggests these visual choices can bias motion judgments, but controlled evidence remains limited. We address this gap with controlled evaluations of co-speech gestures acros",
+      "resume_fr": "The capacity to create realistic virtual humans has progressed significantly, and such characters can be found in many applications across entertainment, education and health. As an essential element of interactive virtual humans, speech-driven 3D gesture generation still depends heavily on perceptual evaluation, yet studies often vary avatar appearance and facial presentation when judging the generated motions. Prior work suggests these visual choices can bias motion judgments, but controlled evidence remains limited. We address this gap with controlled evaluations of co-speech gestures acros",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing",
+      "url": "https://arxiv.org/abs/2605.05958v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-07T10:05:53.000Z",
+      "score": 50,
+      "summary_en": "Knowledge Tracing (KT) is fundamental to intelligent education systems, yet relies on educational logs that are selectively observed. The non-random nature of exercise recommendations and student choices inevitably induces severe selection bias. Most existing KT methods neglect this issue, training on observed logs using standard empirical risk, which yields biased mastery estimates and accumulates errors in subsequent recommendations. To address this, we introduce a doubly robust (DR) formulation for KT that integrates a propensity model with an error imputation model, theoretically guarantee",
+      "summary_fr": "Knowledge Tracing (KT) is fundamental to intelligent education systems, yet relies on educational logs that are selectively observed. The non-random nature of exercise recommendations and student choices inevitably induces severe selection bias. Most existing KT methods neglect this issue, training on observed logs using standard empirical risk, which yields biased mastery estimates and accumulates errors in subsequent recommendations. To address this, we introduce a doubly robust (DR) formulation for KT that integrates a propensity model with an error imputation model, theoretically guarantee",
+      "resume_fr": "Knowledge Tracing (KT) is fundamental to intelligent education systems, yet relies on educational logs that are selectively observed. The non-random nature of exercise recommendations and student choices inevitably induces severe selection bias. Most existing KT methods neglect this issue, training on observed logs using standard empirical risk, which yields biased mastery estimates and accumulates errors in subsequent recommendations. To address this, we introduce a doubly robust (DR) formulation for KT that integrates a propensity model with an error imputation model, theoretically guarantee",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments",
+      "url": "https://arxiv.org/abs/2605.05842v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-07T08:17:09.000Z",
+      "score": 50,
+      "summary_en": "Educators face significant challenges in creating engaging, personalized assignments that accommodate students' diverse interests and cognitive abilities. Traditional one-size-fits-all assignments frequently lead to decreased student engagement and increased reliance on unethical practices such as plagiarism. To address these challenges, we present Taklif.AI, a platform that leverages Large Language Models (LLMs) to automatically generate personalized assignments tailored to individual student interests. Unlike existing AI-powered educational platforms that personalize based on academic perfor",
+      "summary_fr": "Educators face significant challenges in creating engaging, personalized assignments that accommodate students' diverse interests and cognitive abilities. Traditional one-size-fits-all assignments frequently lead to decreased student engagement and increased reliance on unethical practices such as plagiarism. To address these challenges, we present Taklif.AI, a platform that leverages Large Language Models (LLMs) to automatically generate personalized assignments tailored to individual student interests. Unlike existing AI-powered educational platforms that personalize based on academic perfor",
+      "resume_fr": "Educators face significant challenges in creating engaging, personalized assignments that accommodate students' diverse interests and cognitive abilities. Traditional one-size-fits-all assignments frequently lead to decreased student engagement and increased reliance on unethical practices such as plagiarism. To address these challenges, we present Taklif.AI, a platform that leverages Large Language Models (LLMs) to automatically generate personalized assignments tailored to individual student interests. Unlike existing AI-powered educational platforms that personalize based on academic perfor",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Can providing feedback on gaze and mental-effort synchrony improve pair programming performance?",
+      "url": "https://arxiv.org/abs/2605.05836v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-05-07T08:11:30.000Z",
+      "score": 50,
+      "summary_en": "Pair programming is a widely used collaborative learning practice in computer science education yet its effectiveness varies substantially due to breakdowns in coordination attention and cognitive regulation between partners. This paper investigates whether AI supported feedback grounded in joint visual attention and joint mental effort can improve collaborative programming performance and how feedback timing shapes learner AI interaction. Two experimental studies using dual eye tracking capture real time indicators of collaborative regulation during debugging tasks. Study 1 examines reactive ",
+      "summary_fr": "Pair programming is a widely used collaborative learning practice in computer science education yet its effectiveness varies substantially due to breakdowns in coordination attention and cognitive regulation between partners. This paper investigates whether AI supported feedback grounded in joint visual attention and joint mental effort can improve collaborative programming performance and how feedback timing shapes learner AI interaction. Two experimental studies using dual eye tracking capture real time indicators of collaborative regulation during debugging tasks. Study 1 examines reactive ",
+      "resume_fr": "Pair programming is a widely used collaborative learning practice in computer science education yet its effectiveness varies substantially due to breakdowns in coordination attention and cognitive regulation between partners. This paper investigates whether AI supported feedback grounded in joint visual attention and joint mental effort can improve collaborative programming performance and how feedback timing shapes learner AI interaction. Two experimental studies using dual eye tracking capture real time indicators of collaborative regulation during debugging tasks. Study 1 examines reactive ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
       "title": "Learning the chemical language of natural products",
@@ -189,6 +360,25 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
+    },
+    {
+      "title": "The Ambivalent Experience of Eye Contact for People with Visual Impairments: Mechanisms and Design Challenges",
+      "url": "https://arxiv.org/abs/2605.05437v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-05-06T20:53:02.000Z",
+      "score": 85,
+      "summary_en": "In mixed-ability collaboration, eye contact is often treated as a default cue for attention and turn-taking. As these signals are primarily visual, they are not reliably accessible to people with visual impairments. While prior work emphasized technical solutions, mechanism-level explanations of their experiences with sighted partners remain scarce. We interviewed 17 people with visual impairments about everyday interactions across work, education, and social settings. Using a critical-realist lens, we link events to plausible causal mechanisms and identify three recurring mechanisms: First, w",
+      "summary_fr": "In mixed-ability collaboration, eye contact is often treated as a default cue for attention and turn-taking. As these signals are primarily visual, they are not reliably accessible to people with visual impairments. While prior work emphasized technical solutions, mechanism-level explanations of their experiences with sighted partners remain scarce. We interviewed 17 people with visual impairments about everyday interactions across work, education, and social settings. Using a critical-realist lens, we link events to plausible causal mechanisms and identify three recurring mechanisms: First, w",
+      "resume_fr": "In mixed-ability collaboration, eye contact is often treated as a default cue for attention and turn-taking. As these signals are primarily visual, they are not reliably accessible to people with visual impairments. While prior work emphasized technical solutions, mechanism-level explanations of their experiences with sighted partners remain scarce. We interviewed 17 people with visual impairments about everyday interactions across work, education, and social settings. Using a critical-realist lens, we link events to plausible causal mechanisms and identify three recurring mechanisms: First, w",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
       "title": "Learn What It Takes to Become a Cybersecurity Consultant",
@@ -1043,196 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Towards a Frugal Photosynthesis Sensing Toolkit for Data-Driven Plant Science Education and Exploration",
-      "url": "https://arxiv.org/abs/2604.26305v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-29T05:10:13.000Z",
-      "score": 50,
-      "summary_en": "Rapid environmental change and advances in data-driven analysis highlight the need not only to use computational tools, but also to foster understanding of the natural world and inspire creativity. Photosynthesis, the process that fuels nearly all life on Earth, provides a compelling context for such learning, particularly in understanding how plants alter their photosynthetic strategies in response to environmental changes. However, existing tools for studying photosynthesis are often inaccessible or limited to demonstrating its presence, rather than capturing its temporal dynamics. We presen",
-      "summary_fr": "Rapid environmental change and advances in data-driven analysis highlight the need not only to use computational tools, but also to foster understanding of the natural world and inspire creativity. Photosynthesis, the process that fuels nearly all life on Earth, provides a compelling context for such learning, particularly in understanding how plants alter their photosynthetic strategies in response to environmental changes. However, existing tools for studying photosynthesis are often inaccessible or limited to demonstrating its presence, rather than capturing its temporal dynamics. We presen",
-      "resume_fr": "Rapid environmental change and advances in data-driven analysis highlight the need not only to use computational tools, but also to foster understanding of the natural world and inspire creativity. Photosynthesis, the process that fuels nearly all life on Earth, provides a compelling context for such learning, particularly in understanding how plants alter their photosynthetic strategies in response to environmental changes. However, existing tools for studying photosynthesis are often inaccessible or limited to demonstrating its presence, rather than capturing its temporal dynamics. We presen",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Ceci n'est pas une explication: Evaluating Explanation Failures as Explainability Pitfalls in Language Learning Systems",
-      "url": "https://arxiv.org/abs/2604.26145v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-28T22:05:57.000Z",
-      "score": 50,
-      "summary_en": "AI-powered language learning tools increasingly provide instant, personalised feedback to millions of learners worldwide. However, this feedback can fail in ways that are difficult for learners--and even teachers--to detect, potentially reinforcing misconceptions and eroding learning outcomes over extended use. We present a portion of L2-Bench, a benchmark for evaluating AI systems in language education that includes (but is not limited to) six critical dimensions of effective feedback: diagnostic accuracy, awareness of appropriacy, causes of error, prioritisation, guidance for improvement, an",
-      "summary_fr": "AI-powered language learning tools increasingly provide instant, personalised feedback to millions of learners worldwide. However, this feedback can fail in ways that are difficult for learners--and even teachers--to detect, potentially reinforcing misconceptions and eroding learning outcomes over extended use. We present a portion of L2-Bench, a benchmark for evaluating AI systems in language education that includes (but is not limited to) six critical dimensions of effective feedback: diagnostic accuracy, awareness of appropriacy, causes of error, prioritisation, guidance for improvement, an",
-      "resume_fr": "AI-powered language learning tools increasingly provide instant, personalised feedback to millions of learners worldwide. However, this feedback can fail in ways that are difficult for learners--and even teachers--to detect, potentially reinforcing misconceptions and eroding learning outcomes over extended use. We present a portion of L2-Bench, a benchmark for evaluating AI systems in language education that includes (but is not limited to) six critical dimensions of effective feedback: diagnostic accuracy, awareness of appropriacy, causes of error, prioritisation, guidance for improvement, an",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Teacher Forcing as Generalized Bayes: Optimization Geometry Mismatch in Switching Surrogates for Chaotic Dynamics",
-      "url": "https://arxiv.org/abs/2604.25904v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-04-28T17:50:37.000Z",
-      "score": 50,
-      "summary_en": "Identity teacher forcing (ITF) enables stable training of deterministic recurrent surrogates for chaotic dynamical systems and has been highly effective for dynamical systems reconstruction (DSR) with recurrent neural networks (RNNs), including interpretable almost-linear RNNs (AL-RNNs). However, as an intervention-based prediction loss (and thus a generalized Bayes update), teacher forcing need not match the free-running model's marginal likelihood geometry. We compare the objective-induced curvatures of ITF and marginal likelihood in a probabilistic switching augmentation of AL-RNNs, estimat",
-      "summary_fr": "Identity teacher forcing (ITF) enables stable training of deterministic recurrent surrogates for chaotic dynamical systems and has been highly effective for dynamical systems reconstruction (DSR) with recurrent neural networks (RNNs), including interpretable almost-linear RNNs (AL-RNNs). However, as an intervention-based prediction loss (and thus a generalized Bayes update), teacher forcing need not match the free-running model's marginal likelihood geometry. We compare the objective-induced curvatures of ITF and marginal likelihood in a probabilistic switching augmentation of AL-RNNs, estimat",
-      "resume_fr": "Identity teacher forcing (ITF) enables stable training of deterministic recurrent surrogates for chaotic dynamical systems and has been highly effective for dynamical systems reconstruction (DSR) with recurrent neural networks (RNNs), including interpretable almost-linear RNNs (AL-RNNs). However, as an intervention-based prediction loss (and thus a generalized Bayes update), teacher forcing need not match the free-running model's marginal likelihood geometry. We compare the objective-induced curvatures of ITF and marginal likelihood in a probabilistic switching augmentation of AL-RNNs, estimat",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Carbon-Taxed Transformers: A Green Compression Pipeline for Overgrown Language Models",
-      "url": "https://arxiv.org/abs/2604.25903v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-04-28T17:48:16.000Z",
-      "score": 50,
-      "summary_en": "The accelerating adoption of Large Language Models (LLMs) in software engineering (SE) has brought with it a silent crisis: unsustainable computational cost. While these models demonstrate remarkable capabilities in different SE tasks, they are unmanageably large, slow to deploy, memory-intensive, and carbon-heavy. This reality threatens not only the scalability and accessibility of AI-powered SE, but also its long-term environmental sustainability. The research challenge is clear: we must go beyond accuracy and address efficiency and environmental cost as first-class design constraints. To me",
-      "summary_fr": "The accelerating adoption of Large Language Models (LLMs) in software engineering (SE) has brought with it a silent crisis: unsustainable computational cost. While these models demonstrate remarkable capabilities in different SE tasks, they are unmanageably large, slow to deploy, memory-intensive, and carbon-heavy. This reality threatens not only the scalability and accessibility of AI-powered SE, but also its long-term environmental sustainability. The research challenge is clear: we must go beyond accuracy and address efficiency and environmental cost as first-class design constraints. To me",
-      "resume_fr": "The accelerating adoption of Large Language Models (LLMs) in software engineering (SE) has brought with it a silent crisis: unsustainable computational cost. While these models demonstrate remarkable capabilities in different SE tasks, they are unmanageably large, slow to deploy, memory-intensive, and carbon-heavy. This reality threatens not only the scalability and accessibility of AI-powered SE, but also its long-term environmental sustainability. The research challenge is clear: we must go beyond accuracy and address efficiency and environmental cost as first-class design constraints. To me",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "MAIC-UI: Making Interactive Courseware with Generative UI",
-      "url": "https://arxiv.org/abs/2604.25806v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-28T16:15:04.000Z",
-      "score": 85,
-      "summary_en": "Creating interactive STEM courseware traditionally requires HTML/CSS/JavaScript expertise, leaving barriers for educators. While generative AI can produce HTML codes, existing tools generate static presentations rather than interactive simulations, struggle with long documents, and lack pedagogical accuracy mechanisms. Furthermore, full regeneration for modifications requires 200--600 seconds, disrupting creative flow. We present MAIC-UI, a zero-code authoring system that enables educators to create and rapidly edit interactive courseware from textbooks, PPTs, and PDFs. MAIC-UI employs: (1) st",
-      "summary_fr": "Creating interactive STEM courseware traditionally requires HTML/CSS/JavaScript expertise, leaving barriers for educators. While generative AI can produce HTML codes, existing tools generate static presentations rather than interactive simulations, struggle with long documents, and lack pedagogical accuracy mechanisms. Furthermore, full regeneration for modifications requires 200--600 seconds, disrupting creative flow. We present MAIC-UI, a zero-code authoring system that enables educators to create and rapidly edit interactive courseware from textbooks, PPTs, and PDFs. MAIC-UI employs: (1) st",
-      "resume_fr": "Creating interactive STEM courseware traditionally requires HTML/CSS/JavaScript expertise, leaving barriers for educators. While generative AI can produce HTML codes, existing tools generate static presentations rather than interactive simulations, struggle with long documents, and lack pedagogical accuracy mechanisms. Furthermore, full regeneration for modifications requires 200--600 seconds, disrupting creative flow. We present MAIC-UI, a zero-code authoring system that enables educators to create and rapidly edit interactive courseware from textbooks, PPTs, and PDFs. MAIC-UI employs: (1) st",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Can Code Evaluation Metrics Detect Code Plagiarism?",
-      "url": "https://arxiv.org/abs/2604.25778v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-28T15:45:44.000Z",
-      "score": 50,
-      "summary_en": "Source Code Plagiarism Detection (SCPD) plays an important role in maintaining fairness and academic integrity in software engineering education. Code Evaluation Metrics (CEMs) are developed for assessing code generation tasks. However, it remains unclear whether such metrics can reliably detect plagiarism across different levels of modification (L1-L6), increasing in complexity. In this paper, we perform a comparative empirical study using two open-source labelled datasets, ConPlag (raw and template-free versions) and IRPlag. We evaluate five CEMs, namely CodeBLEU, CrystalBLEU, RUBY, Tree Str",
-      "summary_fr": "Source Code Plagiarism Detection (SCPD) plays an important role in maintaining fairness and academic integrity in software engineering education. Code Evaluation Metrics (CEMs) are developed for assessing code generation tasks. However, it remains unclear whether such metrics can reliably detect plagiarism across different levels of modification (L1-L6), increasing in complexity. In this paper, we perform a comparative empirical study using two open-source labelled datasets, ConPlag (raw and template-free versions) and IRPlag. We evaluate five CEMs, namely CodeBLEU, CrystalBLEU, RUBY, Tree Str",
-      "resume_fr": "Source Code Plagiarism Detection (SCPD) plays an important role in maintaining fairness and academic integrity in software engineering education. Code Evaluation Metrics (CEMs) are developed for assessing code generation tasks. However, it remains unclear whether such metrics can reliably detect plagiarism across different levels of modification (L1-L6), increasing in complexity. In this paper, we perform a comparative empirical study using two open-source labelled datasets, ConPlag (raw and template-free versions) and IRPlag. We evaluate five CEMs, namely CodeBLEU, CrystalBLEU, RUBY, Tree Str",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "The Nonverbal Syntax Framework: An Evidence-Based Tiered System for Inferring Learner States from Observable Behavioral Cues",
-      "url": "https://arxiv.org/abs/2604.25612v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-28T13:20:44.000Z",
-      "score": 85,
-      "summary_en": "Understanding learners' cognitive and affective states underpins adaptive educational systems and effective teaching. Although research links nonverbal cues to internal states, no framework calibrates them to evidence. We present the Nonverbal Syntax Framework, drawn from a systematic review of 908 studies and 17,043 cue-state mappings (Turaev et al., 2026). The framework addresses three challenges: terminological fragmentation (behaviors described inconsistently), evidence heterogeneity (single observations to replicated findings), and state ambiguity (similar patterns indicating multiple sta",
-      "summary_fr": "Understanding learners' cognitive and affective states underpins adaptive educational systems and effective teaching. Although research links nonverbal cues to internal states, no framework calibrates them to evidence. We present the Nonverbal Syntax Framework, drawn from a systematic review of 908 studies and 17,043 cue-state mappings (Turaev et al., 2026). The framework addresses three challenges: terminological fragmentation (behaviors described inconsistently), evidence heterogeneity (single observations to replicated findings), and state ambiguity (similar patterns indicating multiple sta",
-      "resume_fr": "Understanding learners' cognitive and affective states underpins adaptive educational systems and effective teaching. Although research links nonverbal cues to internal states, no framework calibrates them to evidence. We present the Nonverbal Syntax Framework, drawn from a systematic review of 908 studies and 17,043 cue-state mappings (Turaev et al., 2026). The framework addresses three challenges: terminological fragmentation (behaviors described inconsistently), evidence heterogeneity (single observations to replicated findings), and state ambiguity (similar patterns indicating multiple sta",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "SciEval: A Benchmark for Automatic Evaluation of K-12 Science Instructional Materials",
-      "url": "https://arxiv.org/abs/2604.25472v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-28T10:23:32.000Z",
-      "score": 50,
-      "summary_en": "The need to evaluate instructional materials for K-12 science education has become increasingly important, as more educators use generative AI to create instructional materials. However, the review of instructional materials is time-consuming, expertise-intensive, and difficult to scale, motivating interest in automated evaluation approaches. While large language models (LLMs) have shown strong performance on general evaluation tasks, their performance and reliability on instructional materials remain unclear. To address this gap, we formulate Automatic Instructional Materials Evaluation (AIME",
-      "summary_fr": "The need to evaluate instructional materials for K-12 science education has become increasingly important, as more educators use generative AI to create instructional materials. However, the review of instructional materials is time-consuming, expertise-intensive, and difficult to scale, motivating interest in automated evaluation approaches. While large language models (LLMs) have shown strong performance on general evaluation tasks, their performance and reliability on instructional materials remain unclear. To address this gap, we formulate Automatic Instructional Materials Evaluation (AIME",
-      "resume_fr": "The need to evaluate instructional materials for K-12 science education has become increasingly important, as more educators use generative AI to create instructional materials. However, the review of instructional materials is time-consuming, expertise-intensive, and difficult to scale, motivating interest in automated evaluation approaches. While large language models (LLMs) have shown strong performance on general evaluation tasks, their performance and reliability on instructional materials remain unclear. To address this gap, we formulate Automatic Instructional Materials Evaluation (AIME",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "DATAREEL: Automated Data-Driven Video Story Generation with Animations",
-      "url": "https://arxiv.org/abs/2604.25220v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-28T04:56:25.000Z",
-      "score": 50,
-      "summary_en": "Data videos are a powerful medium for visual data based storytelling, combining animated, chart-centric visualizations with synchronized narration. Widely used in journalism, education, and public communication, they help audiences understand complex data through clear and engaging visual explanations. Despite their growing impact, generating data-driven video stories remains challenging, as it requires careful coordination of visual encoding, temporal progression, and narration and substantial expertise in visualization design, animation, and video-editing tools. Recent advances in large lang",
-      "summary_fr": "Data videos are a powerful medium for visual data based storytelling, combining animated, chart-centric visualizations with synchronized narration. Widely used in journalism, education, and public communication, they help audiences understand complex data through clear and engaging visual explanations. Despite their growing impact, generating data-driven video stories remains challenging, as it requires careful coordination of visual encoding, temporal progression, and narration and substantial expertise in visualization design, animation, and video-editing tools. Recent advances in large lang",
-      "resume_fr": "Data videos are a powerful medium for visual data based storytelling, combining animated, chart-centric visualizations with synchronized narration. Widely used in journalism, education, and public communication, they help audiences understand complex data through clear and engaging visual explanations. Despite their growing impact, generating data-driven video stories remains challenging, as it requires careful coordination of visual encoding, temporal progression, and narration and substantial expertise in visualization design, animation, and video-editing tools. Recent advances in large lang",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Barriers and Enablers of Online Instruction in Hospitality Education in the Philippines: An Exploratory Study",
-      "url": "https://arxiv.org/abs/2604.25047v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-27T22:57:18.000Z",
-      "score": 50,
-      "summary_en": "This study examined the barriers and enablers of online instruction in hospitality education. A sequential exploratory design was implemented with hospitality teachers from both public and private higher educational institutions in the Philippines. Thematic analysis of interviews identified four key themes: technological barriers, pedagogical challenges, institutional and personal support, and integration of artificial intelligence (AI). These themes were transformed into survey constructs and tested for reliability. Pedagogical challenges, including difficulties in teaching hands-on subjects ",
-      "summary_fr": "This study examined the barriers and enablers of online instruction in hospitality education. A sequential exploratory design was implemented with hospitality teachers from both public and private higher educational institutions in the Philippines. Thematic analysis of interviews identified four key themes: technological barriers, pedagogical challenges, institutional and personal support, and integration of artificial intelligence (AI). These themes were transformed into survey constructs and tested for reliability. Pedagogical challenges, including difficulties in teaching hands-on subjects ",
-      "resume_fr": "This study examined the barriers and enablers of online instruction in hospitality education. A sequential exploratory design was implemented with hospitality teachers from both public and private higher educational institutions in the Philippines. Thematic analysis of interviews identified four key themes: technological barriers, pedagogical challenges, institutional and personal support, and integration of artificial intelligence (AI). These themes were transformed into survey constructs and tested for reliability. Pedagogical challenges, including difficulties in teaching hands-on subjects ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
