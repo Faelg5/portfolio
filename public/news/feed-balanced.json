@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T08:20:40.299Z",
+  "generatedAt": "2026-05-11T09:58:11.629Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -113,6 +113,177 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
+    },
+    {
+      "title": "Uncertainty-Aware Structured Data Extraction from Full CMR Reports via Distilled LLMs",
+      "url": "https://arxiv.org/abs/2605.08045v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-05-08T17:35:41.000Z",
+      "score": 70,
+      "summary_en": "Converting free-text cardiac magnetic resonance (CMR) reports into auditable structured data remains a bottleneck for cohort assembly, longitudinal curation, and clinical decision support. We present CMR-EXTR, a lightweight framework that converts free-text CMR reports into structured data and assigns per-field confidence for quality control. A teacher-student distillation pipeline enables fully offline inference while limiting manual annotation. Uncertainty integrates three complementary principles -- distribution plausibility, sampling stability, and cross-field consistency -- to triage huma",
+      "summary_fr": "Converting free-text cardiac magnetic resonance (CMR) reports into auditable structured data remains a bottleneck for cohort assembly, longitudinal curation, and clinical decision support. We present CMR-EXTR, a lightweight framework that converts free-text CMR reports into structured data and assigns per-field confidence for quality control. A teacher-student distillation pipeline enables fully offline inference while limiting manual annotation. Uncertainty integrates three complementary principles -- distribution plausibility, sampling stability, and cross-field consistency -- to triage huma",
+      "resume_fr": "Converting free-text cardiac magnetic resonance (CMR) reports into auditable structured data remains a bottleneck for cohort assembly, longitudinal curation, and clinical decision support. We present CMR-EXTR, a lightweight framework that converts free-text CMR reports into structured data and assigns per-field confidence for quality control. A teacher-student distillation pipeline enables fully offline inference while limiting manual annotation. Uncertainty integrates three complementary principles -- distribution plausibility, sampling stability, and cross-field consistency -- to triage huma",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Fast Byte Latent Transformer",
+      "url": "https://arxiv.org/abs/2605.08044v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-05-08T17:35:27.000Z",
+      "score": 50,
+      "summary_en": "Recent byte-level language models (LMs) match the performance of token-level models without relying on subword vocabularies, yet their utility is limited by slow, byte-by-byte autoregressive generation. We address this bottleneck in the Byte Latent Transformer (BLT) through new training and generation techniques. First, we introduce BLT Diffusion (BLT-D), a new model and our fastest BLT variant, trained with an auxiliary block-wise diffusion objective alongside the standard next-byte prediction loss. This enables an inference procedure that generates multiple bytes in parallel per decoding ste",
+      "summary_fr": "Recent byte-level language models (LMs) match the performance of token-level models without relying on subword vocabularies, yet their utility is limited by slow, byte-by-byte autoregressive generation. We address this bottleneck in the Byte Latent Transformer (BLT) through new training and generation techniques. First, we introduce BLT Diffusion (BLT-D), a new model and our fastest BLT variant, trained with an auxiliary block-wise diffusion objective alongside the standard next-byte prediction loss. This enables an inference procedure that generates multiple bytes in parallel per decoding ste",
+      "resume_fr": "Recent byte-level language models (LMs) match the performance of token-level models without relying on subword vocabularies, yet their utility is limited by slow, byte-by-byte autoregressive generation. We address this bottleneck in the Byte Latent Transformer (BLT) through new training and generation techniques. First, we introduce BLT Diffusion (BLT-D), a new model and our fastest BLT variant, trained with an auxiliary block-wise diffusion objective alongside the standard next-byte prediction loss. This enables an inference procedure that generates multiple bytes in parallel per decoding ste",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education",
+      "url": "https://arxiv.org/abs/2605.08040v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-05-08T17:29:28.000Z",
+      "score": 85,
+      "summary_en": "We introduce ECNUClaw, an open-source framework for building learner-profiled intelligent study companions in K-12 education. The system constructs and maintains a five-dimension learner profile -- covering cognitive, behavioral, emotional, metacognitive, and contextual dimensions -- by extracting signals from student-companion dialogues at each turn. Profile updates feed directly into an adaptive strategy engine that adjusts the companion's guidance intensity, encouragement frequency, and Bloom's taxonomy scaffolding in real time. The framework design draws on three theoretical strands from t",
+      "summary_fr": "We introduce ECNUClaw, an open-source framework for building learner-profiled intelligent study companions in K-12 education. The system constructs and maintains a five-dimension learner profile -- covering cognitive, behavioral, emotional, metacognitive, and contextual dimensions -- by extracting signals from student-companion dialogues at each turn. Profile updates feed directly into an adaptive strategy engine that adjusts the companion's guidance intensity, encouragement frequency, and Bloom's taxonomy scaffolding in real time. The framework design draws on three theoretical strands from t",
+      "resume_fr": "We introduce ECNUClaw, an open-source framework for building learner-profiled intelligent study companions in K-12 education. The system constructs and maintains a five-dimension learner profile -- covering cognitive, behavioral, emotional, metacognitive, and contextual dimensions -- by extracting signals from student-companion dialogues at each turn. Profile updates feed directly into an adaptive strategy engine that adjusts the companion's guidance intensity, encouragement frequency, and Bloom's taxonomy scaffolding in real time. The framework design draws on three theoretical strands from t",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Vibe coding before the trend",
+      "url": "https://arxiv.org/abs/2605.07751v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-08T13:56:57.000Z",
+      "score": 50,
+      "summary_en": "Early 2025 we ran a series of vibe coding challenges across four different student cohorts. The cohorts included 54 ICT students, 24 digital marketing students, and 7 journalism students at Fontys University of Applied Sciences (Netherlands), and 22 BA Communication students at North-West University (South Africa). From the student reflections, five major patterns emerged. Students reported that AI tools shifted their focus from syntax to higher-order thinking; they also described a skill shift from memorizing to evaluating; they viewed AI proficiency as career-essential; they framed their rel",
+      "summary_fr": "Early 2025 we ran a series of vibe coding challenges across four different student cohorts. The cohorts included 54 ICT students, 24 digital marketing students, and 7 journalism students at Fontys University of Applied Sciences (Netherlands), and 22 BA Communication students at North-West University (South Africa). From the student reflections, five major patterns emerged. Students reported that AI tools shifted their focus from syntax to higher-order thinking; they also described a skill shift from memorizing to evaluating; they viewed AI proficiency as career-essential; they framed their rel",
+      "resume_fr": "Early 2025 we ran a series of vibe coding challenges across four different student cohorts. The cohorts included 54 ICT students, 24 digital marketing students, and 7 journalism students at Fontys University of Applied Sciences (Netherlands), and 22 BA Communication students at North-West University (South Africa). From the student reflections, five major patterns emerged. Students reported that AI tools shifted their focus from syntax to higher-order thinking; they also described a skill shift from memorizing to evaluating; they viewed AI proficiency as career-essential; they framed their rel",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation",
+      "url": "https://arxiv.org/abs/2605.07647v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-08T12:12:01.000Z",
+      "score": 85,
+      "summary_en": "Automated short answer scoring (ASAS) is shifting from discriminative, fine-tuned models to large language models (LLMs) used in few-shot settings. This paradigm leverages LLMs broad world knowledge and ease of deployment, but limited task-specific data may reduce alignment on complex scoring tasks. In particular, its impact on scoring partially correct responses that require nuanced interpretation remains underexplored. We investigate the relationship between the degree of task-specific adaptation of different models and quality-conditioned scoring agreement. We compare three LLMs (GPT-5.2, G",
+      "summary_fr": "Automated short answer scoring (ASAS) is shifting from discriminative, fine-tuned models to large language models (LLMs) used in few-shot settings. This paradigm leverages LLMs broad world knowledge and ease of deployment, but limited task-specific data may reduce alignment on complex scoring tasks. In particular, its impact on scoring partially correct responses that require nuanced interpretation remains underexplored. We investigate the relationship between the degree of task-specific adaptation of different models and quality-conditioned scoring agreement. We compare three LLMs (GPT-5.2, G",
+      "resume_fr": "Automated short answer scoring (ASAS) is shifting from discriminative, fine-tuned models to large language models (LLMs) used in few-shot settings. This paradigm leverages LLMs broad world knowledge and ease of deployment, but limited task-specific data may reduce alignment on complex scoring tasks. In particular, its impact on scoring partially correct responses that require nuanced interpretation remains underexplored. We investigate the relationship between the degree of task-specific adaptation of different models and quality-conditioned scoring agreement. We compare three LLMs (GPT-5.2, G",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "The University AI Didn't Replace -- Rethinking Universities in the AI Era",
+      "url": "https://arxiv.org/abs/2605.07056v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-05-08T00:07:55.000Z",
+      "score": 65,
+      "summary_en": "Generative artificial intelligence (AI) is reshaping higher education, yet many universities remain in early stages of adoption where AI innovation occurs informally and without institutional recognition. This paper presents a framework describing four levels of AI adoption in universities and illustrates these dynamics through a case study of AI-enabled curriculum initiatives in several units. We contend that the key institutional challenge is moving from isolated innovation to strategic integration, where universities redesign learning around AI-supported reasoning and align policies, worklo",
+      "summary_fr": "Generative artificial intelligence (AI) is reshaping higher education, yet many universities remain in early stages of adoption where AI innovation occurs informally and without institutional recognition. This paper presents a framework describing four levels of AI adoption in universities and illustrates these dynamics through a case study of AI-enabled curriculum initiatives in several units. We contend that the key institutional challenge is moving from isolated innovation to strategic integration, where universities redesign learning around AI-supported reasoning and align policies, worklo",
+      "resume_fr": "Generative artificial intelligence (AI) is reshaping higher education, yet many universities remain in early stages of adoption where AI innovation occurs informally and without institutional recognition. This paper presents a framework describing four levels of AI adoption in universities and illustrates these dynamics through a case study of AI-enabled curriculum initiatives in several units. We contend that the key institutional challenge is moving from isolated innovation to strategic integration, where universities redesign learning around AI-supported reasoning and align policies, worklo",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Cognitive Agent Compilation for Explicit Problem Solver Modeling",
+      "url": "https://arxiv.org/abs/2605.07040v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-07T23:40:50.000Z",
+      "score": 50,
+      "summary_en": "Large language models (LLMs) are widely used for tutoring, feedback generation, and content creation, but their broad pretraining makes them hard to constrain and poor substitutes for controllable learners. Educational systems often require inspectable and editable knowledge states: educators want to know what a system assumes the learner knows, and learners benefit when the system can justify actions in terms of explicit skills, misconceptions, and strategies. Inspired by cognitive architectures, we propose Cognitive Agent Compilation (CAC), a framework that uses a strong teacher LLM to compi",
+      "summary_fr": "Large language models (LLMs) are widely used for tutoring, feedback generation, and content creation, but their broad pretraining makes them hard to constrain and poor substitutes for controllable learners. Educational systems often require inspectable and editable knowledge states: educators want to know what a system assumes the learner knows, and learners benefit when the system can justify actions in terms of explicit skills, misconceptions, and strategies. Inspired by cognitive architectures, we propose Cognitive Agent Compilation (CAC), a framework that uses a strong teacher LLM to compi",
+      "resume_fr": "Large language models (LLMs) are widely used for tutoring, feedback generation, and content creation, but their broad pretraining makes them hard to constrain and poor substitutes for controllable learners. Educational systems often require inspectable and editable knowledge states: educators want to know what a system assumes the learner knows, and learners benefit when the system can justify actions in terms of explicit skills, misconceptions, and strategies. Inspired by cognitive architectures, we propose Cognitive Agent Compilation (CAC), a framework that uses a strong teacher LLM to compi",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle",
+      "url": "https://arxiv.org/abs/2605.06963v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-05-07T21:27:23.000Z",
+      "score": 50,
+      "summary_en": "This demo paper describes the development of the AI Teaching \\& Learning Assistant, a modular Moodle plugin that leverages Retrieval-Augmented Generation (RAG) to deliver high-quality, hallucination-free education. The system employs a dual-centric design, providing students with interactive, Socratic-based tutoring and educators with a \"human-in-the-loop\" workspace for supervised content generation. By grounding Large Language Model (LLM) responses in teacher-provided materials, the assistant addresses the risks of misinformation while encouraging deep conceptual mastery. Evaluation via the R",
+      "summary_fr": "This demo paper describes the development of the AI Teaching \\& Learning Assistant, a modular Moodle plugin that leverages Retrieval-Augmented Generation (RAG) to deliver high-quality, hallucination-free education. The system employs a dual-centric design, providing students with interactive, Socratic-based tutoring and educators with a \"human-in-the-loop\" workspace for supervised content generation. By grounding Large Language Model (LLM) responses in teacher-provided materials, the assistant addresses the risks of misinformation while encouraging deep conceptual mastery. Evaluation via the R",
+      "resume_fr": "This demo paper describes the development of the AI Teaching \\& Learning Assistant, a modular Moodle plugin that leverages Retrieval-Augmented Generation (RAG) to deliver high-quality, hallucination-free education. The system employs a dual-centric design, providing students with interactive, Socratic-based tutoring and educators with a \"human-in-the-loop\" workspace for supervised content generation. By grounding Large Language Model (LLM) responses in teacher-provided materials, the assistant addresses the risks of misinformation while encouraging deep conceptual mastery. Evaluation via the R",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Leveraging fNIRS to Evaluate Workload for Adaptive Training in Virtual Reality",
+      "url": "https://arxiv.org/abs/2605.06909v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-05-07T20:18:03.000Z",
+      "score": 50,
+      "summary_en": "Advance in technology offer the potential for future adoption of a combination of virtual reality (VR) and real-time adaptivity to enhance training and education. Providing a valid neuro-ergonomic measure of cognitive load can enable an adaptive training regime to continuously adjust tas difficulty to an optimal level as training progresses. The current study validated the functional near-infrared spectroscopy (fNIRS) measure of cognitive load to reflect the demands of two different forms of lad within Cognitive Load Theory: extraneous and intrinsic to he task to be mastered. Thirty-six partic",
+      "summary_fr": "Advance in technology offer the potential for future adoption of a combination of virtual reality (VR) and real-time adaptivity to enhance training and education. Providing a valid neuro-ergonomic measure of cognitive load can enable an adaptive training regime to continuously adjust tas difficulty to an optimal level as training progresses. The current study validated the functional near-infrared spectroscopy (fNIRS) measure of cognitive load to reflect the demands of two different forms of lad within Cognitive Load Theory: extraneous and intrinsic to he task to be mastered. Thirty-six partic",
+      "resume_fr": "Advance in technology offer the potential for future adoption of a combination of virtual reality (VR) and real-time adaptivity to enhance training and education. Providing a valid neuro-ergonomic measure of cognitive load can enable an adaptive training regime to continuously adjust tas difficulty to an optimal level as training progresses. The current study validated the functional near-infrared spectroscopy (fNIRS) measure of cognitive load to reflect the demands of two different forms of lad within Cognitive Load Theory: extraneous and intrinsic to he task to be mastered. Thirty-six partic",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
       "title": "Real-Time Security Centers Keep a Watchful Eye on Campus Activity",
@@ -1062,177 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Profiles of AI Dependency: A Latent Class Analysis of Filipino Students' Academic Competencies",
-      "url": "https://arxiv.org/abs/2604.27349v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-30T02:59:52.000Z",
-      "score": 65,
-      "summary_en": "The increasing dependency among Filipino college students on artificial intelligence (AI) poses concerns about the potential decline of fundamental academic competencies. This study examines the extent of AI dependency and its perceived effects on students' critical thinking, writing skills, learning independence, research skills, and academic engagement. Using a cross-sectional research design, data was collected from 651 students enrolled in higher education institutions (HEIs) in Pampanga, Philippines accredited by the Commission on Higher Education. The survey data was analyzed using Laten",
-      "summary_fr": "The increasing dependency among Filipino college students on artificial intelligence (AI) poses concerns about the potential decline of fundamental academic competencies. This study examines the extent of AI dependency and its perceived effects on students' critical thinking, writing skills, learning independence, research skills, and academic engagement. Using a cross-sectional research design, data was collected from 651 students enrolled in higher education institutions (HEIs) in Pampanga, Philippines accredited by the Commission on Higher Education. The survey data was analyzed using Laten",
-      "resume_fr": "The increasing dependency among Filipino college students on artificial intelligence (AI) poses concerns about the potential decline of fundamental academic competencies. This study examines the extent of AI dependency and its perceived effects on students' critical thinking, writing skills, learning independence, research skills, and academic engagement. Using a cross-sectional research design, data was collected from 651 students enrolled in higher education institutions (HEIs) in Pampanga, Philippines accredited by the Commission on Higher Education. The survey data was analyzed using Laten",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Exploring the Adoption Intention in Using AI-Enabled Educational Tools Among Preservice Teachers in the Philippines: A Partial-Least Square Modeling",
-      "url": "https://arxiv.org/abs/2604.27346v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-30T02:56:39.000Z",
-      "score": 50,
-      "summary_en": "This study examines the factors influencing pre-service teachers' behavioral intention to use AI-enabled educational tools during their practicum, using the Unified Theory of Acceptance and Use of Technology 2 (UTAUT2) as the theoretical framework. The model includes the core UTAUT2 constructs such as performance expectancy, effort expectancy, hedonic motivation, social influence, facilitating conditions, price value, and habit. It also incorporates additional predictors including computer self-efficacy, computer anxiety, and computer playfulness. Data were collected from 563 pre-service teach",
-      "summary_fr": "This study examines the factors influencing pre-service teachers' behavioral intention to use AI-enabled educational tools during their practicum, using the Unified Theory of Acceptance and Use of Technology 2 (UTAUT2) as the theoretical framework. The model includes the core UTAUT2 constructs such as performance expectancy, effort expectancy, hedonic motivation, social influence, facilitating conditions, price value, and habit. It also incorporates additional predictors including computer self-efficacy, computer anxiety, and computer playfulness. Data were collected from 563 pre-service teach",
-      "resume_fr": "This study examines the factors influencing pre-service teachers' behavioral intention to use AI-enabled educational tools during their practicum, using the Unified Theory of Acceptance and Use of Technology 2 (UTAUT2) as the theoretical framework. The model includes the core UTAUT2 constructs such as performance expectancy, effort expectancy, hedonic motivation, social influence, facilitating conditions, price value, and habit. It also incorporates additional predictors including computer self-efficacy, computer anxiety, and computer playfulness. Data were collected from 563 pre-service teach",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Addressing the Reality Gap: A Three-Tension Framework for Agentic AI Adoption",
-      "url": "https://arxiv.org/abs/2604.27245v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-29T22:33:36.000Z",
-      "score": 85,
-      "summary_en": "Generative AI has rapidly entered education through free consumer tools, outpacing the ability of schools and universities to respond. Now a new wave of more autonomous agentic AI systems--with the capacity to plan and act towards goals--promises both greater educational personalization and greater disruption. This chapter argues that successfully navigating these innovations requires balancing three core tensions: (1) Implementation Feasibility, or the practical capacity to integrate AI sustainably into real classrooms; (2) Adaptation Speed, or the mismatch between fast-evolving AI capabiliti",
-      "summary_fr": "Generative AI has rapidly entered education through free consumer tools, outpacing the ability of schools and universities to respond. Now a new wave of more autonomous agentic AI systems--with the capacity to plan and act towards goals--promises both greater educational personalization and greater disruption. This chapter argues that successfully navigating these innovations requires balancing three core tensions: (1) Implementation Feasibility, or the practical capacity to integrate AI sustainably into real classrooms; (2) Adaptation Speed, or the mismatch between fast-evolving AI capabiliti",
-      "resume_fr": "Generative AI has rapidly entered education through free consumer tools, outpacing the ability of schools and universities to respond. Now a new wave of more autonomous agentic AI systems--with the capacity to plan and act towards goals--promises both greater educational personalization and greater disruption. This chapter argues that successfully navigating these innovations requires balancing three core tensions: (1) Implementation Feasibility, or the practical capacity to integrate AI sustainably into real classrooms; (2) Adaptation Speed, or the mismatch between fast-evolving AI capabiliti",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Unpacking Vibe Coding: Help-Seeking Processes in Student-AI Interactions While Programming",
-      "url": "https://arxiv.org/abs/2604.27134v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-04-29T19:35:10.000Z",
-      "score": 85,
-      "summary_en": "Generative AI is reshaping higher education programming through vibe coding, where students collaborate with AI via natural language rather than writing code line-by-line. We conceptualize this practice as help-seeking, analyzing 19,418 interaction turns from 110 undergraduate students. Using inductive coding and Heterogeneous Transition Network Analysis, we examined interaction sequences to compare top- and low-performing students. Results reveal that top performers engaged in instrumental help-seeking -- inquiry and exploration -- eliciting tutor-like AI responses. In contrast, low performer",
-      "summary_fr": "Generative AI is reshaping higher education programming through vibe coding, where students collaborate with AI via natural language rather than writing code line-by-line. We conceptualize this practice as help-seeking, analyzing 19,418 interaction turns from 110 undergraduate students. Using inductive coding and Heterogeneous Transition Network Analysis, we examined interaction sequences to compare top- and low-performing students. Results reveal that top performers engaged in instrumental help-seeking -- inquiry and exploration -- eliciting tutor-like AI responses. In contrast, low performer",
-      "resume_fr": "Generative AI is reshaping higher education programming through vibe coding, where students collaborate with AI via natural language rather than writing code line-by-line. We conceptualize this practice as help-seeking, analyzing 19,418 interaction turns from 110 undergraduate students. Using inductive coding and Heterogeneous Transition Network Analysis, we examined interaction sequences to compare top- and low-performing students. Results reveal that top performers engaged in instrumental help-seeking -- inquiry and exploration -- eliciting tutor-like AI responses. In contrast, low performer",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Learning Over-Relaxation Policies for ADMM with Convergence Guarantees",
-      "url": "https://arxiv.org/abs/2604.26932v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-04-29T17:45:52.000Z",
-      "score": 50,
-      "summary_en": "The Alternating Direction Method of Multipliers (ADMM) is a widely used method for structured convex optimization, and its practical performance depends strongly on the choice of penalty and relaxation parameters. Motivated by settings such as Model Predictive Control (MPC), where one repeatedly solves related optimization problems with fixed structure and changing parameter values, we propose learning online updates of the relaxation parameter to improve performance on problem classes of interest. This choice is computationally attractive in OSQP-like architectures, since adapting relaxation ",
-      "summary_fr": "The Alternating Direction Method of Multipliers (ADMM) is a widely used method for structured convex optimization, and its practical performance depends strongly on the choice of penalty and relaxation parameters. Motivated by settings such as Model Predictive Control (MPC), where one repeatedly solves related optimization problems with fixed structure and changing parameter values, we propose learning online updates of the relaxation parameter to improve performance on problem classes of interest. This choice is computationally attractive in OSQP-like architectures, since adapting relaxation ",
-      "resume_fr": "The Alternating Direction Method of Multipliers (ADMM) is a widely used method for structured convex optimization, and its practical performance depends strongly on the choice of penalty and relaxation parameters. Motivated by settings such as Model Predictive Control (MPC), where one repeatedly solves related optimization problems with fixed structure and changing parameter values, we propose learning online updates of the relaxation parameter to improve performance on problem classes of interest. This choice is computationally attractive in OSQP-like architectures, since adapting relaxation ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Causal Learning with Neural Assemblies",
-      "url": "https://arxiv.org/abs/2604.26919v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-04-29T17:34:33.000Z",
-      "score": 50,
-      "summary_en": "Can Neural Assemblies -- groups of neurons that fire together and strengthen through co-activation -- learn the direction of causal influence between variables? While established as a computationally general substrate for classification, parsing, and planning, neural assemblies have not yet been shown to internalize causal directionality. We demonstrate that the inherent operations of neural assemblies -- projection, local plasticity control, and sparse winner selection -- are sufficient for directional learning. We introduce DIRECT (DIRectional Edge Coupling/Training), a mechanism that co-act",
-      "summary_fr": "Can Neural Assemblies -- groups of neurons that fire together and strengthen through co-activation -- learn the direction of causal influence between variables? While established as a computationally general substrate for classification, parsing, and planning, neural assemblies have not yet been shown to internalize causal directionality. We demonstrate that the inherent operations of neural assemblies -- projection, local plasticity control, and sparse winner selection -- are sufficient for directional learning. We introduce DIRECT (DIRectional Edge Coupling/Training), a mechanism that co-act",
-      "resume_fr": "Can Neural Assemblies -- groups of neurons that fire together and strengthen through co-activation -- learn the direction of causal influence between variables? While established as a computationally general substrate for classification, parsing, and planning, neural assemblies have not yet been shown to internalize causal directionality. We demonstrate that the inherent operations of neural assemblies -- projection, local plasticity control, and sparse winner selection -- are sufficient for directional learning. We introduce DIRECT (DIRectional Edge Coupling/Training), a mechanism that co-act",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "ClawGym: A Scalable Framework for Building Effective Claw Agents",
-      "url": "https://arxiv.org/abs/2604.26904v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-04-29T17:12:22.000Z",
-      "score": 70,
-      "summary_en": "Claw-style environments support multi-step workflows over local files, tools, and persistent workspace states. However, scalable development around these environments remains constrained by the absence of a systematic framework, especially one for synthesizing verifiable training data and integrating it with agent training and diagnostic evaluation. To address this challenge, we present ClawGym, a scalable framework that supports the full lifecycle of Claw-style personal agent development. Concretely, we construct ClawGym-SynData, a diverse dataset of 13.5K filtered tasks synthesized from pers",
-      "summary_fr": "Claw-style environments support multi-step workflows over local files, tools, and persistent workspace states. However, scalable development around these environments remains constrained by the absence of a systematic framework, especially one for synthesizing verifiable training data and integrating it with agent training and diagnostic evaluation. To address this challenge, we present ClawGym, a scalable framework that supports the full lifecycle of Claw-style personal agent development. Concretely, we construct ClawGym-SynData, a diverse dataset of 13.5K filtered tasks synthesized from pers",
-      "resume_fr": "Claw-style environments support multi-step workflows over local files, tools, and persistent workspace states. However, scalable development around these environments remains constrained by the absence of a systematic framework, especially one for synthesizing verifiable training data and integrating it with agent training and diagnostic evaluation. To address this challenge, we present ClawGym, a scalable framework that supports the full lifecycle of Claw-style personal agent development. Concretely, we construct ClawGym-SynData, a diverse dataset of 13.5K filtered tasks synthesized from pers",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Human-in-the-Loop Benchmarking of Heterogeneous LLMs for Automated Competency Assessment in Secondary Level Mathematics",
-      "url": "https://arxiv.org/abs/2604.26607v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-29T12:36:19.000Z",
-      "score": 50,
-      "summary_en": "As Competency-Based Education (CBE) is gaining traction around the world, the shift from marks-based assessment to qualitative competency mapping is a manual challenge for educators. This paper tackles the bottleneck issue by suggesting a \"Human-in-the-Loop\" benchmarking framework to assess the effectiveness of multiple LLMs in automating secondary-level mathematics assessment. Based on the Grade 10 Optional Mathematics curriculum in Nepal, we created a multi-dimensional rubric for four topics and four cross-cutting competencies: Comprehension, Knowledge, Operational Fluency, and Behavior and ",
-      "summary_fr": "As Competency-Based Education (CBE) is gaining traction around the world, the shift from marks-based assessment to qualitative competency mapping is a manual challenge for educators. This paper tackles the bottleneck issue by suggesting a \"Human-in-the-Loop\" benchmarking framework to assess the effectiveness of multiple LLMs in automating secondary-level mathematics assessment. Based on the Grade 10 Optional Mathematics curriculum in Nepal, we created a multi-dimensional rubric for four topics and four cross-cutting competencies: Comprehension, Knowledge, Operational Fluency, and Behavior and ",
-      "resume_fr": "As Competency-Based Education (CBE) is gaining traction around the world, the shift from marks-based assessment to qualitative competency mapping is a manual challenge for educators. This paper tackles the bottleneck issue by suggesting a \"Human-in-the-Loop\" benchmarking framework to assess the effectiveness of multiple LLMs in automating secondary-level mathematics assessment. Based on the Grade 10 Optional Mathematics curriculum in Nepal, we created a multi-dimensional rubric for four topics and four cross-cutting competencies: Comprehension, Knowledge, Operational Fluency, and Behavior and ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "STLGT: A Scalable Trace-Based Linear Graph Transformer for Tail Latency Prediction in Microservices",
-      "url": "https://arxiv.org/abs/2604.26422v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-04-29T08:32:14.000Z",
-      "score": 65,
-      "summary_en": "Accurate end-to-end tail-latency forecasting is critical for proactive SLO management in microservice systems. However, modeling long-range dependency propagation and non-stationary, bursty workloads while maintaining inference efficiency at scale remains challenging. We present STLGT (Scalable Trace-based Linear Graph Transformer), a per-API predictor that encodes traces as span graphs for multi-step p95 tail-latency forecasting. STLGT uses a structure-aware linear graph Transformer to propagate cross-service dependencies with inference time linear in span graph size, and a decoupled temporal",
-      "summary_fr": "Accurate end-to-end tail-latency forecasting is critical for proactive SLO management in microservice systems. However, modeling long-range dependency propagation and non-stationary, bursty workloads while maintaining inference efficiency at scale remains challenging. We present STLGT (Scalable Trace-based Linear Graph Transformer), a per-API predictor that encodes traces as span graphs for multi-step p95 tail-latency forecasting. STLGT uses a structure-aware linear graph Transformer to propagate cross-service dependencies with inference time linear in span graph size, and a decoupled temporal",
-      "resume_fr": "Accurate end-to-end tail-latency forecasting is critical for proactive SLO management in microservice systems. However, modeling long-range dependency propagation and non-stationary, bursty workloads while maintaining inference efficiency at scale remains challenging. We present STLGT (Scalable Trace-based Linear Graph Transformer), a per-API predictor that encodes traces as span graphs for multi-step p95 tail-latency forecasting. STLGT uses a structure-aware linear graph Transformer to propagate cross-service dependencies with inference time linear in span graph size, and a decoupled temporal",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
