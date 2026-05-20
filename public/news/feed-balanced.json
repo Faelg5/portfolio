@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T10:03:17.959Z",
+  "generatedAt": "2026-05-20T09:52:37.604Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -113,6 +113,25 @@
       },
       "reason": "Heuristique: Recherche=0, Politiques=35, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=blog.google&sz=128"
+    },
+    {
+      "title": "Manchester Code Made Bits Behave",
+      "url": "https://spectrum.ieee.org/manchester-code-ieee-milestone",
+      "source": "IEEE Spectrum – AI",
+      "published": "2026-05-18T18:00:01.000Z",
+      "score": 35,
+      "summary_en": "In the late 1940s—when computer engineers were grappling with unreliable hardware and noisy transmission environments—a team of engineers inside a modest lab at the University of Manchester, England, confronted a problem so fundamental that it threatened the viability of digital computing itself. Machines could generate bits, but they could not reliably read them back. The inconsistent reading back of memory data did not initially present itself as a grand theoretical challenge. It showed up as something more mundane: inconsistent computing results. Engineers including Frederic C. Williams, To",
+      "summary_fr": "In the late 1940s—when computer engineers were grappling with unreliable hardware and noisy transmission environments—a team of engineers inside a modest lab at the University of Manchester, England, confronted a problem so fundamental that it threatened the viability of digital computing itself. Machines could generate bits, but they could not reliably read them back. The inconsistent reading back of memory data did not initially present itself as a grand theoretical challenge. It showed up as something more mundane: inconsistent computing results. Engineers including Frederic C. Williams, To",
+      "resume_fr": "In the late 1940s—when computer engineers were grappling with unreliable hardware and noisy transmission environments—a team of engineers inside a modest lab at the University of Manchester, England, confronted a problem so fundamental that it threatened the viability of digital computing itself. Machines could generate bits, but they could not reliably read them back. The inconsistent reading back of memory data did not initially present itself as a grand theoretical challenge. It showed up as something more mundane: inconsistent computing results. Engineers including Frederic C. Williams, To",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
     },
     {
       "title": "ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop",
@@ -246,6 +265,25 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "SpecGP as a transformer-based model for predicting energy-adaptable structural spectra of glycopeptides",
+      "url": "https://www.nature.com/articles/s42256-026-01246-4",
+      "source": "Nature Machine Intelligence",
+      "published": "2026-05-18T00:00:00.000Z",
+      "score": 50,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
     },
     {
       "title": "Designing for Being-With: Presence Without Personhood in Conversational Human-AI Interaction",
@@ -1187,44 +1225,6 @@
       "summary_en": "We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a small number of high-norm tokens that attract disproportionate attention while carrying limited local information, but their role in generative models remains underexplored. We show that this phenomenon appears in both the encoder and denoiser of modern Representation Autoencoder (RAE)-DiT pipelines: pretrained ViT encoders can produce outlier representations, and DiTs themselves can develop internal outlier tokens, especially in intermediate layers.",
       "summary_fr": "We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a small number of high-norm tokens that attract disproportionate attention while carrying limited local information, but their role in generative models remains underexplored. We show that this phenomenon appears in both the encoder and denoiser of modern Representation Autoencoder (RAE)-DiT pipelines: pretrained ViT encoders can produce outlier representations, and DiTs themselves can develop internal outlier tokens, especially in intermediate layers.",
       "resume_fr": "We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a small number of high-norm tokens that attract disproportionate attention while carrying limited local information, but their role in generative models remains underexplored. We show that this phenomenon appears in both the encoder and denoiser of modern Representation Autoencoder (RAE)-DiT pipelines: pretrained ViT encoders can produce outlier representations, and DiTs themselves can develop internal outlier tokens, especially in intermediate layers.",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Understanding In-Context Learning for Nonlinear Regression with Transformers: Attention as Featurizer",
-      "url": "https://arxiv.org/abs/2605.05176v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-05-06T17:42:07.000Z",
-      "score": 50,
-      "summary_en": "Pre-trained transformers are able to learn from examples provided as part of the prompt without any weight updates, a remarkable ability known as in-context learning (ICL). Despite its demonstrated efficacy across various domains, the theoretical understanding of ICL is still developing. Whereas most existing theory has focused on linear models, we study ICL in the nonlinear regression setting. Through the interaction mechanism in attention, we explicitly construct transformer networks to realize nonlinear features, such as polynomial or spline bases, which span a wide class of functions. Base",
-      "summary_fr": "Pre-trained transformers are able to learn from examples provided as part of the prompt without any weight updates, a remarkable ability known as in-context learning (ICL). Despite its demonstrated efficacy across various domains, the theoretical understanding of ICL is still developing. Whereas most existing theory has focused on linear models, we study ICL in the nonlinear regression setting. Through the interaction mechanism in attention, we explicitly construct transformer networks to realize nonlinear features, such as polynomial or spline bases, which span a wide class of functions. Base",
-      "resume_fr": "Pre-trained transformers are able to learn from examples provided as part of the prompt without any weight updates, a remarkable ability known as in-context learning (ICL). Despite its demonstrated efficacy across various domains, the theoretical understanding of ICL is still developing. Whereas most existing theory has focused on linear models, we study ICL in the nonlinear regression setting. Through the interaction mechanism in attention, we explicitly construct transformer networks to realize nonlinear features, such as polynomial or spline bases, which span a wide class of functions. Base",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Superposition Is Not Necessary: A Mechanistic Interpretability Analysis of Transformer Representations for Time Series Forecasting",
-      "url": "https://arxiv.org/abs/2605.05151v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-05-06T17:23:27.000Z",
-      "score": 50,
-      "summary_en": "Transformer architectures have been widely adopted for time series forecasting, yet whether the representational mechanisms that make them powerful in NLP actually engage on time series data remains unexplored. The persistent competitiveness of simple linear models such as DLinear has fueled ongoing debate, but no mechanistic explanation for this phenomenon has been offered. We address this gap by applying sparse autoencoders (SAEs), a tool from mechanistic interpretability, to probe the internal representations of PatchTST. We first establish that a single-layer, narrow-dimensional transforme",
-      "summary_fr": "Transformer architectures have been widely adopted for time series forecasting, yet whether the representational mechanisms that make them powerful in NLP actually engage on time series data remains unexplored. The persistent competitiveness of simple linear models such as DLinear has fueled ongoing debate, but no mechanistic explanation for this phenomenon has been offered. We address this gap by applying sparse autoencoders (SAEs), a tool from mechanistic interpretability, to probe the internal representations of PatchTST. We first establish that a single-layer, narrow-dimensional transforme",
-      "resume_fr": "Transformer architectures have been widely adopted for time series forecasting, yet whether the representational mechanisms that make them powerful in NLP actually engage on time series data remains unexplored. The persistent competitiveness of simple linear models such as DLinear has fueled ongoing debate, but no mechanistic explanation for this phenomenon has been offered. We address this gap by applying sparse autoencoders (SAEs), a tool from mechanistic interpretability, to probe the internal representations of PatchTST. We first establish that a single-layer, narrow-dimensional transforme",
       "tags": [],
       "breakdown": {
         "research": 35,
