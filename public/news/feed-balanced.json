@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T10:01:07.558Z",
+  "generatedAt": "2026-05-22T09:47:20.797Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -96,14 +96,166 @@
   },
   "items": [
     {
+      "title": "Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
+      "url": "https://arxiv.org/abs/2605.22817v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-05-21T17:59:26.000Z",
+      "score": 70,
+      "summary_en": "Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific reward functions. Unfortunately, the standard paradigm of LLM post-training optimizes a pre-specified scalar reward, often leading current LLMs to produce low-entropy response distributions and thus to struggle at displaying the diversity that inference-time search will require. We propose Vector Policy Optimization (VPO), an RL algorithm that explicitly trains policies to anticipate diverse downs",
+      "summary_fr": "Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific reward functions. Unfortunately, the standard paradigm of LLM post-training optimizes a pre-specified scalar reward, often leading current LLMs to produce low-entropy response distributions and thus to struggle at displaying the diversity that inference-time search will require. We propose Vector Policy Optimization (VPO), an RL algorithm that explicitly trains policies to anticipate diverse downs",
+      "resume_fr": "Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific reward functions. Unfortunately, the standard paradigm of LLM post-training optimizes a pre-specified scalar reward, often leading current LLMs to produce low-entropy response distributions and thus to struggle at displaying the diversity that inference-time search will require. We propose Vector Policy Optimization (VPO), an RL algorithm that explicitly trains policies to anticipate diverse downs",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Student programming behavior with and without phone notification suppression",
+      "url": "https://arxiv.org/abs/2605.22657v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-05-21T15:58:59.000Z",
+      "score": 50,
+      "summary_en": "Background and Context. Computer programming often involves extended periods of sustained activity and mobile phone notifications introduce frequent opportunities for interruption. Prior work demonstrates that suppressing phone notifications may reduce these disruptions. Objectives. Our primary research question is: How does suppressing phone notifications affect students' task engagement and productivity while programming? Method. We report on a replication and methodological extension study conducted in a CS1 course involving 22 students. Using a within-subject design, selected programming a",
+      "summary_fr": "Background and Context. Computer programming often involves extended periods of sustained activity and mobile phone notifications introduce frequent opportunities for interruption. Prior work demonstrates that suppressing phone notifications may reduce these disruptions. Objectives. Our primary research question is: How does suppressing phone notifications affect students' task engagement and productivity while programming? Method. We report on a replication and methodological extension study conducted in a CS1 course involving 22 students. Using a within-subject design, selected programming a",
+      "resume_fr": "Background and Context. Computer programming often involves extended periods of sustained activity and mobile phone notifications introduce frequent opportunities for interruption. Prior work demonstrates that suppressing phone notifications may reduce these disruptions. Objectives. Our primary research question is: How does suppressing phone notifications affect students' task engagement and productivity while programming? Method. We report on a replication and methodological extension study conducted in a CS1 course involving 22 students. Using a within-subject design, selected programming a",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems",
+      "url": "https://arxiv.org/abs/2605.21962v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-05-21T03:48:31.000Z",
+      "score": 50,
+      "summary_en": "Serious games are widely used for learning and training across domains such as healthcare, defense, and education. Persistent challenges remain, however, including static scenario design, authoring bottlenecks, limited learner modeling, and difficulty implementing meaningful real-time instructional adaptation. Recent advances in artificial intelligence (AI) introduce novel capabilities such as dynamic scenario variation, contextual feedback, adaptive pacing, and learner-state modeling that may help address some of these limitations. At the same time, integrating AI into serious games raises im",
+      "summary_fr": "Serious games are widely used for learning and training across domains such as healthcare, defense, and education. Persistent challenges remain, however, including static scenario design, authoring bottlenecks, limited learner modeling, and difficulty implementing meaningful real-time instructional adaptation. Recent advances in artificial intelligence (AI) introduce novel capabilities such as dynamic scenario variation, contextual feedback, adaptive pacing, and learner-state modeling that may help address some of these limitations. At the same time, integrating AI into serious games raises im",
+      "resume_fr": "Serious games are widely used for learning and training across domains such as healthcare, defense, and education. Persistent challenges remain, however, including static scenario design, authoring bottlenecks, limited learner modeling, and difficulty implementing meaningful real-time instructional adaptation. Recent advances in artificial intelligence (AI) introduce novel capabilities such as dynamic scenario variation, contextual feedback, adaptive pacing, and learner-state modeling that may help address some of these limitations. At the same time, integrating AI into serious games raises im",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build",
+      "url": "https://arxiv.org/abs/2605.21629v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-05-20T18:40:53.000Z",
+      "score": 50,
+      "summary_en": "How much have students' ordinary learning processes shifted in response to generative AI, and how does that affect their durable learning outcomes? Self-report surveys show little change, while small-scale behavioral studies report widespread AI use without the scale or duration to measure learning consequences. We address both questions using a ten-year panel of $3.2$ million ALEKS learning interactions for the time-on-task analysis, complemented by ALEKS PPL placement-assessment data for the proctoring and retention analyses, with a quasi-experimental design exploiting within-curriculum vari",
+      "summary_fr": "How much have students' ordinary learning processes shifted in response to generative AI, and how does that affect their durable learning outcomes? Self-report surveys show little change, while small-scale behavioral studies report widespread AI use without the scale or duration to measure learning consequences. We address both questions using a ten-year panel of $3.2$ million ALEKS learning interactions for the time-on-task analysis, complemented by ALEKS PPL placement-assessment data for the proctoring and retention analyses, with a quasi-experimental design exploiting within-curriculum vari",
+      "resume_fr": "How much have students' ordinary learning processes shifted in response to generative AI, and how does that affect their durable learning outcomes? Self-report surveys show little change, while small-scale behavioral studies report widespread AI use without the scale or duration to measure learning consequences. We address both questions using a ten-year panel of $3.2$ million ALEKS learning interactions for the time-on-task analysis, complemented by ALEKS PPL placement-assessment data for the proctoring and retention analyses, with a quasi-experimental design exploiting within-curriculum vari",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education",
+      "url": "https://arxiv.org/abs/2605.21614v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-05-20T18:22:22.000Z",
+      "score": 50,
+      "summary_en": "Worked examples are step-by-step solutions to problems in a specific domain, offered to students to acquire domain-specific problem-solving skills. The effectiveness of worked examples could be enhanced by combining them with self-explanations, which ask students to explain rather than passively study each problem-solving step. The main challenge of this approach is assessing the correctness of the student's explanations. In the prevailing approach, student explanations are judged by their semantic similarity to an instructor's or domain expert's explanation. Given recent advances in LLM-based",
+      "summary_fr": "Worked examples are step-by-step solutions to problems in a specific domain, offered to students to acquire domain-specific problem-solving skills. The effectiveness of worked examples could be enhanced by combining them with self-explanations, which ask students to explain rather than passively study each problem-solving step. The main challenge of this approach is assessing the correctness of the student's explanations. In the prevailing approach, student explanations are judged by their semantic similarity to an instructor's or domain expert's explanation. Given recent advances in LLM-based",
+      "resume_fr": "Worked examples are step-by-step solutions to problems in a specific domain, offered to students to acquire domain-specific problem-solving skills. The effectiveness of worked examples could be enhanced by combining them with self-explanations, which ask students to explain rather than passively study each problem-solving step. The main challenge of this approach is assessing the correctness of the student's explanations. In the prevailing approach, student explanations are judged by their semantic similarity to an instructor's or domain expert's explanation. Given recent advances in LLM-based",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom",
+      "url": "https://arxiv.org/abs/2605.21374v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-05-20T16:37:07.000Z",
+      "score": 50,
+      "summary_en": "Background and Context: Large Language Models (LLMs) are more accessible and accurate than ever before, raising significant concerns for computing educators. One major concern is students using LLMs to bypass the effort needed to understand concepts and metacognitive strategies essential for success in computer science. Objectives: We contribute a unique approach to assessing and building up student understanding through weekly oral code review assessments. These formative assessments incentivize students to understand their submitted code, regardless of whether or not the code was generated b",
+      "summary_fr": "Background and Context: Large Language Models (LLMs) are more accessible and accurate than ever before, raising significant concerns for computing educators. One major concern is students using LLMs to bypass the effort needed to understand concepts and metacognitive strategies essential for success in computer science. Objectives: We contribute a unique approach to assessing and building up student understanding through weekly oral code review assessments. These formative assessments incentivize students to understand their submitted code, regardless of whether or not the code was generated b",
+      "resume_fr": "Background and Context: Large Language Models (LLMs) are more accessible and accurate than ever before, raising significant concerns for computing educators. One major concern is students using LLMs to bypass the effort needed to understand concepts and metacognitive strategies essential for success in computer science. Objectives: We contribute a unique approach to assessing and building up student understanding through weekly oral code review assessments. These formative assessments incentivize students to understand their submitted code, regardless of whether or not the code was generated b",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Gen-AI-tecture: using generative AI to support architectural students in design tasks",
+      "url": "https://arxiv.org/abs/2605.21361v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-05-20T16:24:59.000Z",
+      "score": 50,
+      "summary_en": "The \"Gen-AI-tecture\" project embeds a locally executed, discipline-specific tool into a mixed-methods focus-group design, structured around three research objectives: (a) to evaluate how generative AI tools impact students' creativity in design-thinking processes and outcomes, (b) to assess whether these tools enhance inclusivity in learning processes, and (c) to examine how they develop students' AI-handling skills with a view to boosting future employability. Findings indicate enhanced creative fluency, broadened participation across diverse learner profiles, and strengthened confidence in A",
+      "summary_fr": "The \"Gen-AI-tecture\" project embeds a locally executed, discipline-specific tool into a mixed-methods focus-group design, structured around three research objectives: (a) to evaluate how generative AI tools impact students' creativity in design-thinking processes and outcomes, (b) to assess whether these tools enhance inclusivity in learning processes, and (c) to examine how they develop students' AI-handling skills with a view to boosting future employability. Findings indicate enhanced creative fluency, broadened participation across diverse learner profiles, and strengthened confidence in A",
+      "resume_fr": "The \"Gen-AI-tecture\" project embeds a locally executed, discipline-specific tool into a mixed-methods focus-group design, structured around three research objectives: (a) to evaluate how generative AI tools impact students' creativity in design-thinking processes and outcomes, (b) to assess whether these tools enhance inclusivity in learning processes, and (c) to examine how they develop students' AI-handling skills with a view to boosting future employability. Findings indicate enhanced creative fluency, broadened participation across diverse learner profiles, and strengthened confidence in A",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China",
+      "url": "https://arxiv.org/abs/2605.20665v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-05-20T03:32:07.000Z",
+      "score": 50,
+      "summary_en": "AI-enabled systems are increasingly introduced into educational contexts, yet their effectiveness depends less on technological sophistication than on the quality of pedagogical mediation, ethical constraints, and context-sensitive design. This paper proposes a replicable framework for AI-enabled pedagogical accompaniment, grounded in a human-in-command approach in which adult responsibility remains central and AI functions as an enabling, non-substitutive infrastructure. Building on the Amico project, we operationalize the concept of a relational bridge as a sequence of micro-mediations that ",
+      "summary_fr": "AI-enabled systems are increasingly introduced into educational contexts, yet their effectiveness depends less on technological sophistication than on the quality of pedagogical mediation, ethical constraints, and context-sensitive design. This paper proposes a replicable framework for AI-enabled pedagogical accompaniment, grounded in a human-in-command approach in which adult responsibility remains central and AI functions as an enabling, non-substitutive infrastructure. Building on the Amico project, we operationalize the concept of a relational bridge as a sequence of micro-mediations that ",
+      "resume_fr": "AI-enabled systems are increasingly introduced into educational contexts, yet their effectiveness depends less on technological sophistication than on the quality of pedagogical mediation, ethical constraints, and context-sensitive design. This paper proposes a replicable framework for AI-enabled pedagogical accompaniment, grounded in a human-in-command approach in which adult responsibility remains central and AI functions as an enabling, non-substitutive infrastructure. Building on the Amico project, we operationalize the concept of a relational bridge as a sequence of micro-mediations that ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
       "title": "Measuring the impact of AI on teaching and learning",
       "url": "https://blog.google/products-and-platforms/products/education/measuring-the-impact-of-ai-on-teaching-and-learning/",
       "source": "Google for Education – Blog",
       "published": "2026-05-19T07:00:00.000Z",
       "score": 50,
-      "summary_en": "Two new studies in Sierra Leone and Italy demonstrate how Gemini is improving learning outcomes by helping students improve math skills and enabling teachers to create m…",
-      "summary_fr": "Two new studies in Sierra Leone and Italy demonstrate how Gemini is improving learning outcomes by helping students improve math skills and enabling teachers to create m…",
-      "resume_fr": "Two new studies in Sierra Leone and Italy demonstrate how Gemini is improving learning outcomes by helping students improve math skills and enabling teachers to create m…",
+      "summary_en": "Two new studies in Sierra Leone and Italy demonstrate how Gemini is improving learning outcomes.",
+      "summary_fr": "Two new studies in Sierra Leone and Italy demonstrate how Gemini is improving learning outcomes.",
+      "resume_fr": "Two new studies in Sierra Leone and Italy demonstrate how Gemini is improving learning outcomes.",
       "tags": [],
       "breakdown": {
         "research": 0,
@@ -1081,158 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing",
-      "url": "https://arxiv.org/abs/2605.05958v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-07T10:05:53.000Z",
-      "score": 50,
-      "summary_en": "Knowledge Tracing (KT) is fundamental to intelligent education systems, yet relies on educational logs that are selectively observed. The non-random nature of exercise recommendations and student choices inevitably induces severe selection bias. Most existing KT methods neglect this issue, training on observed logs using standard empirical risk, which yields biased mastery estimates and accumulates errors in subsequent recommendations. To address this, we introduce a doubly robust (DR) formulation for KT that integrates a propensity model with an error imputation model, theoretically guarantee",
-      "summary_fr": "Knowledge Tracing (KT) is fundamental to intelligent education systems, yet relies on educational logs that are selectively observed. The non-random nature of exercise recommendations and student choices inevitably induces severe selection bias. Most existing KT methods neglect this issue, training on observed logs using standard empirical risk, which yields biased mastery estimates and accumulates errors in subsequent recommendations. To address this, we introduce a doubly robust (DR) formulation for KT that integrates a propensity model with an error imputation model, theoretically guarantee",
-      "resume_fr": "Knowledge Tracing (KT) is fundamental to intelligent education systems, yet relies on educational logs that are selectively observed. The non-random nature of exercise recommendations and student choices inevitably induces severe selection bias. Most existing KT methods neglect this issue, training on observed logs using standard empirical risk, which yields biased mastery estimates and accumulates errors in subsequent recommendations. To address this, we introduce a doubly robust (DR) formulation for KT that integrates a propensity model with an error imputation model, theoretically guarantee",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments",
-      "url": "https://arxiv.org/abs/2605.05842v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-07T08:17:09.000Z",
-      "score": 50,
-      "summary_en": "Educators face significant challenges in creating engaging, personalized assignments that accommodate students' diverse interests and cognitive abilities. Traditional one-size-fits-all assignments frequently lead to decreased student engagement and increased reliance on unethical practices such as plagiarism. To address these challenges, we present Taklif.AI, a platform that leverages Large Language Models (LLMs) to automatically generate personalized assignments tailored to individual student interests. Unlike existing AI-powered educational platforms that personalize based on academic perfor",
-      "summary_fr": "Educators face significant challenges in creating engaging, personalized assignments that accommodate students' diverse interests and cognitive abilities. Traditional one-size-fits-all assignments frequently lead to decreased student engagement and increased reliance on unethical practices such as plagiarism. To address these challenges, we present Taklif.AI, a platform that leverages Large Language Models (LLMs) to automatically generate personalized assignments tailored to individual student interests. Unlike existing AI-powered educational platforms that personalize based on academic perfor",
-      "resume_fr": "Educators face significant challenges in creating engaging, personalized assignments that accommodate students' diverse interests and cognitive abilities. Traditional one-size-fits-all assignments frequently lead to decreased student engagement and increased reliance on unethical practices such as plagiarism. To address these challenges, we present Taklif.AI, a platform that leverages Large Language Models (LLMs) to automatically generate personalized assignments tailored to individual student interests. Unlike existing AI-powered educational platforms that personalize based on academic perfor",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Can providing feedback on gaze and mental-effort synchrony improve pair programming performance?",
-      "url": "https://arxiv.org/abs/2605.05836v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-07T08:11:30.000Z",
-      "score": 50,
-      "summary_en": "Pair programming is a widely used collaborative learning practice in computer science education yet its effectiveness varies substantially due to breakdowns in coordination attention and cognitive regulation between partners. This paper investigates whether AI supported feedback grounded in joint visual attention and joint mental effort can improve collaborative programming performance and how feedback timing shapes learner AI interaction. Two experimental studies using dual eye tracking capture real time indicators of collaborative regulation during debugging tasks. Study 1 examines reactive ",
-      "summary_fr": "Pair programming is a widely used collaborative learning practice in computer science education yet its effectiveness varies substantially due to breakdowns in coordination attention and cognitive regulation between partners. This paper investigates whether AI supported feedback grounded in joint visual attention and joint mental effort can improve collaborative programming performance and how feedback timing shapes learner AI interaction. Two experimental studies using dual eye tracking capture real time indicators of collaborative regulation during debugging tasks. Study 1 examines reactive ",
-      "resume_fr": "Pair programming is a widely used collaborative learning practice in computer science education yet its effectiveness varies substantially due to breakdowns in coordination attention and cognitive regulation between partners. This paper investigates whether AI supported feedback grounded in joint visual attention and joint mental effort can improve collaborative programming performance and how feedback timing shapes learner AI interaction. Two experimental studies using dual eye tracking capture real time indicators of collaborative regulation during debugging tasks. Study 1 examines reactive ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Learning the chemical language of natural products",
-      "url": "https://www.nature.com/articles/s42256-026-01241-9",
-      "source": "Nature Machine Intelligence",
-      "published": "2026-05-07T00:00:00.000Z",
-      "score": 35,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
-    },
-    {
-      "title": "Platonic representation of foundation machine learning interatomic potentials",
-      "url": "https://www.nature.com/articles/s42256-026-01235-7",
-      "source": "Nature Machine Intelligence",
-      "published": "2026-05-07T00:00:00.000Z",
-      "score": 35,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
-    },
-    {
-      "title": "The Ambivalent Experience of Eye Contact for People with Visual Impairments: Mechanisms and Design Challenges",
-      "url": "https://arxiv.org/abs/2605.05437v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-06T20:53:02.000Z",
-      "score": 85,
-      "summary_en": "In mixed-ability collaboration, eye contact is often treated as a default cue for attention and turn-taking. As these signals are primarily visual, they are not reliably accessible to people with visual impairments. While prior work emphasized technical solutions, mechanism-level explanations of their experiences with sighted partners remain scarce. We interviewed 17 people with visual impairments about everyday interactions across work, education, and social settings. Using a critical-realist lens, we link events to plausible causal mechanisms and identify three recurring mechanisms: First, w",
-      "summary_fr": "In mixed-ability collaboration, eye contact is often treated as a default cue for attention and turn-taking. As these signals are primarily visual, they are not reliably accessible to people with visual impairments. While prior work emphasized technical solutions, mechanism-level explanations of their experiences with sighted partners remain scarce. We interviewed 17 people with visual impairments about everyday interactions across work, education, and social settings. Using a critical-realist lens, we link events to plausible causal mechanisms and identify three recurring mechanisms: First, w",
-      "resume_fr": "In mixed-ability collaboration, eye contact is often treated as a default cue for attention and turn-taking. As these signals are primarily visual, they are not reliably accessible to people with visual impairments. While prior work emphasized technical solutions, mechanism-level explanations of their experiences with sighted partners remain scarce. We interviewed 17 people with visual impairments about everyday interactions across work, education, and social settings. Using a critical-realist lens, we link events to plausible causal mechanisms and identify three recurring mechanisms: First, w",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Learn What It Takes to Become a Cybersecurity Consultant",
-      "url": "https://spectrum.ieee.org/ieee-guide-cybersecurity-consultant",
-      "source": "IEEE Spectrum – AI",
-      "published": "2026-05-06T18:00:01.000Z",
-      "score": 35,
-      "summary_en": "Cybersecurity consultants have never been more in demand. Information security analyst roles are projected to grow nearly 30 percent between now and 2034, according to the U.S. Bureau of Labor Statistics. More than 15 million cybercrime incidents occurred worldwide in 2024, Statista reported. Data breaches are costly and pose direct safety risks. Statista reported that more than US $10 trillion is spent annually repairing the damage caused by cybercrime, most commonly phishing, spoofing, extortion, and data breaches. In one example in the United States, breathalyzer devices installed in vehicl",
-      "summary_fr": "Cybersecurity consultants have never been more in demand. Information security analyst roles are projected to grow nearly 30 percent between now and 2034, according to the U.S. Bureau of Labor Statistics. More than 15 million cybercrime incidents occurred worldwide in 2024, Statista reported. Data breaches are costly and pose direct safety risks. Statista reported that more than US $10 trillion is spent annually repairing the damage caused by cybercrime, most commonly phishing, spoofing, extortion, and data breaches. In one example in the United States, breathalyzer devices installed in vehicl",
-      "resume_fr": "Cybersecurity consultants have never been more in demand. Information security analyst roles are projected to grow nearly 30 percent between now and 2034, according to the U.S. Bureau of Labor Statistics. More than 15 million cybercrime incidents occurred worldwide in 2024, Statista reported. Data breaches are costly and pose direct safety risks. Statista reported that more than US $10 trillion is spent annually repairing the damage caused by cybercrime, most commonly phishing, spoofing, extortion, and data breaches. In one example in the United States, breathalyzer devices installed in vehicl",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
-    },
-    {
-      "title": "Taming Outlier Tokens in Diffusion Transformers",
-      "url": "https://arxiv.org/abs/2605.05206v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-05-06T17:59:42.000Z",
-      "score": 50,
-      "summary_en": "We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a small number of high-norm tokens that attract disproportionate attention while carrying limited local information, but their role in generative models remains underexplored. We show that this phenomenon appears in both the encoder and denoiser of modern Representation Autoencoder (RAE)-DiT pipelines: pretrained ViT encoders can produce outlier representations, and DiTs themselves can develop internal outlier tokens, especially in intermediate layers.",
-      "summary_fr": "We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a small number of high-norm tokens that attract disproportionate attention while carrying limited local information, but their role in generative models remains underexplored. We show that this phenomenon appears in both the encoder and denoiser of modern Representation Autoencoder (RAE)-DiT pipelines: pretrained ViT encoders can produce outlier representations, and DiTs themselves can develop internal outlier tokens, especially in intermediate layers.",
-      "resume_fr": "We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a small number of high-norm tokens that attract disproportionate attention while carrying limited local information, but their role in generative models remains underexplored. We show that this phenomenon appears in both the encoder and denoiser of modern Representation Autoencoder (RAE)-DiT pipelines: pretrained ViT encoders can produce outlier representations, and DiTs themselves can develop internal outlier tokens, especially in intermediate layers.",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
