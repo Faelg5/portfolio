@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T09:47:20.797Z",
+  "generatedAt": "2026-05-23T08:29:59.422Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -115,6 +115,63 @@
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
+      "title": "Evaluating Commercial AI Chatbots as News Intermediaries",
+      "url": "https://arxiv.org/abs/2605.22785v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-05-21T17:42:07.000Z",
+      "score": 50,
+      "summary_en": "AI chatbots are rapidly shaping how people encounter the news, yet no prior study has systematically measured how accurately these systems, with their proprietary search integrations and retrieval-synthesis pipelines, handle emerging facts across languages and regions. We present a 14-day (February 9-22, 2026) evaluation of six AI chatbots (Gemini 3 Flash and Pro, Grok 4, Claude 4.5 Sonnet, GPT-5 and GPT-4o mini) on 2,100 factual questions derived from same-day BBC News reporting across six regional services (US & Canada, Arabic, Afrique, Hindi, Russian, Turkish). The best systems achieve over",
+      "summary_fr": "AI chatbots are rapidly shaping how people encounter the news, yet no prior study has systematically measured how accurately these systems, with their proprietary search integrations and retrieval-synthesis pipelines, handle emerging facts across languages and regions. We present a 14-day (February 9-22, 2026) evaluation of six AI chatbots (Gemini 3 Flash and Pro, Grok 4, Claude 4.5 Sonnet, GPT-5 and GPT-4o mini) on 2,100 factual questions derived from same-day BBC News reporting across six regional services (US & Canada, Arabic, Afrique, Hindi, Russian, Turkish). The best systems achieve over",
+      "resume_fr": "AI chatbots are rapidly shaping how people encounter the news, yet no prior study has systematically measured how accurately these systems, with their proprietary search integrations and retrieval-synthesis pipelines, handle emerging facts across languages and regions. We present a 14-day (February 9-22, 2026) evaluation of six AI chatbots (Gemini 3 Flash and Pro, Grok 4, Claude 4.5 Sonnet, GPT-5 and GPT-4o mini) on 2,100 factual questions derived from same-day BBC News reporting across six regional services (US & Canada, Arabic, Afrique, Hindi, Russian, Turkish). The best systems achieve over",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Understanding Data Temporality Impact on Large Language Models Pre-training",
+      "url": "https://arxiv.org/abs/2605.22769v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-05-21T17:31:17.000Z",
+      "score": 70,
+      "summary_en": "Large language models (LLMs) are typically trained on shuffled corpora, yielding models whose knowledge is frozen at train time and whose temporal grounding remains poorly understood. In this work, we study the impact of pre-training dynamics on the acquisition of time-sensitive factual knowledge, focusing specifically on data ordering. Our main contributions are twofold. First, we introduce a comprehensive benchmark of over 7,000 temporally grounded questions and an evaluation protocol that enables analysis of whether models correctly associate facts with their corresponding time periods. Sec",
+      "summary_fr": "Large language models (LLMs) are typically trained on shuffled corpora, yielding models whose knowledge is frozen at train time and whose temporal grounding remains poorly understood. In this work, we study the impact of pre-training dynamics on the acquisition of time-sensitive factual knowledge, focusing specifically on data ordering. Our main contributions are twofold. First, we introduce a comprehensive benchmark of over 7,000 temporally grounded questions and an evaluation protocol that enables analysis of whether models correctly associate facts with their corresponding time periods. Sec",
+      "resume_fr": "Large language models (LLMs) are typically trained on shuffled corpora, yielding models whose knowledge is frozen at train time and whose temporal grounding remains poorly understood. In this work, we study the impact of pre-training dynamics on the acquisition of time-sensitive factual knowledge, focusing specifically on data ordering. Our main contributions are twofold. First, we introduce a comprehensive benchmark of over 7,000 temporally grounded questions and an evaluation protocol that enables analysis of whether models correctly associate facts with their corresponding time periods. Sec",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Towards a General Intelligence and Interface for Wearable Health Data",
+      "url": "https://arxiv.org/abs/2605.22759v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-21T17:24:06.000Z",
+      "score": 50,
+      "summary_en": "While ubiquitous wearable sensors capture a wealth of behavioral and physiological information, effectively transforming these signals into personalized health insights is challenging. Specifically, converting low-level sensor data into representations capable of characterizing higher-level states is difficult due to high phenotypic diversity and variation in individual baseline health, physiology, and lifestyle factors. Moreover, collecting wearable data paired with health outcome annotations is laborious and expensive, and retrospective annotation remains practically unfeasible, contributing",
+      "summary_fr": "While ubiquitous wearable sensors capture a wealth of behavioral and physiological information, effectively transforming these signals into personalized health insights is challenging. Specifically, converting low-level sensor data into representations capable of characterizing higher-level states is difficult due to high phenotypic diversity and variation in individual baseline health, physiology, and lifestyle factors. Moreover, collecting wearable data paired with health outcome annotations is laborious and expensive, and retrospective annotation remains practically unfeasible, contributing",
+      "resume_fr": "While ubiquitous wearable sensors capture a wealth of behavioral and physiological information, effectively transforming these signals into personalized health insights is challenging. Specifically, converting low-level sensor data into representations capable of characterizing higher-level states is difficult due to high phenotypic diversity and variation in individual baseline health, physiology, and lifestyle factors. Moreover, collecting wearable data paired with health outcome annotations is laborious and expensive, and retrospective annotation remains practically unfeasible, contributing",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
       "title": "Student programming behavior with and without phone notification suppression",
       "url": "https://arxiv.org/abs/2605.22657v1",
       "source": "arXiv – cs.HC + education",
@@ -191,6 +248,25 @@
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
+      "title": "Teaching AI Through Benchmark Construction: QuestBench as a Course-Based Practice for Accountable Knowledge Work",
+      "url": "https://arxiv.org/abs/2605.21413v2",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-20T17:09:56.000Z",
+      "score": 85,
+      "summary_en": "As AI becomes part of everyday learning, many courses teach students to use it mainly as a productivity tool: how to prompt, search, summarize, write, code, and use tools more efficiently. We argue that AI education also needs a setting in which students learn to test AI and understand their own role in judging machine-produced knowledge. To this end, we introduce a course-based practice that teaches AI through benchmark construction, using deep research systems as a concrete example of AI-era knowledge work. Students turn disciplinary knowledge into verifiable expert-level questions, review o",
+      "summary_fr": "As AI becomes part of everyday learning, many courses teach students to use it mainly as a productivity tool: how to prompt, search, summarize, write, code, and use tools more efficiently. We argue that AI education also needs a setting in which students learn to test AI and understand their own role in judging machine-produced knowledge. To this end, we introduce a course-based practice that teaches AI through benchmark construction, using deep research systems as a concrete example of AI-era knowledge work. Students turn disciplinary knowledge into verifiable expert-level questions, review o",
+      "resume_fr": "As AI becomes part of everyday learning, many courses teach students to use it mainly as a productivity tool: how to prompt, search, summarize, write, code, and use tools more efficiently. We argue that AI education also needs a setting in which students learn to test AI and understand their own role in judging machine-produced knowledge. To this end, we introduce a course-based practice that teaches AI through benchmark construction, using deep research systems as a concrete example of AI-era knowledge work. Students turn disciplinary knowledge into verifiable expert-level questions, review o",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
       "title": "Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom",
       "url": "https://arxiv.org/abs/2605.21374v1",
       "source": "arXiv – cs.HC + education",
@@ -245,6 +321,25 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "AMAR: Lightweight Attention-Based Multi-User Activity Recognition from Wi-Fi CSI",
+      "url": "https://arxiv.org/abs/2605.20649v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-20T03:09:45.000Z",
+      "score": 85,
+      "summary_en": "Wi-Fi-based human activity recognition (HAR) has emerged as a promising approach for contactless sensing, leveraging channel state information (CSI) collected from wireless transceivers. While existing studies have primarily concentrated on single-user scenarios, real-world deployments often involve multi-user settings where concurrent users' movements induce overlapping CSI patterns that challenge conventional classification methods. To address this limitation, this paper introduces an attention-based multi-user activity recognition (AMAR) framework that formulates HAR as a set prediction pro",
+      "summary_fr": "Wi-Fi-based human activity recognition (HAR) has emerged as a promising approach for contactless sensing, leveraging channel state information (CSI) collected from wireless transceivers. While existing studies have primarily concentrated on single-user scenarios, real-world deployments often involve multi-user settings where concurrent users' movements induce overlapping CSI patterns that challenge conventional classification methods. To address this limitation, this paper introduces an attention-based multi-user activity recognition (AMAR) framework that formulates HAR as a set prediction pro",
+      "resume_fr": "Wi-Fi-based human activity recognition (HAR) has emerged as a promising approach for contactless sensing, leveraging channel state information (CSI) collected from wireless transceivers. While existing studies have primarily concentrated on single-user scenarios, real-world deployments often involve multi-user settings where concurrent users' movements induce overlapping CSI patterns that challenge conventional classification methods. To address this limitation, this paper introduces an attention-based multi-user activity recognition (AMAR) framework that formulates HAR as a set prediction pro",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
@@ -1138,101 +1233,6 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction",
-      "url": "https://arxiv.org/abs/2605.06642v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-05-07T17:51:16.000Z",
-      "score": 70,
-      "summary_en": "Large language models (LLMs) are increasingly used as interactive agents, but optimizing them for long-horizon decision making remains difficult because current methods are largely purely reactive, which weakens both exploration and credit assignment over extended trajectories. In this work, we present Strategic Trajectory Abstraction (StraTA), a simple framework that introduces an explicit trajectory-level strategy into agentic reinforcement learning (RL). StraTA samples a compact strategy from the initial task state, conditions subsequent actions on that strategy, and trains strategy generat",
-      "summary_fr": "Large language models (LLMs) are increasingly used as interactive agents, but optimizing them for long-horizon decision making remains difficult because current methods are largely purely reactive, which weakens both exploration and credit assignment over extended trajectories. In this work, we present Strategic Trajectory Abstraction (StraTA), a simple framework that introduces an explicit trajectory-level strategy into agentic reinforcement learning (RL). StraTA samples a compact strategy from the initial task state, conditions subsequent actions on that strategy, and trains strategy generat",
-      "resume_fr": "Large language models (LLMs) are increasingly used as interactive agents, but optimizing them for long-horizon decision making remains difficult because current methods are largely purely reactive, which weakens both exploration and credit assignment over extended trajectories. In this work, we present Strategic Trajectory Abstraction (StraTA), a simple framework that introduces an explicit trajectory-level strategy into agentic reinforcement learning (RL). StraTA samples a compact strategy from the initial task state, conditions subsequent actions on that strategy, and trains strategy generat",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles",
-      "url": "https://arxiv.org/abs/2605.06307v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-07T14:09:31.000Z",
-      "score": 50,
-      "summary_en": "Student simulation with Large language models (LLMs) offers a scalable alternative for educational research and teacher training. Yet, its validity depends on whether models maintain stable personas across extended interactions. We test this prerequisite using a dual-assessment framework measuring self-reported characteristics and observer-rated behavioral expressions. Across two experiments testing four clinically-grounded ADHD persona conditions, five LLMs, and three prompt designs, we quantify between-conversation stability (N=4,968) and within-conversation stability (N=3,952 across 9 turns",
-      "summary_fr": "Student simulation with Large language models (LLMs) offers a scalable alternative for educational research and teacher training. Yet, its validity depends on whether models maintain stable personas across extended interactions. We test this prerequisite using a dual-assessment framework measuring self-reported characteristics and observer-rated behavioral expressions. Across two experiments testing four clinically-grounded ADHD persona conditions, five LLMs, and three prompt designs, we quantify between-conversation stability (N=4,968) and within-conversation stability (N=3,952 across 9 turns",
-      "resume_fr": "Student simulation with Large language models (LLMs) offers a scalable alternative for educational research and teacher training. Yet, its validity depends on whether models maintain stable personas across extended interactions. We test this prerequisite using a dual-assessment framework measuring self-reported characteristics and observer-rated behavioral expressions. Across two experiments testing four clinically-grounded ADHD persona conditions, five LLMs, and three prompt designs, we quantify between-conversation stability (N=4,968) and within-conversation stability (N=3,952 across 9 turns",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning",
-      "url": "https://arxiv.org/abs/2605.06257v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-07T13:33:31.000Z",
-      "score": 50,
-      "summary_en": "Personalization is crucial for effective learning, yet online learning, designed for widespread availability and open access, lacks personalized guidance. Recent advancements in large language models (LLMs) offer opportunities to bridge this gap. We explore how LLM-driven tools may be designed to support personalized and adaptive learning and examine how they shape user experience and learning outcomes. We iteratively designed \\tool{} to support online learning by providing personalized study plans, real-time contextual assistance, and adaptive learning activities. A preliminary study ($n=24$)",
-      "summary_fr": "Personalization is crucial for effective learning, yet online learning, designed for widespread availability and open access, lacks personalized guidance. Recent advancements in large language models (LLMs) offer opportunities to bridge this gap. We explore how LLM-driven tools may be designed to support personalized and adaptive learning and examine how they shape user experience and learning outcomes. We iteratively designed \\tool{} to support online learning by providing personalized study plans, real-time contextual assistance, and adaptive learning activities. A preliminary study ($n=24$)",
-      "resume_fr": "Personalization is crucial for effective learning, yet online learning, designed for widespread availability and open access, lacks personalized guidance. Recent advancements in large language models (LLMs) offer opportunities to bridge this gap. We explore how LLM-driven tools may be designed to support personalized and adaptive learning and examine how they shape user experience and learning outcomes. We iteratively designed \\tool{} to support online learning by providing personalized study plans, real-time contextual assistance, and adaptive learning activities. A preliminary study ($n=24$)",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Sardinia’s Ancient Reasons for Rejecting a Clean Energy Future",
-      "url": "https://spectrum.ieee.org/sardinia-renewable-energy-conflict",
-      "source": "IEEE Spectrum – AI",
-      "published": "2026-05-07T13:00:00.000Z",
-      "score": 35,
-      "summary_en": "“Why are you here?” Fabrizio Pilo, an electrical engineer, asks me as we sit in an outdoor café near his home in Cagliari, an ancient city on the island of Sardinia. It’s a fair question. I’m a journalist from the United States. I’d just stepped off my flight 2 hours prior and come straight to this meeting, suitcase still stowed in my rental car. I’m here to see three intriguing new energy projects under development in Sardinia. I’d heard there’s strong public resistance to renewable energy, and I want to understand why that is. I tell Pilo, who is vice rector for innovation at the University ",
-      "summary_fr": "“Why are you here?” Fabrizio Pilo, an electrical engineer, asks me as we sit in an outdoor café near his home in Cagliari, an ancient city on the island of Sardinia. It’s a fair question. I’m a journalist from the United States. I’d just stepped off my flight 2 hours prior and come straight to this meeting, suitcase still stowed in my rental car. I’m here to see three intriguing new energy projects under development in Sardinia. I’d heard there’s strong public resistance to renewable energy, and I want to understand why that is. I tell Pilo, who is vice rector for innovation at the University ",
-      "resume_fr": "“Why are you here?” Fabrizio Pilo, an electrical engineer, asks me as we sit in an outdoor café near his home in Cagliari, an ancient city on the island of Sardinia. It’s a fair question. I’m a journalist from the United States. I’d just stepped off my flight 2 hours prior and come straight to this meeting, suitcase still stowed in my rental car. I’m here to see three intriguing new energy projects under development in Sardinia. I’d heard there’s strong public resistance to renewable energy, and I want to understand why that is. I tell Pilo, who is vice rector for innovation at the University ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
-    },
-    {
-      "title": "Reality Check: How Avatar and Face Representation Affect the Perceptual Evaluation of Synthesized Gestures",
-      "url": "https://arxiv.org/abs/2605.06063v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-07T11:46:15.000Z",
-      "score": 50,
-      "summary_en": "The capacity to create realistic virtual humans has progressed significantly, and such characters can be found in many applications across entertainment, education and health. As an essential element of interactive virtual humans, speech-driven 3D gesture generation still depends heavily on perceptual evaluation, yet studies often vary avatar appearance and facial presentation when judging the generated motions. Prior work suggests these visual choices can bias motion judgments, but controlled evidence remains limited. We address this gap with controlled evaluations of co-speech gestures acros",
-      "summary_fr": "The capacity to create realistic virtual humans has progressed significantly, and such characters can be found in many applications across entertainment, education and health. As an essential element of interactive virtual humans, speech-driven 3D gesture generation still depends heavily on perceptual evaluation, yet studies often vary avatar appearance and facial presentation when judging the generated motions. Prior work suggests these visual choices can bias motion judgments, but controlled evidence remains limited. We address this gap with controlled evaluations of co-speech gestures acros",
-      "resume_fr": "The capacity to create realistic virtual humans has progressed significantly, and such characters can be found in many applications across entertainment, education and health. As an essential element of interactive virtual humans, speech-driven 3D gesture generation still depends heavily on perceptual evaluation, yet studies often vary avatar appearance and facial presentation when judging the generated motions. Prior work suggests these visual choices can bias motion judgments, but controlled evidence remains limited. We address this gap with controlled evaluations of co-speech gestures acros",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
