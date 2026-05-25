@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T08:43:23.872Z",
+  "generatedAt": "2026-05-25T10:44:43.520Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,139 @@
     }
   },
   "items": [
+    {
+      "title": "LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws",
+      "url": "https://arxiv.org/abs/2605.23901v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-05-22T17:59:38.000Z",
+      "score": 70,
+      "summary_en": "Existing scaling laws for Large Language Models (LLMs), predominantly monotonic power laws, fail to explain emerging non-monotonic phenomena such as catastrophic overtraining and quantization-induced degradation, where performance deteriorates despite increased compute. We propose the Shannon Scaling Law, a unified theoretical framework that models LLM training as information transmission over a noisy channel, grounded in the Shannon-Hartley theorem. By mapping model parameters to channel bandwidth and training tokens to signal power, our formulation explicitly captures the interaction between",
+      "summary_fr": "Existing scaling laws for Large Language Models (LLMs), predominantly monotonic power laws, fail to explain emerging non-monotonic phenomena such as catastrophic overtraining and quantization-induced degradation, where performance deteriorates despite increased compute. We propose the Shannon Scaling Law, a unified theoretical framework that models LLM training as information transmission over a noisy channel, grounded in the Shannon-Hartley theorem. By mapping model parameters to channel bandwidth and training tokens to signal power, our formulation explicitly captures the interaction between",
+      "resume_fr": "Existing scaling laws for Large Language Models (LLMs), predominantly monotonic power laws, fail to explain emerging non-monotonic phenomena such as catastrophic overtraining and quantization-induced degradation, where performance deteriorates despite increased compute. We propose the Shannon Scaling Law, a unified theoretical framework that models LLM training as information transmission over a noisy channel, grounded in the Shannon-Hartley theorem. By mapping model parameters to channel bandwidth and training tokens to signal power, our formulation explicitly captures the interaction between",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models",
+      "url": "https://arxiv.org/abs/2605.23893v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-05-22T17:56:13.000Z",
+      "score": 50,
+      "summary_en": "We propose Complete-muE, a framework which targets hyperparameter transfer across dense FFN and any Mixture-of-Experts (MoE) setups in transformer blocks. Existing tools such as $μ$P (requires fixed architectue) or SDE (requires fixed per-step token count) cannot directly solve the hyperparameter transfer problem in MoE setups because Dense to MoE transfer or MoE total experts scaling changes both architecture and tokens per expert. Complete-muE solves this challenge with a two-bridge system: Bridge~I maps between dense FFN and Dense MoE by active-width $μ$P with a normalized router scale. Bri",
+      "summary_fr": "We propose Complete-muE, a framework which targets hyperparameter transfer across dense FFN and any Mixture-of-Experts (MoE) setups in transformer blocks. Existing tools such as $μ$P (requires fixed architectue) or SDE (requires fixed per-step token count) cannot directly solve the hyperparameter transfer problem in MoE setups because Dense to MoE transfer or MoE total experts scaling changes both architecture and tokens per expert. Complete-muE solves this challenge with a two-bridge system: Bridge~I maps between dense FFN and Dense MoE by active-width $μ$P with a normalized router scale. Bri",
+      "resume_fr": "We propose Complete-muE, a framework which targets hyperparameter transfer across dense FFN and any Mixture-of-Experts (MoE) setups in transformer blocks. Existing tools such as $μ$P (requires fixed architectue) or SDE (requires fixed per-step token count) cannot directly solve the hyperparameter transfer problem in MoE setups because Dense to MoE transfer or MoE total experts scaling changes both architecture and tokens per expert. Complete-muE solves this challenge with a two-bridge system: Bridge~I maps between dense FFN and Dense MoE by active-width $μ$P with a normalized router scale. Bri",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers",
+      "url": "https://arxiv.org/abs/2605.23892v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-05-22T17:55:13.000Z",
+      "score": 50,
+      "summary_en": "Visual geometry transformers have become powerful architectures for multi-view 3D reconstruction, enabling joint prediction of multiple 3D attributes in a feed-forward manner. However, their computational cost grows quadratically with the input sequence length due to the global attention layers inside these models. This limits both their scalability and efficiency. In this work, we address this challenge with a simple yet general strategy: restricting the number of key/value tokens that each query interacts with during global attention. To achieve effective token selection, we introduce a two-",
+      "summary_fr": "Visual geometry transformers have become powerful architectures for multi-view 3D reconstruction, enabling joint prediction of multiple 3D attributes in a feed-forward manner. However, their computational cost grows quadratically with the input sequence length due to the global attention layers inside these models. This limits both their scalability and efficiency. In this work, we address this challenge with a simple yet general strategy: restricting the number of key/value tokens that each query interacts with during global attention. To achieve effective token selection, we introduce a two-",
+      "resume_fr": "Visual geometry transformers have become powerful architectures for multi-view 3D reconstruction, enabling joint prediction of multiple 3D attributes in a feed-forward manner. However, their computational cost grows quadratically with the input sequence length due to the global attention layers inside these models. This limits both their scalability and efficiency. In this work, we address this challenge with a simple yet general strategy: restricting the number of key/value tokens that each query interacts with during global attention. To achieve effective token selection, we introduce a two-",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions",
+      "url": "https://arxiv.org/abs/2605.23885v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-05-22T17:45:49.000Z",
+      "score": 50,
+      "summary_en": "Cross-lingual knowledge transfer is critical for building high-performing multilingual language models for languages with insufficient training data. When target language data is scarce, the knowledge required for many downstream tasks involving scientific reasoning, commonsense inference, and world knowledge must be acquired primarily from the high-resource language, making effective knowledge transfer essential. Existing methods for improving such cross-lingual knowledge transfer require large amounts of parallel data, translation systems, auxiliary models, or additional training stages that",
+      "summary_fr": "Cross-lingual knowledge transfer is critical for building high-performing multilingual language models for languages with insufficient training data. When target language data is scarce, the knowledge required for many downstream tasks involving scientific reasoning, commonsense inference, and world knowledge must be acquired primarily from the high-resource language, making effective knowledge transfer essential. Existing methods for improving such cross-lingual knowledge transfer require large amounts of parallel data, translation systems, auxiliary models, or additional training stages that",
+      "resume_fr": "Cross-lingual knowledge transfer is critical for building high-performing multilingual language models for languages with insufficient training data. When target language data is scarce, the knowledge required for many downstream tasks involving scientific reasoning, commonsense inference, and world knowledge must be acquired primarily from the high-resource language, making effective knowledge transfer essential. Existing methods for improving such cross-lingual knowledge transfer require large amounts of parallel data, translation systems, auxiliary models, or additional training stages that",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Training-Free Looped Transformers",
+      "url": "https://arxiv.org/abs/2605.23872v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-05-22T17:31:16.000Z",
+      "score": 50,
+      "summary_en": "We introduce training-free looped transformers, in which a lightweight inference-time wrapper loops a contiguous mid-stack block of layers of a frozen checkpoint without additional fine-tuning, continued training, or architectural changes. Unlike prior looped transformer methods that train with the looped structure end-to-end, we retrofit recurrence onto pretrained models at test time. We show that naive block reapplication usually degrades performance, highlighting the importance of the loop application strategy. Motivated by viewing a pre-norm transformer block as a forward Euler step on an ",
+      "summary_fr": "We introduce training-free looped transformers, in which a lightweight inference-time wrapper loops a contiguous mid-stack block of layers of a frozen checkpoint without additional fine-tuning, continued training, or architectural changes. Unlike prior looped transformer methods that train with the looped structure end-to-end, we retrofit recurrence onto pretrained models at test time. We show that naive block reapplication usually degrades performance, highlighting the importance of the loop application strategy. Motivated by viewing a pre-norm transformer block as a forward Euler step on an ",
+      "resume_fr": "We introduce training-free looped transformers, in which a lightweight inference-time wrapper loops a contiguous mid-stack block of layers of a frozen checkpoint without additional fine-tuning, continued training, or architectural changes. Unlike prior looped transformer methods that train with the looped structure end-to-end, we retrofit recurrence onto pretrained models at test time. We show that naive block reapplication usually degrades performance, highlighting the importance of the loop application strategy. Motivated by viewing a pre-norm transformer block as a forward Euler step on an ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Strong Teacher Not Needed? On Distillation in LLM Pretraining",
+      "url": "https://arxiv.org/abs/2605.23857v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-05-22T17:16:35.000Z",
+      "score": 50,
+      "summary_en": "Knowledge distillation generally assumes a strong-to-weak relationship where stronger teachers yield better students. In this work, we examine this assumption about distillation in large language model pretraining. By varying architecture sizes and training token budgets, we create strong-to-weak, same-level, and weak-to-strong teacher-student relationships, and study distillation's effectiveness under each. We find that the teacher need not be strong: with proper mixing of the language modeling and knowledge distillation losses, even small and undertrained teachers improve larger students. At",
+      "summary_fr": "Knowledge distillation generally assumes a strong-to-weak relationship where stronger teachers yield better students. In this work, we examine this assumption about distillation in large language model pretraining. By varying architecture sizes and training token budgets, we create strong-to-weak, same-level, and weak-to-strong teacher-student relationships, and study distillation's effectiveness under each. We find that the teacher need not be strong: with proper mixing of the language modeling and knowledge distillation losses, even small and undertrained teachers improve larger students. At",
+      "resume_fr": "Knowledge distillation generally assumes a strong-to-weak relationship where stronger teachers yield better students. In this work, we examine this assumption about distillation in large language model pretraining. By varying architecture sizes and training token budgets, we create strong-to-weak, same-level, and weak-to-strong teacher-student relationships, and study distillation's effectiveness under each. We find that the teacher need not be strong: with proper mixing of the language modeling and knowledge distillation losses, even small and undertrained teachers improve larger students. At",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Decomposing Queries into Tool Calls for Long-Video Keyframe Retrieval",
+      "url": "https://arxiv.org/abs/2605.23826v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-05-22T16:29:51.000Z",
+      "score": 50,
+      "summary_en": "Keyframe selection is a direct way to provide verifiable visual evidence for long-video question answering (QA). Queries differ in what they require, and finding the right frames depends on knowing what to look for. Existing keyframe selectors either score every frame against a single query, or decompose the query into a fixed schema evaluated by a single visual tool. We propose ToolMerge, a keyframe retrieval method based on decomposition and merging: an Large Language Model (LLM) based planner decomposes the query into tool calls and specifies how their per-tool rankings are merged using boo",
+      "summary_fr": "Keyframe selection is a direct way to provide verifiable visual evidence for long-video question answering (QA). Queries differ in what they require, and finding the right frames depends on knowing what to look for. Existing keyframe selectors either score every frame against a single query, or decompose the query into a fixed schema evaluated by a single visual tool. We propose ToolMerge, a keyframe retrieval method based on decomposition and merging: an Large Language Model (LLM) based planner decomposes the query into tool calls and specifies how their per-tool rankings are merged using boo",
+      "resume_fr": "Keyframe selection is a direct way to provide verifiable visual evidence for long-video question answering (QA). Queries differ in what they require, and finding the right frames depends on knowing what to look for. Existing keyframe selectors either score every frame against a single query, or decompose the query into a fixed schema evaluated by a single visual tool. We propose ToolMerge, a keyframe retrieval method based on decomposition and merging: an Large Language Model (LLM) based planner decomposes the query into tool calls and specifies how their per-tool rankings are merged using boo",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
       "url": "https://arxiv.org/abs/2605.22817v1",
@@ -1100,139 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "The University AI Didn't Replace -- Rethinking Universities in the AI Era",
-      "url": "https://arxiv.org/abs/2605.07056v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-08T00:07:55.000Z",
-      "score": 65,
-      "summary_en": "Generative artificial intelligence (AI) is reshaping higher education, yet many universities remain in early stages of adoption where AI innovation occurs informally and without institutional recognition. This paper presents a framework describing four levels of AI adoption in universities and illustrates these dynamics through a case study of AI-enabled curriculum initiatives in several units. We contend that the key institutional challenge is moving from isolated innovation to strategic integration, where universities redesign learning around AI-supported reasoning and align policies, worklo",
-      "summary_fr": "Generative artificial intelligence (AI) is reshaping higher education, yet many universities remain in early stages of adoption where AI innovation occurs informally and without institutional recognition. This paper presents a framework describing four levels of AI adoption in universities and illustrates these dynamics through a case study of AI-enabled curriculum initiatives in several units. We contend that the key institutional challenge is moving from isolated innovation to strategic integration, where universities redesign learning around AI-supported reasoning and align policies, worklo",
-      "resume_fr": "Generative artificial intelligence (AI) is reshaping higher education, yet many universities remain in early stages of adoption where AI innovation occurs informally and without institutional recognition. This paper presents a framework describing four levels of AI adoption in universities and illustrates these dynamics through a case study of AI-enabled curriculum initiatives in several units. We contend that the key institutional challenge is moving from isolated innovation to strategic integration, where universities redesign learning around AI-supported reasoning and align policies, worklo",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Cognitive Agent Compilation for Explicit Problem Solver Modeling",
-      "url": "https://arxiv.org/abs/2605.07040v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-07T23:40:50.000Z",
-      "score": 50,
-      "summary_en": "Large language models (LLMs) are widely used for tutoring, feedback generation, and content creation, but their broad pretraining makes them hard to constrain and poor substitutes for controllable learners. Educational systems often require inspectable and editable knowledge states: educators want to know what a system assumes the learner knows, and learners benefit when the system can justify actions in terms of explicit skills, misconceptions, and strategies. Inspired by cognitive architectures, we propose Cognitive Agent Compilation (CAC), a framework that uses a strong teacher LLM to compi",
-      "summary_fr": "Large language models (LLMs) are widely used for tutoring, feedback generation, and content creation, but their broad pretraining makes them hard to constrain and poor substitutes for controllable learners. Educational systems often require inspectable and editable knowledge states: educators want to know what a system assumes the learner knows, and learners benefit when the system can justify actions in terms of explicit skills, misconceptions, and strategies. Inspired by cognitive architectures, we propose Cognitive Agent Compilation (CAC), a framework that uses a strong teacher LLM to compi",
-      "resume_fr": "Large language models (LLMs) are widely used for tutoring, feedback generation, and content creation, but their broad pretraining makes them hard to constrain and poor substitutes for controllable learners. Educational systems often require inspectable and editable knowledge states: educators want to know what a system assumes the learner knows, and learners benefit when the system can justify actions in terms of explicit skills, misconceptions, and strategies. Inspired by cognitive architectures, we propose Cognitive Agent Compilation (CAC), a framework that uses a strong teacher LLM to compi",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle",
-      "url": "https://arxiv.org/abs/2605.06963v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-07T21:27:23.000Z",
-      "score": 50,
-      "summary_en": "This demo paper describes the development of the AI Teaching \\& Learning Assistant, a modular Moodle plugin that leverages Retrieval-Augmented Generation (RAG) to deliver high-quality, hallucination-free education. The system employs a dual-centric design, providing students with interactive, Socratic-based tutoring and educators with a \"human-in-the-loop\" workspace for supervised content generation. By grounding Large Language Model (LLM) responses in teacher-provided materials, the assistant addresses the risks of misinformation while encouraging deep conceptual mastery. Evaluation via the R",
-      "summary_fr": "This demo paper describes the development of the AI Teaching \\& Learning Assistant, a modular Moodle plugin that leverages Retrieval-Augmented Generation (RAG) to deliver high-quality, hallucination-free education. The system employs a dual-centric design, providing students with interactive, Socratic-based tutoring and educators with a \"human-in-the-loop\" workspace for supervised content generation. By grounding Large Language Model (LLM) responses in teacher-provided materials, the assistant addresses the risks of misinformation while encouraging deep conceptual mastery. Evaluation via the R",
-      "resume_fr": "This demo paper describes the development of the AI Teaching \\& Learning Assistant, a modular Moodle plugin that leverages Retrieval-Augmented Generation (RAG) to deliver high-quality, hallucination-free education. The system employs a dual-centric design, providing students with interactive, Socratic-based tutoring and educators with a \"human-in-the-loop\" workspace for supervised content generation. By grounding Large Language Model (LLM) responses in teacher-provided materials, the assistant addresses the risks of misinformation while encouraging deep conceptual mastery. Evaluation via the R",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Leveraging fNIRS to Evaluate Workload for Adaptive Training in Virtual Reality",
-      "url": "https://arxiv.org/abs/2605.06909v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-07T20:18:03.000Z",
-      "score": 50,
-      "summary_en": "Advance in technology offer the potential for future adoption of a combination of virtual reality (VR) and real-time adaptivity to enhance training and education. Providing a valid neuro-ergonomic measure of cognitive load can enable an adaptive training regime to continuously adjust tas difficulty to an optimal level as training progresses. The current study validated the functional near-infrared spectroscopy (fNIRS) measure of cognitive load to reflect the demands of two different forms of lad within Cognitive Load Theory: extraneous and intrinsic to he task to be mastered. Thirty-six partic",
-      "summary_fr": "Advance in technology offer the potential for future adoption of a combination of virtual reality (VR) and real-time adaptivity to enhance training and education. Providing a valid neuro-ergonomic measure of cognitive load can enable an adaptive training regime to continuously adjust tas difficulty to an optimal level as training progresses. The current study validated the functional near-infrared spectroscopy (fNIRS) measure of cognitive load to reflect the demands of two different forms of lad within Cognitive Load Theory: extraneous and intrinsic to he task to be mastered. Thirty-six partic",
-      "resume_fr": "Advance in technology offer the potential for future adoption of a combination of virtual reality (VR) and real-time adaptivity to enhance training and education. Providing a valid neuro-ergonomic measure of cognitive load can enable an adaptive training regime to continuously adjust tas difficulty to an optimal level as training progresses. The current study validated the functional near-infrared spectroscopy (fNIRS) measure of cognitive load to reflect the demands of two different forms of lad within Cognitive Load Theory: extraneous and intrinsic to he task to be mastered. Thirty-six partic",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Real-Time Security Centers Keep a Watchful Eye on Campus Activity",
-      "url": "https://edtechmagazine.com/higher/article/2026/05/real-time-security-centers-keep-watchful-eye-campus-activity",
-      "source": "EdTech Magazine (Higher Ed)",
-      "published": "2026-05-07T19:43:50.000Z",
-      "score": 50,
-      "summary_en": "A warning to any would-be criminals considering doing business at Arizona State University: It’s likely that whatever you’re up to, the ASU police department is watching. That’s because, since the spring of 2023, the department has had access to live video feeds from more than 3,000 strategically placed cameras. Positioned both indoors and out across the university’s four Phoenix-area campuses, the devices provide police department analysts with unobstructed views of everything from parking lots to bike racks and building entrances. They follow the action on wall-to-wall monitors in their…",
-      "summary_fr": "A warning to any would-be criminals considering doing business at Arizona State University: It’s likely that whatever you’re up to, the ASU police department is watching. That’s because, since the spring of 2023, the department has had access to live video feeds from more than 3,000 strategically placed cameras. Positioned both indoors and out across the university’s four Phoenix-area campuses, the devices provide police department analysts with unobstructed views of everything from parking lots to bike racks and building entrances. They follow the action on wall-to-wall monitors in their…",
-      "resume_fr": "A warning to any would-be criminals considering doing business at Arizona State University: It’s likely that whatever you’re up to, the ASU police department is watching. That’s because, since the spring of 2023, the department has had access to live video feeds from more than 3,000 strategically placed cameras. Positioned both indoors and out across the university’s four Phoenix-area campuses, the devices provide police department analysts with unobstructed views of everything from parking lots to bike racks and building entrances. They follow the action on wall-to-wall monitors in their…",
-      "tags": [],
-      "breakdown": {
-        "research": 0,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=edtechmagazine.com&sz=128"
-    },
-    {
-      "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
-      "url": "https://arxiv.org/abs/2605.06667v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-05-07T17:59:58.000Z",
-      "score": 70,
-      "summary_en": "For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot method for video generation that jointly transfers character motion from a driving video into a new scene and enables per-frame control of intrinsic and extrinsic camera parameters. ActCam builds on any pretrained image-to-video diffusion model that accepts conditioning in terms of scene depth and character pose. Given a source video with a moving character and a target camera motion, ActCam genera",
-      "summary_fr": "For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot method for video generation that jointly transfers character motion from a driving video into a new scene and enables per-frame control of intrinsic and extrinsic camera parameters. ActCam builds on any pretrained image-to-video diffusion model that accepts conditioning in terms of scene depth and character pose. Given a source video with a moving character and a target camera motion, ActCam genera",
-      "resume_fr": "For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot method for video generation that jointly transfers character motion from a driving video into a new scene and enables per-frame control of intrinsic and extrinsic camera parameters. ActCam builds on any pretrained image-to-video diffusion model that accepts conditioning in terms of scene depth and character pose. Given a source video with a moving character and a target camera motion, ActCam genera",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients",
-      "url": "https://arxiv.org/abs/2605.06650v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-05-07T17:55:21.000Z",
-      "score": 70,
-      "summary_en": "Reinforcement learning with verifiable rewards (RLVR), due to the deterministic verification, becomes a dominant paradigm for enhancing the reasoning ability of large language models (LLMs). The community witnesses the rapid change from the Proximal Policy Optimization (PPO) to Group Relative Policy Optimization (GRPO), in which GRPO reduces the complicated advantage estimation with simple estimation over grouped positive and negative rollouts. However, we note that negative rollouts may admit no gradation of failure severity, and the combinatorial vastness makes penalizing a few sampled negat",
-      "summary_fr": "Reinforcement learning with verifiable rewards (RLVR), due to the deterministic verification, becomes a dominant paradigm for enhancing the reasoning ability of large language models (LLMs). The community witnesses the rapid change from the Proximal Policy Optimization (PPO) to Group Relative Policy Optimization (GRPO), in which GRPO reduces the complicated advantage estimation with simple estimation over grouped positive and negative rollouts. However, we note that negative rollouts may admit no gradation of failure severity, and the combinatorial vastness makes penalizing a few sampled negat",
-      "resume_fr": "Reinforcement learning with verifiable rewards (RLVR), due to the deterministic verification, becomes a dominant paradigm for enhancing the reasoning ability of large language models (LLMs). The community witnesses the rapid change from the Proximal Policy Optimization (PPO) to Group Relative Policy Optimization (GRPO), in which GRPO reduces the complicated advantage estimation with simple estimation over grouped positive and negative rollouts. However, we note that negative rollouts may admit no gradation of failure severity, and the combinatorial vastness makes penalizing a few sampled negat",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
