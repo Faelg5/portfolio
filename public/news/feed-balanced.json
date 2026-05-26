@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T10:44:43.520Z",
+  "generatedAt": "2026-05-26T10:16:15.560Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,82 @@
     }
   },
   "items": [
+    {
+      "title": "IEEE TryEngineering OnCampus Program Expands to 7 Universities",
+      "url": "https://spectrum.ieee.org/tryengineering-oncampus-expansion",
+      "source": "IEEE Spectrum – AI",
+      "published": "2026-05-25T18:00:01.000Z",
+      "score": 65,
+      "summary_en": "The OnCampus program, administered by IEEE Educational Activities, last year expanded its engineering experiences from two to seven universities. Part of TryEngineering, the program is held at universities around the world, offering preuniversity students hands-on opportunities to solve engineering problems. The IEEE Innovation Committee provided funding for the additional locations. New participating institutions The electrical engineering and computing faculty at the University of Zagreb, in Croatia, hosted a two-day program in June. Twenty-five children ages 10 to 14 participated in lecture",
+      "summary_fr": "The OnCampus program, administered by IEEE Educational Activities, last year expanded its engineering experiences from two to seven universities. Part of TryEngineering, the program is held at universities around the world, offering preuniversity students hands-on opportunities to solve engineering problems. The IEEE Innovation Committee provided funding for the additional locations. New participating institutions The electrical engineering and computing faculty at the University of Zagreb, in Croatia, hosted a two-day program in June. Twenty-five children ages 10 to 14 participated in lecture",
+      "resume_fr": "The OnCampus program, administered by IEEE Educational Activities, last year expanded its engineering experiences from two to seven universities. Part of TryEngineering, the program is held at universities around the world, offering preuniversity students hands-on opportunities to solve engineering problems. The IEEE Innovation Committee provided funding for the additional locations. New participating institutions The electrical engineering and computing faculty at the University of Zagreb, in Croatia, hosted a two-day program in June. Twenty-five children ages 10 to 14 participated in lecture",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
+    },
+    {
+      "title": "Reclaiming Social Engineering for Good",
+      "url": "https://spectrum.ieee.org/social-engineering-good",
+      "source": "IEEE Spectrum – AI",
+      "published": "2026-05-25T13:00:01.000Z",
+      "score": 35,
+      "summary_en": "“Social engineering” sounds like something out of a conspiracy thriller, charged with totalitarian control and fringe paranoia. More mundanely, it’s come to be associated with phishing and other scams, in which fraudsters manipulate people into disclosing personal information. Yet the concept is older and more benign: it is the deliberate shaping of human behavior, often at scale. It predates silicon—and became pervasive, and ungoverned, especially once its practitioners learned to hide it. Authoritarian regimes and more recently scammers and big companies have profited from it. To defend ours",
+      "summary_fr": "“Social engineering” sounds like something out of a conspiracy thriller, charged with totalitarian control and fringe paranoia. More mundanely, it’s come to be associated with phishing and other scams, in which fraudsters manipulate people into disclosing personal information. Yet the concept is older and more benign: it is the deliberate shaping of human behavior, often at scale. It predates silicon—and became pervasive, and ungoverned, especially once its practitioners learned to hide it. Authoritarian regimes and more recently scammers and big companies have profited from it. To defend ours",
+      "resume_fr": "“Social engineering” sounds like something out of a conspiracy thriller, charged with totalitarian control and fringe paranoia. More mundanely, it’s come to be associated with phishing and other scams, in which fraudsters manipulate people into disclosing personal information. Yet the concept is older and more benign: it is the deliberate shaping of human behavior, often at scale. It predates silicon—and became pervasive, and ungoverned, especially once its practitioners learned to hide it. Authoritarian regimes and more recently scammers and big companies have profited from it. To defend ours",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
+    },
+    {
+      "title": "AI with Model-Based Design: Virtual Sensor Modeling",
+      "url": "https://content.knowledgehub.wiley.com/ai-with-model-based-design-virtual-sensor-modeling/",
+      "source": "IEEE Spectrum – AI",
+      "published": "2026-05-25T10:00:01.000Z",
+      "score": 35,
+      "summary_en": "This webinar presents a workflow offering end-to-end solutions for designing, training, validating and verifying, compressing, and deploying AI-based virtual sensor models to embedded processors within a single environment. Highlights Integrate AI models into Simulink for system-level simulation, verification, and simulation-based testing Apply formal verification techniques to assert neural network behavior Compress the AI model for memory footprint reduction and execution speedup Generate library-free C code from AI models and performing PIL tests Profile code performance and evaluate design",
+      "summary_fr": "This webinar presents a workflow offering end-to-end solutions for designing, training, validating and verifying, compressing, and deploying AI-based virtual sensor models to embedded processors within a single environment. Highlights Integrate AI models into Simulink for system-level simulation, verification, and simulation-based testing Apply formal verification techniques to assert neural network behavior Compress the AI model for memory footprint reduction and execution speedup Generate library-free C code from AI models and performing PIL tests Profile code performance and evaluate design",
+      "resume_fr": "This webinar presents a workflow offering end-to-end solutions for designing, training, validating and verifying, compressing, and deploying AI-based virtual sensor models to embedded processors within a single environment. Highlights Integrate AI models into Simulink for system-level simulation, verification, and simulation-based testing Apply formal verification techniques to assert neural network behavior Compress the AI model for memory footprint reduction and execution speedup Generate library-free C code from AI models and performing PIL tests Profile code performance and evaluate design",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=content.knowledgehub.wiley.com&sz=128"
+    },
+    {
+      "title": "Uncovering subgroup heterogeneity in dyslexia intervention outcomes using explainable machine learning",
+      "url": "https://www.nature.com/articles/s41539-026-00429-3",
+      "source": "npj Science of Learning (Nature)",
+      "published": "2026-05-25T00:00:00.000Z",
+      "score": 35,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
+    },
     {
       "title": "LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws",
       "url": "https://arxiv.org/abs/2605.23901v1",
@@ -1157,82 +1233,6 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Fast Byte Latent Transformer",
-      "url": "https://arxiv.org/abs/2605.08044v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-05-08T17:35:27.000Z",
-      "score": 50,
-      "summary_en": "Recent byte-level language models (LMs) match the performance of token-level models without relying on subword vocabularies, yet their utility is limited by slow, byte-by-byte autoregressive generation. We address this bottleneck in the Byte Latent Transformer (BLT) through new training and generation techniques. First, we introduce BLT Diffusion (BLT-D), a new model and our fastest BLT variant, trained with an auxiliary block-wise diffusion objective alongside the standard next-byte prediction loss. This enables an inference procedure that generates multiple bytes in parallel per decoding ste",
-      "summary_fr": "Recent byte-level language models (LMs) match the performance of token-level models without relying on subword vocabularies, yet their utility is limited by slow, byte-by-byte autoregressive generation. We address this bottleneck in the Byte Latent Transformer (BLT) through new training and generation techniques. First, we introduce BLT Diffusion (BLT-D), a new model and our fastest BLT variant, trained with an auxiliary block-wise diffusion objective alongside the standard next-byte prediction loss. This enables an inference procedure that generates multiple bytes in parallel per decoding ste",
-      "resume_fr": "Recent byte-level language models (LMs) match the performance of token-level models without relying on subword vocabularies, yet their utility is limited by slow, byte-by-byte autoregressive generation. We address this bottleneck in the Byte Latent Transformer (BLT) through new training and generation techniques. First, we introduce BLT Diffusion (BLT-D), a new model and our fastest BLT variant, trained with an auxiliary block-wise diffusion objective alongside the standard next-byte prediction loss. This enables an inference procedure that generates multiple bytes in parallel per decoding ste",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education",
-      "url": "https://arxiv.org/abs/2605.08040v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-08T17:29:28.000Z",
-      "score": 85,
-      "summary_en": "We introduce ECNUClaw, an open-source framework for building learner-profiled intelligent study companions in K-12 education. The system constructs and maintains a five-dimension learner profile -- covering cognitive, behavioral, emotional, metacognitive, and contextual dimensions -- by extracting signals from student-companion dialogues at each turn. Profile updates feed directly into an adaptive strategy engine that adjusts the companion's guidance intensity, encouragement frequency, and Bloom's taxonomy scaffolding in real time. The framework design draws on three theoretical strands from t",
-      "summary_fr": "We introduce ECNUClaw, an open-source framework for building learner-profiled intelligent study companions in K-12 education. The system constructs and maintains a five-dimension learner profile -- covering cognitive, behavioral, emotional, metacognitive, and contextual dimensions -- by extracting signals from student-companion dialogues at each turn. Profile updates feed directly into an adaptive strategy engine that adjusts the companion's guidance intensity, encouragement frequency, and Bloom's taxonomy scaffolding in real time. The framework design draws on three theoretical strands from t",
-      "resume_fr": "We introduce ECNUClaw, an open-source framework for building learner-profiled intelligent study companions in K-12 education. The system constructs and maintains a five-dimension learner profile -- covering cognitive, behavioral, emotional, metacognitive, and contextual dimensions -- by extracting signals from student-companion dialogues at each turn. Profile updates feed directly into an adaptive strategy engine that adjusts the companion's guidance intensity, encouragement frequency, and Bloom's taxonomy scaffolding in real time. The framework design draws on three theoretical strands from t",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Vibe coding before the trend",
-      "url": "https://arxiv.org/abs/2605.07751v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-08T13:56:57.000Z",
-      "score": 50,
-      "summary_en": "Early 2025 we ran a series of vibe coding challenges across four different student cohorts. The cohorts included 54 ICT students, 24 digital marketing students, and 7 journalism students at Fontys University of Applied Sciences (Netherlands), and 22 BA Communication students at North-West University (South Africa). From the student reflections, five major patterns emerged. Students reported that AI tools shifted their focus from syntax to higher-order thinking; they also described a skill shift from memorizing to evaluating; they viewed AI proficiency as career-essential; they framed their rel",
-      "summary_fr": "Early 2025 we ran a series of vibe coding challenges across four different student cohorts. The cohorts included 54 ICT students, 24 digital marketing students, and 7 journalism students at Fontys University of Applied Sciences (Netherlands), and 22 BA Communication students at North-West University (South Africa). From the student reflections, five major patterns emerged. Students reported that AI tools shifted their focus from syntax to higher-order thinking; they also described a skill shift from memorizing to evaluating; they viewed AI proficiency as career-essential; they framed their rel",
-      "resume_fr": "Early 2025 we ran a series of vibe coding challenges across four different student cohorts. The cohorts included 54 ICT students, 24 digital marketing students, and 7 journalism students at Fontys University of Applied Sciences (Netherlands), and 22 BA Communication students at North-West University (South Africa). From the student reflections, five major patterns emerged. Students reported that AI tools shifted their focus from syntax to higher-order thinking; they also described a skill shift from memorizing to evaluating; they viewed AI proficiency as career-essential; they framed their rel",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation",
-      "url": "https://arxiv.org/abs/2605.07647v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-08T12:12:01.000Z",
-      "score": 85,
-      "summary_en": "Automated short answer scoring (ASAS) is shifting from discriminative, fine-tuned models to large language models (LLMs) used in few-shot settings. This paradigm leverages LLMs broad world knowledge and ease of deployment, but limited task-specific data may reduce alignment on complex scoring tasks. In particular, its impact on scoring partially correct responses that require nuanced interpretation remains underexplored. We investigate the relationship between the degree of task-specific adaptation of different models and quality-conditioned scoring agreement. We compare three LLMs (GPT-5.2, G",
-      "summary_fr": "Automated short answer scoring (ASAS) is shifting from discriminative, fine-tuned models to large language models (LLMs) used in few-shot settings. This paradigm leverages LLMs broad world knowledge and ease of deployment, but limited task-specific data may reduce alignment on complex scoring tasks. In particular, its impact on scoring partially correct responses that require nuanced interpretation remains underexplored. We investigate the relationship between the degree of task-specific adaptation of different models and quality-conditioned scoring agreement. We compare three LLMs (GPT-5.2, G",
-      "resume_fr": "Automated short answer scoring (ASAS) is shifting from discriminative, fine-tuned models to large language models (LLMs) used in few-shot settings. This paradigm leverages LLMs broad world knowledge and ease of deployment, but limited task-specific data may reduce alignment on complex scoring tasks. In particular, its impact on scoring partially correct responses that require nuanced interpretation remains underexplored. We investigate the relationship between the degree of task-specific adaptation of different models and quality-conditioned scoring agreement. We compare three LLMs (GPT-5.2, G",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
