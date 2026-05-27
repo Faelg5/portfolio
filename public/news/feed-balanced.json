@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T10:16:15.560Z",
+  "generatedAt": "2026-05-27T10:17:02.208Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -96,6 +96,101 @@
   },
   "items": [
     {
+      "title": "Meet NASA Low Outgassing Standards With Adhesives for Aerospace and Optical Systems",
+      "url": "https://spectrum.ieee.org/adhesive-outgassing-nasa-standards",
+      "source": "IEEE Spectrum – AI",
+      "published": "2026-05-26T10:00:01.000Z",
+      "score": 70,
+      "summary_en": "This sponsored article is brought to you by Master Bond. Outgassing is the release of volatile substances from a cured adhesive over time. These released materials, which may include residual solvents, unreacted monomers, or other chemical species, can deposit on nearby surfaces, causing contamination that interferes with sensitive components. What Is Outgassing and How Is It Measured? The industry standard for measuring outgassing is ASTM E595, developed by NASA. This test exposes a cured sample to 125 °C at high vacuum (10⁻⁵ to 10⁻⁶ torr) for 24 hours, measuring Total Mass Loss (TML) and Col",
+      "summary_fr": "This sponsored article is brought to you by Master Bond. Outgassing is the release of volatile substances from a cured adhesive over time. These released materials, which may include residual solvents, unreacted monomers, or other chemical species, can deposit on nearby surfaces, causing contamination that interferes with sensitive components. What Is Outgassing and How Is It Measured? The industry standard for measuring outgassing is ASTM E595, developed by NASA. This test exposes a cured sample to 125 °C at high vacuum (10⁻⁵ to 10⁻⁶ torr) for 24 hours, measuring Total Mass Loss (TML) and Col",
+      "resume_fr": "This sponsored article is brought to you by Master Bond. Outgassing is the release of volatile substances from a cured adhesive over time. These released materials, which may include residual solvents, unreacted monomers, or other chemical species, can deposit on nearby surfaces, causing contamination that interferes with sensitive components. What Is Outgassing and How Is It Measured? The industry standard for measuring outgassing is ASTM E595, developed by NASA. This test exposes a cured sample to 125 °C at high vacuum (10⁻⁵ to 10⁻⁶ torr) for 24 hours, measuring Total Mass Loss (TML) and Col",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
+    },
+    {
+      "title": "LiveK12Bench: Have Large Multimodal Models Truly Conquered High School-level Examinations?",
+      "url": "https://arxiv.org/abs/2605.26781v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-26T09:50:35.000Z",
+      "score": 50,
+      "summary_en": "Advanced Large Multimodal Models (LMMs) have demonstrated impressive performance in K-12 reasoning tasks, exhibiting great promise as intelligent tutors. Realizing this potential requires models to navigate real-world examinations effectively, yet most existing benchmarks fail to capture the complexity of authentic testing environments. Specifically, most datasets are static, prone to data contamination, and are often confined to restricted modalities, disciplines, and evaluation criteria. To address these issues, we introduce LiveK12Bench, a dynamic, holistic, multi-disciplinary benchmark des",
+      "summary_fr": "Advanced Large Multimodal Models (LMMs) have demonstrated impressive performance in K-12 reasoning tasks, exhibiting great promise as intelligent tutors. Realizing this potential requires models to navigate real-world examinations effectively, yet most existing benchmarks fail to capture the complexity of authentic testing environments. Specifically, most datasets are static, prone to data contamination, and are often confined to restricted modalities, disciplines, and evaluation criteria. To address these issues, we introduce LiveK12Bench, a dynamic, holistic, multi-disciplinary benchmark des",
+      "resume_fr": "Advanced Large Multimodal Models (LMMs) have demonstrated impressive performance in K-12 reasoning tasks, exhibiting great promise as intelligent tutors. Realizing this potential requires models to navigate real-world examinations effectively, yet most existing benchmarks fail to capture the complexity of authentic testing environments. Specifically, most datasets are static, prone to data contamination, and are often confined to restricted modalities, disciplines, and evaluation criteria. To address these issues, we introduce LiveK12Bench, a dynamic, holistic, multi-disciplinary benchmark des",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Generative artificial intelligence and the marginalization of minoritized knowledges in higher education: the case of disability",
+      "url": "https://arxiv.org/abs/2605.26769v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-26T09:39:09.000Z",
+      "score": 50,
+      "summary_en": "Generative artificial intelligence redefines higher education by restructuring the processes through which scientific knowledge is produced and validated. These systems are not neutral; they actively contribute to the marginalization of non-hegemonic epistemologies. This research draws upon educational sciences, critical technology studies, and disability studies to demonstrate that training datasets, which remain predominantly Anglophone and Western-centric, reinforce epistemic coloniality. The situation of persons with disabilities provides a particularly clear illustration of this phenomeno",
+      "summary_fr": "Generative artificial intelligence redefines higher education by restructuring the processes through which scientific knowledge is produced and validated. These systems are not neutral; they actively contribute to the marginalization of non-hegemonic epistemologies. This research draws upon educational sciences, critical technology studies, and disability studies to demonstrate that training datasets, which remain predominantly Anglophone and Western-centric, reinforce epistemic coloniality. The situation of persons with disabilities provides a particularly clear illustration of this phenomeno",
+      "resume_fr": "Generative artificial intelligence redefines higher education by restructuring the processes through which scientific knowledge is produced and validated. These systems are not neutral; they actively contribute to the marginalization of non-hegemonic epistemologies. This research draws upon educational sciences, critical technology studies, and disability studies to demonstrate that training datasets, which remain predominantly Anglophone and Western-centric, reinforce epistemic coloniality. The situation of persons with disabilities provides a particularly clear illustration of this phenomeno",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Few-shot Cross-country Generalization of Tabular Machine Learning and Foundation Models for Childhood Anemia Prediction under Distribution Shift",
+      "url": "https://arxiv.org/abs/2605.26589v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-26T06:20:20.000Z",
+      "score": 50,
+      "summary_en": "Childhood anemia affects around 40% of children aged 6-59 months globally and arises from heterogeneous factors, limiting model generalizability. We evaluate a transformer-based tabular foundation model against classical supervised methods under cross-country and data-scarce settings. We used DHS data from 16 countries across Africa, Asia, Latin America, the Caucasus, and the Middle East (n=68,856). We compared Logistic Regression, XGBoost, LightGBM, and TabPFN v2.6. Performance was assessed using AUC-ROC, Brier score, and ECE. Generalization was evaluated using leave-one-country-out (LOCO), r",
+      "summary_fr": "Childhood anemia affects around 40% of children aged 6-59 months globally and arises from heterogeneous factors, limiting model generalizability. We evaluate a transformer-based tabular foundation model against classical supervised methods under cross-country and data-scarce settings. We used DHS data from 16 countries across Africa, Asia, Latin America, the Caucasus, and the Middle East (n=68,856). We compared Logistic Regression, XGBoost, LightGBM, and TabPFN v2.6. Performance was assessed using AUC-ROC, Brier score, and ECE. Generalization was evaluated using leave-one-country-out (LOCO), r",
+      "resume_fr": "Childhood anemia affects around 40% of children aged 6-59 months globally and arises from heterogeneous factors, limiting model generalizability. We evaluate a transformer-based tabular foundation model against classical supervised methods under cross-country and data-scarce settings. We used DHS data from 16 countries across Africa, Asia, Latin America, the Caucasus, and the Middle East (n=68,856). We compared Logistic Regression, XGBoost, LightGBM, and TabPFN v2.6. Performance was assessed using AUC-ROC, Brier score, and ECE. Generalization was evaluated using leave-one-country-out (LOCO), r",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Managing Uncertainty in LLM-Generated Procedural Knowledge for Virtual Laboratory Planning",
+      "url": "https://arxiv.org/abs/2605.26333v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-25T21:12:47.000Z",
+      "score": 50,
+      "summary_en": "Educational virtual laboratories can make experimental training more scala-ble, adaptive, and accessible, especially when students have limited access to physical laboratory facilities. However, authoring new simulated laboratory procedures remains costly: educators must describe new equipment, define how instruments and materials interact, and specify valid procedural flows that can be executed or assessed inside the virtual environment. Large lan-guage models can assist in this authoring process by generating detailed ex-perimental procedures, but their output should not be treated as direct",
+      "summary_fr": "Educational virtual laboratories can make experimental training more scala-ble, adaptive, and accessible, especially when students have limited access to physical laboratory facilities. However, authoring new simulated laboratory procedures remains costly: educators must describe new equipment, define how instruments and materials interact, and specify valid procedural flows that can be executed or assessed inside the virtual environment. Large lan-guage models can assist in this authoring process by generating detailed ex-perimental procedures, but their output should not be treated as direct",
+      "resume_fr": "Educational virtual laboratories can make experimental training more scala-ble, adaptive, and accessible, especially when students have limited access to physical laboratory facilities. However, authoring new simulated laboratory procedures remains costly: educators must describe new equipment, define how instruments and materials interact, and specify valid procedural flows that can be executed or assessed inside the virtual environment. Large lan-guage models can assist in this authoring process by generating detailed ex-perimental procedures, but their output should not be treated as direct",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
       "title": "IEEE TryEngineering OnCampus Program Expands to 7 Universities",
       "url": "https://spectrum.ieee.org/tryengineering-oncampus-expansion",
       "source": "IEEE Spectrum – AI",
@@ -134,6 +229,25 @@
       "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
     },
     {
+      "title": "Simulating Human Memory with Language Models",
+      "url": "https://arxiv.org/abs/2605.25680v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-25T10:39:08.000Z",
+      "score": 50,
+      "summary_en": "Language models are increasingly being deployed as user simulators, but their memory is far more reliable than that of real users. To measure this gap, we run a series of classic memory experiments from psychology on both humans and language models. Across tasks, we find that out-of-the-box language models exhibit better memory than humans, even when prompted to imitate human behavior. We then show that better prompting strategies and the use of a compactor can cause language models to forget content in a more human-like way. Using these methods, we show preliminary evidence that language mode",
+      "summary_fr": "Language models are increasingly being deployed as user simulators, but their memory is far more reliable than that of real users. To measure this gap, we run a series of classic memory experiments from psychology on both humans and language models. Across tasks, we find that out-of-the-box language models exhibit better memory than humans, even when prompted to imitate human behavior. We then show that better prompting strategies and the use of a compactor can cause language models to forget content in a more human-like way. Using these methods, we show preliminary evidence that language mode",
+      "resume_fr": "Language models are increasingly being deployed as user simulators, but their memory is far more reliable than that of real users. To measure this gap, we run a series of classic memory experiments from psychology on both humans and language models. Across tasks, we find that out-of-the-box language models exhibit better memory than humans, even when prompted to imitate human behavior. We then show that better prompting strategies and the use of a compactor can cause language models to forget content in a more human-like way. Using these methods, we show preliminary evidence that language mode",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
       "title": "AI with Model-Based Design: Virtual Sensor Modeling",
       "url": "https://content.knowledgehub.wiley.com/ai-with-model-based-design-virtual-sensor-modeling/",
       "source": "IEEE Spectrum – AI",
@@ -153,6 +267,44 @@
       "image": "https://www.google.com/s2/favicons?domain=content.knowledgehub.wiley.com&sz=128"
     },
     {
+      "title": "Toward a Benchmark for Controllable Simulation of Imperfect Students with Large Language Models",
+      "url": "https://arxiv.org/abs/2605.25601v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-25T08:54:23.000Z",
+      "score": 50,
+      "summary_en": "Teacher education requires deliberate practice with learners who exhibit identifiable strengths, weaknesses, and partial mastery. Large language models could support such practice by simulating students with known skill components, enabling teachers to rehearse explanations, diagnoses, and instructional responses. For this purpose, however, the central requirement is neither to maximize benchmark accuracy nor to suppress isolated facts, but to control model behavior so that it reflects a specified skill profile. This paper investigates whether prompted language models can be steered to retain ",
+      "summary_fr": "Teacher education requires deliberate practice with learners who exhibit identifiable strengths, weaknesses, and partial mastery. Large language models could support such practice by simulating students with known skill components, enabling teachers to rehearse explanations, diagnoses, and instructional responses. For this purpose, however, the central requirement is neither to maximize benchmark accuracy nor to suppress isolated facts, but to control model behavior so that it reflects a specified skill profile. This paper investigates whether prompted language models can be steered to retain ",
+      "resume_fr": "Teacher education requires deliberate practice with learners who exhibit identifiable strengths, weaknesses, and partial mastery. Large language models could support such practice by simulating students with known skill components, enabling teachers to rehearse explanations, diagnoses, and instructional responses. For this purpose, however, the central requirement is neither to maximize benchmark accuracy nor to suppress isolated facts, but to control model behavior so that it reflects a specified skill profile. This paper investigates whether prompted language models can be steered to retain ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "A Controlled Synthetic Benchmark for Educational Aspect-Based Sentiment Analysis",
+      "url": "https://arxiv.org/abs/2605.25502v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-25T07:05:21.000Z",
+      "score": 50,
+      "summary_en": "Educational aspect-based sentiment analysis (ABSA) can support course improvement, but public aspect-labeled student feedback remains scarce because educational reviews are private, institution-specific, and expensive to annotate. This study introduces a controlled synthetic benchmark for educational ABSA built from 10,000 synthetic course reviews with explicit train-validation-test splits and a 20-aspect pedagogical schema spanning instructional quality, assessment and course management, learning demand, learning environment, and engagement. The corpus is generated with sampled target labels,",
+      "summary_fr": "Educational aspect-based sentiment analysis (ABSA) can support course improvement, but public aspect-labeled student feedback remains scarce because educational reviews are private, institution-specific, and expensive to annotate. This study introduces a controlled synthetic benchmark for educational ABSA built from 10,000 synthetic course reviews with explicit train-validation-test splits and a 20-aspect pedagogical schema spanning instructional quality, assessment and course management, learning demand, learning environment, and engagement. The corpus is generated with sampled target labels,",
+      "resume_fr": "Educational aspect-based sentiment analysis (ABSA) can support course improvement, but public aspect-labeled student feedback remains scarce because educational reviews are private, institution-specific, and expensive to annotate. This study introduces a controlled synthetic benchmark for educational ABSA built from 10,000 synthetic course reviews with explicit train-validation-test splits and a 20-aspect pedagogical schema spanning instructional quality, assessment and course management, learning demand, learning environment, and engagement. The corpus is generated with sampled target labels,",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
       "title": "Uncovering subgroup heterogeneity in dyslexia intervention outcomes using explainable machine learning",
       "url": "https://www.nature.com/articles/s41539-026-00429-3",
       "source": "npj Science of Learning (Nature)",
@@ -170,6 +322,44 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
+    },
+    {
+      "title": "Tacit Signal Infrastructure: Towards AI Systems that Model Expert Sensing Over Time",
+      "url": "https://arxiv.org/abs/2605.24332v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-05-23T01:24:02.000Z",
+      "score": 50,
+      "summary_en": "Current generative AI systems are increasingly effective at processing explicit knowledge, including retrieving information, summarising documents, generating explanations, and supporting codified workflows. However, high-level expertise also depends on tacit sensing: perceiving weak signals, recognising emerging tensions, detecting coherence degradation, and anticipating instability before formal indicators appear. Existing AI education, AI literacy, and human-AI collaboration frameworks remain centred on prompting, task execution, and productivity support and are poorly equipped to address t",
+      "summary_fr": "Current generative AI systems are increasingly effective at processing explicit knowledge, including retrieving information, summarising documents, generating explanations, and supporting codified workflows. However, high-level expertise also depends on tacit sensing: perceiving weak signals, recognising emerging tensions, detecting coherence degradation, and anticipating instability before formal indicators appear. Existing AI education, AI literacy, and human-AI collaboration frameworks remain centred on prompting, task execution, and productivity support and are poorly equipped to address t",
+      "resume_fr": "Current generative AI systems are increasingly effective at processing explicit knowledge, including retrieving information, summarising documents, generating explanations, and supporting codified workflows. However, high-level expertise also depends on tacit sensing: perceiving weak signals, recognising emerging tensions, detecting coherence degradation, and anticipating instability before formal indicators appear. Existing AI education, AI literacy, and human-AI collaboration frameworks remain centred on prompting, task execution, and productivity support and are poorly equipped to address t",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints",
+      "url": "https://arxiv.org/abs/2605.24142v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-05-22T19:03:58.000Z",
+      "score": 50,
+      "summary_en": "Metacognitive theories provide foundational frameworks for understanding self-regulated learning, yet they lack systematic integration into comprehensive scenario taxonomies capable of guiding AI-enhanced professional development interventions. Existing models inadequately specify how metacognitive components combine into distinct learning scenarios or how professionals progress from novice to expert functioning. A six-node open systems model, consisting of Environment, Input, Processes, Structures, Output, and Feedback, was developed by synthesizing four major theoretical frameworks. Combinat",
+      "summary_fr": "Metacognitive theories provide foundational frameworks for understanding self-regulated learning, yet they lack systematic integration into comprehensive scenario taxonomies capable of guiding AI-enhanced professional development interventions. Existing models inadequately specify how metacognitive components combine into distinct learning scenarios or how professionals progress from novice to expert functioning. A six-node open systems model, consisting of Environment, Input, Processes, Structures, Output, and Feedback, was developed by synthesizing four major theoretical frameworks. Combinat",
+      "resume_fr": "Metacognitive theories provide foundational frameworks for understanding self-regulated learning, yet they lack systematic integration into comprehensive scenario taxonomies capable of guiding AI-enhanced professional development interventions. Existing models inadequately specify how metacognitive components combine into distinct learning scenarios or how professionals progress from novice to expert functioning. A six-node open systems model, consisting of Environment, Input, Processes, Structures, Output, and Feedback, was developed by synthesizing four major theoretical frameworks. Combinat",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
       "title": "LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws",
@@ -1043,196 +1233,6 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Elastic Attention Cores for Scalable Vision Transformers",
-      "url": "https://arxiv.org/abs/2605.12491v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-05-12T17:59:26.000Z",
-      "score": 50,
-      "summary_en": "Vision Transformers (ViTs) achieve strong data-driven scaling by leveraging all-to-all self-attention. However, this flexibility incurs a computational cost that scales quadratically with image resolution, limiting ViTs in high-resolution domains. Underlying this approach is the assumption that pairwise token interactions are necessary for learning rich visual-semantic representations. In this work, we challenge this assumption, demonstrating that effective visual representations can be learned without any direct patch-to-patch interaction. We propose VECA (Visual Elastic Core Attention), a vi",
-      "summary_fr": "Vision Transformers (ViTs) achieve strong data-driven scaling by leveraging all-to-all self-attention. However, this flexibility incurs a computational cost that scales quadratically with image resolution, limiting ViTs in high-resolution domains. Underlying this approach is the assumption that pairwise token interactions are necessary for learning rich visual-semantic representations. In this work, we challenge this assumption, demonstrating that effective visual representations can be learned without any direct patch-to-patch interaction. We propose VECA (Visual Elastic Core Attention), a vi",
-      "resume_fr": "Vision Transformers (ViTs) achieve strong data-driven scaling by leveraging all-to-all self-attention. However, this flexibility incurs a computational cost that scales quadratically with image resolution, limiting ViTs in high-resolution domains. Underlying this approach is the assumption that pairwise token interactions are necessary for learning rich visual-semantic representations. In this work, we challenge this assumption, demonstrating that effective visual representations can be learned without any direct patch-to-patch interaction. We propose VECA (Visual Elastic Core Attention), a vi",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Task-Adaptive Embedding Refinement via Test-time LLM Guidance",
-      "url": "https://arxiv.org/abs/2605.12487v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-05-12T17:58:27.000Z",
-      "score": 70,
-      "summary_en": "We explore the effectiveness of an LLM-guided query refinement paradigm for extending the usability of embedding models to challenging zero-shot search and classification tasks. Our approach refines the embedding representation of a user query using feedback from a generative LLM on a small set of documents, enabling embeddings to adapt in real time to the target task. We conduct extensive experiments with state-of-the-art text embedding models across a diverse set of challenging search and classification benchmarks. Empirical results indicate that LLM-guided query refinement yields consistent",
-      "summary_fr": "We explore the effectiveness of an LLM-guided query refinement paradigm for extending the usability of embedding models to challenging zero-shot search and classification tasks. Our approach refines the embedding representation of a user query using feedback from a generative LLM on a small set of documents, enabling embeddings to adapt in real time to the target task. We conduct extensive experiments with state-of-the-art text embedding models across a diverse set of challenging search and classification benchmarks. Empirical results indicate that LLM-guided query refinement yields consistent",
-      "resume_fr": "We explore the effectiveness of an LLM-guided query refinement paradigm for extending the usability of embedding models to challenging zero-shot search and classification tasks. Our approach refines the embedding representation of a user query using feedback from a generative LLM on a small set of documents, enabling embeddings to adapt in real time to the target task. We conduct extensive experiments with state-of-the-art text embedding models across a diverse set of challenging search and classification benchmarks. Empirical results indicate that LLM-guided query refinement yields consistent",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training",
-      "url": "https://arxiv.org/abs/2605.12483v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-05-12T17:57:48.000Z",
-      "score": 70,
-      "summary_en": "In settings where labeled verifiable training data is the binding constraint, each checked example should be allocated carefully. The standard practice is to use this data directly on the model that will be deployed, for example by running GRPO on the deployment student. We argue that this is often an inefficient allocation because it overlooks a reward-density principle: sparse sequence-level reward should train models where exploration is productive, while dense token-level teacher reward should be used where the aim is to compress behavior into a smaller model. In this view, GRPO-style spar",
-      "summary_fr": "In settings where labeled verifiable training data is the binding constraint, each checked example should be allocated carefully. The standard practice is to use this data directly on the model that will be deployed, for example by running GRPO on the deployment student. We argue that this is often an inefficient allocation because it overlooks a reward-density principle: sparse sequence-level reward should train models where exploration is productive, while dense token-level teacher reward should be used where the aim is to compress behavior into a smaller model. In this view, GRPO-style spar",
-      "resume_fr": "In settings where labeled verifiable training data is the binding constraint, each checked example should be allocated carefully. The standard practice is to use this data directly on the model that will be deployed, for example by running GRPO on the deployment student. We argue that this is often an inefficient allocation because it overlooks a reward-density principle: sparse sequence-level reward should train models where exploration is productive, while dense token-level teacher reward should be used where the aim is to compress behavior into a smaller model. In this view, GRPO-style spar",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Solve the Loop: Attractor Models for Language and Reasoning",
-      "url": "https://arxiv.org/abs/2605.12466v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-05-12T17:51:26.000Z",
-      "score": 70,
-      "summary_en": "Looped Transformers offer a promising alternative to purely feed-forward computation by iteratively refining latent representations, improving language modeling and reasoning. Yet recurrent architectures remain unstable to train, costly to optimize and deploy, and constrained to small, fixed recurrence depths. We introduce Attractor Models, in which a backbone module first proposes output embeddings, then an attractor module refines them by solving for the fixed point, with gradients obtained through implicit differentiation. Thus, training memory remains constant in effective depth, and itera",
-      "summary_fr": "Looped Transformers offer a promising alternative to purely feed-forward computation by iteratively refining latent representations, improving language modeling and reasoning. Yet recurrent architectures remain unstable to train, costly to optimize and deploy, and constrained to small, fixed recurrence depths. We introduce Attractor Models, in which a backbone module first proposes output embeddings, then an attractor module refines them by solving for the fixed point, with gradients obtained through implicit differentiation. Thus, training memory remains constant in effective depth, and itera",
-      "resume_fr": "Looped Transformers offer a promising alternative to purely feed-forward computation by iteratively refining latent representations, improving language modeling and reasoning. Yet recurrent architectures remain unstable to train, costly to optimize and deploy, and constrained to small, fixed recurrence depths. We introduce Attractor Models, in which a backbone module first proposes output embeddings, then an attractor module refines them by solving for the fixed point, with gradients obtained through implicit differentiation. Thus, training memory remains constant in effective depth, and itera",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "RoboBlockly Studio: Conversational Block Programming with Embodied Robot Feedback for Computational Thinking",
-      "url": "https://arxiv.org/abs/2605.12059v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-12T12:46:03.000Z",
-      "score": 50,
-      "summary_en": "Computational thinking (CT) is increasingly promoted as a core literacy, yet learners and teachers face challenges in connecting abstract program logic to meaningful outcomes. We design and evaluate RoboBlockly Studio, an integrated interactive system that combines block-based programming, a conversational AI teaching agent, and embodied robot execution. RoboBlockly Studio creates a tight iterative loop of authoring, running, observing, and revising. Informed by interviews with five programming teachers, the system was designed to support four goals: (1) preserving learner agency in computatio",
-      "summary_fr": "Computational thinking (CT) is increasingly promoted as a core literacy, yet learners and teachers face challenges in connecting abstract program logic to meaningful outcomes. We design and evaluate RoboBlockly Studio, an integrated interactive system that combines block-based programming, a conversational AI teaching agent, and embodied robot execution. RoboBlockly Studio creates a tight iterative loop of authoring, running, observing, and revising. Informed by interviews with five programming teachers, the system was designed to support four goals: (1) preserving learner agency in computatio",
-      "resume_fr": "Computational thinking (CT) is increasingly promoted as a core literacy, yet learners and teachers face challenges in connecting abstract program logic to meaningful outcomes. We design and evaluate RoboBlockly Studio, an integrated interactive system that combines block-based programming, a conversational AI teaching agent, and embodied robot execution. RoboBlockly Studio creates a tight iterative loop of authoring, running, observing, and revising. Informed by interviews with five programming teachers, the system was designed to support four goals: (1) preserving learner agency in computatio",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Human-AI Productivity Paradoxes: Modeling the Interplay of Skill, Effort, and AI Assistance",
-      "url": "https://arxiv.org/abs/2605.11350v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-12T00:12:27.000Z",
-      "score": 50,
-      "summary_en": "Generative Artificial Intelligence (AI) tools are rapidly adopted in the workplace and in education, yet the empirical evidence on AI's impact remains mixed. We propose a model of human-AI interaction to better understand and analyze several mechanisms by which AI affects productivity. In our setup, human agents with varying skill levels exert utility-maximizing effort to produce certain task outcomes with AI assistance. We find that incorporating either endogeneity in skill development or in AI unreliability can induce a productivity paradox: increased levels of AI assistance may degrade prod",
-      "summary_fr": "Generative Artificial Intelligence (AI) tools are rapidly adopted in the workplace and in education, yet the empirical evidence on AI's impact remains mixed. We propose a model of human-AI interaction to better understand and analyze several mechanisms by which AI affects productivity. In our setup, human agents with varying skill levels exert utility-maximizing effort to produce certain task outcomes with AI assistance. We find that incorporating either endogeneity in skill development or in AI unreliability can induce a productivity paradox: increased levels of AI assistance may degrade prod",
-      "resume_fr": "Generative Artificial Intelligence (AI) tools are rapidly adopted in the workplace and in education, yet the empirical evidence on AI's impact remains mixed. We propose a model of human-AI interaction to better understand and analyze several mechanisms by which AI affects productivity. In our setup, human agents with varying skill levels exert utility-maximizing effort to produce certain task outcomes with AI assistance. We find that incorporating either endogeneity in skill development or in AI unreliability can induce a productivity paradox: increased levels of AI assistance may degrade prod",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Generative AI for Visualizing Highway Construction Hazards Through Synthetic Images and Temporal Sequences",
-      "url": "https://arxiv.org/abs/2605.11276v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-11T21:59:36.000Z",
-      "score": 50,
-      "summary_en": "Highway construction workers face a high risk of serious injury or death. Image-based training materials depicting hazardous scenarios are essential for engaging safety instruction but remain scarce due to ethical and logistical barriers. This study develops and evaluates a generative AI methodology for producing synthetic visualizations of highway construction hazards from OSHA Severe Injury Report narratives. Two modes were developed: a single-pass approach yielding one image per incident, and a temporal approach producing a four-stage sequence. A sample of 75 incident records yielded 750 im",
-      "summary_fr": "Highway construction workers face a high risk of serious injury or death. Image-based training materials depicting hazardous scenarios are essential for engaging safety instruction but remain scarce due to ethical and logistical barriers. This study develops and evaluates a generative AI methodology for producing synthetic visualizations of highway construction hazards from OSHA Severe Injury Report narratives. Two modes were developed: a single-pass approach yielding one image per incident, and a temporal approach producing a four-stage sequence. A sample of 75 incident records yielded 750 im",
-      "resume_fr": "Highway construction workers face a high risk of serious injury or death. Image-based training materials depicting hazardous scenarios are essential for engaging safety instruction but remain scarce due to ethical and logistical barriers. This study develops and evaluates a generative AI methodology for producing synthetic visualizations of highway construction hazards from OSHA Severe Injury Report narratives. Two modes were developed: a single-pass approach yielding one image per incident, and a temporal approach producing a four-stage sequence. A sample of 75 incident records yielded 750 im",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Re-thinking human–machine interaction and the governance of AI in the military domain",
-      "url": "https://www.nature.com/articles/s42256-026-01231-x",
-      "source": "Nature Machine Intelligence",
-      "published": "2026-05-11T00:00:00.000Z",
-      "score": 70,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
-    },
-    {
-      "title": "Ana Inês Inácio Designs the Future of Wireless",
-      "url": "https://spectrum.ieee.org/ana-ines-inacio-wireless",
-      "source": "IEEE Spectrum – AI",
-      "published": "2026-05-08T18:00:01.000Z",
-      "score": 35,
-      "summary_en": "When Ana Inês Inácio goes to work at the Netherlands Organization for Applied Scientific Research (TNO) in The Hague, she thinks about signals most people never notice: radio waves moving between satellites, sensors, and future wireless networks. The integrated circuits the research scientist designs lay the foundation for next-generation RF sensor systems critical to advancing radar technologies. Ana Inês Inácio EMPLOYER Netherlands Organization for Applied Scientific Research, TNO TITLE Scientist IEEE MEMBER GRADE Senior member ALMA MATER University of Aveiro, in Portugal Those invisible RF ",
-      "summary_fr": "When Ana Inês Inácio goes to work at the Netherlands Organization for Applied Scientific Research (TNO) in The Hague, she thinks about signals most people never notice: radio waves moving between satellites, sensors, and future wireless networks. The integrated circuits the research scientist designs lay the foundation for next-generation RF sensor systems critical to advancing radar technologies. Ana Inês Inácio EMPLOYER Netherlands Organization for Applied Scientific Research, TNO TITLE Scientist IEEE MEMBER GRADE Senior member ALMA MATER University of Aveiro, in Portugal Those invisible RF ",
-      "resume_fr": "When Ana Inês Inácio goes to work at the Netherlands Organization for Applied Scientific Research (TNO) in The Hague, she thinks about signals most people never notice: radio waves moving between satellites, sensors, and future wireless networks. The integrated circuits the research scientist designs lay the foundation for next-generation RF sensor systems critical to advancing radar technologies. Ana Inês Inácio EMPLOYER Netherlands Organization for Applied Scientific Research, TNO TITLE Scientist IEEE MEMBER GRADE Senior member ALMA MATER University of Aveiro, in Portugal Those invisible RF ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
-    },
-    {
-      "title": "Uncertainty-Aware Structured Data Extraction from Full CMR Reports via Distilled LLMs",
-      "url": "https://arxiv.org/abs/2605.08045v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-05-08T17:35:41.000Z",
-      "score": 70,
-      "summary_en": "Converting free-text cardiac magnetic resonance (CMR) reports into auditable structured data remains a bottleneck for cohort assembly, longitudinal curation, and clinical decision support. We present CMR-EXTR, a lightweight framework that converts free-text CMR reports into structured data and assigns per-field confidence for quality control. A teacher-student distillation pipeline enables fully offline inference while limiting manual annotation. Uncertainty integrates three complementary principles -- distribution plausibility, sampling stability, and cross-field consistency -- to triage huma",
-      "summary_fr": "Converting free-text cardiac magnetic resonance (CMR) reports into auditable structured data remains a bottleneck for cohort assembly, longitudinal curation, and clinical decision support. We present CMR-EXTR, a lightweight framework that converts free-text CMR reports into structured data and assigns per-field confidence for quality control. A teacher-student distillation pipeline enables fully offline inference while limiting manual annotation. Uncertainty integrates three complementary principles -- distribution plausibility, sampling stability, and cross-field consistency -- to triage huma",
-      "resume_fr": "Converting free-text cardiac magnetic resonance (CMR) reports into auditable structured data remains a bottleneck for cohort assembly, longitudinal curation, and clinical decision support. We present CMR-EXTR, a lightweight framework that converts free-text CMR reports into structured data and assigns per-field confidence for quality control. A teacher-student distillation pipeline enables fully offline inference while limiting manual annotation. Uncertainty integrates three complementary principles -- distribution plausibility, sampling stability, and cross-field consistency -- to triage huma",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
