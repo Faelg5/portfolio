@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T10:17:02.208Z",
+  "generatedAt": "2026-05-28T10:22:49.741Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,82 @@
     }
   },
   "items": [
+    {
+      "title": "Understanding Phase Noise and Its Impact on RF System Performance",
+      "url": "https://content.knowledgehub.wiley.com/understanding-phase-noise-fundamentals/",
+      "source": "IEEE Spectrum – AI",
+      "published": "2026-05-28T10:00:01.000Z",
+      "score": 70,
+      "summary_en": "A practical introduction to phase noise concepts, explaining how oscillator instability affects RF systems and how phase noise is measured, analyzed, and reported. What Attendees will Learn What phase noise is and why it matters — Learn how real-world oscillators differ from ideal ones, why short-term frequency instability arises, and why phase variations typically have a much greater impact than amplitude variations on system performance. How phase noise degrades system performance — Understand the most common effects of excessive phase noise: spectral regrowth, reciprocal mixing, and constel",
+      "summary_fr": "A practical introduction to phase noise concepts, explaining how oscillator instability affects RF systems and how phase noise is measured, analyzed, and reported. What Attendees will Learn What phase noise is and why it matters — Learn how real-world oscillators differ from ideal ones, why short-term frequency instability arises, and why phase variations typically have a much greater impact than amplitude variations on system performance. How phase noise degrades system performance — Understand the most common effects of excessive phase noise: spectral regrowth, reciprocal mixing, and constel",
+      "resume_fr": "A practical introduction to phase noise concepts, explaining how oscillator instability affects RF systems and how phase noise is measured, analyzed, and reported. What Attendees will Learn What phase noise is and why it matters — Learn how real-world oscillators differ from ideal ones, why short-term frequency instability arises, and why phase variations typically have a much greater impact than amplitude variations on system performance. How phase noise degrades system performance — Understand the most common effects of excessive phase noise: spectral regrowth, reciprocal mixing, and constel",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=content.knowledgehub.wiley.com&sz=128"
+    },
+    {
+      "title": "Human–AI interactions reshape the self and our social networks",
+      "url": "https://www.nature.com/articles/s42256-026-01248-2",
+      "source": "Nature Machine Intelligence",
+      "published": "2026-05-28T00:00:00.000Z",
+      "score": 70,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
+    },
+    {
+      "title": "South Africa Has AI Leverage. Its Draft Policy Leaves It Unused",
+      "url": "https://spectrum.ieee.org/south-africa-ai-policy",
+      "source": "IEEE Spectrum – AI",
+      "published": "2026-05-27T13:00:01.000Z",
+      "score": 70,
+      "summary_en": "This article is adapted by the author with permission from Tech Policy Press. Read the original article. South Africa is not just another developing country struggling to govern artificial intelligence; it is the exception with leverage, and the window to act on it is closing. It holds approximately 88 percent of global platinum-group metal reserves, critical inputs to parts of the semiconductor and data-center supply chains that make AI infrastructure possible. It hosts the largest data-center market on the continent. Its existing hyperscaler relationships give it procurement leverage that mo",
+      "summary_fr": "This article is adapted by the author with permission from Tech Policy Press. Read the original article. South Africa is not just another developing country struggling to govern artificial intelligence; it is the exception with leverage, and the window to act on it is closing. It holds approximately 88 percent of global platinum-group metal reserves, critical inputs to parts of the semiconductor and data-center supply chains that make AI infrastructure possible. It hosts the largest data-center market on the continent. Its existing hyperscaler relationships give it procurement leverage that mo",
+      "resume_fr": "This article is adapted by the author with permission from Tech Policy Press. Read the original article. South Africa is not just another developing country struggling to govern artificial intelligence; it is the exception with leverage, and the window to act on it is closing. It holds approximately 88 percent of global platinum-group metal reserves, critical inputs to parts of the semiconductor and data-center supply chains that make AI infrastructure possible. It hosts the largest data-center market on the continent. Its existing hyperscaler relationships give it procurement leverage that mo",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
+    },
+    {
+      "title": "Generalizable mutation-effect prediction across adaptive immune recognition via unified multimodal framework",
+      "url": "https://www.nature.com/articles/s42256-026-01243-7",
+      "source": "Nature Machine Intelligence",
+      "published": "2026-05-27T00:00:00.000Z",
+      "score": 70,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
+    },
     {
       "title": "Meet NASA Low Outgassing Standards With Adhesives for Aerospace and Optical Systems",
       "url": "https://spectrum.ieee.org/adhesive-outgassing-nasa-standards",
@@ -1157,82 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows",
-      "url": "https://arxiv.org/abs/2605.14322v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-14T03:34:25.000Z",
-      "score": 50,
-      "summary_en": "Language agents are increasingly deployed in complex professional workflows, with tutoring emerging as a particularly high-stakes capability that remains largely unmeasured in existing benchmarks. Effective tutor agents require more than producing correct answers or executing accurate tool calls: a robust tutor must diagnose learner state, adapt support over time, make pedagogically justified decisions grounded in educational evidence, and execute interventions within realistic learning-management systems. We introduce EduAgentBench, a source-grounded benchmark for holistically evaluating tuto",
-      "summary_fr": "Language agents are increasingly deployed in complex professional workflows, with tutoring emerging as a particularly high-stakes capability that remains largely unmeasured in existing benchmarks. Effective tutor agents require more than producing correct answers or executing accurate tool calls: a robust tutor must diagnose learner state, adapt support over time, make pedagogically justified decisions grounded in educational evidence, and execute interventions within realistic learning-management systems. We introduce EduAgentBench, a source-grounded benchmark for holistically evaluating tuto",
-      "resume_fr": "Language agents are increasingly deployed in complex professional workflows, with tutoring emerging as a particularly high-stakes capability that remains largely unmeasured in existing benchmarks. Effective tutor agents require more than producing correct answers or executing accurate tool calls: a robust tutor must diagnose learner state, adapt support over time, make pedagogically justified decisions grounded in educational evidence, and execute interventions within realistic learning-management systems. We introduce EduAgentBench, a source-grounded benchmark for holistically evaluating tuto",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence",
-      "url": "https://arxiv.org/abs/2605.14266v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-14T02:11:07.000Z",
-      "score": 85,
-      "summary_en": "Integration of artificial intelligent (AI) agents in higher education is transforming teaching, learning and administrative processes. Although existing AI agents effectively support individual tasks, their implementation remains fragmented and inefficient for handling the complexity of educational institutions. This highlights a significant research gap: the lack of integrated eco-system-level agentic multi-agent AI platform capable of coordinated planning, reasoning, and adaptive decision-making across multiple educational functions. This paper presents a forward-looking perspective on agent",
-      "summary_fr": "Integration of artificial intelligent (AI) agents in higher education is transforming teaching, learning and administrative processes. Although existing AI agents effectively support individual tasks, their implementation remains fragmented and inefficient for handling the complexity of educational institutions. This highlights a significant research gap: the lack of integrated eco-system-level agentic multi-agent AI platform capable of coordinated planning, reasoning, and adaptive decision-making across multiple educational functions. This paper presents a forward-looking perspective on agent",
-      "resume_fr": "Integration of artificial intelligent (AI) agents in higher education is transforming teaching, learning and administrative processes. Although existing AI agents effectively support individual tasks, their implementation remains fragmented and inefficient for handling the complexity of educational institutions. This highlights a significant research gap: the lack of integrated eco-system-level agentic multi-agent AI platform capable of coordinated planning, reasoning, and adaptive decision-making across multiple educational functions. This paper presents a forward-looking perspective on agent",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Self-Regulated Learning in Essay Writing: Consistency of Strategies and Impact on Outcomes",
-      "url": "https://arxiv.org/abs/2605.14228v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-14T00:45:11.000Z",
-      "score": 100,
-      "summary_en": "Background: Abilities for effective self-regulated learning (SRL) are critical for lifelong learning, particularly during adolescence when these skills consolidate and strongly influence future learning. Their importance has grown with the rise of online and blended education. Yet, little is known about how secondary school students self-regulate in online environments, how their SRL processes and strategies evolve, or how they affect outcomes. In secondary education, understanding these processes can reveal patterns and indicators of learning success, informing the design of online support me",
-      "summary_fr": "Background: Abilities for effective self-regulated learning (SRL) are critical for lifelong learning, particularly during adolescence when these skills consolidate and strongly influence future learning. Their importance has grown with the rise of online and blended education. Yet, little is known about how secondary school students self-regulate in online environments, how their SRL processes and strategies evolve, or how they affect outcomes. In secondary education, understanding these processes can reveal patterns and indicators of learning success, informing the design of online support me",
-      "resume_fr": "Background: Abilities for effective self-regulated learning (SRL) are critical for lifelong learning, particularly during adolescence when these skills consolidate and strongly influence future learning. Their importance has grown with the rise of online and blended education. Yet, little is known about how secondary school students self-regulate in online environments, how their SRL processes and strategies evolve, or how they affect outcomes. In secondary education, understanding these processes can reveal patterns and indicators of learning success, informing the design of online support me",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation",
-      "url": "https://arxiv.org/abs/2605.12492v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-05-12T17:59:34.000Z",
-      "score": 50,
-      "summary_en": "We introduce Pion, a spectrum-preserving optimizer for large language model (LLM) training based on orthogonal equivalence transformation. Unlike additive optimizers such as Adam and Muon, Pion updates each weight matrix through left and right orthogonal transformations, preserving its singular values throughout training. This yields an optimization mechanism that modulates the geometry of weight matrices while keeping their spectral norm fixed. We derive the Pion update rule, systematically examine its design choices, and analyze its convergence behavior along with several key properties. Emp",
-      "summary_fr": "We introduce Pion, a spectrum-preserving optimizer for large language model (LLM) training based on orthogonal equivalence transformation. Unlike additive optimizers such as Adam and Muon, Pion updates each weight matrix through left and right orthogonal transformations, preserving its singular values throughout training. This yields an optimization mechanism that modulates the geometry of weight matrices while keeping their spectral norm fixed. We derive the Pion update rule, systematically examine its design choices, and analyze its convergence behavior along with several key properties. Emp",
-      "resume_fr": "We introduce Pion, a spectrum-preserving optimizer for large language model (LLM) training based on orthogonal equivalence transformation. Unlike additive optimizers such as Adam and Muon, Pion updates each weight matrix through left and right orthogonal transformations, preserving its singular values throughout training. This yields an optimization mechanism that modulates the geometry of weight matrices while keeping their spectral norm fixed. We derive the Pion update rule, systematically examine its design choices, and analyze its convergence behavior along with several key properties. Emp",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
