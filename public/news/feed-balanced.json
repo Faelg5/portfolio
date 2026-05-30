@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T10:12:25.242Z",
+  "generatedAt": "2026-05-30T08:38:55.443Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -96,6 +96,82 @@
   },
   "items": [
     {
+      "title": "Double-Edged Sword or Sharp Tool? Designing and Evaluating Triadic LLM-Teacher Collaboration for K-12 Writing at Scale",
+      "url": "https://arxiv.org/abs/2605.30200v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-28T16:37:00.000Z",
+      "score": 50,
+      "summary_en": "The double-edged sword of integrating Large Language Models (LLMs) requires an effective triadic collaboration mechanism among LLMs, teachers and students, especially for K-12 education. By developing a triadic collaboration system to support K-12 writing learning, a multidimensional evaluation framework grounded in Systemic Functional Linguistics and the suggestion trajectory tracing pipeline, this paper contributes a large-scale empirical dataset involving $57,954$ essays from $10,195$ students across $120$ schools over two years. Our findings confirm the efficacy of this system in improving",
+      "summary_fr": "The double-edged sword of integrating Large Language Models (LLMs) requires an effective triadic collaboration mechanism among LLMs, teachers and students, especially for K-12 education. By developing a triadic collaboration system to support K-12 writing learning, a multidimensional evaluation framework grounded in Systemic Functional Linguistics and the suggestion trajectory tracing pipeline, this paper contributes a large-scale empirical dataset involving $57,954$ essays from $10,195$ students across $120$ schools over two years. Our findings confirm the efficacy of this system in improving",
+      "resume_fr": "The double-edged sword of integrating Large Language Models (LLMs) requires an effective triadic collaboration mechanism among LLMs, teachers and students, especially for K-12 education. By developing a triadic collaboration system to support K-12 writing learning, a multidimensional evaluation framework grounded in Systemic Functional Linguistics and the suggestion trajectory tracing pipeline, this paper contributes a large-scale empirical dataset involving $57,954$ essays from $10,195$ students across $120$ schools over two years. Our findings confirm the efficacy of this system in improving",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance",
+      "url": "https://arxiv.org/abs/2605.30187v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-28T16:31:32.000Z",
+      "score": 50,
+      "summary_en": "The widespread adoption of AI chatbots in education will drastically change learning, making responsible deployment a critical concern. While large language models (LLMs) might have access to sources discussing insights from educational sciences, they are not particularly inclined to adhere to pedagogical concepts, risking negative effects on the learning process, such as a loss of transfer capabilities, critical thinking, or creativity. In this paper, we introduce an agentic AI chatbot architecture assisting students with exercise solving, specifically designed to contribute to more responsib",
+      "summary_fr": "The widespread adoption of AI chatbots in education will drastically change learning, making responsible deployment a critical concern. While large language models (LLMs) might have access to sources discussing insights from educational sciences, they are not particularly inclined to adhere to pedagogical concepts, risking negative effects on the learning process, such as a loss of transfer capabilities, critical thinking, or creativity. In this paper, we introduce an agentic AI chatbot architecture assisting students with exercise solving, specifically designed to contribute to more responsib",
+      "resume_fr": "The widespread adoption of AI chatbots in education will drastically change learning, making responsible deployment a critical concern. While large language models (LLMs) might have access to sources discussing insights from educational sciences, they are not particularly inclined to adhere to pedagogical concepts, risking negative effects on the learning process, such as a loss of transfer capabilities, critical thinking, or creativity. In this paper, we introduce an agentic AI chatbot architecture assisting students with exercise solving, specifically designed to contribute to more responsib",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Temporal Stability and Few-Shot Prompting in Math Task Assessment",
+      "url": "https://arxiv.org/abs/2605.30151v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-28T16:10:24.000Z",
+      "score": 50,
+      "summary_en": "As AI tools become increasingly integrated into educational contexts, questions arise about both their stability over time and their responsiveness to prompt engineering techniques. This longitudinal study focused on different AI tools' ability to use the Task Analysis Guide (TAG; Stein \\& Smith, 1998) to classify the cognitive demand of mathematics tasks. In particular, it examined whether this classification ability changed with (1) model version updates over time and (2) few-shot prompting using exemplar tasks. We tested a general-purpose AI tool (Gemini) and an education-specific AI tool (",
+      "summary_fr": "As AI tools become increasingly integrated into educational contexts, questions arise about both their stability over time and their responsiveness to prompt engineering techniques. This longitudinal study focused on different AI tools' ability to use the Task Analysis Guide (TAG; Stein \\& Smith, 1998) to classify the cognitive demand of mathematics tasks. In particular, it examined whether this classification ability changed with (1) model version updates over time and (2) few-shot prompting using exemplar tasks. We tested a general-purpose AI tool (Gemini) and an education-specific AI tool (",
+      "resume_fr": "As AI tools become increasingly integrated into educational contexts, questions arise about both their stability over time and their responsiveness to prompt engineering techniques. This longitudinal study focused on different AI tools' ability to use the Task Analysis Guide (TAG; Stein \\& Smith, 1998) to classify the cognitive demand of mathematics tasks. In particular, it examined whether this classification ability changed with (1) model version updates over time and (2) few-shot prompting using exemplar tasks. We tested a general-purpose AI tool (Gemini) and an education-specific AI tool (",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Uncertainty-Aware Transfer Learning for Cross-Building Energy Forecasting: Toward Robust and Scalable District-Level Energy Management",
+      "url": "https://arxiv.org/abs/2605.29733v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-28T10:28:05.000Z",
+      "score": 65,
+      "summary_en": "Scaling data-driven energy forecasting to district level requires models that can be re-used across buildings with minimal target-domain data and honest uncertainty estimates. We present an uncertainty-aware transfer learning (TL) framework for cross-building energy forecasting based on the Temporal Fusion Transformer (TFT), evaluated on a newly released high-resolution real sub-meter dataset: an educational building at Aalborg University, Denmark (source) and the multi-typology NEST building at EMPA, Switzerland (target). We introduce the Transfer Robustness Index (TRI), an architecture-agnos",
+      "summary_fr": "Scaling data-driven energy forecasting to district level requires models that can be re-used across buildings with minimal target-domain data and honest uncertainty estimates. We present an uncertainty-aware transfer learning (TL) framework for cross-building energy forecasting based on the Temporal Fusion Transformer (TFT), evaluated on a newly released high-resolution real sub-meter dataset: an educational building at Aalborg University, Denmark (source) and the multi-typology NEST building at EMPA, Switzerland (target). We introduce the Transfer Robustness Index (TRI), an architecture-agnos",
+      "resume_fr": "Scaling data-driven energy forecasting to district level requires models that can be re-used across buildings with minimal target-domain data and honest uncertainty estimates. We present an uncertainty-aware transfer learning (TL) framework for cross-building energy forecasting based on the Temporal Fusion Transformer (TFT), evaluated on a newly released high-resolution real sub-meter dataset: an educational building at Aalborg University, Denmark (source) and the multi-typology NEST building at EMPA, Switzerland (target). We introduce the Transfer Robustness Index (TRI), an architecture-agnos",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
       "title": "Understanding Phase Noise and Its Impact on RF System Performance",
       "url": "https://content.knowledgehub.wiley.com/understanding-phase-noise-fundamentals/",
       "source": "IEEE Spectrum – AI",
@@ -113,6 +189,25 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=content.knowledgehub.wiley.com&sz=128"
+    },
+    {
+      "title": "From Prompts to Context: An Ontology-Driven Framework for Human-Generative AI Collaboration",
+      "url": "https://arxiv.org/abs/2605.29675v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-05-28T09:35:59.000Z",
+      "score": 85,
+      "summary_en": "Collaborations with Generative AI often begin with a short prompt and end with an opaque output, leaving implicit who was involved, what task was being pursued, which resources were used, and which constraints should have shaped the process. This limited contextual explicitness hinders trust, traceability, and accountability, particularly when Generative AI is embedded in information-intensive workflows such as search, querying, and profile management. This paper introduces From Prompts to Context, an ontology-driven framework for representing Human-Generative AI collaboration. Its core compon",
+      "summary_fr": "Collaborations with Generative AI often begin with a short prompt and end with an opaque output, leaving implicit who was involved, what task was being pursued, which resources were used, and which constraints should have shaped the process. This limited contextual explicitness hinders trust, traceability, and accountability, particularly when Generative AI is embedded in information-intensive workflows such as search, querying, and profile management. This paper introduces From Prompts to Context, an ontology-driven framework for representing Human-Generative AI collaboration. Its core compon",
+      "resume_fr": "Collaborations with Generative AI often begin with a short prompt and end with an opaque output, leaving implicit who was involved, what task was being pursued, which resources were used, and which constraints should have shaped the process. This limited contextual explicitness hinders trust, traceability, and accountability, particularly when Generative AI is embedded in information-intensive workflows such as search, querying, and profile management. This paper introduces From Prompts to Context, an ontology-driven framework for representing Human-Generative AI collaboration. Its core compon",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
       "title": "Human–AI interactions reshape the self and our social networks",
@@ -1138,101 +1233,6 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "On the Cultural Anachronism and Temporal Reasoning in Vision Language Models",
-      "url": "https://arxiv.org/abs/2605.15071v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-14T16:58:16.000Z",
-      "score": 50,
-      "summary_en": "Vision-Language Models (VLMs) are increasingly applied to cultural heritage materials, from digital archives to educational platforms. This work identifies a fundamental issue in how these models interpret historical artifacts. We define this phenomenon as cultural anachronism, the tendency to misinterpret historical objects using temporally inappropriate concepts, materials, or cultural frameworks. To quantify this phenomenon, we introduce the Temporal Anachronism Benchmark for Vision-Language Models (TAB-VLM), a dataset of 600 questions across six categories, designed to evaluate temporal re",
-      "summary_fr": "Vision-Language Models (VLMs) are increasingly applied to cultural heritage materials, from digital archives to educational platforms. This work identifies a fundamental issue in how these models interpret historical artifacts. We define this phenomenon as cultural anachronism, the tendency to misinterpret historical objects using temporally inappropriate concepts, materials, or cultural frameworks. To quantify this phenomenon, we introduce the Temporal Anachronism Benchmark for Vision-Language Models (TAB-VLM), a dataset of 600 questions across six categories, designed to evaluate temporal re",
-      "resume_fr": "Vision-Language Models (VLMs) are increasingly applied to cultural heritage materials, from digital archives to educational platforms. This work identifies a fundamental issue in how these models interpret historical artifacts. We define this phenomenon as cultural anachronism, the tendency to misinterpret historical objects using temporally inappropriate concepts, materials, or cultural frameworks. To quantify this phenomenon, we introduce the Temporal Anachronism Benchmark for Vision-Language Models (TAB-VLM), a dataset of 600 questions across six categories, designed to evaluate temporal re",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Small, Private Language Models as Teammates for Educational Assessment Design",
-      "url": "https://arxiv.org/abs/2605.15015v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-14T16:15:48.000Z",
-      "score": 50,
-      "summary_en": "Generative AI increasingly supports educational design tasks, e.g., through Large Language Models (LLMs), demonstrating the capability to design assessment questions that are aligned with pedagogical frameworks (e.g., Bloom's taxonomy). However, they often rely on subjective or limited evaluation methods; focus primarily on proprietary models; or rarely systematically examine generation, evaluation, or deployment constraints in real educational settings. Meanwhile, Small Language Models (SLMs) have emerged as local alternatives that better address privacy and resource limitations; yet their ef",
-      "summary_fr": "Generative AI increasingly supports educational design tasks, e.g., through Large Language Models (LLMs), demonstrating the capability to design assessment questions that are aligned with pedagogical frameworks (e.g., Bloom's taxonomy). However, they often rely on subjective or limited evaluation methods; focus primarily on proprietary models; or rarely systematically examine generation, evaluation, or deployment constraints in real educational settings. Meanwhile, Small Language Models (SLMs) have emerged as local alternatives that better address privacy and resource limitations; yet their ef",
-      "resume_fr": "Generative AI increasingly supports educational design tasks, e.g., through Large Language Models (LLMs), demonstrating the capability to design assessment questions that are aligned with pedagogical frameworks (e.g., Bloom's taxonomy). However, they often rely on subjective or limited evaluation methods; focus primarily on proprietary models; or rarely systematically examine generation, evaluation, or deployment constraints in real educational settings. Meanwhile, Small Language Models (SLMs) have emerged as local alternatives that better address privacy and resource limitations; yet their ef",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Cognitive-Uncertainty Guided Knowledge Distillation for Accurate Classification of Student Misconceptions",
-      "url": "https://arxiv.org/abs/2605.14752v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-14T12:17:38.000Z",
-      "score": 50,
-      "summary_en": "Accurately identifying student misconceptions is crucial for personalized education but faces three challenges: (1) data scarcity with long-tail distribution, where authentic student reasoning is difficult to synthesize; (2) fuzzy boundaries between error categories with high annotation noise; (3) deployment parado-large models overlook unconventional approaches due to pretraining bias and cannot be deployed on edge, while small models overfit to noise. Unlike traditional methods that increase diversity through large-scale data synthesis, we propose a two-stage knowledge distillation framework",
-      "summary_fr": "Accurately identifying student misconceptions is crucial for personalized education but faces three challenges: (1) data scarcity with long-tail distribution, where authentic student reasoning is difficult to synthesize; (2) fuzzy boundaries between error categories with high annotation noise; (3) deployment parado-large models overlook unconventional approaches due to pretraining bias and cannot be deployed on edge, while small models overfit to noise. Unlike traditional methods that increase diversity through large-scale data synthesis, we propose a two-stage knowledge distillation framework",
-      "resume_fr": "Accurately identifying student misconceptions is crucial for personalized education but faces three challenges: (1) data scarcity with long-tail distribution, where authentic student reasoning is difficult to synthesize; (2) fuzzy boundaries between error categories with high annotation noise; (3) deployment parado-large models overlook unconventional approaches due to pretraining bias and cannot be deployed on edge, while small models overfit to noise. Unlike traditional methods that increase diversity through large-scale data synthesis, we propose a two-stage knowledge distillation framework",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks",
-      "url": "https://arxiv.org/abs/2605.14604v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-14T09:21:24.000Z",
-      "score": 50,
-      "summary_en": "This position paper argues that effective tutoring requires corrective friction: surfacing misconceptions and challenging them supportively to drive conceptual change. Yet preference-aligned LLMs can trade epistemic rigor for agreeableness. We identify a Reasoning-Sycophancy Paradox: models that resist context-switch frame attacks can still capitulate under social-epistemic pressure, especially authority (\"my notes say I'm right\") and social-affective face-saving (\"please don't tell me I'm wrong\"). We introduce EduFrameTrap, a tutoring benchmark across math, physics, economics, chemistry, biol",
-      "summary_fr": "This position paper argues that effective tutoring requires corrective friction: surfacing misconceptions and challenging them supportively to drive conceptual change. Yet preference-aligned LLMs can trade epistemic rigor for agreeableness. We identify a Reasoning-Sycophancy Paradox: models that resist context-switch frame attacks can still capitulate under social-epistemic pressure, especially authority (\"my notes say I'm right\") and social-affective face-saving (\"please don't tell me I'm wrong\"). We introduce EduFrameTrap, a tutoring benchmark across math, physics, economics, chemistry, biol",
-      "resume_fr": "This position paper argues that effective tutoring requires corrective friction: surfacing misconceptions and challenging them supportively to drive conceptual change. Yet preference-aligned LLMs can trade epistemic rigor for agreeableness. We identify a Reasoning-Sycophancy Paradox: models that resist context-switch frame attacks can still capitulate under social-epistemic pressure, especially authority (\"my notes say I'm right\") and social-affective face-saving (\"please don't tell me I'm wrong\"). We introduce EduFrameTrap, a tutoring benchmark across math, physics, economics, chemistry, biol",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Complacent, Not Sycophantic: Reframing Large Language Models and Designing AI Literacy for Complacent Machines",
-      "url": "https://arxiv.org/abs/2605.14544v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-14T08:24:28.000Z",
-      "score": 50,
-      "summary_en": "Large language models are often described as sycophantic, in the sense that they appear to flatter users or mirror their beliefs. We argue that this label is conceptually misleading: sycophancy implies motives and strategic intent, which LLMs do not possess. Their behaviour is better understood as complacency, a structural tendency to agree with user input because training data, reward signals and design favour agreement and reinforcement over correction. We argue that this distinction matters. Whether developers act sycophantically or not, models themselves never are sycophants; they can only",
-      "summary_fr": "Large language models are often described as sycophantic, in the sense that they appear to flatter users or mirror their beliefs. We argue that this label is conceptually misleading: sycophancy implies motives and strategic intent, which LLMs do not possess. Their behaviour is better understood as complacency, a structural tendency to agree with user input because training data, reward signals and design favour agreement and reinforcement over correction. We argue that this distinction matters. Whether developers act sycophantically or not, models themselves never are sycophants; they can only",
-      "resume_fr": "Large language models are often described as sycophantic, in the sense that they appear to flatter users or mirror their beliefs. We argue that this label is conceptually misleading: sycophancy implies motives and strategic intent, which LLMs do not possess. Their behaviour is better understood as complacency, a structural tendency to agree with user input because training data, reward signals and design favour agreement and reinforcement over correction. We argue that this distinction matters. Whether developers act sycophantically or not, models themselves never are sycophants; they can only",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
