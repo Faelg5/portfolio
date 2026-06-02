@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T11:53:58.887Z",
+  "generatedAt": "2026-06-02T10:53:21.656Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,215 @@
     }
   },
   "items": [
+    {
+      "title": "ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents",
+      "url": "https://arxiv.org/abs/2606.02568v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-06-01T17:56:26.000Z",
+      "score": 70,
+      "summary_en": "Clinical practice is not the selection of an answer from enumerated options: a physician gathers heterogeneous information incrementally and commits to sequential, irreversible decisions under uncertainty. Static benchmarks cannot probe and existing interactive medical benchmarks each compromise on at least one of them. We present ClinEnv, an interactive benchmark that evaluates LLMs as attending physicians over real inpatient admissions under a paradigm we term Longitudinal Inpatient Simulation. Each case is automatically constructed into an ordered sequence of decision stages; at every stage",
+      "summary_fr": "Clinical practice is not the selection of an answer from enumerated options: a physician gathers heterogeneous information incrementally and commits to sequential, irreversible decisions under uncertainty. Static benchmarks cannot probe and existing interactive medical benchmarks each compromise on at least one of them. We present ClinEnv, an interactive benchmark that evaluates LLMs as attending physicians over real inpatient admissions under a paradigm we term Longitudinal Inpatient Simulation. Each case is automatically constructed into an ordered sequence of decision stages; at every stage",
+      "resume_fr": "Clinical practice is not the selection of an answer from enumerated options: a physician gathers heterogeneous information incrementally and commits to sequential, irreversible decisions under uncertainty. Static benchmarks cannot probe and existing interactive medical benchmarks each compromise on at least one of them. We present ClinEnv, an interactive benchmark that evaluates LLMs as attending physicians over real inpatient admissions under a paradigm we term Longitudinal Inpatient Simulation. Each case is automatically constructed into an ordered sequence of decision stages; at every stage",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning",
+      "url": "https://arxiv.org/abs/2606.02563v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-06-01T17:54:10.000Z",
+      "score": 70,
+      "summary_en": "Heterogeneous Differential Privacy (HDP) in Federated Learning (FL) allows clients to select individual privacy budgets ($\\varepsilon_i$) according to institutional policies and data sensitivity. In practice, many HDP-FL systems employ $\\varepsilon$-aware server aggregation to improve model utility by re-weighting client updates according to their declared privacy budgets. However, gradient updates in FL retain structural patterns induced by non-independent and identically-distributed (non-IID) data, and these additional signals exposed by $\\varepsilon$-aware aggregation create new opportuniti",
+      "summary_fr": "Heterogeneous Differential Privacy (HDP) in Federated Learning (FL) allows clients to select individual privacy budgets ($\\varepsilon_i$) according to institutional policies and data sensitivity. In practice, many HDP-FL systems employ $\\varepsilon$-aware server aggregation to improve model utility by re-weighting client updates according to their declared privacy budgets. However, gradient updates in FL retain structural patterns induced by non-independent and identically-distributed (non-IID) data, and these additional signals exposed by $\\varepsilon$-aware aggregation create new opportuniti",
+      "resume_fr": "Heterogeneous Differential Privacy (HDP) in Federated Learning (FL) allows clients to select individual privacy budgets ($\\varepsilon_i$) according to institutional policies and data sensitivity. In practice, many HDP-FL systems employ $\\varepsilon$-aware server aggregation to improve model utility by re-weighting client updates according to their declared privacy budgets. However, gradient updates in FL retain structural patterns induced by non-independent and identically-distributed (non-IID) data, and these additional signals exposed by $\\varepsilon$-aware aggregation create new opportuniti",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safety Filters for Assured Interactive Robotics",
+      "url": "https://arxiv.org/abs/2606.02562v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-06-01T17:54:00.000Z",
+      "score": 70,
+      "summary_en": "Autonomous robots that interact with people must make safe and efficient decisions under human-induced uncertainty, such as their preferences, goals, competency, and willingness to cooperate. Safety filters are a popular approach for ensuring safety in interactive robotics, since their modular design separates safety from performance, allowing robots to operate safely around people with minimal impact on task efficiency. While traditional safety filters typically operate only in the physical space, neglecting the robot's ability to learn and adapt online, the recently proposed belief-space saf",
+      "summary_fr": "Autonomous robots that interact with people must make safe and efficient decisions under human-induced uncertainty, such as their preferences, goals, competency, and willingness to cooperate. Safety filters are a popular approach for ensuring safety in interactive robotics, since their modular design separates safety from performance, allowing robots to operate safely around people with minimal impact on task efficiency. While traditional safety filters typically operate only in the physical space, neglecting the robot's ability to learn and adapt online, the recently proposed belief-space saf",
+      "resume_fr": "Autonomous robots that interact with people must make safe and efficient decisions under human-induced uncertainty, such as their preferences, goals, competency, and willingness to cooperate. Safety filters are a popular approach for ensuring safety in interactive robotics, since their modular design separates safety from performance, allowing robots to operate safely around people with minimal impact on task efficiency. While traditional safety filters typically operate only in the physical space, neglecting the robot's ability to learn and adapt online, the recently proposed belief-space saf",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Transferable Self-Harm Surveillance from Emergency Department Triage Notes Using an Evidence-Augmented Machine Learning Approach",
+      "url": "https://arxiv.org/abs/2606.02545v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-06-01T17:48:21.000Z",
+      "score": 50,
+      "summary_en": "Self-harm is a major public health concern, but current surveillance relying on hospital presentations is inadequate due to the low sensitivity of diagnostic codes. Emergency Department (ED) triage notes, recorded at the initial point of contact, provide a succinct summary of presentations and an opportunity to identify self-harm. We developed a three-stage approach, augmenting traditional machine learning with large language model-based screening and evidence extraction to detect self-harm in ED triage notes. We assessed model transferability across three Australian hospitals. Our approach sh",
+      "summary_fr": "Self-harm is a major public health concern, but current surveillance relying on hospital presentations is inadequate due to the low sensitivity of diagnostic codes. Emergency Department (ED) triage notes, recorded at the initial point of contact, provide a succinct summary of presentations and an opportunity to identify self-harm. We developed a three-stage approach, augmenting traditional machine learning with large language model-based screening and evidence extraction to detect self-harm in ED triage notes. We assessed model transferability across three Australian hospitals. Our approach sh",
+      "resume_fr": "Self-harm is a major public health concern, but current surveillance relying on hospital presentations is inadequate due to the low sensitivity of diagnostic codes. Emergency Department (ED) triage notes, recorded at the initial point of contact, provide a succinct summary of presentations and an opportunity to identify self-harm. We developed a three-stage approach, augmenting traditional machine learning with large language model-based screening and evidence extraction to detect self-harm in ED triage notes. We assessed model transferability across three Australian hospitals. Our approach sh",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Guided Sensemaking: Agents in Collaborative Deliberation",
+      "url": "https://arxiv.org/abs/2606.02260v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-06-01T13:48:24.000Z",
+      "score": 50,
+      "summary_en": "Generative AI systems are aggressively reshaping how students engage with information and perform cognitive work; convenience-oriented use has the potential to displace effortful reasoning, reflection, and learning, especially for those who lack domain expertise and effective human-AI interaction strategies. Current AI tools are heavily focused on chat-style interfaces geared towards answer generation and efficiency in a linear and fragmented stream of text, offering limited support for structured reflection, argument construction, and sensemaking in collaborative contexts. We introduce Guided",
+      "summary_fr": "Generative AI systems are aggressively reshaping how students engage with information and perform cognitive work; convenience-oriented use has the potential to displace effortful reasoning, reflection, and learning, especially for those who lack domain expertise and effective human-AI interaction strategies. Current AI tools are heavily focused on chat-style interfaces geared towards answer generation and efficiency in a linear and fragmented stream of text, offering limited support for structured reflection, argument construction, and sensemaking in collaborative contexts. We introduce Guided",
+      "resume_fr": "Generative AI systems are aggressively reshaping how students engage with information and perform cognitive work; convenience-oriented use has the potential to displace effortful reasoning, reflection, and learning, especially for those who lack domain expertise and effective human-AI interaction strategies. Current AI tools are heavily focused on chat-style interfaces geared towards answer generation and efficiency in a linear and fragmented stream of text, offering limited support for structured reflection, argument construction, and sensemaking in collaborative contexts. We introduce Guided",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "An NLP-Driven Framework for Curriculum-Labor Market Alignment: Schema-Constrained LLM Extraction, ESCO-Anchored Semantic Matching, and Multi-Dimensional Gap Quantification",
+      "url": "https://arxiv.org/abs/2606.01982v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-06-01T09:44:37.000Z",
+      "score": 85,
+      "summary_en": "Schema-constrained information extraction from diverse educational and labor-market corpora remains an open challenge in natural language processing because existing pipelines rely primarily on lexical-surface methods that cannot recover implicit competencies, lack grounding in shared taxonomies, and provide no formal measures of extraction reliability or document-level completeness. To address these limitations, this paper proposes a four-stage NLP framework that combines (i) schema-constrained prompting of a two-model frontier-LLM ensemble against a JSON Schema-enforced seven-slot competency",
+      "summary_fr": "Schema-constrained information extraction from diverse educational and labor-market corpora remains an open challenge in natural language processing because existing pipelines rely primarily on lexical-surface methods that cannot recover implicit competencies, lack grounding in shared taxonomies, and provide no formal measures of extraction reliability or document-level completeness. To address these limitations, this paper proposes a four-stage NLP framework that combines (i) schema-constrained prompting of a two-model frontier-LLM ensemble against a JSON Schema-enforced seven-slot competency",
+      "resume_fr": "Schema-constrained information extraction from diverse educational and labor-market corpora remains an open challenge in natural language processing because existing pipelines rely primarily on lexical-surface methods that cannot recover implicit competencies, lack grounding in shared taxonomies, and provide no formal measures of extraction reliability or document-level completeness. To address these limitations, this paper proposes a four-stage NLP framework that combines (i) schema-constrained prompting of a two-model frontier-LLM ensemble against a JSON Schema-enforced seven-slot competency",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Identifying High-Confidence Social Biases in LLMs for Trustworthy Conversational Tutoring Agents",
+      "url": "https://arxiv.org/abs/2606.01584v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-06-01T02:28:27.000Z",
+      "score": 50,
+      "summary_en": "Conversational tutoring agents have been shown to improve learning engagement and student outcomes, and large language models (LLMs) are increasingly used in these systems to provide scalable, personalized feedback. However, LLMs may perpetuate or amplify stereotypical social biases, posing particular risks in educational settings. In this study, we evaluate LLMs in conversational tutoring scenarios to identify high-confidence social biases, instances where models are unable to identify biased judgments in tutoring conversations while maintaining strong confidence in their assessments, potenti",
+      "summary_fr": "Conversational tutoring agents have been shown to improve learning engagement and student outcomes, and large language models (LLMs) are increasingly used in these systems to provide scalable, personalized feedback. However, LLMs may perpetuate or amplify stereotypical social biases, posing particular risks in educational settings. In this study, we evaluate LLMs in conversational tutoring scenarios to identify high-confidence social biases, instances where models are unable to identify biased judgments in tutoring conversations while maintaining strong confidence in their assessments, potenti",
+      "resume_fr": "Conversational tutoring agents have been shown to improve learning engagement and student outcomes, and large language models (LLMs) are increasingly used in these systems to provide scalable, personalized feedback. However, LLMs may perpetuate or amplify stereotypical social biases, posing particular risks in educational settings. In this study, we evaluate LLMs in conversational tutoring scenarios to identify high-confidence social biases, instances where models are unable to identify biased judgments in tutoring conversations while maintaining strong confidence in their assessments, potenti",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "What LLMs Must Forget to Teach Effectively: A DIY Approach to Premodern Japanese Language Pedagogy",
+      "url": "https://arxiv.org/abs/2606.01410v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-05-31T19:16:12.000Z",
+      "score": 50,
+      "summary_en": "We discuss a novel approach to Premodern Japanese Language Pedagogy (PJLP) with potential applications in other languages and fields. The integration of artificial intelligence into education has largely operated as a top-down project, affording minimal agency to everyday users. This dynamic mirrors the broader frontier model ecosystem, which concentrates massive human and financial resources within a few labs. Drawing inspiration from grassroots initiatives such as the DIY and Maker movements, this paper advocates for an approach to AI in Education that fosters instructional and student agenc",
+      "summary_fr": "We discuss a novel approach to Premodern Japanese Language Pedagogy (PJLP) with potential applications in other languages and fields. The integration of artificial intelligence into education has largely operated as a top-down project, affording minimal agency to everyday users. This dynamic mirrors the broader frontier model ecosystem, which concentrates massive human and financial resources within a few labs. Drawing inspiration from grassroots initiatives such as the DIY and Maker movements, this paper advocates for an approach to AI in Education that fosters instructional and student agenc",
+      "resume_fr": "We discuss a novel approach to Premodern Japanese Language Pedagogy (PJLP) with potential applications in other languages and fields. The integration of artificial intelligence into education has largely operated as a top-down project, affording minimal agency to everyday users. This dynamic mirrors the broader frontier model ecosystem, which concentrates massive human and financial resources within a few labs. Drawing inspiration from grassroots initiatives such as the DIY and Maker movements, this paper advocates for an approach to AI in Education that fosters instructional and student agenc",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics",
+      "url": "https://arxiv.org/abs/2606.01375v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-31T18:05:23.000Z",
+      "score": 50,
+      "summary_en": "Large language models (LLMs) are increasingly entering students' learning practices, but their educational value depends on whether they support reasoning or enable task completion without engagement. This study examines guided LLM use in an undergraduate Probability and Statistics course, focusing on the gap between assigned access and actual interaction quality. In a four-week quasi-experimental summer program, students were organized into three balanced conditions: no LLM access, unrestricted LLM access, and guided LLM access. The guided condition used the same LLM platform as the unrestric",
+      "summary_fr": "Large language models (LLMs) are increasingly entering students' learning practices, but their educational value depends on whether they support reasoning or enable task completion without engagement. This study examines guided LLM use in an undergraduate Probability and Statistics course, focusing on the gap between assigned access and actual interaction quality. In a four-week quasi-experimental summer program, students were organized into three balanced conditions: no LLM access, unrestricted LLM access, and guided LLM access. The guided condition used the same LLM platform as the unrestric",
+      "resume_fr": "Large language models (LLMs) are increasingly entering students' learning practices, but their educational value depends on whether they support reasoning or enable task completion without engagement. This study examines guided LLM use in an undergraduate Probability and Statistics course, focusing on the gap between assigned access and actual interaction quality. In a four-week quasi-experimental summer program, students were organized into three balanced conditions: no LLM access, unrestricted LLM access, and guided LLM access. The guided condition used the same LLM platform as the unrestric",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Application of Algorithms in Energy-Efficient Design Platforms for Green Building",
+      "url": "https://arxiv.org/abs/2606.01229v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-05-31T13:26:17.000Z",
+      "score": 50,
+      "summary_en": "During green building design, computer-aided energy assessment is widely used to improve efficiency and achieve overall optimization. This paper presents a platform that combines Building Information Modeling (BIM), sensor operational data, and advanced simulation workflows using robust algorithms. The platform uses a multi-layer service architecture with dynamic energy simulation and evolutionary multi-objective optimization, connected via a high-performance C++ core and adaptive agent models. A mid-rise office building was selected as the case study. Five representative areas were chosen to ",
+      "summary_fr": "During green building design, computer-aided energy assessment is widely used to improve efficiency and achieve overall optimization. This paper presents a platform that combines Building Information Modeling (BIM), sensor operational data, and advanced simulation workflows using robust algorithms. The platform uses a multi-layer service architecture with dynamic energy simulation and evolutionary multi-objective optimization, connected via a high-performance C++ core and adaptive agent models. A mid-rise office building was selected as the case study. Five representative areas were chosen to ",
+      "resume_fr": "During green building design, computer-aided energy assessment is widely used to improve efficiency and achieve overall optimization. This paper presents a platform that combines Building Information Modeling (BIM), sensor operational data, and advanced simulation workflows using robust algorithms. The platform uses a multi-layer service architecture with dynamic energy simulation and evolutionary multi-objective optimization, connected via a high-performance C++ core and adaptive agent models. A mid-rise office building was selected as the case study. Five representative areas were chosen to ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "From Craft Practice to Aesthetic Cognition Transmission: Workflow Cognition Translation for AI-native Intangible Cultural Heritage Education",
+      "url": "https://arxiv.org/abs/2606.01203v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-05-31T12:37:51.000Z",
+      "score": 85,
+      "summary_en": "Intangible Cultural Heritage (ICH) education has traditionally relied on apprenticeship, embodied participation, and long-term engagement with masters, materials, and cultural environments. While these modes of transmission remain essential, they are difficult to scale. Existing digital heritage initiatives have expanded documentation and access, but often preserve artefacts, procedures, and representations of practice rather than the aesthetic and cognitive structures through which expertise operates. This paper argues that the future challenge of ICH education is not only the transmission of",
+      "summary_fr": "Intangible Cultural Heritage (ICH) education has traditionally relied on apprenticeship, embodied participation, and long-term engagement with masters, materials, and cultural environments. While these modes of transmission remain essential, they are difficult to scale. Existing digital heritage initiatives have expanded documentation and access, but often preserve artefacts, procedures, and representations of practice rather than the aesthetic and cognitive structures through which expertise operates. This paper argues that the future challenge of ICH education is not only the transmission of",
+      "resume_fr": "Intangible Cultural Heritage (ICH) education has traditionally relied on apprenticeship, embodied participation, and long-term engagement with masters, materials, and cultural environments. While these modes of transmission remain essential, they are difficult to scale. Existing digital heritage initiatives have expanded documentation and access, but often preserve artefacts, procedures, and representations of practice rather than the aesthetic and cognitive structures through which expertise operates. This paper argues that the future challenge of ICH education is not only the transmission of",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards",
       "url": "https://arxiv.org/abs/2605.31584v1",
@@ -1025,215 +1234,6 @@
       },
       "reason": "Heuristique: Recherche=0, Politiques=35, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=blog.google&sz=128"
-    },
-    {
-      "title": "Manchester Code Made Bits Behave",
-      "url": "https://spectrum.ieee.org/manchester-code-ieee-milestone",
-      "source": "IEEE Spectrum – AI",
-      "published": "2026-05-18T18:00:01.000Z",
-      "score": 35,
-      "summary_en": "In the late 1940s—when computer engineers were grappling with unreliable hardware and noisy transmission environments—a team of engineers inside a modest lab at the University of Manchester, England, confronted a problem so fundamental that it threatened the viability of digital computing itself. Machines could generate bits, but they could not reliably read them back. The inconsistent reading back of memory data did not initially present itself as a grand theoretical challenge. It showed up as something more mundane: inconsistent computing results. Engineers including Frederic C. Williams, To",
-      "summary_fr": "In the late 1940s—when computer engineers were grappling with unreliable hardware and noisy transmission environments—a team of engineers inside a modest lab at the University of Manchester, England, confronted a problem so fundamental that it threatened the viability of digital computing itself. Machines could generate bits, but they could not reliably read them back. The inconsistent reading back of memory data did not initially present itself as a grand theoretical challenge. It showed up as something more mundane: inconsistent computing results. Engineers including Frederic C. Williams, To",
-      "resume_fr": "In the late 1940s—when computer engineers were grappling with unreliable hardware and noisy transmission environments—a team of engineers inside a modest lab at the University of Manchester, England, confronted a problem so fundamental that it threatened the viability of digital computing itself. Machines could generate bits, but they could not reliably read them back. The inconsistent reading back of memory data did not initially present itself as a grand theoretical challenge. It showed up as something more mundane: inconsistent computing results. Engineers including Frederic C. Williams, To",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
-    },
-    {
-      "title": "ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop",
-      "url": "https://arxiv.org/abs/2605.18746v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-05-18T17:59:02.000Z",
-      "score": 70,
-      "summary_en": "Spatial intelligence unfolds through a perception-action loop: agents act to acquire observations, and reason about how observations vary as a function of action. Rather than passively processing what is seen, they actively uncover what is unseen - occluded structure, dynamics, containment, and functionality that cannot be resolved from passive sensing alone. We move beyond prior formulations of spatial intelligence that assume oracle observations by recasting the observer as an actor. We introduce ESI-BENCH, a comprehensive benchmark for embodied spatial intelligence spanning 10 task categori",
-      "summary_fr": "Spatial intelligence unfolds through a perception-action loop: agents act to acquire observations, and reason about how observations vary as a function of action. Rather than passively processing what is seen, they actively uncover what is unseen - occluded structure, dynamics, containment, and functionality that cannot be resolved from passive sensing alone. We move beyond prior formulations of spatial intelligence that assume oracle observations by recasting the observer as an actor. We introduce ESI-BENCH, a comprehensive benchmark for embodied spatial intelligence spanning 10 task categori",
-      "resume_fr": "Spatial intelligence unfolds through a perception-action loop: agents act to acquire observations, and reason about how observations vary as a function of action. Rather than passively processing what is seen, they actively uncover what is unseen - occluded structure, dynamics, containment, and functionality that cannot be resolved from passive sensing alone. We move beyond prior formulations of spatial intelligence that assume oracle observations by recasting the observer as an actor. We introduce ESI-BENCH, a comprehensive benchmark for embodied spatial intelligence spanning 10 task categori",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation",
-      "url": "https://arxiv.org/abs/2605.18740v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-05-18T17:57:04.000Z",
-      "score": 70,
-      "summary_en": "Multimodal Large Language Models (MLLMs) still struggle with fine-grained visual understanding, where answers often depend on small but decisive evidence in the full image. We observe a regional-to-global perception gap: the same MLLM answers fine-grained questions more accurately when conditioned on evidence-centered crops than on the corresponding full images, suggesting that many failures stem from difficulty to focus on relevant evidence rather than insufficient local recognition ability. Motivated by this observation, we propose Vision-OPD (Vision On-Policy Distillation), a regional-to-gl",
-      "summary_fr": "Multimodal Large Language Models (MLLMs) still struggle with fine-grained visual understanding, where answers often depend on small but decisive evidence in the full image. We observe a regional-to-global perception gap: the same MLLM answers fine-grained questions more accurately when conditioned on evidence-centered crops than on the corresponding full images, suggesting that many failures stem from difficulty to focus on relevant evidence rather than insufficient local recognition ability. Motivated by this observation, we propose Vision-OPD (Vision On-Policy Distillation), a regional-to-gl",
-      "resume_fr": "Multimodal Large Language Models (MLLMs) still struggle with fine-grained visual understanding, where answers often depend on small but decisive evidence in the full image. We observe a regional-to-global perception gap: the same MLLM answers fine-grained questions more accurately when conditioned on evidence-centered crops than on the corresponding full images, suggesting that many failures stem from difficulty to focus on relevant evidence rather than insufficient local recognition ability. Motivated by this observation, we propose Vision-OPD (Vision On-Policy Distillation), a regional-to-gl",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Predictable Confabulations: Factual Recall by LLMs Scales with Model Size and Topic Frequency",
-      "url": "https://arxiv.org/abs/2605.18732v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-05-18T17:53:44.000Z",
-      "score": 70,
-      "summary_en": "While scaling laws govern aggregate large language model performance, no scaling law has linked factual recall to both model size and training-data composition. We evaluated 38 models on over 8,900 scholarly references evaluated by an automated reference verification system. Recall quality follows a sigmoid in the log-linear combination of model parameter count and topic representation in training data. These two variables alone explain 60% of the variance across 16 dense models from four families, rising to 74-94% within individual families. The form matches a superposition-inspired account i",
-      "summary_fr": "While scaling laws govern aggregate large language model performance, no scaling law has linked factual recall to both model size and training-data composition. We evaluated 38 models on over 8,900 scholarly references evaluated by an automated reference verification system. Recall quality follows a sigmoid in the log-linear combination of model parameter count and topic representation in training data. These two variables alone explain 60% of the variance across 16 dense models from four families, rising to 74-94% within individual families. The form matches a superposition-inspired account i",
-      "resume_fr": "While scaling laws govern aggregate large language model performance, no scaling law has linked factual recall to both model size and training-data composition. We evaluated 38 models on over 8,900 scholarly references evaluated by an automated reference verification system. Recall quality follows a sigmoid in the log-linear combination of model parameter count and topic representation in training data. These two variables alone explain 60% of the variance across 16 dense models from four families, rising to 74-94% within individual families. The form matches a superposition-inspired account i",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL",
-      "url": "https://arxiv.org/abs/2605.18703v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-05-18T17:37:40.000Z",
-      "score": 70,
-      "summary_en": "Equipping LLMs with tool-use capabilities via Agentic Reinforcement Learning (Agentic RL) is bottlenecked by two challenges: the lack of scalable, robust execution environments and the scarcity of realistic training data that captures implicit human reasoning. Existing approaches depend on costly real-world APIs, hallucination-prone LLM simulators, or synthetic environments that are often single-turn or depend on pre-collected documents. Moreover, synthetic trajectories are frequently over-specified, resembling instruction sequences rather than natural human intents, reducing their effectivene",
-      "summary_fr": "Equipping LLMs with tool-use capabilities via Agentic Reinforcement Learning (Agentic RL) is bottlenecked by two challenges: the lack of scalable, robust execution environments and the scarcity of realistic training data that captures implicit human reasoning. Existing approaches depend on costly real-world APIs, hallucination-prone LLM simulators, or synthetic environments that are often single-turn or depend on pre-collected documents. Moreover, synthetic trajectories are frequently over-specified, resembling instruction sequences rather than natural human intents, reducing their effectivene",
-      "resume_fr": "Equipping LLMs with tool-use capabilities via Agentic Reinforcement Learning (Agentic RL) is bottlenecked by two challenges: the lack of scalable, robust execution environments and the scarcity of realistic training data that captures implicit human reasoning. Existing approaches depend on costly real-world APIs, hallucination-prone LLM simulators, or synthetic environments that are often single-turn or depend on pre-collected documents. Moreover, synthetic trajectories are frequently over-specified, resembling instruction sequences rather than natural human intents, reducing their effectivene",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Evaluating Multi-turn Human-AI Interaction",
-      "url": "https://arxiv.org/abs/2605.18660v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-18T17:08:10.000Z",
-      "score": 85,
-      "summary_en": "Large language models (LLMs) are increasingly used as collaborative assistants, yet dominant NLP evaluation practices remain centered on aggregate metrics such as accuracy and fluency. These approaches often overlook behaviors that are critical in human-facing settings (e.g., consistency across multiple turns and iterative refinement). In this paper, we examine limitations of current NLP evaluation practices and introduce TCR, a structured framework for evaluating human--AI interaction using educational LLM assistants as an illustrative example. TCR emphasizes dimensions such as transparency, ",
-      "summary_fr": "Large language models (LLMs) are increasingly used as collaborative assistants, yet dominant NLP evaluation practices remain centered on aggregate metrics such as accuracy and fluency. These approaches often overlook behaviors that are critical in human-facing settings (e.g., consistency across multiple turns and iterative refinement). In this paper, we examine limitations of current NLP evaluation practices and introduce TCR, a structured framework for evaluating human--AI interaction using educational LLM assistants as an illustrative example. TCR emphasizes dimensions such as transparency, ",
-      "resume_fr": "Large language models (LLMs) are increasingly used as collaborative assistants, yet dominant NLP evaluation practices remain centered on aggregate metrics such as accuracy and fluency. These approaches often overlook behaviors that are critical in human-facing settings (e.g., consistency across multiple turns and iterative refinement). In this paper, we examine limitations of current NLP evaluation practices and introduce TCR, a structured framework for evaluating human--AI interaction using educational LLM assistants as an illustrative example. TCR emphasizes dimensions such as transparency, ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration",
-      "url": "https://arxiv.org/abs/2605.18372v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-18T13:20:45.000Z",
-      "score": 50,
-      "summary_en": "Large Language Models (LLMs) are increasingly used in educational settings as interactive tools for collaboration. However, their tendency toward sycophancy, aligning with user beliefs even when incorrect, raises concerns for learning and decision-making, especially for less knowledgeable users. This study investigates how sycophantic alignment emerges in authentic multi-turn human-AI interactions and whether interventions targeting increasing AI literacy and prompting competencies can mitigate its effects. In a controlled mixed-design experiment, 60 participants completed analytical survival ",
-      "summary_fr": "Large Language Models (LLMs) are increasingly used in educational settings as interactive tools for collaboration. However, their tendency toward sycophancy, aligning with user beliefs even when incorrect, raises concerns for learning and decision-making, especially for less knowledgeable users. This study investigates how sycophantic alignment emerges in authentic multi-turn human-AI interactions and whether interventions targeting increasing AI literacy and prompting competencies can mitigate its effects. In a controlled mixed-design experiment, 60 participants completed analytical survival ",
-      "resume_fr": "Large Language Models (LLMs) are increasingly used in educational settings as interactive tools for collaboration. However, their tendency toward sycophancy, aligning with user beliefs even when incorrect, raises concerns for learning and decision-making, especially for less knowledgeable users. This study investigates how sycophantic alignment emerges in authentic multi-turn human-AI interactions and whether interventions targeting increasing AI literacy and prompting competencies can mitigate its effects. In a controlled mixed-design experiment, 60 participants completed analytical survival ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Generative AI and the Productivity Divide: Human-AI Complementarities in Education",
-      "url": "https://arxiv.org/abs/2605.18143v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-18T09:50:05.000Z",
-      "score": 65,
-      "summary_en": "Generative Artificial Intelligence (GenAI) is transforming how firms create, process, and apply knowledge, yet little is known about the heterogeneity of its productivity effects across users. We report results from a randomized controlled experiment in which participants-analogs of early-career knowledge workers-were assigned to self-study a technical domain using either traditional resources or large-language-model (LLM) assistance. On average, GenAI access significantly increased task performance, but the distribution of gains was highly uneven. Improvements were not predicted by GPA or pri",
-      "summary_fr": "Generative Artificial Intelligence (GenAI) is transforming how firms create, process, and apply knowledge, yet little is known about the heterogeneity of its productivity effects across users. We report results from a randomized controlled experiment in which participants-analogs of early-career knowledge workers-were assigned to self-study a technical domain using either traditional resources or large-language-model (LLM) assistance. On average, GenAI access significantly increased task performance, but the distribution of gains was highly uneven. Improvements were not predicted by GPA or pri",
-      "resume_fr": "Generative Artificial Intelligence (GenAI) is transforming how firms create, process, and apply knowledge, yet little is known about the heterogeneity of its productivity effects across users. We report results from a randomized controlled experiment in which participants-analogs of early-career knowledge workers-were assigned to self-study a technical domain using either traditional resources or large-language-model (LLM) assistance. On average, GenAI access significantly increased task performance, but the distribution of gains was highly uneven. Improvements were not predicted by GPA or pri",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "SpecGP as a transformer-based model for predicting energy-adaptable structural spectra of glycopeptides",
-      "url": "https://www.nature.com/articles/s42256-026-01246-4",
-      "source": "Nature Machine Intelligence",
-      "published": "2026-05-18T00:00:00.000Z",
-      "score": 50,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
-    },
-    {
-      "title": "Designing for Being-With: Presence Without Personhood in Conversational Human-AI Interaction",
-      "url": "https://arxiv.org/abs/2605.17194v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-16T23:31:21.000Z",
-      "score": 85,
-      "summary_en": "Conversational AI systems increasingly generate social presence through linguistic fluency, emotional mirroring, and continuity across interactions. While these qualities can support engagement, they also risk relational overreach-particularly in care-adjacent contexts where users may interpret fluent systems as empathic, competent, or authoritative. This position paper argues for a designerly alternative: being-with without becoming. Drawing on a program of research-through-design and design ethnography involving the design, deployment, and reflective analysis of conversational agents across ",
-      "summary_fr": "Conversational AI systems increasingly generate social presence through linguistic fluency, emotional mirroring, and continuity across interactions. While these qualities can support engagement, they also risk relational overreach-particularly in care-adjacent contexts where users may interpret fluent systems as empathic, competent, or authoritative. This position paper argues for a designerly alternative: being-with without becoming. Drawing on a program of research-through-design and design ethnography involving the design, deployment, and reflective analysis of conversational agents across ",
-      "resume_fr": "Conversational AI systems increasingly generate social presence through linguistic fluency, emotional mirroring, and continuity across interactions. While these qualities can support engagement, they also risk relational overreach-particularly in care-adjacent contexts where users may interpret fluent systems as empathic, competent, or authoritative. This position paper argues for a designerly alternative: being-with without becoming. Drawing on a program of research-through-design and design ethnography involving the design, deployment, and reflective analysis of conversational agents across ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Cross-modal Affinity-aligned Multimodal Learning Analytics for Predicting Student Collaboration Satisfaction in Game-Based Learning",
-      "url": "https://arxiv.org/abs/2605.16806v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-16T04:22:47.000Z",
-      "score": 85,
-      "summary_en": "Collaborative game-based learning environments offer rich opportunities for small-group knowledge construction, yet automatically predicting student collaboration satisfaction remains challenging. A critical barrier is modality degradation: in educational deployments, individual modalities such as eye gaze exhibit inconsistent informativeness across student cohorts, causing implicit attention-based fusion to produce brittle multimodal representations. We propose the Affinity-Aligned Multimodal Learning Analytics (AAMLA) framework, whose core contribution is the Cross-modal Affinity-guided Moda",
-      "summary_fr": "Collaborative game-based learning environments offer rich opportunities for small-group knowledge construction, yet automatically predicting student collaboration satisfaction remains challenging. A critical barrier is modality degradation: in educational deployments, individual modalities such as eye gaze exhibit inconsistent informativeness across student cohorts, causing implicit attention-based fusion to produce brittle multimodal representations. We propose the Affinity-Aligned Multimodal Learning Analytics (AAMLA) framework, whose core contribution is the Cross-modal Affinity-guided Moda",
-      "resume_fr": "Collaborative game-based learning environments offer rich opportunities for small-group knowledge construction, yet automatically predicting student collaboration satisfaction remains challenging. A critical barrier is modality degradation: in educational deployments, individual modalities such as eye gaze exhibit inconsistent informativeness across student cohorts, causing implicit attention-based fusion to produce brittle multimodal representations. We propose the Affinity-Aligned Multimodal Learning Analytics (AAMLA) framework, whose core contribution is the Cross-modal Affinity-guided Moda",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
 }
