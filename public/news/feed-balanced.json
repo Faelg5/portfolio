@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T10:53:21.656Z",
+  "generatedAt": "2026-06-03T11:21:28.926Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,25 @@
     }
   },
   "items": [
+    {
+      "title": "Cleveland Institute of Art's Interactive Media Lab Redefines What an Art School Can Be",
+      "url": "https://edtechmagazine.com/higher/media/video/cleveland-institute-arts-interactive-media-lab-redefines-what-art-school-can-be",
+      "source": "EdTech Magazine (Higher Ed)",
+      "published": "2026-06-02T17:42:15.000Z",
+      "score": 50,
+      "summary_en": "The landscape for specialized colleges and universities such as art schools is shifting as higher education continues to evolve to fit emerging job markets and student interest. Founded in 1882, Cleveland Institute of Art continuously challenges itself to stay modern and relevant. Years ago, the school’s leadership had the vision to partner with the city to revitalize an area due for reinvigoration. The result was the Interactive Media Lab, which brings together the university, the city and private industry into a satellite campus that gives students and the community a space to…",
+      "summary_fr": "The landscape for specialized colleges and universities such as art schools is shifting as higher education continues to evolve to fit emerging job markets and student interest. Founded in 1882, Cleveland Institute of Art continuously challenges itself to stay modern and relevant. Years ago, the school’s leadership had the vision to partner with the city to revitalize an area due for reinvigoration. The result was the Interactive Media Lab, which brings together the university, the city and private industry into a satellite campus that gives students and the community a space to…",
+      "resume_fr": "The landscape for specialized colleges and universities such as art schools is shifting as higher education continues to evolve to fit emerging job markets and student interest. Founded in 1882, Cleveland Institute of Art continuously challenges itself to stay modern and relevant. Years ago, the school’s leadership had the vision to partner with the city to revitalize an area due for reinvigoration. The result was the Interactive Media Lab, which brings together the university, the city and private industry into a satellite campus that gives students and the community a space to…",
+      "tags": [],
+      "breakdown": {
+        "research": 0,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=edtechmagazine.com&sz=128"
+    },
     {
       "title": "ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents",
       "url": "https://arxiv.org/abs/2606.02568v1",
@@ -1215,25 +1234,6 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Measuring the impact of AI on teaching and learning",
-      "url": "https://blog.google/products-and-platforms/products/education/measuring-the-impact-of-ai-on-teaching-and-learning/",
-      "source": "Google for Education – Blog",
-      "published": "2026-05-19T07:00:00.000Z",
-      "score": 50,
-      "summary_en": "Two new studies in Sierra Leone and Italy demonstrate how Gemini is improving learning outcomes.",
-      "summary_fr": "Two new studies in Sierra Leone and Italy demonstrate how Gemini is improving learning outcomes.",
-      "resume_fr": "Two new studies in Sierra Leone and Italy demonstrate how Gemini is improving learning outcomes.",
-      "tags": [],
-      "breakdown": {
-        "research": 0,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=blog.google&sz=128"
     }
   ]
 }
