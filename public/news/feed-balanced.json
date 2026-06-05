@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-04T10:10:55.727Z",
+  "generatedAt": "2026-06-05T10:12:15.405Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
-  "totalAnalyzed": 54,
+  "totalAnalyzed": 100,
   "totalPublished": 60,
   "publishTarget": "default",
   "debug": {
@@ -96,6 +96,63 @@
   },
   "items": [
     {
+      "title": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery",
+      "url": "https://arxiv.org/abs/2606.06473v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-06-04T17:55:59.000Z",
+      "score": 70,
+      "summary_en": "Large language model (LLM) agents are increasingly applied to long-horizon tasks such as scientific discovery and machine learning engineering (MLE), where sustained self-evolution becomes a key capability. However, existing MLE agents suffer from inter-branch information isolation, memoryless search, and lack of hierarchical control, which together hinder long-horizon optimization. We present MLEvolve, an LLM-based self-evolving multi-agent framework for end-to-end machine learning algorithm discovery. By extending tree search to Progressive MCGS, MLEvolve enables cross-branch information flo",
+      "summary_fr": "Large language model (LLM) agents are increasingly applied to long-horizon tasks such as scientific discovery and machine learning engineering (MLE), where sustained self-evolution becomes a key capability. However, existing MLE agents suffer from inter-branch information isolation, memoryless search, and lack of hierarchical control, which together hinder long-horizon optimization. We present MLEvolve, an LLM-based self-evolving multi-agent framework for end-to-end machine learning algorithm discovery. By extending tree search to Progressive MCGS, MLEvolve enables cross-branch information flo",
+      "resume_fr": "Large language model (LLM) agents are increasingly applied to long-horizon tasks such as scientific discovery and machine learning engineering (MLE), where sustained self-evolution becomes a key capability. However, existing MLE agents suffer from inter-branch information isolation, memoryless search, and lack of hierarchical control, which together hinder long-horizon optimization. We present MLEvolve, an LLM-based self-evolving multi-agent framework for end-to-end machine learning algorithm discovery. By extending tree search to Progressive MCGS, MLEvolve enables cross-branch information flo",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Human Adults and LLMs as Scientists: Who Benefits from Active Exploration?",
+      "url": "https://arxiv.org/abs/2606.06464v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-06-04T17:53:36.000Z",
+      "score": 70,
+      "summary_en": "A long-standing finding in the causal learning literature is that adults struggle to identify conjunctive causal rules, where an effect requires the simultaneous presence of multiple causes, while performing better in disjunctive settings. However, most demonstrations of this ``conjunctive handicap'' rely on passive observation paradigms with limited evidence, where learners have no control over evidence generation. This paper asks whether this bias persists when adults are granted agency through active exploration. Using a modified ``blicket detector'' task, adult participants freely interven",
+      "summary_fr": "A long-standing finding in the causal learning literature is that adults struggle to identify conjunctive causal rules, where an effect requires the simultaneous presence of multiple causes, while performing better in disjunctive settings. However, most demonstrations of this ``conjunctive handicap'' rely on passive observation paradigms with limited evidence, where learners have no control over evidence generation. This paper asks whether this bias persists when adults are granted agency through active exploration. Using a modified ``blicket detector'' task, adult participants freely interven",
+      "resume_fr": "A long-standing finding in the causal learning literature is that adults struggle to identify conjunctive causal rules, where an effect requires the simultaneous presence of multiple causes, while performing better in disjunctive settings. However, most demonstrations of this ``conjunctive handicap'' rely on passive observation paradigms with limited evidence, where learners have no control over evidence generation. This paper asks whether this bias persists when adults are granted agency through active exploration. Using a modified ``blicket detector'' task, adult participants freely interven",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "The Role of Instructional Guidance in Generative AI-Assisted Learning: Empirical Evidence from Construction Engineering Education",
+      "url": "https://arxiv.org/abs/2606.05509v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-06-03T23:27:46.000Z",
+      "score": 85,
+      "summary_en": "Generative artificial intelligence (AI) is increasingly used to support self-directed learning, yet student interaction with such systems often remains unstructured, limiting engagement in deeper cognitive processes. This study examines how instructional guidance shapes student and AI interaction in construction education. A five-step prompting framework grounded in Generative Learning Theory (GLT) is introduced to guide learner interaction during review activities. A controlled experiment compares three learning conditions: slide-based learning, unprompted AI-supported learning, and prompted ",
+      "summary_fr": "Generative artificial intelligence (AI) is increasingly used to support self-directed learning, yet student interaction with such systems often remains unstructured, limiting engagement in deeper cognitive processes. This study examines how instructional guidance shapes student and AI interaction in construction education. A five-step prompting framework grounded in Generative Learning Theory (GLT) is introduced to guide learner interaction during review activities. A controlled experiment compares three learning conditions: slide-based learning, unprompted AI-supported learning, and prompted ",
+      "resume_fr": "Generative artificial intelligence (AI) is increasingly used to support self-directed learning, yet student interaction with such systems often remains unstructured, limiting engagement in deeper cognitive processes. This study examines how instructional guidance shapes student and AI interaction in construction education. A five-step prompting framework grounded in Generative Learning Theory (GLT) is introduced to guide learner interaction during review activities. A controlled experiment compares three learning conditions: slide-based learning, unprompted AI-supported learning, and prompted ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
       "title": "Cleveland Institute of Art's Interactive Media Lab Redefines What an Art School Can Be",
       "url": "https://edtechmagazine.com/higher/media/video/cleveland-institute-arts-interactive-media-lab-redefines-what-art-school-can-be",
       "source": "EdTech Magazine (Higher Ed)",
@@ -113,6 +170,44 @@
       },
       "reason": "Heuristique: Recherche=0, Politiques=35, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=edtechmagazine.com&sz=128"
+    },
+    {
+      "title": "From Explanation to Diagnosis: Next Generation Interactive Video Coach with Misstep Awareness",
+      "url": "https://arxiv.org/abs/2606.02970v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-06-02T00:15:51.000Z",
+      "score": 85,
+      "summary_en": "Intelligent tutoring systems excel at generating explanations but rarely provide principled diagnosis of where and why a learner is wrong. We introduce a misstep-aware coaching capability for Ivy, a neurosymbolic AI coach, built on a two-model architecture that augments a Task-Method-Knowledge (TMK) model with a new Pedagogical Model (PM) in the context of an online graduate AI course at Georgia Tech. The PM makes instructor diagnostic knowledge explicit and machine-readable by encoding, for each quiz question and incorrect response, the learner's underlying belief(a brief statement of the inc",
+      "summary_fr": "Intelligent tutoring systems excel at generating explanations but rarely provide principled diagnosis of where and why a learner is wrong. We introduce a misstep-aware coaching capability for Ivy, a neurosymbolic AI coach, built on a two-model architecture that augments a Task-Method-Knowledge (TMK) model with a new Pedagogical Model (PM) in the context of an online graduate AI course at Georgia Tech. The PM makes instructor diagnostic knowledge explicit and machine-readable by encoding, for each quiz question and incorrect response, the learner's underlying belief(a brief statement of the inc",
+      "resume_fr": "Intelligent tutoring systems excel at generating explanations but rarely provide principled diagnosis of where and why a learner is wrong. We introduce a misstep-aware coaching capability for Ivy, a neurosymbolic AI coach, built on a two-model architecture that augments a Task-Method-Knowledge (TMK) model with a new Pedagogical Model (PM) in the context of an online graduate AI course at Georgia Tech. The PM makes instructor diagnostic knowledge explicit and machine-readable by encoding, for each quiz question and incorrect response, the learner's underlying belief(a brief statement of the inc",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Characterization and Effects of CS2 Learning with GenAI, Visualization, and Human Support",
+      "url": "https://arxiv.org/abs/2606.02933v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-06-01T22:31:44.000Z",
+      "score": 85,
+      "summary_en": "Generative AI (GenAI) is becoming a widely adopted learning support tool for both students and instructors, as it offers benefits such as personalized tutoring and scaffolded learning. However, recent research highlights potential drawbacks such as overreliance and metacognitive issues, especially in novice programmers. Most prior work focuses on introductory programming courses, and important questions remain about the underlying mechanisms behind the negative effects of GenAI and if findings can be generalized when students learn more advanced computer science concepts. To address this gap, ",
+      "summary_fr": "Generative AI (GenAI) is becoming a widely adopted learning support tool for both students and instructors, as it offers benefits such as personalized tutoring and scaffolded learning. However, recent research highlights potential drawbacks such as overreliance and metacognitive issues, especially in novice programmers. Most prior work focuses on introductory programming courses, and important questions remain about the underlying mechanisms behind the negative effects of GenAI and if findings can be generalized when students learn more advanced computer science concepts. To address this gap, ",
+      "resume_fr": "Generative AI (GenAI) is becoming a widely adopted learning support tool for both students and instructors, as it offers benefits such as personalized tutoring and scaffolded learning. However, recent research highlights potential drawbacks such as overreliance and metacognitive issues, especially in novice programmers. Most prior work focuses on introductory programming courses, and important questions remain about the underlying mechanisms behind the negative effects of GenAI and if findings can be generalized when students learn more advanced computer science concepts. To address this gap, ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
       "title": "ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents",
@@ -1138,101 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Teaching AI Through Benchmark Construction: QuestBench as a Course-Based Practice for Accountable Knowledge Work",
-      "url": "https://arxiv.org/abs/2605.21413v2",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-20T17:09:56.000Z",
-      "score": 85,
-      "summary_en": "As AI becomes part of everyday learning, many courses teach students to use it mainly as a productivity tool: how to prompt, search, summarize, write, code, and use tools more efficiently. We argue that AI education also needs a setting in which students learn to test AI and understand their own role in judging machine-produced knowledge. To this end, we introduce a course-based practice that teaches AI through benchmark construction, using deep research systems as a concrete example of AI-era knowledge work. Students turn disciplinary knowledge into verifiable expert-level questions, review o",
-      "summary_fr": "As AI becomes part of everyday learning, many courses teach students to use it mainly as a productivity tool: how to prompt, search, summarize, write, code, and use tools more efficiently. We argue that AI education also needs a setting in which students learn to test AI and understand their own role in judging machine-produced knowledge. To this end, we introduce a course-based practice that teaches AI through benchmark construction, using deep research systems as a concrete example of AI-era knowledge work. Students turn disciplinary knowledge into verifiable expert-level questions, review o",
-      "resume_fr": "As AI becomes part of everyday learning, many courses teach students to use it mainly as a productivity tool: how to prompt, search, summarize, write, code, and use tools more efficiently. We argue that AI education also needs a setting in which students learn to test AI and understand their own role in judging machine-produced knowledge. To this end, we introduce a course-based practice that teaches AI through benchmark construction, using deep research systems as a concrete example of AI-era knowledge work. Students turn disciplinary knowledge into verifiable expert-level questions, review o",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom",
-      "url": "https://arxiv.org/abs/2605.21374v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-20T16:37:07.000Z",
-      "score": 50,
-      "summary_en": "Background and Context: Large Language Models (LLMs) are more accessible and accurate than ever before, raising significant concerns for computing educators. One major concern is students using LLMs to bypass the effort needed to understand concepts and metacognitive strategies essential for success in computer science. Objectives: We contribute a unique approach to assessing and building up student understanding through weekly oral code review assessments. These formative assessments incentivize students to understand their submitted code, regardless of whether or not the code was generated b",
-      "summary_fr": "Background and Context: Large Language Models (LLMs) are more accessible and accurate than ever before, raising significant concerns for computing educators. One major concern is students using LLMs to bypass the effort needed to understand concepts and metacognitive strategies essential for success in computer science. Objectives: We contribute a unique approach to assessing and building up student understanding through weekly oral code review assessments. These formative assessments incentivize students to understand their submitted code, regardless of whether or not the code was generated b",
-      "resume_fr": "Background and Context: Large Language Models (LLMs) are more accessible and accurate than ever before, raising significant concerns for computing educators. One major concern is students using LLMs to bypass the effort needed to understand concepts and metacognitive strategies essential for success in computer science. Objectives: We contribute a unique approach to assessing and building up student understanding through weekly oral code review assessments. These formative assessments incentivize students to understand their submitted code, regardless of whether or not the code was generated b",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Gen-AI-tecture: using generative AI to support architectural students in design tasks",
-      "url": "https://arxiv.org/abs/2605.21361v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-20T16:24:59.000Z",
-      "score": 50,
-      "summary_en": "The \"Gen-AI-tecture\" project embeds a locally executed, discipline-specific tool into a mixed-methods focus-group design, structured around three research objectives: (a) to evaluate how generative AI tools impact students' creativity in design-thinking processes and outcomes, (b) to assess whether these tools enhance inclusivity in learning processes, and (c) to examine how they develop students' AI-handling skills with a view to boosting future employability. Findings indicate enhanced creative fluency, broadened participation across diverse learner profiles, and strengthened confidence in A",
-      "summary_fr": "The \"Gen-AI-tecture\" project embeds a locally executed, discipline-specific tool into a mixed-methods focus-group design, structured around three research objectives: (a) to evaluate how generative AI tools impact students' creativity in design-thinking processes and outcomes, (b) to assess whether these tools enhance inclusivity in learning processes, and (c) to examine how they develop students' AI-handling skills with a view to boosting future employability. Findings indicate enhanced creative fluency, broadened participation across diverse learner profiles, and strengthened confidence in A",
-      "resume_fr": "The \"Gen-AI-tecture\" project embeds a locally executed, discipline-specific tool into a mixed-methods focus-group design, structured around three research objectives: (a) to evaluate how generative AI tools impact students' creativity in design-thinking processes and outcomes, (b) to assess whether these tools enhance inclusivity in learning processes, and (c) to examine how they develop students' AI-handling skills with a view to boosting future employability. Findings indicate enhanced creative fluency, broadened participation across diverse learner profiles, and strengthened confidence in A",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China",
-      "url": "https://arxiv.org/abs/2605.20665v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-20T03:32:07.000Z",
-      "score": 50,
-      "summary_en": "AI-enabled systems are increasingly introduced into educational contexts, yet their effectiveness depends less on technological sophistication than on the quality of pedagogical mediation, ethical constraints, and context-sensitive design. This paper proposes a replicable framework for AI-enabled pedagogical accompaniment, grounded in a human-in-command approach in which adult responsibility remains central and AI functions as an enabling, non-substitutive infrastructure. Building on the Amico project, we operationalize the concept of a relational bridge as a sequence of micro-mediations that ",
-      "summary_fr": "AI-enabled systems are increasingly introduced into educational contexts, yet their effectiveness depends less on technological sophistication than on the quality of pedagogical mediation, ethical constraints, and context-sensitive design. This paper proposes a replicable framework for AI-enabled pedagogical accompaniment, grounded in a human-in-command approach in which adult responsibility remains central and AI functions as an enabling, non-substitutive infrastructure. Building on the Amico project, we operationalize the concept of a relational bridge as a sequence of micro-mediations that ",
-      "resume_fr": "AI-enabled systems are increasingly introduced into educational contexts, yet their effectiveness depends less on technological sophistication than on the quality of pedagogical mediation, ethical constraints, and context-sensitive design. This paper proposes a replicable framework for AI-enabled pedagogical accompaniment, grounded in a human-in-command approach in which adult responsibility remains central and AI functions as an enabling, non-substitutive infrastructure. Building on the Amico project, we operationalize the concept of a relational bridge as a sequence of micro-mediations that ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "AMAR: Lightweight Attention-Based Multi-User Activity Recognition from Wi-Fi CSI",
-      "url": "https://arxiv.org/abs/2605.20649v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-20T03:09:45.000Z",
-      "score": 85,
-      "summary_en": "Wi-Fi-based human activity recognition (HAR) has emerged as a promising approach for contactless sensing, leveraging channel state information (CSI) collected from wireless transceivers. While existing studies have primarily concentrated on single-user scenarios, real-world deployments often involve multi-user settings where concurrent users' movements induce overlapping CSI patterns that challenge conventional classification methods. To address this limitation, this paper introduces an attention-based multi-user activity recognition (AMAR) framework that formulates HAR as a set prediction pro",
-      "summary_fr": "Wi-Fi-based human activity recognition (HAR) has emerged as a promising approach for contactless sensing, leveraging channel state information (CSI) collected from wireless transceivers. While existing studies have primarily concentrated on single-user scenarios, real-world deployments often involve multi-user settings where concurrent users' movements induce overlapping CSI patterns that challenge conventional classification methods. To address this limitation, this paper introduces an attention-based multi-user activity recognition (AMAR) framework that formulates HAR as a set prediction pro",
-      "resume_fr": "Wi-Fi-based human activity recognition (HAR) has emerged as a promising approach for contactless sensing, leveraging channel state information (CSI) collected from wireless transceivers. While existing studies have primarily concentrated on single-user scenarios, real-world deployments often involve multi-user settings where concurrent users' movements induce overlapping CSI patterns that challenge conventional classification methods. To address this limitation, this paper introduces an attention-based multi-user activity recognition (AMAR) framework that formulates HAR as a set prediction pro",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
