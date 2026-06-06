@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T10:12:15.405Z",
+  "generatedAt": "2026-06-06T08:45:24.224Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -96,6 +96,63 @@
   },
   "items": [
     {
+      "title": "Cleveland Institute of Art's Interactive Media Lab Redefines What an Art School Can Be",
+      "url": "https://edtechmagazine.com/higher/media/video/cleveland-institute-arts-interactive-media-lab-redefines-what-art-school-can-be",
+      "source": "EdTech Magazine (Higher Ed)",
+      "published": "2026-06-05T14:36:52.000Z",
+      "score": 50,
+      "summary_en": "The landscape for specialized colleges and universities such as art schools is shifting as higher education continues to evolve to fit emerging job markets and student interest. Founded in 1882, Cleveland Institute of Art continuously challenges itself to stay modern and relevant. Years ago, the school’s leadership had the vision to partner with the city to revitalize an area due for reinvigoration. The result was the Interactive Media Lab, which brings together the university, the city and private industry into a satellite campus that gives students and the community a space to…",
+      "summary_fr": "The landscape for specialized colleges and universities such as art schools is shifting as higher education continues to evolve to fit emerging job markets and student interest. Founded in 1882, Cleveland Institute of Art continuously challenges itself to stay modern and relevant. Years ago, the school’s leadership had the vision to partner with the city to revitalize an area due for reinvigoration. The result was the Interactive Media Lab, which brings together the university, the city and private industry into a satellite campus that gives students and the community a space to…",
+      "resume_fr": "The landscape for specialized colleges and universities such as art schools is shifting as higher education continues to evolve to fit emerging job markets and student interest. Founded in 1882, Cleveland Institute of Art continuously challenges itself to stay modern and relevant. Years ago, the school’s leadership had the vision to partner with the city to revitalize an area due for reinvigoration. The result was the Interactive Media Lab, which brings together the university, the city and private industry into a satellite campus that gives students and the community a space to…",
+      "tags": [],
+      "breakdown": {
+        "research": 0,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=edtechmagazine.com&sz=128"
+    },
+    {
+      "title": "HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers",
+      "url": "https://arxiv.org/abs/2606.06493v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-06-04T17:59:50.000Z",
+      "score": 50,
+      "summary_en": "For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typically demand dense kinematic or spatial references that planners struggle to synthesize from task semantics. We instead propose a compact, explicit interface that is intuitive, general, modular, and expressive enough for diverse manipulation skills. To this end, we introduce HANDOFF, a single humanoid whole-body controller that follows this interface and is distilled via multi-teacher KL distillatio",
+      "summary_fr": "For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typically demand dense kinematic or spatial references that planners struggle to synthesize from task semantics. We instead propose a compact, explicit interface that is intuitive, general, modular, and expressive enough for diverse manipulation skills. To this end, we introduce HANDOFF, a single humanoid whole-body controller that follows this interface and is distilled via multi-teacher KL distillatio",
+      "resume_fr": "For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typically demand dense kinematic or spatial references that planners struggle to synthesize from task semantics. We instead propose a compact, explicit interface that is intuitive, general, modular, and expressive enough for diverse manipulation skills. To this end, we introduce HANDOFF, a single humanoid whole-body controller that follows this interface and is distilled via multi-teacher KL distillatio",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection",
+      "url": "https://arxiv.org/abs/2606.06481v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-06-04T17:58:05.000Z",
+      "score": 50,
+      "summary_en": "As AI writing assistants become increasingly integrated into real-world drafting and revision workflows, many documents are no longer purely human-written or AI-generated, but instead result from progressive human-AI co-editing. However, existing AI-text detection benchmarks largely focus on final outputs and provide limited understanding of how AI authorship signals emerge, accumulate, or disappear throughout the revision process. We introduce OpAI-Bench, an operation-guided benchmark for studying progressive human-to-AI text transformation across document, sentence, token, and span granulari",
+      "summary_fr": "As AI writing assistants become increasingly integrated into real-world drafting and revision workflows, many documents are no longer purely human-written or AI-generated, but instead result from progressive human-AI co-editing. However, existing AI-text detection benchmarks largely focus on final outputs and provide limited understanding of how AI authorship signals emerge, accumulate, or disappear throughout the revision process. We introduce OpAI-Bench, an operation-guided benchmark for studying progressive human-to-AI text transformation across document, sentence, token, and span granulari",
+      "resume_fr": "As AI writing assistants become increasingly integrated into real-world drafting and revision workflows, many documents are no longer purely human-written or AI-generated, but instead result from progressive human-AI co-editing. However, existing AI-text detection benchmarks largely focus on final outputs and provide limited understanding of how AI authorship signals emerge, accumulate, or disappear throughout the revision process. We introduce OpAI-Bench, an operation-guided benchmark for studying progressive human-to-AI text transformation across document, sentence, token, and span granulari",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
       "title": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery",
       "url": "https://arxiv.org/abs/2606.06473v1",
       "source": "arXiv – cs.CL (NLP/LLM)",
@@ -134,6 +191,25 @@
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
+      "title": "Explicit dynamic cross-strand interactions for DNA sequence language modelling",
+      "url": "https://www.nature.com/articles/s42256-026-01249-1",
+      "source": "Nature Machine Intelligence",
+      "published": "2026-06-04T00:00:00.000Z",
+      "score": 70,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
+    },
+    {
       "title": "The Role of Instructional Guidance in Generative AI-Assisted Learning: Empirical Evidence from Construction Engineering Education",
       "url": "https://arxiv.org/abs/2606.05509v1",
       "source": "arXiv – cs.HC + education",
@@ -151,25 +227,6 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Cleveland Institute of Art's Interactive Media Lab Redefines What an Art School Can Be",
-      "url": "https://edtechmagazine.com/higher/media/video/cleveland-institute-arts-interactive-media-lab-redefines-what-art-school-can-be",
-      "source": "EdTech Magazine (Higher Ed)",
-      "published": "2026-06-02T17:42:15.000Z",
-      "score": 50,
-      "summary_en": "The landscape for specialized colleges and universities such as art schools is shifting as higher education continues to evolve to fit emerging job markets and student interest. Founded in 1882, Cleveland Institute of Art continuously challenges itself to stay modern and relevant. Years ago, the school’s leadership had the vision to partner with the city to revitalize an area due for reinvigoration. The result was the Interactive Media Lab, which brings together the university, the city and private industry into a satellite campus that gives students and the community a space to…",
-      "summary_fr": "The landscape for specialized colleges and universities such as art schools is shifting as higher education continues to evolve to fit emerging job markets and student interest. Founded in 1882, Cleveland Institute of Art continuously challenges itself to stay modern and relevant. Years ago, the school’s leadership had the vision to partner with the city to revitalize an area due for reinvigoration. The result was the Interactive Media Lab, which brings together the university, the city and private industry into a satellite campus that gives students and the community a space to…",
-      "resume_fr": "The landscape for specialized colleges and universities such as art schools is shifting as higher education continues to evolve to fit emerging job markets and student interest. Founded in 1882, Cleveland Institute of Art continuously challenges itself to stay modern and relevant. Years ago, the school’s leadership had the vision to partner with the city to revitalize an area due for reinvigoration. The result was the Interactive Media Lab, which brings together the university, the city and private industry into a satellite campus that gives students and the community a space to…",
-      "tags": [],
-      "breakdown": {
-        "research": 0,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=edtechmagazine.com&sz=128"
     },
     {
       "title": "From Explanation to Diagnosis: Next Generation Interactive Video Coach with Misstep Awareness",
@@ -1168,63 +1225,6 @@
       "summary_en": "Background and Context. Computer programming often involves extended periods of sustained activity and mobile phone notifications introduce frequent opportunities for interruption. Prior work demonstrates that suppressing phone notifications may reduce these disruptions. Objectives. Our primary research question is: How does suppressing phone notifications affect students' task engagement and productivity while programming? Method. We report on a replication and methodological extension study conducted in a CS1 course involving 22 students. Using a within-subject design, selected programming a",
       "summary_fr": "Background and Context. Computer programming often involves extended periods of sustained activity and mobile phone notifications introduce frequent opportunities for interruption. Prior work demonstrates that suppressing phone notifications may reduce these disruptions. Objectives. Our primary research question is: How does suppressing phone notifications affect students' task engagement and productivity while programming? Method. We report on a replication and methodological extension study conducted in a CS1 course involving 22 students. Using a within-subject design, selected programming a",
       "resume_fr": "Background and Context. Computer programming often involves extended periods of sustained activity and mobile phone notifications introduce frequent opportunities for interruption. Prior work demonstrates that suppressing phone notifications may reduce these disruptions. Objectives. Our primary research question is: How does suppressing phone notifications affect students' task engagement and productivity while programming? Method. We report on a replication and methodological extension study conducted in a CS1 course involving 22 students. Using a within-subject design, selected programming a",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems",
-      "url": "https://arxiv.org/abs/2605.21962v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-21T03:48:31.000Z",
-      "score": 50,
-      "summary_en": "Serious games are widely used for learning and training across domains such as healthcare, defense, and education. Persistent challenges remain, however, including static scenario design, authoring bottlenecks, limited learner modeling, and difficulty implementing meaningful real-time instructional adaptation. Recent advances in artificial intelligence (AI) introduce novel capabilities such as dynamic scenario variation, contextual feedback, adaptive pacing, and learner-state modeling that may help address some of these limitations. At the same time, integrating AI into serious games raises im",
-      "summary_fr": "Serious games are widely used for learning and training across domains such as healthcare, defense, and education. Persistent challenges remain, however, including static scenario design, authoring bottlenecks, limited learner modeling, and difficulty implementing meaningful real-time instructional adaptation. Recent advances in artificial intelligence (AI) introduce novel capabilities such as dynamic scenario variation, contextual feedback, adaptive pacing, and learner-state modeling that may help address some of these limitations. At the same time, integrating AI into serious games raises im",
-      "resume_fr": "Serious games are widely used for learning and training across domains such as healthcare, defense, and education. Persistent challenges remain, however, including static scenario design, authoring bottlenecks, limited learner modeling, and difficulty implementing meaningful real-time instructional adaptation. Recent advances in artificial intelligence (AI) introduce novel capabilities such as dynamic scenario variation, contextual feedback, adaptive pacing, and learner-state modeling that may help address some of these limitations. At the same time, integrating AI into serious games raises im",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build",
-      "url": "https://arxiv.org/abs/2605.21629v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-20T18:40:53.000Z",
-      "score": 50,
-      "summary_en": "How much have students' ordinary learning processes shifted in response to generative AI, and how does that affect their durable learning outcomes? Self-report surveys show little change, while small-scale behavioral studies report widespread AI use without the scale or duration to measure learning consequences. We address both questions using a ten-year panel of $3.2$ million ALEKS learning interactions for the time-on-task analysis, complemented by ALEKS PPL placement-assessment data for the proctoring and retention analyses, with a quasi-experimental design exploiting within-curriculum vari",
-      "summary_fr": "How much have students' ordinary learning processes shifted in response to generative AI, and how does that affect their durable learning outcomes? Self-report surveys show little change, while small-scale behavioral studies report widespread AI use without the scale or duration to measure learning consequences. We address both questions using a ten-year panel of $3.2$ million ALEKS learning interactions for the time-on-task analysis, complemented by ALEKS PPL placement-assessment data for the proctoring and retention analyses, with a quasi-experimental design exploiting within-curriculum vari",
-      "resume_fr": "How much have students' ordinary learning processes shifted in response to generative AI, and how does that affect their durable learning outcomes? Self-report surveys show little change, while small-scale behavioral studies report widespread AI use without the scale or duration to measure learning consequences. We address both questions using a ten-year panel of $3.2$ million ALEKS learning interactions for the time-on-task analysis, complemented by ALEKS PPL placement-assessment data for the proctoring and retention analyses, with a quasi-experimental design exploiting within-curriculum vari",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education",
-      "url": "https://arxiv.org/abs/2605.21614v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-20T18:22:22.000Z",
-      "score": 50,
-      "summary_en": "Worked examples are step-by-step solutions to problems in a specific domain, offered to students to acquire domain-specific problem-solving skills. The effectiveness of worked examples could be enhanced by combining them with self-explanations, which ask students to explain rather than passively study each problem-solving step. The main challenge of this approach is assessing the correctness of the student's explanations. In the prevailing approach, student explanations are judged by their semantic similarity to an instructor's or domain expert's explanation. Given recent advances in LLM-based",
-      "summary_fr": "Worked examples are step-by-step solutions to problems in a specific domain, offered to students to acquire domain-specific problem-solving skills. The effectiveness of worked examples could be enhanced by combining them with self-explanations, which ask students to explain rather than passively study each problem-solving step. The main challenge of this approach is assessing the correctness of the student's explanations. In the prevailing approach, student explanations are judged by their semantic similarity to an instructor's or domain expert's explanation. Given recent advances in LLM-based",
-      "resume_fr": "Worked examples are step-by-step solutions to problems in a specific domain, offered to students to acquire domain-specific problem-solving skills. The effectiveness of worked examples could be enhanced by combining them with self-explanations, which ask students to explain rather than passively study each problem-solving step. The main challenge of this approach is assessing the correctness of the student's explanations. In the prevailing approach, student explanations are judged by their semantic similarity to an instructor's or domain expert's explanation. Given recent advances in LLM-based",
       "tags": [],
       "breakdown": {
         "research": 35,
