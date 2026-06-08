@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T09:32:11.114Z",
+  "generatedAt": "2026-06-08T11:18:50.166Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -96,6 +96,44 @@
   },
   "items": [
     {
+      "title": "Agentopia: Long-Term Life Simulation and Learning in Agent Societies",
+      "url": "https://arxiv.org/abs/2606.07513v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-06-05T17:59:31.000Z",
+      "score": 50,
+      "summary_en": "Humans learn from social life. Simulating this process with LLM-powered agents represents a promising research direction, raising a natural question: whether LLMs can learn from such simulated social experience to better understand and replicate human behavior. However, prior agent society simulations typically operate at the scale of days, limiting the depth of social interactions and long-term growth. In this paper, we study long-term life simulation and LLM learning in agent societies, with two goals: (1) investigating social behaviors that emerge from life-long simulation, and (2) developi",
+      "summary_fr": "Humans learn from social life. Simulating this process with LLM-powered agents represents a promising research direction, raising a natural question: whether LLMs can learn from such simulated social experience to better understand and replicate human behavior. However, prior agent society simulations typically operate at the scale of days, limiting the depth of social interactions and long-term growth. In this paper, we study long-term life simulation and LLM learning in agent societies, with two goals: (1) investigating social behaviors that emerge from life-long simulation, and (2) developi",
+      "resume_fr": "Humans learn from social life. Simulating this process with LLM-powered agents represents a promising research direction, raising a natural question: whether LLMs can learn from such simulated social experience to better understand and replicate human behavior. However, prior agent society simulations typically operate at the scale of days, limiting the depth of social interactions and long-term growth. In this paper, we study long-term life simulation and LLM learning in agent societies, with two goals: (1) investigating social behaviors that emerge from life-long simulation, and (2) developi",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies",
+      "url": "https://arxiv.org/abs/2606.07492v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-06-05T17:46:36.000Z",
+      "score": 50,
+      "summary_en": "The ranking of recommendation algorithms is a challenging problem since model performance is sensitive to dataset characteristics such as sparsity, sequential structure, and scale. This drives a demand for a proper methodology for fair comparison between algorithms. Naive aggregation of performance metrics (e.g., averaging NDCG over benchmarks) can yield misleading rankings, undermining practical selection. To address this problem, we introduce a novel, data-driven ranking methodology based on Bradley-Terry (BT) model. We demonstrate that the obtained ranking depends on key dataset statistics.",
+      "summary_fr": "The ranking of recommendation algorithms is a challenging problem since model performance is sensitive to dataset characteristics such as sparsity, sequential structure, and scale. This drives a demand for a proper methodology for fair comparison between algorithms. Naive aggregation of performance metrics (e.g., averaging NDCG over benchmarks) can yield misleading rankings, undermining practical selection. To address this problem, we introduce a novel, data-driven ranking methodology based on Bradley-Terry (BT) model. We demonstrate that the obtained ranking depends on key dataset statistics.",
+      "resume_fr": "The ranking of recommendation algorithms is a challenging problem since model performance is sensitive to dataset characteristics such as sparsity, sequential structure, and scale. This drives a demand for a proper methodology for fair comparison between algorithms. Naive aggregation of performance metrics (e.g., averaging NDCG over benchmarks) can yield misleading rankings, undermining practical selection. To address this problem, we introduce a novel, data-driven ranking methodology based on Bradley-Terry (BT) model. We demonstrate that the obtained ranking depends on key dataset statistics.",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
       "title": "Cleveland Institute of Art's Interactive Media Lab Redefines What an Art School Can Be",
       "url": "https://edtechmagazine.com/higher/media/video/cleveland-institute-arts-interactive-media-lab-redefines-what-art-school-can-be",
       "source": "EdTech Magazine (Higher Ed)",
@@ -113,6 +151,44 @@
       },
       "reason": "Heuristique: Recherche=0, Politiques=35, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=edtechmagazine.com&sz=128"
+    },
+    {
+      "title": "UrduMMLU: A Massive Multitask Benchmark for Urdu Language Understanding",
+      "url": "https://arxiv.org/abs/2606.07167v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-06-05T11:35:27.000Z",
+      "score": 50,
+      "summary_en": "Meaningful multilingual evaluation must test models in the target language and educational context. Urdu, spoken by more than 230 million people, lacks a broad MMLU-style benchmark built from native educational sources. We introduce UrduMMLU, a benchmark of 26,431 Urdu MCQs across 26 subjects and five domains, collected from native Urdu MCQ banks and public examination PDFs. Unlike translation-based resources, UrduMMLU covers both standard academic subjects and Urdu- and region-specific content. We label the exam-derived portion through dual human annotation with strict consensus filtering. We",
+      "summary_fr": "Meaningful multilingual evaluation must test models in the target language and educational context. Urdu, spoken by more than 230 million people, lacks a broad MMLU-style benchmark built from native educational sources. We introduce UrduMMLU, a benchmark of 26,431 Urdu MCQs across 26 subjects and five domains, collected from native Urdu MCQ banks and public examination PDFs. Unlike translation-based resources, UrduMMLU covers both standard academic subjects and Urdu- and region-specific content. We label the exam-derived portion through dual human annotation with strict consensus filtering. We",
+      "resume_fr": "Meaningful multilingual evaluation must test models in the target language and educational context. Urdu, spoken by more than 230 million people, lacks a broad MMLU-style benchmark built from native educational sources. We introduce UrduMMLU, a benchmark of 26,431 Urdu MCQs across 26 subjects and five domains, collected from native Urdu MCQ banks and public examination PDFs. Unlike translation-based resources, UrduMMLU covers both standard academic subjects and Urdu- and region-specific content. We label the exam-derived portion through dual human annotation with strict consensus filtering. We",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Evidence-Based Intelligent Diagnostic and Therapeutic Visualization System with Large Language Models: Multi-Turn Interaction and Multimodal Treatment Plan Generation",
+      "url": "https://arxiv.org/abs/2606.06869v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-06-05T03:36:48.000Z",
+      "score": 85,
+      "summary_en": "Aim: Existing AI-assisted traditional Chinese medicine diagnostic tools suffer from opaque reasoning processes, passive interaction, and limited treatment plan presentation. This study proposes a knowledge-enhanced visual diagnostic system to improve the transparency and interpretability of syndrome differentiation and treatment. Methods: The system is built upon a Neo4j knowledge graph comprising 241 syndromes, 1,263 symptoms, and 2,485 relations. It incorporates a four-stage symptom matching pipeline (exact, semantic, fuzzy, and large language model verification), an information gain-driven ",
+      "summary_fr": "Aim: Existing AI-assisted traditional Chinese medicine diagnostic tools suffer from opaque reasoning processes, passive interaction, and limited treatment plan presentation. This study proposes a knowledge-enhanced visual diagnostic system to improve the transparency and interpretability of syndrome differentiation and treatment. Methods: The system is built upon a Neo4j knowledge graph comprising 241 syndromes, 1,263 symptoms, and 2,485 relations. It incorporates a four-stage symptom matching pipeline (exact, semantic, fuzzy, and large language model verification), an information gain-driven ",
+      "resume_fr": "Aim: Existing AI-assisted traditional Chinese medicine diagnostic tools suffer from opaque reasoning processes, passive interaction, and limited treatment plan presentation. This study proposes a knowledge-enhanced visual diagnostic system to improve the transparency and interpretability of syndrome differentiation and treatment. Methods: The system is built upon a Neo4j knowledge graph comprising 241 syndromes, 1,263 symptoms, and 2,485 relations. It incorporates a four-stage symptom matching pipeline (exact, semantic, fuzzy, and large language model verification), an information gain-driven ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
       "title": "HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers",
@@ -1157,82 +1233,6 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Evaluating Commercial AI Chatbots as News Intermediaries",
-      "url": "https://arxiv.org/abs/2605.22785v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-05-21T17:42:07.000Z",
-      "score": 50,
-      "summary_en": "AI chatbots are rapidly shaping how people encounter the news, yet no prior study has systematically measured how accurately these systems, with their proprietary search integrations and retrieval-synthesis pipelines, handle emerging facts across languages and regions. We present a 14-day (February 9-22, 2026) evaluation of six AI chatbots (Gemini 3 Flash and Pro, Grok 4, Claude 4.5 Sonnet, GPT-5 and GPT-4o mini) on 2,100 factual questions derived from same-day BBC News reporting across six regional services (US & Canada, Arabic, Afrique, Hindi, Russian, Turkish). The best systems achieve over",
-      "summary_fr": "AI chatbots are rapidly shaping how people encounter the news, yet no prior study has systematically measured how accurately these systems, with their proprietary search integrations and retrieval-synthesis pipelines, handle emerging facts across languages and regions. We present a 14-day (February 9-22, 2026) evaluation of six AI chatbots (Gemini 3 Flash and Pro, Grok 4, Claude 4.5 Sonnet, GPT-5 and GPT-4o mini) on 2,100 factual questions derived from same-day BBC News reporting across six regional services (US & Canada, Arabic, Afrique, Hindi, Russian, Turkish). The best systems achieve over",
-      "resume_fr": "AI chatbots are rapidly shaping how people encounter the news, yet no prior study has systematically measured how accurately these systems, with their proprietary search integrations and retrieval-synthesis pipelines, handle emerging facts across languages and regions. We present a 14-day (February 9-22, 2026) evaluation of six AI chatbots (Gemini 3 Flash and Pro, Grok 4, Claude 4.5 Sonnet, GPT-5 and GPT-4o mini) on 2,100 factual questions derived from same-day BBC News reporting across six regional services (US & Canada, Arabic, Afrique, Hindi, Russian, Turkish). The best systems achieve over",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Understanding Data Temporality Impact on Large Language Models Pre-training",
-      "url": "https://arxiv.org/abs/2605.22769v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-05-21T17:31:17.000Z",
-      "score": 70,
-      "summary_en": "Large language models (LLMs) are typically trained on shuffled corpora, yielding models whose knowledge is frozen at train time and whose temporal grounding remains poorly understood. In this work, we study the impact of pre-training dynamics on the acquisition of time-sensitive factual knowledge, focusing specifically on data ordering. Our main contributions are twofold. First, we introduce a comprehensive benchmark of over 7,000 temporally grounded questions and an evaluation protocol that enables analysis of whether models correctly associate facts with their corresponding time periods. Sec",
-      "summary_fr": "Large language models (LLMs) are typically trained on shuffled corpora, yielding models whose knowledge is frozen at train time and whose temporal grounding remains poorly understood. In this work, we study the impact of pre-training dynamics on the acquisition of time-sensitive factual knowledge, focusing specifically on data ordering. Our main contributions are twofold. First, we introduce a comprehensive benchmark of over 7,000 temporally grounded questions and an evaluation protocol that enables analysis of whether models correctly associate facts with their corresponding time periods. Sec",
-      "resume_fr": "Large language models (LLMs) are typically trained on shuffled corpora, yielding models whose knowledge is frozen at train time and whose temporal grounding remains poorly understood. In this work, we study the impact of pre-training dynamics on the acquisition of time-sensitive factual knowledge, focusing specifically on data ordering. Our main contributions are twofold. First, we introduce a comprehensive benchmark of over 7,000 temporally grounded questions and an evaluation protocol that enables analysis of whether models correctly associate facts with their corresponding time periods. Sec",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Towards a General Intelligence and Interface for Wearable Health Data",
-      "url": "https://arxiv.org/abs/2605.22759v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-21T17:24:06.000Z",
-      "score": 50,
-      "summary_en": "While ubiquitous wearable sensors capture a wealth of behavioral and physiological information, effectively transforming these signals into personalized health insights is challenging. Specifically, converting low-level sensor data into representations capable of characterizing higher-level states is difficult due to high phenotypic diversity and variation in individual baseline health, physiology, and lifestyle factors. Moreover, collecting wearable data paired with health outcome annotations is laborious and expensive, and retrospective annotation remains practically unfeasible, contributing",
-      "summary_fr": "While ubiquitous wearable sensors capture a wealth of behavioral and physiological information, effectively transforming these signals into personalized health insights is challenging. Specifically, converting low-level sensor data into representations capable of characterizing higher-level states is difficult due to high phenotypic diversity and variation in individual baseline health, physiology, and lifestyle factors. Moreover, collecting wearable data paired with health outcome annotations is laborious and expensive, and retrospective annotation remains practically unfeasible, contributing",
-      "resume_fr": "While ubiquitous wearable sensors capture a wealth of behavioral and physiological information, effectively transforming these signals into personalized health insights is challenging. Specifically, converting low-level sensor data into representations capable of characterizing higher-level states is difficult due to high phenotypic diversity and variation in individual baseline health, physiology, and lifestyle factors. Moreover, collecting wearable data paired with health outcome annotations is laborious and expensive, and retrospective annotation remains practically unfeasible, contributing",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Student programming behavior with and without phone notification suppression",
-      "url": "https://arxiv.org/abs/2605.22657v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-21T15:58:59.000Z",
-      "score": 50,
-      "summary_en": "Background and Context. Computer programming often involves extended periods of sustained activity and mobile phone notifications introduce frequent opportunities for interruption. Prior work demonstrates that suppressing phone notifications may reduce these disruptions. Objectives. Our primary research question is: How does suppressing phone notifications affect students' task engagement and productivity while programming? Method. We report on a replication and methodological extension study conducted in a CS1 course involving 22 students. Using a within-subject design, selected programming a",
-      "summary_fr": "Background and Context. Computer programming often involves extended periods of sustained activity and mobile phone notifications introduce frequent opportunities for interruption. Prior work demonstrates that suppressing phone notifications may reduce these disruptions. Objectives. Our primary research question is: How does suppressing phone notifications affect students' task engagement and productivity while programming? Method. We report on a replication and methodological extension study conducted in a CS1 course involving 22 students. Using a within-subject design, selected programming a",
-      "resume_fr": "Background and Context. Computer programming often involves extended periods of sustained activity and mobile phone notifications introduce frequent opportunities for interruption. Prior work demonstrates that suppressing phone notifications may reduce these disruptions. Objectives. Our primary research question is: How does suppressing phone notifications affect students' task engagement and productivity while programming? Method. We report on a replication and methodological extension study conducted in a CS1 course involving 22 students. Using a within-subject design, selected programming a",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
