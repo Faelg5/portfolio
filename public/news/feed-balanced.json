@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T10:19:33.892Z",
+  "generatedAt": "2026-06-11T10:56:37.760Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,139 @@
     }
   },
   "items": [
+    {
+      "title": "EPICS in IEEE’s Awards Honor Outstanding Students and Faculty",
+      "url": "https://spectrum.ieee.org/epics-in-ieee",
+      "source": "IEEE Spectrum – AI",
+      "published": "2026-06-10T18:00:01.000Z",
+      "score": 50,
+      "summary_en": "The EPICS (Engineering Projects in Community Service) in IEEE program, administered by IEEE Educational Activities, has launched the Excellent EPICS in IEEE Contributor Awards. The recognitions honor the program’s outstanding students and faculty volunteers in Excellent Team Leader and Excellent Faculty Advisor categories. The awards recognize individuals whose leadership, mentorship, and commitment have meaningfully advanced the impact of EPICS projects. Candidates must demonstrate clear, measurable contributions that elevate both the student experience and the outcomes delivered to community",
+      "summary_fr": "The EPICS (Engineering Projects in Community Service) in IEEE program, administered by IEEE Educational Activities, has launched the Excellent EPICS in IEEE Contributor Awards. The recognitions honor the program’s outstanding students and faculty volunteers in Excellent Team Leader and Excellent Faculty Advisor categories. The awards recognize individuals whose leadership, mentorship, and commitment have meaningfully advanced the impact of EPICS projects. Candidates must demonstrate clear, measurable contributions that elevate both the student experience and the outcomes delivered to community",
+      "resume_fr": "The EPICS (Engineering Projects in Community Service) in IEEE program, administered by IEEE Educational Activities, has launched the Excellent EPICS in IEEE Contributor Awards. The recognitions honor the program’s outstanding students and faculty volunteers in Excellent Team Leader and Excellent Faculty Advisor categories. The awards recognize individuals whose leadership, mentorship, and commitment have meaningfully advanced the impact of EPICS projects. Candidates must demonstrate clear, measurable contributions that elevate both the student experience and the outcomes delivered to community",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
+    },
+    {
+      "title": "FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning",
+      "url": "https://arxiv.org/abs/2606.12406v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-06-10T17:59:35.000Z",
+      "score": 70,
+      "summary_en": "Contact-rich manipulation requires force sensitivity, but many robot arms lack dedicated force sensors due to their high cost. We present Neural External Torque Estimation (NEXT), a data-driven method that estimates external joint torques without needing any dedicated force sensors. NEXT trains in 1 minute from only 10 minutes of free-motion data, yet achieves estimates comparable to dedicated joint-torque sensors. NEXT enables force-feedback teleoperation on low-cost arms and improves policy learning through Force-Informed Re-Sampling Training (FIRST), which up-samples pre-contact and contact",
+      "summary_fr": "Contact-rich manipulation requires force sensitivity, but many robot arms lack dedicated force sensors due to their high cost. We present Neural External Torque Estimation (NEXT), a data-driven method that estimates external joint torques without needing any dedicated force sensors. NEXT trains in 1 minute from only 10 minutes of free-motion data, yet achieves estimates comparable to dedicated joint-torque sensors. NEXT enables force-feedback teleoperation on low-cost arms and improves policy learning through Force-Informed Re-Sampling Training (FIRST), which up-samples pre-contact and contact",
+      "resume_fr": "Contact-rich manipulation requires force sensitivity, but many robot arms lack dedicated force sensors due to their high cost. We present Neural External Torque Estimation (NEXT), a data-driven method that estimates external joint torques without needing any dedicated force sensors. NEXT trains in 1 minute from only 10 minutes of free-motion data, yet achieves estimates comparable to dedicated joint-torque sensors. NEXT enables force-feedback teleoperation on low-cost arms and improves policy learning through Force-Informed Re-Sampling Training (FIRST), which up-samples pre-contact and contact",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "ATLAS: Active Theory Learning for Automated Science",
+      "url": "https://arxiv.org/abs/2606.12386v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-06-10T17:52:03.000Z",
+      "score": 70,
+      "summary_en": "Advancing scientific understanding through mechanistic modeling requires posing the right experimental questions to yield maximally informative data. To automate this pursuit within cognitive science, we introduce ATLAS (Active Theory Learning for Automated Science), an active learning framework for the data-driven discovery of interpretable behavioral models. ATLAS iterates between generating mechanistic hypotheses--instantiated as a diverse ensemble of sparse neural networks (Disentangled RNNs)--and designing experiments that optimally distinguish between them. We test this approach on the p",
+      "summary_fr": "Advancing scientific understanding through mechanistic modeling requires posing the right experimental questions to yield maximally informative data. To automate this pursuit within cognitive science, we introduce ATLAS (Active Theory Learning for Automated Science), an active learning framework for the data-driven discovery of interpretable behavioral models. ATLAS iterates between generating mechanistic hypotheses--instantiated as a diverse ensemble of sparse neural networks (Disentangled RNNs)--and designing experiments that optimally distinguish between them. We test this approach on the p",
+      "resume_fr": "Advancing scientific understanding through mechanistic modeling requires posing the right experimental questions to yield maximally informative data. To automate this pursuit within cognitive science, we introduce ATLAS (Active Theory Learning for Automated Science), an active learning framework for the data-driven discovery of interpretable behavioral models. ATLAS iterates between generating mechanistic hypotheses--instantiated as a diverse ensemble of sparse neural networks (Disentangled RNNs)--and designing experiments that optimally distinguish between them. We test this approach on the p",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Which Models Are Our Models Built On? Auditing Invisible Dependencies in Modern LLMs",
+      "url": "https://arxiv.org/abs/2606.12385v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-06-10T17:47:59.000Z",
+      "score": 50,
+      "summary_en": "Modern LLM training pipelines increasingly rely on other models to generate data, filter corpora, judge outputs, and guide development decisions. These dependencies are recursive: a model may depend on an upstream artifact whose own dependencies are documented only in separate releases and artifacts. As a result, the full dependency structure is fragmented across heterogeneous public artifacts, with complexity and recursive depth far outpacing humans' ability to trace. We introduce ModSleuth, an agentic system that recursively reconstructs LLM dependency graphs from public artifacts with sourc",
+      "summary_fr": "Modern LLM training pipelines increasingly rely on other models to generate data, filter corpora, judge outputs, and guide development decisions. These dependencies are recursive: a model may depend on an upstream artifact whose own dependencies are documented only in separate releases and artifacts. As a result, the full dependency structure is fragmented across heterogeneous public artifacts, with complexity and recursive depth far outpacing humans' ability to trace. We introduce ModSleuth, an agentic system that recursively reconstructs LLM dependency graphs from public artifacts with sourc",
+      "resume_fr": "Modern LLM training pipelines increasingly rely on other models to generate data, filter corpora, judge outputs, and guide development decisions. These dependencies are recursive: a model may depend on an upstream artifact whose own dependencies are documented only in separate releases and artifacts. As a result, the full dependency structure is fragmented across heterogeneous public artifacts, with complexity and recursive depth far outpacing humans' ability to trace. We introduce ModSleuth, an agentic system that recursively reconstructs LLM dependency graphs from public artifacts with sourc",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "APPO: Agentic Procedural Policy Optimization",
+      "url": "https://arxiv.org/abs/2606.12384v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-06-10T17:47:07.000Z",
+      "score": 70,
+      "summary_en": "Recent advances in agentic Reinforcement Learning (RL) have substantially improved the multi-turn tool-use capabilities of large language model agents. However, most existing methods assign credit over coarse heuristic units, such as tool-call boundaries or fixed workflows, making it difficult to identify which intermediate decisions influence downstream outcomes. In this work, we study agentic RL from two perspectives: \\textit{where to branch and how to assign credit after branching}. Our pilot analysis shows that influential decision points are broadly distributed throughout the generated se",
+      "summary_fr": "Recent advances in agentic Reinforcement Learning (RL) have substantially improved the multi-turn tool-use capabilities of large language model agents. However, most existing methods assign credit over coarse heuristic units, such as tool-call boundaries or fixed workflows, making it difficult to identify which intermediate decisions influence downstream outcomes. In this work, we study agentic RL from two perspectives: \\textit{where to branch and how to assign credit after branching}. Our pilot analysis shows that influential decision points are broadly distributed throughout the generated se",
+      "resume_fr": "Recent advances in agentic Reinforcement Learning (RL) have substantially improved the multi-turn tool-use capabilities of large language model agents. However, most existing methods assign credit over coarse heuristic units, such as tool-call boundaries or fixed workflows, making it difficult to identify which intermediate decisions influence downstream outcomes. In this work, we study agentic RL from two perspectives: \\textit{where to branch and how to assign credit after branching}. Our pilot analysis shows that influential decision points are broadly distributed throughout the generated se",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Identifying cybersickness causes in virtual reality games using symbolic machine learning algorithms",
+      "url": "https://arxiv.org/abs/2606.12214v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-06-10T15:29:31.000Z",
+      "score": 50,
+      "summary_en": "Virtual reality (VR) and head-mounted displays are constantly gaining popularity in various fields such as education, military, entertainment, and health. Although such technologies provide a high sense of immersion, they can also trigger symptoms of discomfort. This condition is called cybersickness (CS) and is quite popular in recent virtual reality publications. This work proposes a novel experimental analysis using symbolic machine learning to rank potential causes of CS in VR games. We estimate CS causes and rank them according to their impact using classical machine learning. Experiments",
+      "summary_fr": "Virtual reality (VR) and head-mounted displays are constantly gaining popularity in various fields such as education, military, entertainment, and health. Although such technologies provide a high sense of immersion, they can also trigger symptoms of discomfort. This condition is called cybersickness (CS) and is quite popular in recent virtual reality publications. This work proposes a novel experimental analysis using symbolic machine learning to rank potential causes of CS in VR games. We estimate CS causes and rank them according to their impact using classical machine learning. Experiments",
+      "resume_fr": "Virtual reality (VR) and head-mounted displays are constantly gaining popularity in various fields such as education, military, entertainment, and health. Although such technologies provide a high sense of immersion, they can also trigger symptoms of discomfort. This condition is called cybersickness (CS) and is quite popular in recent virtual reality publications. This work proposes a novel experimental analysis using symbolic machine learning to rank potential causes of CS in VR games. We estimate CS causes and rank them according to their impact using classical machine learning. Experiments",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "IntElicit: Eliciting and Assessing Contextualized Creativity via Dialogue Policy Optimization",
+      "url": "https://arxiv.org/abs/2606.12086v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-06-10T13:47:54.000Z",
+      "score": 85,
+      "summary_en": "Contextualized assessment offers high ecological validity for evaluating creativity but introduces a critical challenge: observed performance may be confounded with cognitive proficiency (domain knowledge) and agency (willingness to engage). Meanwhile, in the age of generative AI, creative problem solving increasingly occurs in tool-mediated and human--AI interactive environments, making fully static assessment less aligned with contemporary creative practice. To address these issues, this paper proposes IntElicit, a framework for eliciting and assessing contextualized creativity via dialogue ",
+      "summary_fr": "Contextualized assessment offers high ecological validity for evaluating creativity but introduces a critical challenge: observed performance may be confounded with cognitive proficiency (domain knowledge) and agency (willingness to engage). Meanwhile, in the age of generative AI, creative problem solving increasingly occurs in tool-mediated and human--AI interactive environments, making fully static assessment less aligned with contemporary creative practice. To address these issues, this paper proposes IntElicit, a framework for eliciting and assessing contextualized creativity via dialogue ",
+      "resume_fr": "Contextualized assessment offers high ecological validity for evaluating creativity but introduces a critical challenge: observed performance may be confounded with cognitive proficiency (domain knowledge) and agency (willingness to engage). Meanwhile, in the age of generative AI, creative problem solving increasingly occurs in tool-mediated and human--AI interactive environments, making fully static assessment less aligned with contemporary creative practice. To address these issues, this paper proposes IntElicit, a framework for eliciting and assessing contextualized creativity via dialogue ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories",
       "url": "https://arxiv.org/abs/2606.11176v1",
@@ -1092,139 +1225,6 @@
       "summary_en": "Childhood anemia affects around 40% of children aged 6-59 months globally and arises from heterogeneous factors, limiting model generalizability. We evaluate a transformer-based tabular foundation model against classical supervised methods under cross-country and data-scarce settings. We used DHS data from 16 countries across Africa, Asia, Latin America, the Caucasus, and the Middle East (n=68,856). We compared Logistic Regression, XGBoost, LightGBM, and TabPFN v2.6. Performance was assessed using AUC-ROC, Brier score, and ECE. Generalization was evaluated using leave-one-country-out (LOCO), r",
       "summary_fr": "Childhood anemia affects around 40% of children aged 6-59 months globally and arises from heterogeneous factors, limiting model generalizability. We evaluate a transformer-based tabular foundation model against classical supervised methods under cross-country and data-scarce settings. We used DHS data from 16 countries across Africa, Asia, Latin America, the Caucasus, and the Middle East (n=68,856). We compared Logistic Regression, XGBoost, LightGBM, and TabPFN v2.6. Performance was assessed using AUC-ROC, Brier score, and ECE. Generalization was evaluated using leave-one-country-out (LOCO), r",
       "resume_fr": "Childhood anemia affects around 40% of children aged 6-59 months globally and arises from heterogeneous factors, limiting model generalizability. We evaluate a transformer-based tabular foundation model against classical supervised methods under cross-country and data-scarce settings. We used DHS data from 16 countries across Africa, Asia, Latin America, the Caucasus, and the Middle East (n=68,856). We compared Logistic Regression, XGBoost, LightGBM, and TabPFN v2.6. Performance was assessed using AUC-ROC, Brier score, and ECE. Generalization was evaluated using leave-one-country-out (LOCO), r",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Managing Uncertainty in LLM-Generated Procedural Knowledge for Virtual Laboratory Planning",
-      "url": "https://arxiv.org/abs/2605.26333v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-25T21:12:47.000Z",
-      "score": 50,
-      "summary_en": "Educational virtual laboratories can make experimental training more scala-ble, adaptive, and accessible, especially when students have limited access to physical laboratory facilities. However, authoring new simulated laboratory procedures remains costly: educators must describe new equipment, define how instruments and materials interact, and specify valid procedural flows that can be executed or assessed inside the virtual environment. Large lan-guage models can assist in this authoring process by generating detailed ex-perimental procedures, but their output should not be treated as direct",
-      "summary_fr": "Educational virtual laboratories can make experimental training more scala-ble, adaptive, and accessible, especially when students have limited access to physical laboratory facilities. However, authoring new simulated laboratory procedures remains costly: educators must describe new equipment, define how instruments and materials interact, and specify valid procedural flows that can be executed or assessed inside the virtual environment. Large lan-guage models can assist in this authoring process by generating detailed ex-perimental procedures, but their output should not be treated as direct",
-      "resume_fr": "Educational virtual laboratories can make experimental training more scala-ble, adaptive, and accessible, especially when students have limited access to physical laboratory facilities. However, authoring new simulated laboratory procedures remains costly: educators must describe new equipment, define how instruments and materials interact, and specify valid procedural flows that can be executed or assessed inside the virtual environment. Large lan-guage models can assist in this authoring process by generating detailed ex-perimental procedures, but their output should not be treated as direct",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "IEEE TryEngineering OnCampus Program Expands to 7 Universities",
-      "url": "https://spectrum.ieee.org/tryengineering-oncampus-expansion",
-      "source": "IEEE Spectrum – AI",
-      "published": "2026-05-25T18:00:01.000Z",
-      "score": 65,
-      "summary_en": "The OnCampus program, administered by IEEE Educational Activities, last year expanded its engineering experiences from two to seven universities. Part of TryEngineering, the program is held at universities around the world, offering preuniversity students hands-on opportunities to solve engineering problems. The IEEE Innovation Committee provided funding for the additional locations. New participating institutions The electrical engineering and computing faculty at the University of Zagreb, in Croatia, hosted a two-day program in June. Twenty-five children ages 10 to 14 participated in lecture",
-      "summary_fr": "The OnCampus program, administered by IEEE Educational Activities, last year expanded its engineering experiences from two to seven universities. Part of TryEngineering, the program is held at universities around the world, offering preuniversity students hands-on opportunities to solve engineering problems. The IEEE Innovation Committee provided funding for the additional locations. New participating institutions The electrical engineering and computing faculty at the University of Zagreb, in Croatia, hosted a two-day program in June. Twenty-five children ages 10 to 14 participated in lecture",
-      "resume_fr": "The OnCampus program, administered by IEEE Educational Activities, last year expanded its engineering experiences from two to seven universities. Part of TryEngineering, the program is held at universities around the world, offering preuniversity students hands-on opportunities to solve engineering problems. The IEEE Innovation Committee provided funding for the additional locations. New participating institutions The electrical engineering and computing faculty at the University of Zagreb, in Croatia, hosted a two-day program in June. Twenty-five children ages 10 to 14 participated in lecture",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
-    },
-    {
-      "title": "Reclaiming Social Engineering for Good",
-      "url": "https://spectrum.ieee.org/social-engineering-good",
-      "source": "IEEE Spectrum – AI",
-      "published": "2026-05-25T13:00:01.000Z",
-      "score": 35,
-      "summary_en": "“Social engineering” sounds like something out of a conspiracy thriller, charged with totalitarian control and fringe paranoia. More mundanely, it’s come to be associated with phishing and other scams, in which fraudsters manipulate people into disclosing personal information. Yet the concept is older and more benign: it is the deliberate shaping of human behavior, often at scale. It predates silicon—and became pervasive, and ungoverned, especially once its practitioners learned to hide it. Authoritarian regimes and more recently scammers and big companies have profited from it. To defend ours",
-      "summary_fr": "“Social engineering” sounds like something out of a conspiracy thriller, charged with totalitarian control and fringe paranoia. More mundanely, it’s come to be associated with phishing and other scams, in which fraudsters manipulate people into disclosing personal information. Yet the concept is older and more benign: it is the deliberate shaping of human behavior, often at scale. It predates silicon—and became pervasive, and ungoverned, especially once its practitioners learned to hide it. Authoritarian regimes and more recently scammers and big companies have profited from it. To defend ours",
-      "resume_fr": "“Social engineering” sounds like something out of a conspiracy thriller, charged with totalitarian control and fringe paranoia. More mundanely, it’s come to be associated with phishing and other scams, in which fraudsters manipulate people into disclosing personal information. Yet the concept is older and more benign: it is the deliberate shaping of human behavior, often at scale. It predates silicon—and became pervasive, and ungoverned, especially once its practitioners learned to hide it. Authoritarian regimes and more recently scammers and big companies have profited from it. To defend ours",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
-    },
-    {
-      "title": "Simulating Human Memory with Language Models",
-      "url": "https://arxiv.org/abs/2605.25680v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-25T10:39:08.000Z",
-      "score": 50,
-      "summary_en": "Language models are increasingly being deployed as user simulators, but their memory is far more reliable than that of real users. To measure this gap, we run a series of classic memory experiments from psychology on both humans and language models. Across tasks, we find that out-of-the-box language models exhibit better memory than humans, even when prompted to imitate human behavior. We then show that better prompting strategies and the use of a compactor can cause language models to forget content in a more human-like way. Using these methods, we show preliminary evidence that language mode",
-      "summary_fr": "Language models are increasingly being deployed as user simulators, but their memory is far more reliable than that of real users. To measure this gap, we run a series of classic memory experiments from psychology on both humans and language models. Across tasks, we find that out-of-the-box language models exhibit better memory than humans, even when prompted to imitate human behavior. We then show that better prompting strategies and the use of a compactor can cause language models to forget content in a more human-like way. Using these methods, we show preliminary evidence that language mode",
-      "resume_fr": "Language models are increasingly being deployed as user simulators, but their memory is far more reliable than that of real users. To measure this gap, we run a series of classic memory experiments from psychology on both humans and language models. Across tasks, we find that out-of-the-box language models exhibit better memory than humans, even when prompted to imitate human behavior. We then show that better prompting strategies and the use of a compactor can cause language models to forget content in a more human-like way. Using these methods, we show preliminary evidence that language mode",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "AI with Model-Based Design: Virtual Sensor Modeling",
-      "url": "https://content.knowledgehub.wiley.com/ai-with-model-based-design-virtual-sensor-modeling/",
-      "source": "IEEE Spectrum – AI",
-      "published": "2026-05-25T10:00:01.000Z",
-      "score": 35,
-      "summary_en": "This webinar presents a workflow offering end-to-end solutions for designing, training, validating and verifying, compressing, and deploying AI-based virtual sensor models to embedded processors within a single environment. Highlights Integrate AI models into Simulink for system-level simulation, verification, and simulation-based testing Apply formal verification techniques to assert neural network behavior Compress the AI model for memory footprint reduction and execution speedup Generate library-free C code from AI models and performing PIL tests Profile code performance and evaluate design",
-      "summary_fr": "This webinar presents a workflow offering end-to-end solutions for designing, training, validating and verifying, compressing, and deploying AI-based virtual sensor models to embedded processors within a single environment. Highlights Integrate AI models into Simulink for system-level simulation, verification, and simulation-based testing Apply formal verification techniques to assert neural network behavior Compress the AI model for memory footprint reduction and execution speedup Generate library-free C code from AI models and performing PIL tests Profile code performance and evaluate design",
-      "resume_fr": "This webinar presents a workflow offering end-to-end solutions for designing, training, validating and verifying, compressing, and deploying AI-based virtual sensor models to embedded processors within a single environment. Highlights Integrate AI models into Simulink for system-level simulation, verification, and simulation-based testing Apply formal verification techniques to assert neural network behavior Compress the AI model for memory footprint reduction and execution speedup Generate library-free C code from AI models and performing PIL tests Profile code performance and evaluate design",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=content.knowledgehub.wiley.com&sz=128"
-    },
-    {
-      "title": "Toward a Benchmark for Controllable Simulation of Imperfect Students with Large Language Models",
-      "url": "https://arxiv.org/abs/2605.25601v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-25T08:54:23.000Z",
-      "score": 50,
-      "summary_en": "Teacher education requires deliberate practice with learners who exhibit identifiable strengths, weaknesses, and partial mastery. Large language models could support such practice by simulating students with known skill components, enabling teachers to rehearse explanations, diagnoses, and instructional responses. For this purpose, however, the central requirement is neither to maximize benchmark accuracy nor to suppress isolated facts, but to control model behavior so that it reflects a specified skill profile. This paper investigates whether prompted language models can be steered to retain ",
-      "summary_fr": "Teacher education requires deliberate practice with learners who exhibit identifiable strengths, weaknesses, and partial mastery. Large language models could support such practice by simulating students with known skill components, enabling teachers to rehearse explanations, diagnoses, and instructional responses. For this purpose, however, the central requirement is neither to maximize benchmark accuracy nor to suppress isolated facts, but to control model behavior so that it reflects a specified skill profile. This paper investigates whether prompted language models can be steered to retain ",
-      "resume_fr": "Teacher education requires deliberate practice with learners who exhibit identifiable strengths, weaknesses, and partial mastery. Large language models could support such practice by simulating students with known skill components, enabling teachers to rehearse explanations, diagnoses, and instructional responses. For this purpose, however, the central requirement is neither to maximize benchmark accuracy nor to suppress isolated facts, but to control model behavior so that it reflects a specified skill profile. This paper investigates whether prompted language models can be steered to retain ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "A Controlled Synthetic Benchmark for Educational Aspect-Based Sentiment Analysis",
-      "url": "https://arxiv.org/abs/2605.25502v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-25T07:05:21.000Z",
-      "score": 50,
-      "summary_en": "Educational aspect-based sentiment analysis (ABSA) can support course improvement, but public aspect-labeled student feedback remains scarce because educational reviews are private, institution-specific, and expensive to annotate. This study introduces a controlled synthetic benchmark for educational ABSA built from 10,000 synthetic course reviews with explicit train-validation-test splits and a 20-aspect pedagogical schema spanning instructional quality, assessment and course management, learning demand, learning environment, and engagement. The corpus is generated with sampled target labels,",
-      "summary_fr": "Educational aspect-based sentiment analysis (ABSA) can support course improvement, but public aspect-labeled student feedback remains scarce because educational reviews are private, institution-specific, and expensive to annotate. This study introduces a controlled synthetic benchmark for educational ABSA built from 10,000 synthetic course reviews with explicit train-validation-test splits and a 20-aspect pedagogical schema spanning instructional quality, assessment and course management, learning demand, learning environment, and engagement. The corpus is generated with sampled target labels,",
-      "resume_fr": "Educational aspect-based sentiment analysis (ABSA) can support course improvement, but public aspect-labeled student feedback remains scarce because educational reviews are private, institution-specific, and expensive to annotate. This study introduces a controlled synthetic benchmark for educational ABSA built from 10,000 synthetic course reviews with explicit train-validation-test splits and a 20-aspect pedagogical schema spanning instructional quality, assessment and course management, learning demand, learning environment, and engagement. The corpus is generated with sampled target labels,",
       "tags": [],
       "breakdown": {
         "research": 35,
