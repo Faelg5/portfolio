@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T10:56:37.760Z",
+  "generatedAt": "2026-06-12T10:38:34.409Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,158 @@
     }
   },
   "items": [
+    {
+      "title": "Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2606.13657v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-06-11T17:54:09.000Z",
+      "score": 70,
+      "summary_en": "On-policy distillation (\\textsc{OPD}) has recently become a prominent post-training recipe as it combines two desirable ingredients: on-policy student trajectories and dense teacher supervision, yet how this hybrid changes a model's parameters remains unclear. Across several language and vision-language model pairs and use cases, our analysis yields two main findings. On sparsity, \\textsc{OPD}-style updates are small and coordinate-sparse. They are distributed across layers and are usually FFN-heavy. This sparse structure is operationally useful: training only the discovered subnetwork recover",
+      "summary_fr": "On-policy distillation (\\textsc{OPD}) has recently become a prominent post-training recipe as it combines two desirable ingredients: on-policy student trajectories and dense teacher supervision, yet how this hybrid changes a model's parameters remains unclear. Across several language and vision-language model pairs and use cases, our analysis yields two main findings. On sparsity, \\textsc{OPD}-style updates are small and coordinate-sparse. They are distributed across layers and are usually FFN-heavy. This sparse structure is operationally useful: training only the discovered subnetwork recover",
+      "resume_fr": "On-policy distillation (\\textsc{OPD}) has recently become a prominent post-training recipe as it combines two desirable ingredients: on-policy student trajectories and dense teacher supervision, yet how this hybrid changes a model's parameters remains unclear. Across several language and vision-language model pairs and use cases, our analysis yields two main findings. On sparsity, \\textsc{OPD}-style updates are small and coordinate-sparse. They are distributed across layers and are usually FFN-heavy. This sparse structure is operationally useful: training only the discovered subnetwork recover",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Humor Style Drives Laughter, Topic Shapes Acceptability: Evaluating Bilingual Personal and Political Robot-Delivered AI Jokes",
+      "url": "https://arxiv.org/abs/2606.13256v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-06-11T12:13:43.000Z",
+      "score": 50,
+      "summary_en": "Humor plays a central role in human social relationships, and recent advances in computational humor create new opportunities for integrating humor into human-robot interaction (HRI). While large language models (LLMs) can generate diverse forms of humor, it remains unclear how humor style, joke content, and language preference shape perceptions of robot-delivered humor in group settings. In this exploratory study, we employed a mixed factorial design in which participants evaluated AI-generated jokes delivered by a robot in a university classroom. We examined the effects of humor type (Affili",
+      "summary_fr": "Humor plays a central role in human social relationships, and recent advances in computational humor create new opportunities for integrating humor into human-robot interaction (HRI). While large language models (LLMs) can generate diverse forms of humor, it remains unclear how humor style, joke content, and language preference shape perceptions of robot-delivered humor in group settings. In this exploratory study, we employed a mixed factorial design in which participants evaluated AI-generated jokes delivered by a robot in a university classroom. We examined the effects of humor type (Affili",
+      "resume_fr": "Humor plays a central role in human social relationships, and recent advances in computational humor create new opportunities for integrating humor into human-robot interaction (HRI). While large language models (LLMs) can generate diverse forms of humor, it remains unclear how humor style, joke content, and language preference shape perceptions of robot-delivered humor in group settings. In this exploratory study, we employed a mixed factorial design in which participants evaluated AI-generated jokes delivered by a robot in a university classroom. We examined the effects of humor type (Affili",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Active play outdoors is missing from early childhood education",
+      "url": "https://world-education-blog.org/2026/06/11/active-play-outdoors-is-missing-from-early-childhood-education/",
+      "source": "UNESCO GEM – World Education Blog",
+      "published": "2026-06-11T09:05:42.000Z",
+      "score": 65,
+      "summary_en": "Active outdoor play is an essential part of children’s development, helping them build physical, cognitive and social skills from their earliest years. However, its role in education is often overlooked. The Education 2030 Framework for Action does not reference play as an essential element of SDG 4. It recognizes that young children ‘engage in intensive […] The post Active play outdoors is missing from early childhood education appeared first on World Education Blog.",
+      "summary_fr": "Active outdoor play is an essential part of children’s development, helping them build physical, cognitive and social skills from their earliest years. However, its role in education is often overlooked. The Education 2030 Framework for Action does not reference play as an essential element of SDG 4. It recognizes that young children ‘engage in intensive […] The post Active play outdoors is missing from early childhood education appeared first on World Education Blog.",
+      "resume_fr": "Active outdoor play is an essential part of children’s development, helping them build physical, cognitive and social skills from their earliest years. However, its role in education is often overlooked. The Education 2030 Framework for Action does not reference play as an essential element of SDG 4. It recognizes that young children ‘engage in intensive […] The post Active play outdoors is missing from early childhood education appeared first on World Education Blog.",
+      "tags": [],
+      "breakdown": {
+        "research": 0,
+        "policy": 35,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=world-education-blog.org&sz=128"
+    },
+    {
+      "title": "Fault Lines: Navigating Ethics and Responsible AI Where National Policy Meets Local Practice in Public Sector Transformation",
+      "url": "https://arxiv.org/abs/2606.13039v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-06-11T08:18:57.000Z",
+      "score": 100,
+      "summary_en": "The UK government has adopted a pro-AI stance to help transform public service delivery in the face of severe financial pressures, but the path to translate this vision into responsible AI practice remains ill-defined. While UK policy is often set at the national level, local authorities are responsible for most public service delivery, and the rapid advance of AI-first narratives in the public sector is exposing fault lines in knowledge and practice at this national-local interface. This paper examines how responsible AI is interpreted and implemented at the interface between the UK's central",
+      "summary_fr": "The UK government has adopted a pro-AI stance to help transform public service delivery in the face of severe financial pressures, but the path to translate this vision into responsible AI practice remains ill-defined. While UK policy is often set at the national level, local authorities are responsible for most public service delivery, and the rapid advance of AI-first narratives in the public sector is exposing fault lines in knowledge and practice at this national-local interface. This paper examines how responsible AI is interpreted and implemented at the interface between the UK's central",
+      "resume_fr": "The UK government has adopted a pro-AI stance to help transform public service delivery in the face of severe financial pressures, but the path to translate this vision into responsible AI practice remains ill-defined. While UK policy is often set at the national level, local authorities are responsible for most public service delivery, and the rapid advance of AI-first narratives in the public sector is exposing fault lines in knowledge and practice at this national-local interface. This paper examines how responsible AI is interpreted and implemented at the interface between the UK's central",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "A Mathematical Forum Platform for Collaborative Problem Solving and Dataset Generation for AI Reasoning",
+      "url": "https://arxiv.org/abs/2606.12976v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-06-11T07:10:04.000Z",
+      "score": 50,
+      "summary_en": "Sharing mathematical content in online forums remains a significant friction point for students and educators: writing raw LATEX is error-prone, standalone optical character recognition tools require platform switching, and current forum software offers no integrated path from a photograph of a formula to a rendered post. We present a unified system that eliminates this friction by embedding an image to LATEX conversion pipeline directly inside a forum posting interface. A user uploads or captures an image of a mathematical expression; the system routes it through the Mathpix OCR API, detects ",
+      "summary_fr": "Sharing mathematical content in online forums remains a significant friction point for students and educators: writing raw LATEX is error-prone, standalone optical character recognition tools require platform switching, and current forum software offers no integrated path from a photograph of a formula to a rendered post. We present a unified system that eliminates this friction by embedding an image to LATEX conversion pipeline directly inside a forum posting interface. A user uploads or captures an image of a mathematical expression; the system routes it through the Mathpix OCR API, detects ",
+      "resume_fr": "Sharing mathematical content in online forums remains a significant friction point for students and educators: writing raw LATEX is error-prone, standalone optical character recognition tools require platform switching, and current forum software offers no integrated path from a photograph of a formula to a rendered post. We present a unified system that eliminates this friction by embedding an image to LATEX conversion pipeline directly inside a forum posting interface. A user uploads or captures an image of a mathematical expression; the system routes it through the Mathpix OCR API, detects ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Beyond Problem Solving: UOJ-Bench for Evaluating Code Generation, Hacking, and Repair in Competitive Programming",
+      "url": "https://arxiv.org/abs/2606.12864v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-06-11T03:48:18.000Z",
+      "score": 50,
+      "summary_en": "Despite strong performance in competitive programming, the role of Large Language Models (LLMs) in supporting human learning in the same setting remains largely unexplored. In this work, we introduce UOJ-Bench, a benchmark designed to evaluate not only the problem-solving ability of LLMs, but also their ability to identify errors in human-written code -- a crucial educational activity traditionally supported by running test cases over online judge systems. UOJ-Bench consists of three distinct tasks: code generation, code hacking, and code repair, all constructed from real-world code submission",
+      "summary_fr": "Despite strong performance in competitive programming, the role of Large Language Models (LLMs) in supporting human learning in the same setting remains largely unexplored. In this work, we introduce UOJ-Bench, a benchmark designed to evaluate not only the problem-solving ability of LLMs, but also their ability to identify errors in human-written code -- a crucial educational activity traditionally supported by running test cases over online judge systems. UOJ-Bench consists of three distinct tasks: code generation, code hacking, and code repair, all constructed from real-world code submission",
+      "resume_fr": "Despite strong performance in competitive programming, the role of Large Language Models (LLMs) in supporting human learning in the same setting remains largely unexplored. In this work, we introduce UOJ-Bench, a benchmark designed to evaluate not only the problem-solving ability of LLMs, but also their ability to identify errors in human-written code -- a crucial educational activity traditionally supported by running test cases over online judge systems. UOJ-Bench consists of three distinct tasks: code generation, code hacking, and code repair, all constructed from real-world code submission",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Definitional alignment before capability alignment: a Design-Science framework for adjudicating claims about AGI",
+      "url": "https://arxiv.org/abs/2606.12713v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-06-10T22:04:56.000Z",
+      "score": 85,
+      "summary_en": "Claims that artificial general intelligence has already arrived and claims that it remains decades away are often defended from overlapping evidence. \"AGI\" lacks a single shared and stable referent and competing operationalizations can return different verdicts on the same system. This article treats that under-specification as a design and governance problem. Following Design Science Research Methodology, it develops DAF-AGI, a second-order conceptual artifact with two coupled components: five ordinal criteria for assessing the adjudicative fitness of candidate definitions and a structured go",
+      "summary_fr": "Claims that artificial general intelligence has already arrived and claims that it remains decades away are often defended from overlapping evidence. \"AGI\" lacks a single shared and stable referent and competing operationalizations can return different verdicts on the same system. This article treats that under-specification as a design and governance problem. Following Design Science Research Methodology, it develops DAF-AGI, a second-order conceptual artifact with two coupled components: five ordinal criteria for assessing the adjudicative fitness of candidate definitions and a structured go",
+      "resume_fr": "Claims that artificial general intelligence has already arrived and claims that it remains decades away are often defended from overlapping evidence. \"AGI\" lacks a single shared and stable referent and competing operationalizations can return different verdicts on the same system. This article treats that under-specification as a design and governance problem. Following Design Science Research Methodology, it develops DAF-AGI, a second-order conceptual artifact with two coupled components: five ordinal criteria for assessing the adjudicative fitness of candidate definitions and a structured go",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "OpenRoundup: Multi-Table Data Wrangling Through Interactive Visualization",
+      "url": "https://arxiv.org/abs/2606.12648v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-06-10T20:18:57.000Z",
+      "score": 85,
+      "summary_en": "Data journalists routinely integrate records across multiple independently published sources to support accountability reporting, yet no existing interactive wrangling tool treats the collection of tables -- rather than the single table -- as its primary unit of work. We present OpenRoundup, an open-source, browser-based system that enables data journalists to consolidate multiple tables into a single analysis-ready output without writing code. The interface comprises five coordinated panels that implement a schema-first, values-on-demand paradigm with live schema previews, ambient data qualit",
+      "summary_fr": "Data journalists routinely integrate records across multiple independently published sources to support accountability reporting, yet no existing interactive wrangling tool treats the collection of tables -- rather than the single table -- as its primary unit of work. We present OpenRoundup, an open-source, browser-based system that enables data journalists to consolidate multiple tables into a single analysis-ready output without writing code. The interface comprises five coordinated panels that implement a schema-first, values-on-demand paradigm with live schema previews, ambient data qualit",
+      "resume_fr": "Data journalists routinely integrate records across multiple independently published sources to support accountability reporting, yet no existing interactive wrangling tool treats the collection of tables -- rather than the single table -- as its primary unit of work. We present OpenRoundup, an open-source, browser-based system that enables data journalists to consolidate multiple tables into a single analysis-ready output without writing code. The interface comprises five coordinated panels that implement a schema-first, values-on-demand paradigm with live schema previews, ambient data qualit",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "EPICS in IEEE’s Awards Honor Outstanding Students and Faculty",
       "url": "https://spectrum.ieee.org/epics-in-ieee",
@@ -1082,158 +1234,6 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=content.knowledgehub.wiley.com&sz=128"
-    },
-    {
-      "title": "From Prompts to Context: An Ontology-Driven Framework for Human-Generative AI Collaboration",
-      "url": "https://arxiv.org/abs/2605.29675v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-28T09:35:59.000Z",
-      "score": 85,
-      "summary_en": "Collaborations with Generative AI often begin with a short prompt and end with an opaque output, leaving implicit who was involved, what task was being pursued, which resources were used, and which constraints should have shaped the process. This limited contextual explicitness hinders trust, traceability, and accountability, particularly when Generative AI is embedded in information-intensive workflows such as search, querying, and profile management. This paper introduces From Prompts to Context, an ontology-driven framework for representing Human-Generative AI collaboration. Its core compon",
-      "summary_fr": "Collaborations with Generative AI often begin with a short prompt and end with an opaque output, leaving implicit who was involved, what task was being pursued, which resources were used, and which constraints should have shaped the process. This limited contextual explicitness hinders trust, traceability, and accountability, particularly when Generative AI is embedded in information-intensive workflows such as search, querying, and profile management. This paper introduces From Prompts to Context, an ontology-driven framework for representing Human-Generative AI collaboration. Its core compon",
-      "resume_fr": "Collaborations with Generative AI often begin with a short prompt and end with an opaque output, leaving implicit who was involved, what task was being pursued, which resources were used, and which constraints should have shaped the process. This limited contextual explicitness hinders trust, traceability, and accountability, particularly when Generative AI is embedded in information-intensive workflows such as search, querying, and profile management. This paper introduces From Prompts to Context, an ontology-driven framework for representing Human-Generative AI collaboration. Its core compon",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Human–AI interactions reshape the self and our social networks",
-      "url": "https://www.nature.com/articles/s42256-026-01248-2",
-      "source": "Nature Machine Intelligence",
-      "published": "2026-05-28T00:00:00.000Z",
-      "score": 70,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
-    },
-    {
-      "title": "South Africa Has AI Leverage. Its Draft Policy Leaves It Unused",
-      "url": "https://spectrum.ieee.org/south-africa-ai-policy",
-      "source": "IEEE Spectrum – AI",
-      "published": "2026-05-27T13:00:01.000Z",
-      "score": 70,
-      "summary_en": "This article is adapted by the author with permission from Tech Policy Press. Read the original article. South Africa is not just another developing country struggling to govern artificial intelligence; it is the exception with leverage, and the window to act on it is closing. It holds approximately 88 percent of global platinum-group metal reserves, critical inputs to parts of the semiconductor and data-center supply chains that make AI infrastructure possible. It hosts the largest data-center market on the continent. Its existing hyperscaler relationships give it procurement leverage that mo",
-      "summary_fr": "This article is adapted by the author with permission from Tech Policy Press. Read the original article. South Africa is not just another developing country struggling to govern artificial intelligence; it is the exception with leverage, and the window to act on it is closing. It holds approximately 88 percent of global platinum-group metal reserves, critical inputs to parts of the semiconductor and data-center supply chains that make AI infrastructure possible. It hosts the largest data-center market on the continent. Its existing hyperscaler relationships give it procurement leverage that mo",
-      "resume_fr": "This article is adapted by the author with permission from Tech Policy Press. Read the original article. South Africa is not just another developing country struggling to govern artificial intelligence; it is the exception with leverage, and the window to act on it is closing. It holds approximately 88 percent of global platinum-group metal reserves, critical inputs to parts of the semiconductor and data-center supply chains that make AI infrastructure possible. It hosts the largest data-center market on the continent. Its existing hyperscaler relationships give it procurement leverage that mo",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
-    },
-    {
-      "title": "Generalizable mutation-effect prediction across adaptive immune recognition via unified multimodal framework",
-      "url": "https://www.nature.com/articles/s42256-026-01243-7",
-      "source": "Nature Machine Intelligence",
-      "published": "2026-05-27T00:00:00.000Z",
-      "score": 70,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
-    },
-    {
-      "title": "Meet NASA Low Outgassing Standards With Adhesives for Aerospace and Optical Systems",
-      "url": "https://spectrum.ieee.org/adhesive-outgassing-nasa-standards",
-      "source": "IEEE Spectrum – AI",
-      "published": "2026-05-26T10:00:01.000Z",
-      "score": 70,
-      "summary_en": "This sponsored article is brought to you by Master Bond. Outgassing is the release of volatile substances from a cured adhesive over time. These released materials, which may include residual solvents, unreacted monomers, or other chemical species, can deposit on nearby surfaces, causing contamination that interferes with sensitive components. What Is Outgassing and How Is It Measured? The industry standard for measuring outgassing is ASTM E595, developed by NASA. This test exposes a cured sample to 125 °C at high vacuum (10⁻⁵ to 10⁻⁶ torr) for 24 hours, measuring Total Mass Loss (TML) and Col",
-      "summary_fr": "This sponsored article is brought to you by Master Bond. Outgassing is the release of volatile substances from a cured adhesive over time. These released materials, which may include residual solvents, unreacted monomers, or other chemical species, can deposit on nearby surfaces, causing contamination that interferes with sensitive components. What Is Outgassing and How Is It Measured? The industry standard for measuring outgassing is ASTM E595, developed by NASA. This test exposes a cured sample to 125 °C at high vacuum (10⁻⁵ to 10⁻⁶ torr) for 24 hours, measuring Total Mass Loss (TML) and Col",
-      "resume_fr": "This sponsored article is brought to you by Master Bond. Outgassing is the release of volatile substances from a cured adhesive over time. These released materials, which may include residual solvents, unreacted monomers, or other chemical species, can deposit on nearby surfaces, causing contamination that interferes with sensitive components. What Is Outgassing and How Is It Measured? The industry standard for measuring outgassing is ASTM E595, developed by NASA. This test exposes a cured sample to 125 °C at high vacuum (10⁻⁵ to 10⁻⁶ torr) for 24 hours, measuring Total Mass Loss (TML) and Col",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
-    },
-    {
-      "title": "LiveK12Bench: Have Large Multimodal Models Truly Conquered High School-level Examinations?",
-      "url": "https://arxiv.org/abs/2605.26781v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-26T09:50:35.000Z",
-      "score": 50,
-      "summary_en": "Advanced Large Multimodal Models (LMMs) have demonstrated impressive performance in K-12 reasoning tasks, exhibiting great promise as intelligent tutors. Realizing this potential requires models to navigate real-world examinations effectively, yet most existing benchmarks fail to capture the complexity of authentic testing environments. Specifically, most datasets are static, prone to data contamination, and are often confined to restricted modalities, disciplines, and evaluation criteria. To address these issues, we introduce LiveK12Bench, a dynamic, holistic, multi-disciplinary benchmark des",
-      "summary_fr": "Advanced Large Multimodal Models (LMMs) have demonstrated impressive performance in K-12 reasoning tasks, exhibiting great promise as intelligent tutors. Realizing this potential requires models to navigate real-world examinations effectively, yet most existing benchmarks fail to capture the complexity of authentic testing environments. Specifically, most datasets are static, prone to data contamination, and are often confined to restricted modalities, disciplines, and evaluation criteria. To address these issues, we introduce LiveK12Bench, a dynamic, holistic, multi-disciplinary benchmark des",
-      "resume_fr": "Advanced Large Multimodal Models (LMMs) have demonstrated impressive performance in K-12 reasoning tasks, exhibiting great promise as intelligent tutors. Realizing this potential requires models to navigate real-world examinations effectively, yet most existing benchmarks fail to capture the complexity of authentic testing environments. Specifically, most datasets are static, prone to data contamination, and are often confined to restricted modalities, disciplines, and evaluation criteria. To address these issues, we introduce LiveK12Bench, a dynamic, holistic, multi-disciplinary benchmark des",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Generative artificial intelligence and the marginalization of minoritized knowledges in higher education: the case of disability",
-      "url": "https://arxiv.org/abs/2605.26769v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-26T09:39:09.000Z",
-      "score": 50,
-      "summary_en": "Generative artificial intelligence redefines higher education by restructuring the processes through which scientific knowledge is produced and validated. These systems are not neutral; they actively contribute to the marginalization of non-hegemonic epistemologies. This research draws upon educational sciences, critical technology studies, and disability studies to demonstrate that training datasets, which remain predominantly Anglophone and Western-centric, reinforce epistemic coloniality. The situation of persons with disabilities provides a particularly clear illustration of this phenomeno",
-      "summary_fr": "Generative artificial intelligence redefines higher education by restructuring the processes through which scientific knowledge is produced and validated. These systems are not neutral; they actively contribute to the marginalization of non-hegemonic epistemologies. This research draws upon educational sciences, critical technology studies, and disability studies to demonstrate that training datasets, which remain predominantly Anglophone and Western-centric, reinforce epistemic coloniality. The situation of persons with disabilities provides a particularly clear illustration of this phenomeno",
-      "resume_fr": "Generative artificial intelligence redefines higher education by restructuring the processes through which scientific knowledge is produced and validated. These systems are not neutral; they actively contribute to the marginalization of non-hegemonic epistemologies. This research draws upon educational sciences, critical technology studies, and disability studies to demonstrate that training datasets, which remain predominantly Anglophone and Western-centric, reinforce epistemic coloniality. The situation of persons with disabilities provides a particularly clear illustration of this phenomeno",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Few-shot Cross-country Generalization of Tabular Machine Learning and Foundation Models for Childhood Anemia Prediction under Distribution Shift",
-      "url": "https://arxiv.org/abs/2605.26589v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-26T06:20:20.000Z",
-      "score": 50,
-      "summary_en": "Childhood anemia affects around 40% of children aged 6-59 months globally and arises from heterogeneous factors, limiting model generalizability. We evaluate a transformer-based tabular foundation model against classical supervised methods under cross-country and data-scarce settings. We used DHS data from 16 countries across Africa, Asia, Latin America, the Caucasus, and the Middle East (n=68,856). We compared Logistic Regression, XGBoost, LightGBM, and TabPFN v2.6. Performance was assessed using AUC-ROC, Brier score, and ECE. Generalization was evaluated using leave-one-country-out (LOCO), r",
-      "summary_fr": "Childhood anemia affects around 40% of children aged 6-59 months globally and arises from heterogeneous factors, limiting model generalizability. We evaluate a transformer-based tabular foundation model against classical supervised methods under cross-country and data-scarce settings. We used DHS data from 16 countries across Africa, Asia, Latin America, the Caucasus, and the Middle East (n=68,856). We compared Logistic Regression, XGBoost, LightGBM, and TabPFN v2.6. Performance was assessed using AUC-ROC, Brier score, and ECE. Generalization was evaluated using leave-one-country-out (LOCO), r",
-      "resume_fr": "Childhood anemia affects around 40% of children aged 6-59 months globally and arises from heterogeneous factors, limiting model generalizability. We evaluate a transformer-based tabular foundation model against classical supervised methods under cross-country and data-scarce settings. We used DHS data from 16 countries across Africa, Asia, Latin America, the Caucasus, and the Middle East (n=68,856). We compared Logistic Regression, XGBoost, LightGBM, and TabPFN v2.6. Performance was assessed using AUC-ROC, Brier score, and ECE. Generalization was evaluated using leave-one-country-out (LOCO), r",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
 }
