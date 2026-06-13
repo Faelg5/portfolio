@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T10:38:34.409Z",
+  "generatedAt": "2026-06-13T09:32:08.196Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,25 @@
     }
   },
   "items": [
+    {
+      "title": "How Ventura College Scaled Faculty AI-Readiness Through Communities of  Practice",
+      "url": "https://edtechmagazine.com/higher/article/2026/06/how-ventura-college-scaled-faculty-ai-readiness-through-communities-practice",
+      "source": "EdTech Magazine (Higher Ed)",
+      "published": "2026-06-12T20:46:13.000Z",
+      "score": 65,
+      "summary_en": "Artificial intelligence promises big gains for faculty in higher education, including greater efficiencies and elevated learning outcomes. To realize the wins, professors need to get up to speed on the tools. While many are experimenting on their own, some institutions are taking steps to accelerate that learning. At Ventura College, a California community college, leaders recently stood up communities of practice around AI use. A CoP brings together individuals with a shared interest in a topic or technology; in this case, AI. The group then works together to learn more about the topic or…",
+      "summary_fr": "Artificial intelligence promises big gains for faculty in higher education, including greater efficiencies and elevated learning outcomes. To realize the wins, professors need to get up to speed on the tools. While many are experimenting on their own, some institutions are taking steps to accelerate that learning. At Ventura College, a California community college, leaders recently stood up communities of practice around AI use. A CoP brings together individuals with a shared interest in a topic or technology; in this case, AI. The group then works together to learn more about the topic or…",
+      "resume_fr": "Artificial intelligence promises big gains for faculty in higher education, including greater efficiencies and elevated learning outcomes. To realize the wins, professors need to get up to speed on the tools. While many are experimenting on their own, some institutions are taking steps to accelerate that learning. At Ventura College, a California community college, leaders recently stood up communities of practice around AI use. A CoP brings together individuals with a shared interest in a topic or technology; in this case, AI. The group then works together to learn more about the topic or…",
+      "tags": [],
+      "breakdown": {
+        "research": 0,
+        "policy": 35,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=edtechmagazine.com&sz=128"
+    },
     {
       "title": "Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Distillation",
       "url": "https://arxiv.org/abs/2606.13657v1",
@@ -1215,25 +1234,6 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Understanding Phase Noise and Its Impact on RF System Performance",
-      "url": "https://content.knowledgehub.wiley.com/understanding-phase-noise-fundamentals/",
-      "source": "IEEE Spectrum – AI",
-      "published": "2026-05-28T10:00:01.000Z",
-      "score": 70,
-      "summary_en": "A practical introduction to phase noise concepts, explaining how oscillator instability affects RF systems and how phase noise is measured, analyzed, and reported. What Attendees will Learn What phase noise is and why it matters — Learn how real-world oscillators differ from ideal ones, why short-term frequency instability arises, and why phase variations typically have a much greater impact than amplitude variations on system performance. How phase noise degrades system performance — Understand the most common effects of excessive phase noise: spectral regrowth, reciprocal mixing, and constel",
-      "summary_fr": "A practical introduction to phase noise concepts, explaining how oscillator instability affects RF systems and how phase noise is measured, analyzed, and reported. What Attendees will Learn What phase noise is and why it matters — Learn how real-world oscillators differ from ideal ones, why short-term frequency instability arises, and why phase variations typically have a much greater impact than amplitude variations on system performance. How phase noise degrades system performance — Understand the most common effects of excessive phase noise: spectral regrowth, reciprocal mixing, and constel",
-      "resume_fr": "A practical introduction to phase noise concepts, explaining how oscillator instability affects RF systems and how phase noise is measured, analyzed, and reported. What Attendees will Learn What phase noise is and why it matters — Learn how real-world oscillators differ from ideal ones, why short-term frequency instability arises, and why phase variations typically have a much greater impact than amplitude variations on system performance. How phase noise degrades system performance — Understand the most common effects of excessive phase noise: spectral regrowth, reciprocal mixing, and constel",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=content.knowledgehub.wiley.com&sz=128"
     }
   ]
 }
