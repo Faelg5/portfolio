@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-14T09:54:01.305Z",
+  "generatedAt": "2026-06-15T12:39:00.774Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
-  "totalAnalyzed": 54,
+  "totalAnalyzed": 100,
   "totalPublished": 60,
   "publishTarget": "default",
   "debug": {
@@ -113,6 +113,101 @@
       },
       "reason": "Heuristique: Recherche=0, Politiques=35, Institution=15, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=edtechmagazine.com&sz=128"
+    },
+    {
+      "title": "AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
+      "url": "https://arxiv.org/abs/2606.14694v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-06-12T17:56:25.000Z",
+      "score": 70,
+      "summary_en": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. Yet many real-world scenarios are inherently dynamic, such as audio and video stream, where information arrives as a continuous stream and models must reason, update, and respond under partial observations. Recent streaming reasoning methods allow models to think while reading, but they largely rely on supervised imitation of pre-constructed trajectories, which limits their flexibility. In this paper, we propose AdaSR, an adaptive strea",
+      "summary_fr": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. Yet many real-world scenarios are inherently dynamic, such as audio and video stream, where information arrives as a continuous stream and models must reason, update, and respond under partial observations. Recent streaming reasoning methods allow models to think while reading, but they largely rely on supervised imitation of pre-constructed trajectories, which limits their flexibility. In this paper, we propose AdaSR, an adaptive strea",
+      "resume_fr": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. Yet many real-world scenarios are inherently dynamic, such as audio and video stream, where information arrives as a continuous stream and models must reason, update, and respond under partial observations. Recent streaming reasoning methods allow models to think while reading, but they largely rely on supervised imitation of pre-constructed trajectories, which limits their flexibility. In this paper, we propose AdaSR, an adaptive strea",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "A Complexity Measure for Active Learning in Multi-group Mean Estimation",
+      "url": "https://arxiv.org/abs/2606.14690v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-06-12T17:54:26.000Z",
+      "score": 70,
+      "summary_en": "We study a \\emph{max-risk} objective for active learning in a multi-group mean estimation $d$-armed bandits: a learner adaptively allocates a budget of $T$ samples across $d$ groups to minimize the worst-case uncertainty index $\\max_{k\\in[d]}σ_k^2/n_k$, where $σ_k$ is the standard deviation of the distribution of arm $d$, and $n_k$ is the number of times arm $d$ is sampled. We develop a local minimax framework and prove the first general lower bound for this objective, valid for any finite-variance hypothesis class. The bound separates difficulty into three orthogonal factors: a \\emph{budget} ",
+      "summary_fr": "We study a \\emph{max-risk} objective for active learning in a multi-group mean estimation $d$-armed bandits: a learner adaptively allocates a budget of $T$ samples across $d$ groups to minimize the worst-case uncertainty index $\\max_{k\\in[d]}σ_k^2/n_k$, where $σ_k$ is the standard deviation of the distribution of arm $d$, and $n_k$ is the number of times arm $d$ is sampled. We develop a local minimax framework and prove the first general lower bound for this objective, valid for any finite-variance hypothesis class. The bound separates difficulty into three orthogonal factors: a \\emph{budget} ",
+      "resume_fr": "We study a \\emph{max-risk} objective for active learning in a multi-group mean estimation $d$-armed bandits: a learner adaptively allocates a budget of $T$ samples across $d$ groups to minimize the worst-case uncertainty index $\\max_{k\\in[d]}σ_k^2/n_k$, where $σ_k$ is the standard deviation of the distribution of arm $d$, and $n_k$ is the number of times arm $d$ is sampled. We develop a local minimax framework and prove the first general lower bound for this objective, valid for any finite-variance hypothesis class. The bound separates difficulty into three orthogonal factors: a \\emph{budget} ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillation Framework for Efficient Fire Classification",
+      "url": "https://arxiv.org/abs/2606.14684v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-06-12T17:48:27.000Z",
+      "score": 70,
+      "summary_en": "Real-time fire classification systems require models that are simultaneously accurate, computationally efficient, and deployable on resource-constrained hardware. This work proposes \\textbf{HumP-KD}, a Hybrid Uncertainty-aware Multi-stage Progressive Knowledge Distillation framework for efficient fire classification. Two datasets, FlameVision and Dataset-II, containing 8,600 and 31,309 images, are used. Various CNN and transformer baselines are applied under standard preprocessing, online augmentation, Gaussian noise and motion blur robustness conditions. The proposed HumP-KD model distills kn",
+      "summary_fr": "Real-time fire classification systems require models that are simultaneously accurate, computationally efficient, and deployable on resource-constrained hardware. This work proposes \\textbf{HumP-KD}, a Hybrid Uncertainty-aware Multi-stage Progressive Knowledge Distillation framework for efficient fire classification. Two datasets, FlameVision and Dataset-II, containing 8,600 and 31,309 images, are used. Various CNN and transformer baselines are applied under standard preprocessing, online augmentation, Gaussian noise and motion blur robustness conditions. The proposed HumP-KD model distills kn",
+      "resume_fr": "Real-time fire classification systems require models that are simultaneously accurate, computationally efficient, and deployable on resource-constrained hardware. This work proposes \\textbf{HumP-KD}, a Hybrid Uncertainty-aware Multi-stage Progressive Knowledge Distillation framework for efficient fire classification. Two datasets, FlameVision and Dataset-II, containing 8,600 and 31,309 images, are used. Various CNN and transformer baselines are applied under standard preprocessing, online augmentation, Gaussian noise and motion blur robustness conditions. The proposed HumP-KD model distills kn",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Abstracting Cross-Domain Action Sequences into Interpretable Workflows",
+      "url": "https://arxiv.org/abs/2606.14654v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-06-12T17:19:15.000Z",
+      "score": 85,
+      "summary_en": "Sequential or time-stamped interaction logs provide objective records of digital application usage, yet their granularity and noise often obscure meaningful insights into people's work. Such insights are essential for improving digital products in ways grounded in real-world user interactions. Prior research has applied deep learning models to cluster user actions into high-level activities, but these approaches are highly sensitive to noise and struggle to generalize across applications. To address this limitation, we introduce WorkflowView, a framework that uses large language models (LLMs) ",
+      "summary_fr": "Sequential or time-stamped interaction logs provide objective records of digital application usage, yet their granularity and noise often obscure meaningful insights into people's work. Such insights are essential for improving digital products in ways grounded in real-world user interactions. Prior research has applied deep learning models to cluster user actions into high-level activities, but these approaches are highly sensitive to noise and struggle to generalize across applications. To address this limitation, we introduce WorkflowView, a framework that uses large language models (LLMs) ",
+      "resume_fr": "Sequential or time-stamped interaction logs provide objective records of digital application usage, yet their granularity and noise often obscure meaningful insights into people's work. Such insights are essential for improving digital products in ways grounded in real-world user interactions. Prior research has applied deep learning models to cluster user actions into high-level activities, but these approaches are highly sensitive to noise and struggle to generalize across applications. To address this limitation, we introduce WorkflowView, a framework that uses large language models (LLMs) ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Verifiable User Simulation for Search and Recommendation Systems",
+      "url": "https://arxiv.org/abs/2606.14474v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-06-12T14:09:56.000Z",
+      "score": 50,
+      "summary_en": "Large-language-model (LLM) based user simulation is increasingly adopted for evaluating search engines, recommender systems, and retrieval-augmented generation pipelines, yet most simulators remain opaque: it is difficult to determine why a simulated user made a particular choice or whether that choice is consistent with the intended user profile. Compounding this, recent research shows that LLMs can produce biased or discriminatory responses depending on user background characteristics such as language, education level, and cultural context, raising concerns about the equitable treatment of m",
+      "summary_fr": "Large-language-model (LLM) based user simulation is increasingly adopted for evaluating search engines, recommender systems, and retrieval-augmented generation pipelines, yet most simulators remain opaque: it is difficult to determine why a simulated user made a particular choice or whether that choice is consistent with the intended user profile. Compounding this, recent research shows that LLMs can produce biased or discriminatory responses depending on user background characteristics such as language, education level, and cultural context, raising concerns about the equitable treatment of m",
+      "resume_fr": "Large-language-model (LLM) based user simulation is increasingly adopted for evaluating search engines, recommender systems, and retrieval-augmented generation pipelines, yet most simulators remain opaque: it is difficult to determine why a simulated user made a particular choice or whether that choice is consistent with the intended user profile. Compounding this, recent research shows that LLMs can produce biased or discriminatory responses depending on user background characteristics such as language, education level, and cultural context, raising concerns about the equitable treatment of m",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
       "title": "Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Distillation",
@@ -1138,101 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data Analysis",
-      "url": "https://arxiv.org/abs/2605.30434v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-28T18:00:20.000Z",
-      "score": 50,
-      "summary_en": "Real-world data analysis is inherently iterative, yet existing benchmarks mostly evaluate isolated or short interactive tasks, leaving agents' ability to track evolving analytical context over long horizons untested. We introduce LongDS, a benchmark for long-horizon, multi-turn data analysis where agents must maintain, update, restore, and compose evolving analytical states. LongDS comprises 68 tasks constructed from real-world Kaggle notebooks, spanning 2,225 turns across six domains including Geoscience, Business, and Education. Tasks are designed around state-evolution patterns (e.g., count",
-      "summary_fr": "Real-world data analysis is inherently iterative, yet existing benchmarks mostly evaluate isolated or short interactive tasks, leaving agents' ability to track evolving analytical context over long horizons untested. We introduce LongDS, a benchmark for long-horizon, multi-turn data analysis where agents must maintain, update, restore, and compose evolving analytical states. LongDS comprises 68 tasks constructed from real-world Kaggle notebooks, spanning 2,225 turns across six domains including Geoscience, Business, and Education. Tasks are designed around state-evolution patterns (e.g., count",
-      "resume_fr": "Real-world data analysis is inherently iterative, yet existing benchmarks mostly evaluate isolated or short interactive tasks, leaving agents' ability to track evolving analytical context over long horizons untested. We introduce LongDS, a benchmark for long-horizon, multi-turn data analysis where agents must maintain, update, restore, and compose evolving analytical states. LongDS comprises 68 tasks constructed from real-world Kaggle notebooks, spanning 2,225 turns across six domains including Geoscience, Business, and Education. Tasks are designed around state-evolution patterns (e.g., count",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Double-Edged Sword or Sharp Tool? Designing and Evaluating Triadic LLM-Teacher Collaboration for K-12 Writing at Scale",
-      "url": "https://arxiv.org/abs/2605.30200v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-28T16:37:00.000Z",
-      "score": 50,
-      "summary_en": "The double-edged sword of integrating Large Language Models (LLMs) requires an effective triadic collaboration mechanism among LLMs, teachers and students, especially for K-12 education. By developing a triadic collaboration system to support K-12 writing learning, a multidimensional evaluation framework grounded in Systemic Functional Linguistics and the suggestion trajectory tracing pipeline, this paper contributes a large-scale empirical dataset involving $57,954$ essays from $10,195$ students across $120$ schools over two years. Our findings confirm the efficacy of this system in improving",
-      "summary_fr": "The double-edged sword of integrating Large Language Models (LLMs) requires an effective triadic collaboration mechanism among LLMs, teachers and students, especially for K-12 education. By developing a triadic collaboration system to support K-12 writing learning, a multidimensional evaluation framework grounded in Systemic Functional Linguistics and the suggestion trajectory tracing pipeline, this paper contributes a large-scale empirical dataset involving $57,954$ essays from $10,195$ students across $120$ schools over two years. Our findings confirm the efficacy of this system in improving",
-      "resume_fr": "The double-edged sword of integrating Large Language Models (LLMs) requires an effective triadic collaboration mechanism among LLMs, teachers and students, especially for K-12 education. By developing a triadic collaboration system to support K-12 writing learning, a multidimensional evaluation framework grounded in Systemic Functional Linguistics and the suggestion trajectory tracing pipeline, this paper contributes a large-scale empirical dataset involving $57,954$ essays from $10,195$ students across $120$ schools over two years. Our findings confirm the efficacy of this system in improving",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance",
-      "url": "https://arxiv.org/abs/2605.30187v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-28T16:31:32.000Z",
-      "score": 50,
-      "summary_en": "The widespread adoption of AI chatbots in education will drastically change learning, making responsible deployment a critical concern. While large language models (LLMs) might have access to sources discussing insights from educational sciences, they are not particularly inclined to adhere to pedagogical concepts, risking negative effects on the learning process, such as a loss of transfer capabilities, critical thinking, or creativity. In this paper, we introduce an agentic AI chatbot architecture assisting students with exercise solving, specifically designed to contribute to more responsib",
-      "summary_fr": "The widespread adoption of AI chatbots in education will drastically change learning, making responsible deployment a critical concern. While large language models (LLMs) might have access to sources discussing insights from educational sciences, they are not particularly inclined to adhere to pedagogical concepts, risking negative effects on the learning process, such as a loss of transfer capabilities, critical thinking, or creativity. In this paper, we introduce an agentic AI chatbot architecture assisting students with exercise solving, specifically designed to contribute to more responsib",
-      "resume_fr": "The widespread adoption of AI chatbots in education will drastically change learning, making responsible deployment a critical concern. While large language models (LLMs) might have access to sources discussing insights from educational sciences, they are not particularly inclined to adhere to pedagogical concepts, risking negative effects on the learning process, such as a loss of transfer capabilities, critical thinking, or creativity. In this paper, we introduce an agentic AI chatbot architecture assisting students with exercise solving, specifically designed to contribute to more responsib",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Temporal Stability and Few-Shot Prompting in Math Task Assessment",
-      "url": "https://arxiv.org/abs/2605.30151v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-28T16:10:24.000Z",
-      "score": 50,
-      "summary_en": "As AI tools become increasingly integrated into educational contexts, questions arise about both their stability over time and their responsiveness to prompt engineering techniques. This longitudinal study focused on different AI tools' ability to use the Task Analysis Guide (TAG; Stein \\& Smith, 1998) to classify the cognitive demand of mathematics tasks. In particular, it examined whether this classification ability changed with (1) model version updates over time and (2) few-shot prompting using exemplar tasks. We tested a general-purpose AI tool (Gemini) and an education-specific AI tool (",
-      "summary_fr": "As AI tools become increasingly integrated into educational contexts, questions arise about both their stability over time and their responsiveness to prompt engineering techniques. This longitudinal study focused on different AI tools' ability to use the Task Analysis Guide (TAG; Stein \\& Smith, 1998) to classify the cognitive demand of mathematics tasks. In particular, it examined whether this classification ability changed with (1) model version updates over time and (2) few-shot prompting using exemplar tasks. We tested a general-purpose AI tool (Gemini) and an education-specific AI tool (",
-      "resume_fr": "As AI tools become increasingly integrated into educational contexts, questions arise about both their stability over time and their responsiveness to prompt engineering techniques. This longitudinal study focused on different AI tools' ability to use the Task Analysis Guide (TAG; Stein \\& Smith, 1998) to classify the cognitive demand of mathematics tasks. In particular, it examined whether this classification ability changed with (1) model version updates over time and (2) few-shot prompting using exemplar tasks. We tested a general-purpose AI tool (Gemini) and an education-specific AI tool (",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Uncertainty-Aware Transfer Learning for Cross-Building Energy Forecasting: Toward Robust and Scalable District-Level Energy Management",
-      "url": "https://arxiv.org/abs/2605.29733v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-28T10:28:05.000Z",
-      "score": 65,
-      "summary_en": "Scaling data-driven energy forecasting to district level requires models that can be re-used across buildings with minimal target-domain data and honest uncertainty estimates. We present an uncertainty-aware transfer learning (TL) framework for cross-building energy forecasting based on the Temporal Fusion Transformer (TFT), evaluated on a newly released high-resolution real sub-meter dataset: an educational building at Aalborg University, Denmark (source) and the multi-typology NEST building at EMPA, Switzerland (target). We introduce the Transfer Robustness Index (TRI), an architecture-agnos",
-      "summary_fr": "Scaling data-driven energy forecasting to district level requires models that can be re-used across buildings with minimal target-domain data and honest uncertainty estimates. We present an uncertainty-aware transfer learning (TL) framework for cross-building energy forecasting based on the Temporal Fusion Transformer (TFT), evaluated on a newly released high-resolution real sub-meter dataset: an educational building at Aalborg University, Denmark (source) and the multi-typology NEST building at EMPA, Switzerland (target). We introduce the Transfer Robustness Index (TRI), an architecture-agnos",
-      "resume_fr": "Scaling data-driven energy forecasting to district level requires models that can be re-used across buildings with minimal target-domain data and honest uncertainty estimates. We present an uncertainty-aware transfer learning (TL) framework for cross-building energy forecasting based on the Temporal Fusion Transformer (TFT), evaluated on a newly released high-resolution real sub-meter dataset: an educational building at Aalborg University, Denmark (source) and the multi-typology NEST building at EMPA, Switzerland (target). We introduce the Transfer Robustness Index (TRI), an architecture-agnos",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
