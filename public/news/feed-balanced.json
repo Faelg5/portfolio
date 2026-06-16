@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T12:39:00.774Z",
+  "generatedAt": "2026-06-16T11:31:24.272Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,177 @@
     }
   },
   "items": [
+    {
+      "title": "Exact Posterior Score Estimation for Solving Linear Inverse Problems",
+      "url": "https://arxiv.org/abs/2606.17048v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-06-15T17:58:22.000Z",
+      "score": 70,
+      "summary_en": "Diffusion and flow-based models learn powerful data priors by training a denoiser to reverse Gaussian corruption. To use this prior to solve a linear inverse problem, one needs to sample from the posterior, but the score that the prior provides is the unconditional score, not the posterior score. Existing methods either steer a fixed pretrained denoiser with approximate measurement-matching corrections, or train a conditional restoration model that abandons the denoising structure of the prior. We derive the exact posterior score in closed form for linear Gaussian inverse problems under genera",
+      "summary_fr": "Diffusion and flow-based models learn powerful data priors by training a denoiser to reverse Gaussian corruption. To use this prior to solve a linear inverse problem, one needs to sample from the posterior, but the score that the prior provides is the unconditional score, not the posterior score. Existing methods either steer a fixed pretrained denoiser with approximate measurement-matching corrections, or train a conditional restoration model that abandons the denoising structure of the prior. We derive the exact posterior score in closed form for linear Gaussian inverse problems under genera",
+      "resume_fr": "Diffusion and flow-based models learn powerful data priors by training a denoiser to reverse Gaussian corruption. To use this prior to solve a linear inverse problem, one needs to sample from the posterior, but the score that the prior provides is the unconditional score, not the posterior score. Existing methods either steer a fixed pretrained denoiser with approximate measurement-matching corrections, or train a conditional restoration model that abandons the denoising structure of the prior. We derive the exact posterior score in closed form for linear Gaussian inverse problems under genera",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Geometric Action Model for Robot Policy Learning",
+      "url": "https://arxiv.org/abs/2606.17046v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-06-15T17:58:03.000Z",
+      "score": 70,
+      "summary_en": "Generalist robot policies must follow user instructions while reasoning about how objects, cameras, and robot actions interact in the 3D physical world. Recent vision-language-action models (VLAs) and video world-action models (WAMs) inherit strong semantic or temporal priors from large-scale foundation models, but they still operate primarily on 2D image frames or 2D-derived latent spaces, leaving implicit the 3D geometry required for contact-rich manipulation. We propose the Geometric Action Model (GAM), a language-conditioned manipulation policy that directly repurposes a pretrained geometr",
+      "summary_fr": "Generalist robot policies must follow user instructions while reasoning about how objects, cameras, and robot actions interact in the 3D physical world. Recent vision-language-action models (VLAs) and video world-action models (WAMs) inherit strong semantic or temporal priors from large-scale foundation models, but they still operate primarily on 2D image frames or 2D-derived latent spaces, leaving implicit the 3D geometry required for contact-rich manipulation. We propose the Geometric Action Model (GAM), a language-conditioned manipulation policy that directly repurposes a pretrained geometr",
+      "resume_fr": "Generalist robot policies must follow user instructions while reasoning about how objects, cameras, and robot actions interact in the 3D physical world. Recent vision-language-action models (VLAs) and video world-action models (WAMs) inherit strong semantic or temporal priors from large-scale foundation models, but they still operate primarily on 2D image frames or 2D-derived latent spaces, leaving implicit the 3D geometry required for contact-rich manipulation. We propose the Geometric Action Model (GAM), a language-conditioned manipulation policy that directly repurposes a pretrained geometr",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Using AI in engineering education: a balancing act, driven by clear purpose",
+      "url": "https://arxiv.org/abs/2606.16626v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-06-15T12:21:42.000Z",
+      "score": 85,
+      "summary_en": "Based on a questionnaire of 100 higher-education students, predominantly from engineering-related fields, and a critical review of recent literature, this chapter examines how students use and perceive Large Language Models (LLMs) in engineering education. Students primarily value LLMs for writing support, conceptual clarification, coding assistance, and brainstorming, while simultaneously expressing concerns about inaccuracies, bias, overreliance, academic integrity, and the burden of verification. Through an analysis of two dominant metaphors, namely LLMs as an \"oracle\" and as a \"tutor,\" the",
+      "summary_fr": "Based on a questionnaire of 100 higher-education students, predominantly from engineering-related fields, and a critical review of recent literature, this chapter examines how students use and perceive Large Language Models (LLMs) in engineering education. Students primarily value LLMs for writing support, conceptual clarification, coding assistance, and brainstorming, while simultaneously expressing concerns about inaccuracies, bias, overreliance, academic integrity, and the burden of verification. Through an analysis of two dominant metaphors, namely LLMs as an \"oracle\" and as a \"tutor,\" the",
+      "resume_fr": "Based on a questionnaire of 100 higher-education students, predominantly from engineering-related fields, and a critical review of recent literature, this chapter examines how students use and perceive Large Language Models (LLMs) in engineering education. Students primarily value LLMs for writing support, conceptual clarification, coding assistance, and brainstorming, while simultaneously expressing concerns about inaccuracies, bias, overreliance, academic integrity, and the burden of verification. Through an analysis of two dominant metaphors, namely LLMs as an \"oracle\" and as a \"tutor,\" the",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "LectūraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching",
+      "url": "https://arxiv.org/abs/2606.16428v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-06-15T09:03:12.000Z",
+      "score": 85,
+      "summary_en": "Effective personalized AI-assisted learning demands systems that can not only generate accurate learner-specific educational materials, but also dynamically adapt their instruction to diverse learners. However, existing educational agents have primarily focused on lecture content automation and simulations, which often fall short of modelling multimodal and embodied instructional methods tailored for the individual learner. To this end, we propose LectūraAgents - a multi-agent framework that enables personalized learning through end-to-end adaptive embodied teaching. At its core, LectūraAgents",
+      "summary_fr": "Effective personalized AI-assisted learning demands systems that can not only generate accurate learner-specific educational materials, but also dynamically adapt their instruction to diverse learners. However, existing educational agents have primarily focused on lecture content automation and simulations, which often fall short of modelling multimodal and embodied instructional methods tailored for the individual learner. To this end, we propose LectūraAgents - a multi-agent framework that enables personalized learning through end-to-end adaptive embodied teaching. At its core, LectūraAgents",
+      "resume_fr": "Effective personalized AI-assisted learning demands systems that can not only generate accurate learner-specific educational materials, but also dynamically adapt their instruction to diverse learners. However, existing educational agents have primarily focused on lecture content automation and simulations, which often fall short of modelling multimodal and embodied instructional methods tailored for the individual learner. To this end, we propose LectūraAgents - a multi-agent framework that enables personalized learning through end-to-end adaptive embodied teaching. At its core, LectūraAgents",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact",
+      "url": "https://arxiv.org/abs/2606.16206v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-06-15T04:32:18.000Z",
+      "score": 85,
+      "summary_en": "Large language models are increasingly proposed as educational tutors, yet stronger task-solving ability does not necessarily imply stronger learning support. Motivated by recent calls to measure the social impact of NLP systems in practice, we study whether public LLM tutoring benchmarks distinguish learning-supportive behavior from mere answer production. We propose a lightweight diagnostic based on the gap between solving-oriented and pedagogy-oriented benchmark performance. Using public MathTutorBench leaderboard results, we show that these dimensions are only partially aligned: across eig",
+      "summary_fr": "Large language models are increasingly proposed as educational tutors, yet stronger task-solving ability does not necessarily imply stronger learning support. Motivated by recent calls to measure the social impact of NLP systems in practice, we study whether public LLM tutoring benchmarks distinguish learning-supportive behavior from mere answer production. We propose a lightweight diagnostic based on the gap between solving-oriented and pedagogy-oriented benchmark performance. Using public MathTutorBench leaderboard results, we show that these dimensions are only partially aligned: across eig",
+      "resume_fr": "Large language models are increasingly proposed as educational tutors, yet stronger task-solving ability does not necessarily imply stronger learning support. Motivated by recent calls to measure the social impact of NLP systems in practice, we study whether public LLM tutoring benchmarks distinguish learning-supportive behavior from mere answer production. We propose a lightweight diagnostic based on the gap between solving-oriented and pedagogy-oriented benchmark performance. Using public MathTutorBench leaderboard results, we show that these dimensions are only partially aligned: across eig",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student Writing",
+      "url": "https://arxiv.org/abs/2606.15914v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-06-14T16:44:36.000Z",
+      "score": 65,
+      "summary_en": "Gender bias in LLMs has been studied extensively in model outputs, with biased prompts shown to amplify stereotyped generations. Whether such bias propagates into text produced by humans who use these systems, however, remains underexplored. We investigate whether gender bias in an LLM writing assistant transfers into career plan essays written by students. We first verify that a gender-biased prompt induces gender-differentiated language in LLM-generated essays, while a neutral prompt does not. We then recruited participants (N = 123) in a controlled environment to write career plan essays fo",
+      "summary_fr": "Gender bias in LLMs has been studied extensively in model outputs, with biased prompts shown to amplify stereotyped generations. Whether such bias propagates into text produced by humans who use these systems, however, remains underexplored. We investigate whether gender bias in an LLM writing assistant transfers into career plan essays written by students. We first verify that a gender-biased prompt induces gender-differentiated language in LLM-generated essays, while a neutral prompt does not. We then recruited participants (N = 123) in a controlled environment to write career plan essays fo",
+      "resume_fr": "Gender bias in LLMs has been studied extensively in model outputs, with biased prompts shown to amplify stereotyped generations. Whether such bias propagates into text produced by humans who use these systems, however, remains underexplored. We investigate whether gender bias in an LLM writing assistant transfers into career plan essays written by students. We first verify that a gender-biased prompt induces gender-differentiated language in LLM-generated essays, while a neutral prompt does not. We then recruited participants (N = 123) in a controlled environment to write career plan essays fo",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments",
+      "url": "https://arxiv.org/abs/2606.15766v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-06-14T12:05:49.000Z",
+      "score": 85,
+      "summary_en": "A central pedagogical value evaluated in AI tutor benchmarks is scaffolding: guiding students through graduated steps toward a solution. Alignment and evaluation methods for embedding scaffolding behaviour into chatbots, however, rest on an implicit assumption: that students will take up the scaffolding and engage in the conversation. To examine whether this assumption holds, we introduce an evaluation pipeline around two metrics - Chatbot Scaffolding and Student Uptake - and apply them across nine datasets of 9,490 chats, spanning AI tutor benchmarks and real-world deployments of educational ",
+      "summary_fr": "A central pedagogical value evaluated in AI tutor benchmarks is scaffolding: guiding students through graduated steps toward a solution. Alignment and evaluation methods for embedding scaffolding behaviour into chatbots, however, rest on an implicit assumption: that students will take up the scaffolding and engage in the conversation. To examine whether this assumption holds, we introduce an evaluation pipeline around two metrics - Chatbot Scaffolding and Student Uptake - and apply them across nine datasets of 9,490 chats, spanning AI tutor benchmarks and real-world deployments of educational ",
+      "resume_fr": "A central pedagogical value evaluated in AI tutor benchmarks is scaffolding: guiding students through graduated steps toward a solution. Alignment and evaluation methods for embedding scaffolding behaviour into chatbots, however, rest on an implicit assumption: that students will take up the scaffolding and engage in the conversation. To examine whether this assumption holds, we introduce an evaluation pipeline around two metrics - Chatbot Scaffolding and Student Uptake - and apply them across nine datasets of 9,490 chats, spanning AI tutor benchmarks and real-world deployments of educational ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "SCAN: A Decision-Making Framework for Effective Task Allocation with Generative AI",
+      "url": "https://arxiv.org/abs/2606.15601v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-06-14T05:11:35.000Z",
+      "score": 85,
+      "summary_en": "We introduce SCAN -- a human-centric decision-making framework to facilitate learners for effective task allocation with Generative Artificial Intelligence (GenAI) based on Vygotsky's Zone of Proximal Development and Metacognition. In SCAN, we systematize and formalize AI-human interaction by introducing a task-identification approach with four \"sub-zones\": Substitute, Complement, Aid, and Non-negotiable. After describing the four sub-zones, we demonstrate how SCAN framework can be applied for knowledge workers in the workplace and students in education to metacognitively \"scan\" their use of G",
+      "summary_fr": "We introduce SCAN -- a human-centric decision-making framework to facilitate learners for effective task allocation with Generative Artificial Intelligence (GenAI) based on Vygotsky's Zone of Proximal Development and Metacognition. In SCAN, we systematize and formalize AI-human interaction by introducing a task-identification approach with four \"sub-zones\": Substitute, Complement, Aid, and Non-negotiable. After describing the four sub-zones, we demonstrate how SCAN framework can be applied for knowledge workers in the workplace and students in education to metacognitively \"scan\" their use of G",
+      "resume_fr": "We introduce SCAN -- a human-centric decision-making framework to facilitate learners for effective task allocation with Generative Artificial Intelligence (GenAI) based on Vygotsky's Zone of Proximal Development and Metacognition. In SCAN, we systematize and formalize AI-human interaction by introducing a task-identification approach with four \"sub-zones\": Substitute, Complement, Aid, and Non-negotiable. After describing the four sub-zones, we demonstrate how SCAN framework can be applied for knowledge workers in the workplace and students in education to metacognitively \"scan\" their use of G",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Agentic Retrieval and Reinforcement Learned Equation Chains: A Controlled Generation Framework for Complex and Novel Physics Word Problems",
+      "url": "https://arxiv.org/abs/2606.15591v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-06-14T04:22:36.000Z",
+      "score": 85,
+      "summary_en": "Generating high-quality Physics Word Problems (PWPs) that are novel, complex, and solvable remains a challenging and underexplored problem in educational content generation. Existing approaches, many adapted from Math Word Problem (MWP) generation, often produce ambiguous, unsolvable, or structurally simple questions with limited linguistic diversity. We introduce ARVRE (Agentic Retrieval Value Reinforced Equation-chain), a two-stage framework for generating diverse and mathematically valid PWPs. In the first stage, a form of offline temporal-difference learning is used to construct valid chai",
+      "summary_fr": "Generating high-quality Physics Word Problems (PWPs) that are novel, complex, and solvable remains a challenging and underexplored problem in educational content generation. Existing approaches, many adapted from Math Word Problem (MWP) generation, often produce ambiguous, unsolvable, or structurally simple questions with limited linguistic diversity. We introduce ARVRE (Agentic Retrieval Value Reinforced Equation-chain), a two-stage framework for generating diverse and mathematically valid PWPs. In the first stage, a form of offline temporal-difference learning is used to construct valid chai",
+      "resume_fr": "Generating high-quality Physics Word Problems (PWPs) that are novel, complex, and solvable remains a challenging and underexplored problem in educational content generation. Existing approaches, many adapted from Math Word Problem (MWP) generation, often produce ambiguous, unsolvable, or structurally simple questions with limited linguistic diversity. We introduce ARVRE (Agentic Retrieval Value Reinforced Equation-chain), a two-stage framework for generating diverse and mathematically valid PWPs. In the first stage, a form of offline temporal-difference learning is used to construct valid chai",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "How Ventura College Scaled Faculty AI-Readiness Through Communities of  Practice",
       "url": "https://edtechmagazine.com/higher/article/2026/06/how-ventura-college-scaled-faculty-ai-readiness-through-communities-practice",
@@ -1062,177 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Identifying High-Confidence Social Biases in LLMs for Trustworthy Conversational Tutoring Agents",
-      "url": "https://arxiv.org/abs/2606.01584v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-06-01T02:28:27.000Z",
-      "score": 50,
-      "summary_en": "Conversational tutoring agents have been shown to improve learning engagement and student outcomes, and large language models (LLMs) are increasingly used in these systems to provide scalable, personalized feedback. However, LLMs may perpetuate or amplify stereotypical social biases, posing particular risks in educational settings. In this study, we evaluate LLMs in conversational tutoring scenarios to identify high-confidence social biases, instances where models are unable to identify biased judgments in tutoring conversations while maintaining strong confidence in their assessments, potenti",
-      "summary_fr": "Conversational tutoring agents have been shown to improve learning engagement and student outcomes, and large language models (LLMs) are increasingly used in these systems to provide scalable, personalized feedback. However, LLMs may perpetuate or amplify stereotypical social biases, posing particular risks in educational settings. In this study, we evaluate LLMs in conversational tutoring scenarios to identify high-confidence social biases, instances where models are unable to identify biased judgments in tutoring conversations while maintaining strong confidence in their assessments, potenti",
-      "resume_fr": "Conversational tutoring agents have been shown to improve learning engagement and student outcomes, and large language models (LLMs) are increasingly used in these systems to provide scalable, personalized feedback. However, LLMs may perpetuate or amplify stereotypical social biases, posing particular risks in educational settings. In this study, we evaluate LLMs in conversational tutoring scenarios to identify high-confidence social biases, instances where models are unable to identify biased judgments in tutoring conversations while maintaining strong confidence in their assessments, potenti",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "What LLMs Must Forget to Teach Effectively: A DIY Approach to Premodern Japanese Language Pedagogy",
-      "url": "https://arxiv.org/abs/2606.01410v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-31T19:16:12.000Z",
-      "score": 50,
-      "summary_en": "We discuss a novel approach to Premodern Japanese Language Pedagogy (PJLP) with potential applications in other languages and fields. The integration of artificial intelligence into education has largely operated as a top-down project, affording minimal agency to everyday users. This dynamic mirrors the broader frontier model ecosystem, which concentrates massive human and financial resources within a few labs. Drawing inspiration from grassroots initiatives such as the DIY and Maker movements, this paper advocates for an approach to AI in Education that fosters instructional and student agenc",
-      "summary_fr": "We discuss a novel approach to Premodern Japanese Language Pedagogy (PJLP) with potential applications in other languages and fields. The integration of artificial intelligence into education has largely operated as a top-down project, affording minimal agency to everyday users. This dynamic mirrors the broader frontier model ecosystem, which concentrates massive human and financial resources within a few labs. Drawing inspiration from grassroots initiatives such as the DIY and Maker movements, this paper advocates for an approach to AI in Education that fosters instructional and student agenc",
-      "resume_fr": "We discuss a novel approach to Premodern Japanese Language Pedagogy (PJLP) with potential applications in other languages and fields. The integration of artificial intelligence into education has largely operated as a top-down project, affording minimal agency to everyday users. This dynamic mirrors the broader frontier model ecosystem, which concentrates massive human and financial resources within a few labs. Drawing inspiration from grassroots initiatives such as the DIY and Maker movements, this paper advocates for an approach to AI in Education that fosters instructional and student agenc",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics",
-      "url": "https://arxiv.org/abs/2606.01375v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-31T18:05:23.000Z",
-      "score": 50,
-      "summary_en": "Large language models (LLMs) are increasingly entering students' learning practices, but their educational value depends on whether they support reasoning or enable task completion without engagement. This study examines guided LLM use in an undergraduate Probability and Statistics course, focusing on the gap between assigned access and actual interaction quality. In a four-week quasi-experimental summer program, students were organized into three balanced conditions: no LLM access, unrestricted LLM access, and guided LLM access. The guided condition used the same LLM platform as the unrestric",
-      "summary_fr": "Large language models (LLMs) are increasingly entering students' learning practices, but their educational value depends on whether they support reasoning or enable task completion without engagement. This study examines guided LLM use in an undergraduate Probability and Statistics course, focusing on the gap between assigned access and actual interaction quality. In a four-week quasi-experimental summer program, students were organized into three balanced conditions: no LLM access, unrestricted LLM access, and guided LLM access. The guided condition used the same LLM platform as the unrestric",
-      "resume_fr": "Large language models (LLMs) are increasingly entering students' learning practices, but their educational value depends on whether they support reasoning or enable task completion without engagement. This study examines guided LLM use in an undergraduate Probability and Statistics course, focusing on the gap between assigned access and actual interaction quality. In a four-week quasi-experimental summer program, students were organized into three balanced conditions: no LLM access, unrestricted LLM access, and guided LLM access. The guided condition used the same LLM platform as the unrestric",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Application of Algorithms in Energy-Efficient Design Platforms for Green Building",
-      "url": "https://arxiv.org/abs/2606.01229v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-31T13:26:17.000Z",
-      "score": 50,
-      "summary_en": "During green building design, computer-aided energy assessment is widely used to improve efficiency and achieve overall optimization. This paper presents a platform that combines Building Information Modeling (BIM), sensor operational data, and advanced simulation workflows using robust algorithms. The platform uses a multi-layer service architecture with dynamic energy simulation and evolutionary multi-objective optimization, connected via a high-performance C++ core and adaptive agent models. A mid-rise office building was selected as the case study. Five representative areas were chosen to ",
-      "summary_fr": "During green building design, computer-aided energy assessment is widely used to improve efficiency and achieve overall optimization. This paper presents a platform that combines Building Information Modeling (BIM), sensor operational data, and advanced simulation workflows using robust algorithms. The platform uses a multi-layer service architecture with dynamic energy simulation and evolutionary multi-objective optimization, connected via a high-performance C++ core and adaptive agent models. A mid-rise office building was selected as the case study. Five representative areas were chosen to ",
-      "resume_fr": "During green building design, computer-aided energy assessment is widely used to improve efficiency and achieve overall optimization. This paper presents a platform that combines Building Information Modeling (BIM), sensor operational data, and advanced simulation workflows using robust algorithms. The platform uses a multi-layer service architecture with dynamic energy simulation and evolutionary multi-objective optimization, connected via a high-performance C++ core and adaptive agent models. A mid-rise office building was selected as the case study. Five representative areas were chosen to ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "From Craft Practice to Aesthetic Cognition Transmission: Workflow Cognition Translation for AI-native Intangible Cultural Heritage Education",
-      "url": "https://arxiv.org/abs/2606.01203v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-05-31T12:37:51.000Z",
-      "score": 85,
-      "summary_en": "Intangible Cultural Heritage (ICH) education has traditionally relied on apprenticeship, embodied participation, and long-term engagement with masters, materials, and cultural environments. While these modes of transmission remain essential, they are difficult to scale. Existing digital heritage initiatives have expanded documentation and access, but often preserve artefacts, procedures, and representations of practice rather than the aesthetic and cognitive structures through which expertise operates. This paper argues that the future challenge of ICH education is not only the transmission of",
-      "summary_fr": "Intangible Cultural Heritage (ICH) education has traditionally relied on apprenticeship, embodied participation, and long-term engagement with masters, materials, and cultural environments. While these modes of transmission remain essential, they are difficult to scale. Existing digital heritage initiatives have expanded documentation and access, but often preserve artefacts, procedures, and representations of practice rather than the aesthetic and cognitive structures through which expertise operates. This paper argues that the future challenge of ICH education is not only the transmission of",
-      "resume_fr": "Intangible Cultural Heritage (ICH) education has traditionally relied on apprenticeship, embodied participation, and long-term engagement with masters, materials, and cultural environments. While these modes of transmission remain essential, they are difficult to scale. Existing digital heritage initiatives have expanded documentation and access, but often preserve artefacts, procedures, and representations of practice rather than the aesthetic and cognitive structures through which expertise operates. This paper argues that the future challenge of ICH education is not only the transmission of",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards",
-      "url": "https://arxiv.org/abs/2605.31584v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-05-29T17:51:40.000Z",
-      "score": 50,
-      "summary_en": "Long-context reasoning remains a central challenge for large language models, which often fail to locate and integrate key information in extensive distracting content. Reinforcement learning with verifiable rewards (RLVR) has shown promise for this task, yet existing methods are limited by low-confusability distractors and sparse, outcome-only reward signals that cannot supervise intermediate reasoning steps. To address these issues, we introduce \\textsc{LongTraceRL}. For data construction, we generate multi-hop questions via knowledge graph random walks and leverage search agent trajectories",
-      "summary_fr": "Long-context reasoning remains a central challenge for large language models, which often fail to locate and integrate key information in extensive distracting content. Reinforcement learning with verifiable rewards (RLVR) has shown promise for this task, yet existing methods are limited by low-confusability distractors and sparse, outcome-only reward signals that cannot supervise intermediate reasoning steps. To address these issues, we introduce \\textsc{LongTraceRL}. For data construction, we generate multi-hop questions via knowledge graph random walks and leverage search agent trajectories",
-      "resume_fr": "Long-context reasoning remains a central challenge for large language models, which often fail to locate and integrate key information in extensive distracting content. Reinforcement learning with verifiable rewards (RLVR) has shown promise for this task, yet existing methods are limited by low-confusability distractors and sparse, outcome-only reward signals that cannot supervise intermediate reasoning steps. To address these issues, we introduce \\textsc{LongTraceRL}. For data construction, we generate multi-hop questions via knowledge graph random walks and leverage search agent trajectories",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings",
-      "url": "https://arxiv.org/abs/2605.31580v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-05-29T17:48:30.000Z",
-      "score": 50,
-      "summary_en": "Transformer-based architectures have advanced sequence modeling in language and vision, yet general-purpose representation learning for heterogeneous multivariate time series remains underexplored. We introduce CHARM (Channel-Aware Representation Model), which incorporates channel-level textual descriptions into a Transformer encoder equivariant to channel order. CHARM is trained with a Joint Embedding Predictive Architecture (JEPA) and a novel loss promoting informative, temporally stable embeddings; latent-space prediction encourages robustness to sensor noise while description-aware gating ",
-      "summary_fr": "Transformer-based architectures have advanced sequence modeling in language and vision, yet general-purpose representation learning for heterogeneous multivariate time series remains underexplored. We introduce CHARM (Channel-Aware Representation Model), which incorporates channel-level textual descriptions into a Transformer encoder equivariant to channel order. CHARM is trained with a Joint Embedding Predictive Architecture (JEPA) and a novel loss promoting informative, temporally stable embeddings; latent-space prediction encourages robustness to sensor noise while description-aware gating ",
-      "resume_fr": "Transformer-based architectures have advanced sequence modeling in language and vision, yet general-purpose representation learning for heterogeneous multivariate time series remains underexplored. We introduce CHARM (Channel-Aware Representation Model), which incorporates channel-level textual descriptions into a Transformer encoder equivariant to channel order. CHARM is trained with a Joint Embedding Predictive Architecture (JEPA) and a novel loss promoting informative, temporally stable embeddings; latent-space prediction encourages robustness to sensor noise while description-aware gating ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Functional Attention: From Pairwise Affinities to Functional Correspondences",
-      "url": "https://arxiv.org/abs/2605.31559v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-05-29T17:22:19.000Z",
-      "score": 50,
-      "summary_en": "Learning mappings between infinite-dimensional function spaces, or operator learning, is essential for many machine learning applications. Although transformer-based operators are popular, they often rely on token-wise attention. These methods treat continuous fields as discrete tokens and usually ignore the global functional structure. We introduce \\emph{Functional Attention}, which reinterprets attention as a functional correspondence between adaptive bases. Inspired by geometric functional maps, our method replaces softmax affinities with structured linear operators. This yields a compact, ",
-      "summary_fr": "Learning mappings between infinite-dimensional function spaces, or operator learning, is essential for many machine learning applications. Although transformer-based operators are popular, they often rely on token-wise attention. These methods treat continuous fields as discrete tokens and usually ignore the global functional structure. We introduce \\emph{Functional Attention}, which reinterprets attention as a functional correspondence between adaptive bases. Inspired by geometric functional maps, our method replaces softmax affinities with structured linear operators. This yields a compact, ",
-      "resume_fr": "Learning mappings between infinite-dimensional function spaces, or operator learning, is essential for many machine learning applications. Although transformer-based operators are popular, they often rely on token-wise attention. These methods treat continuous fields as discrete tokens and usually ignore the global functional structure. We introduce \\emph{Functional Attention}, which reinterprets attention as a functional correspondence between adaptive bases. Inspired by geometric functional maps, our method replaces softmax affinities with structured linear operators. This yields a compact, ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Benchmarking and Enhancing Text-to-Image Models for Generating Visual Representations in Early Arithmetic Education",
-      "url": "https://arxiv.org/abs/2605.31212v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-05-29T12:18:08.000Z",
-      "score": 50,
-      "summary_en": "AI systems are increasingly used to support educational content creation, yet it remains unclear whether they can generate outputs that faithfully represent the pedagogical concepts they are intended to teach. Thus, we introduce equation-to-visual generation, a task that, in contrast to conventional image generation, requires producing pedagogically meaningful visuals from arithmetic equations while precisely preserving their numerical and relational structure. Informed by interviews with teachers and an analysis of educational materials, we construct E2V-Bench, a benchmark spanning four pedag",
-      "summary_fr": "AI systems are increasingly used to support educational content creation, yet it remains unclear whether they can generate outputs that faithfully represent the pedagogical concepts they are intended to teach. Thus, we introduce equation-to-visual generation, a task that, in contrast to conventional image generation, requires producing pedagogically meaningful visuals from arithmetic equations while precisely preserving their numerical and relational structure. Informed by interviews with teachers and an analysis of educational materials, we construct E2V-Bench, a benchmark spanning four pedag",
-      "resume_fr": "AI systems are increasingly used to support educational content creation, yet it remains unclear whether they can generate outputs that faithfully represent the pedagogical concepts they are intended to teach. Thus, we introduce equation-to-visual generation, a task that, in contrast to conventional image generation, requires producing pedagogically meaningful visuals from arithmetic equations while precisely preserving their numerical and relational structure. Informed by interviews with teachers and an analysis of educational materials, we construct E2V-Bench, a benchmark spanning four pedag",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
