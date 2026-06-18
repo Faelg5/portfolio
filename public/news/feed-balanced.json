@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T11:15:42.359Z",
+  "generatedAt": "2026-06-18T10:45:28.341Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,101 @@
     }
   },
   "items": [
+    {
+      "title": "Native Active Perception as Reasoning for Omni-Modal Understanding",
+      "url": "https://arxiv.org/abs/2606.19341v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-06-17T17:59:56.000Z",
+      "score": 70,
+      "summary_en": "Passive models for long video understanding typically rely on a \"watch-it-all\" paradigm, processing frames uniformly regardless of query difficulty, causing computational cost to grow with video duration. Although interactive frameworks have emerged, they often rely on global pre-scanning, and their context cost still scales with video length. We propose OmniAgent, the first native omni-modal agent that formulates video understanding as a POMDP-based iterative Observation-Thought-Action cycle. OmniAgent executes on-demand actions to selectively distill audio-visual cues into a persistent textu",
+      "summary_fr": "Passive models for long video understanding typically rely on a \"watch-it-all\" paradigm, processing frames uniformly regardless of query difficulty, causing computational cost to grow with video duration. Although interactive frameworks have emerged, they often rely on global pre-scanning, and their context cost still scales with video length. We propose OmniAgent, the first native omni-modal agent that formulates video understanding as a POMDP-based iterative Observation-Thought-Action cycle. OmniAgent executes on-demand actions to selectively distill audio-visual cues into a persistent textu",
+      "resume_fr": "Passive models for long video understanding typically rely on a \"watch-it-all\" paradigm, processing frames uniformly regardless of query difficulty, causing computational cost to grow with video duration. Although interactive frameworks have emerged, they often rely on global pre-scanning, and their context cost still scales with video length. We propose OmniAgent, the first native omni-modal agent that formulates video understanding as a POMDP-based iterative Observation-Thought-Action cycle. OmniAgent executes on-demand actions to selectively distill audio-visual cues into a persistent textu",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
+      "url": "https://arxiv.org/abs/2606.19334v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-06-17T17:58:22.000Z",
+      "score": 70,
+      "summary_en": "Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable corpora: local ordinances. Local codes govern zoning, housing, business licensing, public health, noise, animal control, and many other domains of everyday regulation, but they are fragmented across vendor platforms designed for human browsing rather than bulk research access. We introduce LOCUS - the Local Ordinance Corpus for the United States - a comprehensive corpus and county-harmonized acce",
+      "summary_fr": "Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable corpora: local ordinances. Local codes govern zoning, housing, business licensing, public health, noise, animal control, and many other domains of everyday regulation, but they are fragmented across vendor platforms designed for human browsing rather than bulk research access. We introduce LOCUS - the Local Ordinance Corpus for the United States - a comprehensive corpus and county-harmonized acce",
+      "resume_fr": "Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable corpora: local ordinances. Local codes govern zoning, housing, business licensing, public health, noise, animal control, and many other domains of everyday regulation, but they are fragmented across vendor platforms designed for human browsing rather than bulk research access. We introduce LOCUS - the Local Ordinance Corpus for the United States - a comprehensive corpus and county-harmonized acce",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "\"The New Era of Tech-Enabled Traceability\": Tensions between the FDA's Data Governance Vision and the Lived Realities of Food Producers",
+      "url": "https://arxiv.org/abs/2606.18593v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-06-17T01:43:57.000Z",
+      "score": 65,
+      "summary_en": "The U.S. Food and Drug Administration (FDA)'s Food Traceability Rule requires agri-food supply chain stakeholders (stakeholders)--including farmers, fishers, retail workers, and others--to maintain detailed tracking records beginning in January 2026. Through this Rule, the FDA envisions a \"New Era of Tech-Enabled Traceability,\" in which standardized, harmonized tracking data serve as a foundational public health infrastructure, enabling more rapid identification and removal of potentially contaminated food and ultimately reducing the risk of foodborne illness. Despite this promising vision, we",
+      "summary_fr": "The U.S. Food and Drug Administration (FDA)'s Food Traceability Rule requires agri-food supply chain stakeholders (stakeholders)--including farmers, fishers, retail workers, and others--to maintain detailed tracking records beginning in January 2026. Through this Rule, the FDA envisions a \"New Era of Tech-Enabled Traceability,\" in which standardized, harmonized tracking data serve as a foundational public health infrastructure, enabling more rapid identification and removal of potentially contaminated food and ultimately reducing the risk of foodborne illness. Despite this promising vision, we",
+      "resume_fr": "The U.S. Food and Drug Administration (FDA)'s Food Traceability Rule requires agri-food supply chain stakeholders (stakeholders)--including farmers, fishers, retail workers, and others--to maintain detailed tracking records beginning in January 2026. Through this Rule, the FDA envisions a \"New Era of Tech-Enabled Traceability,\" in which standardized, harmonized tracking data serve as a foundational public health infrastructure, enabling more rapid identification and removal of potentially contaminated food and ultimately reducing the risk of foodborne illness. Despite this promising vision, we",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction",
+      "url": "https://arxiv.org/abs/2606.18548v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-06-16T23:55:51.000Z",
+      "score": 85,
+      "summary_en": "Adaptive AI ethics instruction in graduate research training benefits from intake measures that reflect differences in prior LLM experience. Prior coursework or workshop attendance is an obvious candidate, but it is not clear whether it is associated with pre-instruction ratings on key AI perception items. We compare three candidate intake features, self-reported usage frequency, self-rated LLM familiarity, and prior AI education, across five baseline perception outcomes in 93 bioscience graduate and postdoctoral trainees enrolled in a required research ethics course. Usage frequency shows Hol",
+      "summary_fr": "Adaptive AI ethics instruction in graduate research training benefits from intake measures that reflect differences in prior LLM experience. Prior coursework or workshop attendance is an obvious candidate, but it is not clear whether it is associated with pre-instruction ratings on key AI perception items. We compare three candidate intake features, self-reported usage frequency, self-rated LLM familiarity, and prior AI education, across five baseline perception outcomes in 93 bioscience graduate and postdoctoral trainees enrolled in a required research ethics course. Usage frequency shows Hol",
+      "resume_fr": "Adaptive AI ethics instruction in graduate research training benefits from intake measures that reflect differences in prior LLM experience. Prior coursework or workshop attendance is an obvious candidate, but it is not clear whether it is associated with pre-instruction ratings on key AI perception items. We compare three candidate intake features, self-reported usage frequency, self-rated LLM familiarity, and prior AI education, across five baseline perception outcomes in 93 bioscience graduate and postdoctoral trainees enrolled in a required research ethics course. Usage frequency shows Hol",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Redact or Keep? A Fully Local AI Cascade for Educational Dialogue De-Identification",
+      "url": "https://arxiv.org/abs/2606.18372v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-06-16T18:18:58.000Z",
+      "score": 85,
+      "summary_en": "Educational dialogue is a valuable but sensitive resource for research: the same transcripts that capture authentic learning often capture personally identifiable information (PII) entangled with curricular content, where \"Riemann\" may refer to a real student or to a mathematical concept. Existing approaches force a tradeoff between governance and accuracy. Commercial Large Language Models (LLMs) can handle this ambiguity but require sending student data to third parties, while local named entity recognition (NER) systems preserve governance but over-redact curricular terms. We propose a fully",
+      "summary_fr": "Educational dialogue is a valuable but sensitive resource for research: the same transcripts that capture authentic learning often capture personally identifiable information (PII) entangled with curricular content, where \"Riemann\" may refer to a real student or to a mathematical concept. Existing approaches force a tradeoff between governance and accuracy. Commercial Large Language Models (LLMs) can handle this ambiguity but require sending student data to third parties, while local named entity recognition (NER) systems preserve governance but over-redact curricular terms. We propose a fully",
+      "resume_fr": "Educational dialogue is a valuable but sensitive resource for research: the same transcripts that capture authentic learning often capture personally identifiable information (PII) entangled with curricular content, where \"Riemann\" may refer to a real student or to a mathematical concept. Existing approaches force a tradeoff between governance and accuracy. Commercial Large Language Models (LLMs) can handle this ambiguity but require sending student data to third parties, while local named entity recognition (NER) systems preserve governance but over-redact curricular terms. We propose a fully",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber Agents",
       "url": "https://arxiv.org/abs/2606.18223v1",
@@ -1138,101 +1233,6 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Human Adults and LLMs as Scientists: Who Benefits from Active Exploration?",
-      "url": "https://arxiv.org/abs/2606.06464v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-06-04T17:53:36.000Z",
-      "score": 70,
-      "summary_en": "A long-standing finding in the causal learning literature is that adults struggle to identify conjunctive causal rules, where an effect requires the simultaneous presence of multiple causes, while performing better in disjunctive settings. However, most demonstrations of this ``conjunctive handicap'' rely on passive observation paradigms with limited evidence, where learners have no control over evidence generation. This paper asks whether this bias persists when adults are granted agency through active exploration. Using a modified ``blicket detector'' task, adult participants freely interven",
-      "summary_fr": "A long-standing finding in the causal learning literature is that adults struggle to identify conjunctive causal rules, where an effect requires the simultaneous presence of multiple causes, while performing better in disjunctive settings. However, most demonstrations of this ``conjunctive handicap'' rely on passive observation paradigms with limited evidence, where learners have no control over evidence generation. This paper asks whether this bias persists when adults are granted agency through active exploration. Using a modified ``blicket detector'' task, adult participants freely interven",
-      "resume_fr": "A long-standing finding in the causal learning literature is that adults struggle to identify conjunctive causal rules, where an effect requires the simultaneous presence of multiple causes, while performing better in disjunctive settings. However, most demonstrations of this ``conjunctive handicap'' rely on passive observation paradigms with limited evidence, where learners have no control over evidence generation. This paper asks whether this bias persists when adults are granted agency through active exploration. Using a modified ``blicket detector'' task, adult participants freely interven",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Explicit dynamic cross-strand interactions for DNA sequence language modelling",
-      "url": "https://www.nature.com/articles/s42256-026-01249-1",
-      "source": "Nature Machine Intelligence",
-      "published": "2026-06-04T00:00:00.000Z",
-      "score": 70,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
-    },
-    {
-      "title": "The Role of Instructional Guidance in Generative AI-Assisted Learning: Empirical Evidence from Construction Engineering Education",
-      "url": "https://arxiv.org/abs/2606.05509v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-06-03T23:27:46.000Z",
-      "score": 85,
-      "summary_en": "Generative artificial intelligence (AI) is increasingly used to support self-directed learning, yet student interaction with such systems often remains unstructured, limiting engagement in deeper cognitive processes. This study examines how instructional guidance shapes student and AI interaction in construction education. A five-step prompting framework grounded in Generative Learning Theory (GLT) is introduced to guide learner interaction during review activities. A controlled experiment compares three learning conditions: slide-based learning, unprompted AI-supported learning, and prompted ",
-      "summary_fr": "Generative artificial intelligence (AI) is increasingly used to support self-directed learning, yet student interaction with such systems often remains unstructured, limiting engagement in deeper cognitive processes. This study examines how instructional guidance shapes student and AI interaction in construction education. A five-step prompting framework grounded in Generative Learning Theory (GLT) is introduced to guide learner interaction during review activities. A controlled experiment compares three learning conditions: slide-based learning, unprompted AI-supported learning, and prompted ",
-      "resume_fr": "Generative artificial intelligence (AI) is increasingly used to support self-directed learning, yet student interaction with such systems often remains unstructured, limiting engagement in deeper cognitive processes. This study examines how instructional guidance shapes student and AI interaction in construction education. A five-step prompting framework grounded in Generative Learning Theory (GLT) is introduced to guide learner interaction during review activities. A controlled experiment compares three learning conditions: slide-based learning, unprompted AI-supported learning, and prompted ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "From Explanation to Diagnosis: Next Generation Interactive Video Coach with Misstep Awareness",
-      "url": "https://arxiv.org/abs/2606.02970v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-06-02T00:15:51.000Z",
-      "score": 85,
-      "summary_en": "Intelligent tutoring systems excel at generating explanations but rarely provide principled diagnosis of where and why a learner is wrong. We introduce a misstep-aware coaching capability for Ivy, a neurosymbolic AI coach, built on a two-model architecture that augments a Task-Method-Knowledge (TMK) model with a new Pedagogical Model (PM) in the context of an online graduate AI course at Georgia Tech. The PM makes instructor diagnostic knowledge explicit and machine-readable by encoding, for each quiz question and incorrect response, the learner's underlying belief(a brief statement of the inc",
-      "summary_fr": "Intelligent tutoring systems excel at generating explanations but rarely provide principled diagnosis of where and why a learner is wrong. We introduce a misstep-aware coaching capability for Ivy, a neurosymbolic AI coach, built on a two-model architecture that augments a Task-Method-Knowledge (TMK) model with a new Pedagogical Model (PM) in the context of an online graduate AI course at Georgia Tech. The PM makes instructor diagnostic knowledge explicit and machine-readable by encoding, for each quiz question and incorrect response, the learner's underlying belief(a brief statement of the inc",
-      "resume_fr": "Intelligent tutoring systems excel at generating explanations but rarely provide principled diagnosis of where and why a learner is wrong. We introduce a misstep-aware coaching capability for Ivy, a neurosymbolic AI coach, built on a two-model architecture that augments a Task-Method-Knowledge (TMK) model with a new Pedagogical Model (PM) in the context of an online graduate AI course at Georgia Tech. The PM makes instructor diagnostic knowledge explicit and machine-readable by encoding, for each quiz question and incorrect response, the learner's underlying belief(a brief statement of the inc",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Characterization and Effects of CS2 Learning with GenAI, Visualization, and Human Support",
-      "url": "https://arxiv.org/abs/2606.02933v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-06-01T22:31:44.000Z",
-      "score": 85,
-      "summary_en": "Generative AI (GenAI) is becoming a widely adopted learning support tool for both students and instructors, as it offers benefits such as personalized tutoring and scaffolded learning. However, recent research highlights potential drawbacks such as overreliance and metacognitive issues, especially in novice programmers. Most prior work focuses on introductory programming courses, and important questions remain about the underlying mechanisms behind the negative effects of GenAI and if findings can be generalized when students learn more advanced computer science concepts. To address this gap, ",
-      "summary_fr": "Generative AI (GenAI) is becoming a widely adopted learning support tool for both students and instructors, as it offers benefits such as personalized tutoring and scaffolded learning. However, recent research highlights potential drawbacks such as overreliance and metacognitive issues, especially in novice programmers. Most prior work focuses on introductory programming courses, and important questions remain about the underlying mechanisms behind the negative effects of GenAI and if findings can be generalized when students learn more advanced computer science concepts. To address this gap, ",
-      "resume_fr": "Generative AI (GenAI) is becoming a widely adopted learning support tool for both students and instructors, as it offers benefits such as personalized tutoring and scaffolded learning. However, recent research highlights potential drawbacks such as overreliance and metacognitive issues, especially in novice programmers. Most prior work focuses on introductory programming courses, and important questions remain about the underlying mechanisms behind the negative effects of GenAI and if findings can be generalized when students learn more advanced computer science concepts. To address this gap, ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
