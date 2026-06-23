@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-22T12:23:28.460Z",
+  "generatedAt": "2026-06-23T10:00:18.667Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
-  "totalAnalyzed": 54,
+  "totalAnalyzed": 100,
   "totalPublished": 60,
   "publishTarget": "default",
   "debug": {
@@ -95,6 +95,158 @@
     }
   },
   "items": [
+    {
+      "title": "PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health Assessment and Decision Support",
+      "url": "https://arxiv.org/abs/2606.23673v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-06-22T17:57:15.000Z",
+      "score": 70,
+      "summary_en": "Mental health assessment commonly relies on isolated screening instruments or data-driven models that often lack interpretability and multi-dimensional integration. Existing approaches frequently focus on individual indicators such as depression or anxiety while providing limited support for comprehensive and explainable decision-making. To address this limitation, this study proposes PsyBridge, a hybrid intelligent decision-support framework designed for multi-dimensional mental health assessment through the integration of clinically validated screening tools, cognitive evaluation, and person",
+      "summary_fr": "Mental health assessment commonly relies on isolated screening instruments or data-driven models that often lack interpretability and multi-dimensional integration. Existing approaches frequently focus on individual indicators such as depression or anxiety while providing limited support for comprehensive and explainable decision-making. To address this limitation, this study proposes PsyBridge, a hybrid intelligent decision-support framework designed for multi-dimensional mental health assessment through the integration of clinically validated screening tools, cognitive evaluation, and person",
+      "resume_fr": "Mental health assessment commonly relies on isolated screening instruments or data-driven models that often lack interpretability and multi-dimensional integration. Existing approaches frequently focus on individual indicators such as depression or anxiety while providing limited support for comprehensive and explainable decision-making. To address this limitation, this study proposes PsyBridge, a hybrid intelligent decision-support framework designed for multi-dimensional mental health assessment through the integration of clinically validated screening tools, cognitive evaluation, and person",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions",
+      "url": "https://arxiv.org/abs/2606.23654v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-06-22T17:39:43.000Z",
+      "score": 70,
+      "summary_en": "Enterprise agents increasingly operate inside workspaces: they read heterogeneous files, invoke tools, and deliver business artifacts. We introduce EnterpriseClawBench, an enterprise agent benchmark constructed from proprietary, real-world agent sessions. Starting from a large archive of workplace sessions, the EnterpriseClawBench produces 852 reproducible tasks, each paired with recovered fixtures, rewritten prompts, role classes, skill subclasses, hard rules, and semantic rubrics. Because the sessions contain internal enterprise content, we do not release the benchmark data; instead, our reu",
+      "summary_fr": "Enterprise agents increasingly operate inside workspaces: they read heterogeneous files, invoke tools, and deliver business artifacts. We introduce EnterpriseClawBench, an enterprise agent benchmark constructed from proprietary, real-world agent sessions. Starting from a large archive of workplace sessions, the EnterpriseClawBench produces 852 reproducible tasks, each paired with recovered fixtures, rewritten prompts, role classes, skill subclasses, hard rules, and semantic rubrics. Because the sessions contain internal enterprise content, we do not release the benchmark data; instead, our reu",
+      "resume_fr": "Enterprise agents increasingly operate inside workspaces: they read heterogeneous files, invoke tools, and deliver business artifacts. We introduce EnterpriseClawBench, an enterprise agent benchmark constructed from proprietary, real-world agent sessions. Starting from a large archive of workplace sessions, the EnterpriseClawBench produces 852 reproducible tasks, each paired with recovered fixtures, rewritten prompts, role classes, skill subclasses, hard rules, and semantic rubrics. Because the sessions contain internal enterprise content, we do not release the benchmark data; instead, our reu",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "UnBias-Plus: Detect, Explain, and Rewrite Bias",
+      "url": "https://arxiv.org/abs/2606.23412v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-06-22T14:36:26.000Z",
+      "score": 50,
+      "summary_en": "Bias in natural language remains a persistent challenge in both human-written and AI-generated content, affecting domains such as journalism, education, and AI research. Most existing detection methods identify only the presence of bias, with limited support for granular detection, interpretable explanations, neutral rewriting, and openly available trained models. We present UnBias-Plus, an open-source toolkit unifying (1) segment-level multi-class bias classification, (2) biased span localization, (3) neutral text rewriting, and (4) reasoning for each decision. Available via Python, CLI, REST",
+      "summary_fr": "Bias in natural language remains a persistent challenge in both human-written and AI-generated content, affecting domains such as journalism, education, and AI research. Most existing detection methods identify only the presence of bias, with limited support for granular detection, interpretable explanations, neutral rewriting, and openly available trained models. We present UnBias-Plus, an open-source toolkit unifying (1) segment-level multi-class bias classification, (2) biased span localization, (3) neutral text rewriting, and (4) reasoning for each decision. Available via Python, CLI, REST",
+      "resume_fr": "Bias in natural language remains a persistent challenge in both human-written and AI-generated content, affecting domains such as journalism, education, and AI research. Most existing detection methods identify only the presence of bias, with limited support for granular detection, interpretable explanations, neutral rewriting, and openly available trained models. We present UnBias-Plus, an open-source toolkit unifying (1) segment-level multi-class bias classification, (2) biased span localization, (3) neutral text rewriting, and (4) reasoning for each decision. Available via Python, CLI, REST",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Students' Perception Accuracy of Partners' AI Use and its Relation to Collaboration Performance",
+      "url": "https://arxiv.org/abs/2606.23237v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-06-22T12:23:41.000Z",
+      "score": 50,
+      "summary_en": "Collaborative assignments are a cornerstone of programming education. Effective collaboration during a programming project depends on the formation of reasonably accurate beliefs about how each partner works. Generative AI tools, now widely used by undergraduate students, have introduced a consequential and largely invisible new dimension into collaboration: each student's use of AI. When partners collaborate remotely, they interpret partners' ability and effort through their code. This raises the question of how accurately students perceive each other's AI use in collaborations, and if a misa",
+      "summary_fr": "Collaborative assignments are a cornerstone of programming education. Effective collaboration during a programming project depends on the formation of reasonably accurate beliefs about how each partner works. Generative AI tools, now widely used by undergraduate students, have introduced a consequential and largely invisible new dimension into collaboration: each student's use of AI. When partners collaborate remotely, they interpret partners' ability and effort through their code. This raises the question of how accurately students perceive each other's AI use in collaborations, and if a misa",
+      "resume_fr": "Collaborative assignments are a cornerstone of programming education. Effective collaboration during a programming project depends on the formation of reasonably accurate beliefs about how each partner works. Generative AI tools, now widely used by undergraduate students, have introduced a consequential and largely invisible new dimension into collaboration: each student's use of AI. When partners collaborate remotely, they interpret partners' ability and effort through their code. This raises the question of how accurately students perceive each other's AI use in collaborations, and if a misa",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "AI-Assisted Help-Seeking Trajectories in Programming Education from an SRL-Informed Perspective",
+      "url": "https://arxiv.org/abs/2606.22809v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-06-22T03:37:58.000Z",
+      "score": 65,
+      "summary_en": "Generative AI tools provide novice programmers with instant, personalized support, but also raise concerns about whether AI use supports or bypasses students' regulation of problem-solving. Existing work has largely focused on correctness, usability, or overall usage frequency, with less attention to how student--AI help-seeking unfolds. This study addresses this gap by analyzing AI-assisted help-seeking trajectories in university-level programming. Using an SRL-informed analytical framework that links prompt-level help-seeking codes to conceptual, implementation, debugging, and reflective for",
+      "summary_fr": "Generative AI tools provide novice programmers with instant, personalized support, but also raise concerns about whether AI use supports or bypasses students' regulation of problem-solving. Existing work has largely focused on correctness, usability, or overall usage frequency, with less attention to how student--AI help-seeking unfolds. This study addresses this gap by analyzing AI-assisted help-seeking trajectories in university-level programming. Using an SRL-informed analytical framework that links prompt-level help-seeking codes to conceptual, implementation, debugging, and reflective for",
+      "resume_fr": "Generative AI tools provide novice programmers with instant, personalized support, but also raise concerns about whether AI use supports or bypasses students' regulation of problem-solving. Existing work has largely focused on correctness, usability, or overall usage frequency, with less attention to how student--AI help-seeking unfolds. This study addresses this gap by analyzing AI-assisted help-seeking trajectories in university-level programming. Using an SRL-informed analytical framework that links prompt-level help-seeking codes to conceptual, implementation, debugging, and reflective for",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Libretto: Giving LLM Agents a Sense of Musical Structure",
+      "url": "https://arxiv.org/abs/2606.22708v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-06-21T22:56:07.000Z",
+      "score": 50,
+      "summary_en": "Generative music systems can now produce impressive audio from text prompts, but audio outputs are difficult to inspect, edit, and diagnose as musical structure. We introduce Libretto, an agent-facing framework for symbolic music generation and revision. Libretto uses an LLM-native grammar with explicit onset slots, voices, and bar-level organization, then evaluates each piece in a corpus-calibrated statistical space over rhythm, harmony, melody, texture, form, and variation. The same structural axes support retrieval, diagnosis, copy-risk control, and iterative self-revision. Across gap filli",
+      "summary_fr": "Generative music systems can now produce impressive audio from text prompts, but audio outputs are difficult to inspect, edit, and diagnose as musical structure. We introduce Libretto, an agent-facing framework for symbolic music generation and revision. Libretto uses an LLM-native grammar with explicit onset slots, voices, and bar-level organization, then evaluates each piece in a corpus-calibrated statistical space over rhythm, harmony, melody, texture, form, and variation. The same structural axes support retrieval, diagnosis, copy-risk control, and iterative self-revision. Across gap filli",
+      "resume_fr": "Generative music systems can now produce impressive audio from text prompts, but audio outputs are difficult to inspect, edit, and diagnose as musical structure. We introduce Libretto, an agent-facing framework for symbolic music generation and revision. Libretto uses an LLM-native grammar with explicit onset slots, voices, and bar-level organization, then evaluates each piece in a corpus-calibrated statistical space over rhythm, harmony, melody, texture, form, and variation. The same structural axes support retrieval, diagnosis, copy-risk control, and iterative self-revision. Across gap filli",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle",
+      "url": "https://arxiv.org/abs/2606.22609v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-06-21T17:33:19.000Z",
+      "score": 50,
+      "summary_en": "The rise of online tutoring platforms in the gig economy has made education more scalable, flexible, and on-demand. These platforms rely on learner evaluations as the primary feedback for tutors and platforms. However, such feedback offers limited guidance for tutors' improvement and makes it difficult to monitor tutor quality at scale. To this end, we explored AI-powered automated feedback and how tutors perceive and respond to it. We deployed a research probe on Ringle, a popular online English tutoring platform, that analyzed tutors' lessons and provided automated feedback. We then surveyed",
+      "summary_fr": "The rise of online tutoring platforms in the gig economy has made education more scalable, flexible, and on-demand. These platforms rely on learner evaluations as the primary feedback for tutors and platforms. However, such feedback offers limited guidance for tutors' improvement and makes it difficult to monitor tutor quality at scale. To this end, we explored AI-powered automated feedback and how tutors perceive and respond to it. We deployed a research probe on Ringle, a popular online English tutoring platform, that analyzed tutors' lessons and provided automated feedback. We then surveyed",
+      "resume_fr": "The rise of online tutoring platforms in the gig economy has made education more scalable, flexible, and on-demand. These platforms rely on learner evaluations as the primary feedback for tutors and platforms. However, such feedback offers limited guidance for tutors' improvement and makes it difficult to monitor tutor quality at scale. To this end, we explored AI-powered automated feedback and how tutors perceive and respond to it. We deployed a research probe on Ringle, a popular online English tutoring platform, that analyzed tutors' lessons and provided automated feedback. We then surveyed",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "L20-Edu-135M: An Auditable Single-GPU Study of Data-Efficient Small Language Modeling",
+      "url": "https://arxiv.org/abs/2606.22189v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-06-20T18:42:37.000Z",
+      "score": 50,
+      "summary_en": "Small language models are cheap to serve and feasible on local hardware, but strong public 135M-class systems are commonly trained with hundreds of billions to trillions of tokens on large clusters. We study a sharply resource-constrained regime: a complete 134.5M-parameter language-model pipeline executed on one NVIDIA L20 GPU. The released checkpoint, L20-Edu-135M, receives approximately 13B pretraining tokens: 10B FineWeb-Edu tokens followed by a 3B-token educational, mathematics, code, and reasoning mixture. We document the architecture, data gates, cross-source MinHash/LSH near-deduplicat",
+      "summary_fr": "Small language models are cheap to serve and feasible on local hardware, but strong public 135M-class systems are commonly trained with hundreds of billions to trillions of tokens on large clusters. We study a sharply resource-constrained regime: a complete 134.5M-parameter language-model pipeline executed on one NVIDIA L20 GPU. The released checkpoint, L20-Edu-135M, receives approximately 13B pretraining tokens: 10B FineWeb-Edu tokens followed by a 3B-token educational, mathematics, code, and reasoning mixture. We document the architecture, data gates, cross-source MinHash/LSH near-deduplicat",
+      "resume_fr": "Small language models are cheap to serve and feasible on local hardware, but strong public 135M-class systems are commonly trained with hundreds of billions to trillions of tokens on large clusters. We study a sharply resource-constrained regime: a complete 134.5M-parameter language-model pipeline executed on one NVIDIA L20 GPU. The released checkpoint, L20-Edu-135M, receives approximately 13B pretraining tokens: 10B FineWeb-Edu tokens followed by a 3B-token educational, mathematics, code, and reasoning mixture. We document the architecture, data gates, cross-source MinHash/LSH near-deduplicat",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning",
       "url": "https://arxiv.org/abs/2606.20559v1",
@@ -1082,158 +1234,6 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
-    },
-    {
-      "title": "An Agency-Transferring Model-Free Policy Enhancement Technique",
-      "url": "https://arxiv.org/abs/2606.09825v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-06-08T17:59:39.000Z",
-      "score": 85,
-      "summary_en": "Training reinforcement learning (RL) policies from scratch is costly: it requires careful reward and environment design, extensive tuning, and substantial computation. Yet many control problems already have a functional but suboptimal policy available as a baseline. This paper proposes a method for embedding such a baseline into the RL training process, simultaneously improving training efficiency relative to from-scratch methods and producing a learning policy that outperforms the baseline. At each step, the method arbitrates between the baseline policy and a trainable learning policy, initia",
-      "summary_fr": "Training reinforcement learning (RL) policies from scratch is costly: it requires careful reward and environment design, extensive tuning, and substantial computation. Yet many control problems already have a functional but suboptimal policy available as a baseline. This paper proposes a method for embedding such a baseline into the RL training process, simultaneously improving training efficiency relative to from-scratch methods and producing a learning policy that outperforms the baseline. At each step, the method arbitrates between the baseline policy and a trainable learning policy, initia",
-      "resume_fr": "Training reinforcement learning (RL) policies from scratch is costly: it requires careful reward and environment design, extensive tuning, and substantial computation. Yet many control problems already have a functional but suboptimal policy available as a baseline. This paper proposes a method for embedding such a baseline into the RL training process, simultaneously improving training efficiency relative to from-scratch methods and producing a learning policy that outperforms the baseline. At each step, the method arbitrates between the baseline policy and a trainable learning policy, initia",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Echo-Memory: A Controlled Study of Memory in Action World Models",
-      "url": "https://arxiv.org/abs/2606.09803v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-06-08T17:54:10.000Z",
-      "score": 70,
-      "summary_en": "We present \\textbf{Echo-Memory}, a controlled study of memory mechanisms in action-conditioned world models. These models generate multi-segment videos from a first frame, text prompt, and camera-action sequence, but their central failure is often memory rather than local image synthesis: after the camera leaves and returns, the scene or salient object may silently change. Existing memory designs are hard to compare because gains are entangled with backbone, training, retrieval, and evaluation differences. Echo-Memory fixes the action-to-video interface and varies only how history is stored an",
-      "summary_fr": "We present \\textbf{Echo-Memory}, a controlled study of memory mechanisms in action-conditioned world models. These models generate multi-segment videos from a first frame, text prompt, and camera-action sequence, but their central failure is often memory rather than local image synthesis: after the camera leaves and returns, the scene or salient object may silently change. Existing memory designs are hard to compare because gains are entangled with backbone, training, retrieval, and evaluation differences. Echo-Memory fixes the action-to-video interface and varies only how history is stored an",
-      "resume_fr": "We present \\textbf{Echo-Memory}, a controlled study of memory mechanisms in action-conditioned world models. These models generate multi-segment videos from a first frame, text prompt, and camera-action sequence, but their central failure is often memory rather than local image synthesis: after the camera leaves and returns, the scene or salient object may silently change. Existing memory designs are hard to compare because gains are entangled with backbone, training, retrieval, and evaluation differences. Echo-Memory fixes the action-to-video interface and varies only how history is stored an",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "The Neutral Mask: How RLHF Provides Shallow Alignment while Leaving Partisan Structure Intact in a Large Language Model",
-      "url": "https://arxiv.org/abs/2606.09735v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-06-08T17:00:31.000Z",
-      "score": 70,
-      "summary_en": "The ambition behind alignment training is to make large language models safe and useful. The primary mechanism, reinforcement learning from human feedback (RLHF), shapes the behavior of deployed language models by aligning them with ``human values.'' Yet the process is opaque. What values are being encoded; whose values are they; and how does RLHF encode them? A growing body of evidence suggests that RLHF produces only functional compliance rather than deep alignment. We offer a mechanistic case study of this phenomenon for partisan political orientation with a comparison of the internal repre",
-      "summary_fr": "The ambition behind alignment training is to make large language models safe and useful. The primary mechanism, reinforcement learning from human feedback (RLHF), shapes the behavior of deployed language models by aligning them with ``human values.'' Yet the process is opaque. What values are being encoded; whose values are they; and how does RLHF encode them? A growing body of evidence suggests that RLHF produces only functional compliance rather than deep alignment. We offer a mechanistic case study of this phenomenon for partisan political orientation with a comparison of the internal repre",
-      "resume_fr": "The ambition behind alignment training is to make large language models safe and useful. The primary mechanism, reinforcement learning from human feedback (RLHF), shapes the behavior of deployed language models by aligning them with ``human values.'' Yet the process is opaque. What values are being encoded; whose values are they; and how does RLHF encode them? A growing body of evidence suggests that RLHF produces only functional compliance rather than deep alignment. We offer a mechanistic case study of this phenomenon for partisan political orientation with a comparison of the internal repre",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Orange Lab: Lowering Barriers to Data Mining through Embedded Interactive Workflows",
-      "url": "https://arxiv.org/abs/2606.09239v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-06-08T09:14:55.000Z",
-      "score": 85,
-      "summary_en": "While visual programming of data analysis workflows has become an important vehicle for the democratization of data science, such systems remain largely confined to standalone applications and offer limited support for transitioning their visual analytics solutions into interactive web environments. As a result, data analysis pipelines are difficult to share, embed, and adapt into user-facing analytical tools. We present Orange Lab, a web-based collaborative environment for visual data analytics. At its core, Orange Lab enables users to visually construct machine learning workflows from modula",
-      "summary_fr": "While visual programming of data analysis workflows has become an important vehicle for the democratization of data science, such systems remain largely confined to standalone applications and offer limited support for transitioning their visual analytics solutions into interactive web environments. As a result, data analysis pipelines are difficult to share, embed, and adapt into user-facing analytical tools. We present Orange Lab, a web-based collaborative environment for visual data analytics. At its core, Orange Lab enables users to visually construct machine learning workflows from modula",
-      "resume_fr": "While visual programming of data analysis workflows has become an important vehicle for the democratization of data science, such systems remain largely confined to standalone applications and offer limited support for transitioning their visual analytics solutions into interactive web environments. As a result, data analysis pipelines are difficult to share, embed, and adapt into user-facing analytical tools. We present Orange Lab, a web-based collaborative environment for visual data analytics. At its core, Orange Lab enables users to visually construct machine learning workflows from modula",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Impacts of Histories and Models on LLM Grading: A Study in Advanced Software Engineering Courses",
-      "url": "https://arxiv.org/abs/2606.08400v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-06-07T01:31:23.000Z",
-      "score": 100,
-      "summary_en": "Graduate-level research reading report assessment creates a substantial labor burden for educators. While large language models (LLMs) hold great potential for automating academic grading, their reliability for this specialized task remains understudied, particularly regarding grading consistency, the lack of which represents a primary obstacle to educational fairness. This paper proposes a human-aligned LLM-assisted grading workflow and presents a case study based on 180 student submissions from a graduate advanced software engineering course. We evaluate two mainstream LLMs, Grok and GPT, in",
-      "summary_fr": "Graduate-level research reading report assessment creates a substantial labor burden for educators. While large language models (LLMs) hold great potential for automating academic grading, their reliability for this specialized task remains understudied, particularly regarding grading consistency, the lack of which represents a primary obstacle to educational fairness. This paper proposes a human-aligned LLM-assisted grading workflow and presents a case study based on 180 student submissions from a graduate advanced software engineering course. We evaluate two mainstream LLMs, Grok and GPT, in",
-      "resume_fr": "Graduate-level research reading report assessment creates a substantial labor burden for educators. While large language models (LLMs) hold great potential for automating academic grading, their reliability for this specialized task remains understudied, particularly regarding grading consistency, the lack of which represents a primary obstacle to educational fairness. This paper proposes a human-aligned LLM-assisted grading workflow and presents a case study based on 180 student submissions from a graduate advanced software engineering course. We evaluate two mainstream LLMs, Grok and GPT, in",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "TibetCPR: A Multimodal Tactile Feedback System to Enhance Cardiopulmonary Resuscitation Training in High-Altitude Regions of Tibet",
-      "url": "https://arxiv.org/abs/2606.07765v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-06-05T18:24:37.000Z",
-      "score": 85,
-      "summary_en": "High-quality cardiopulmonary resuscitation (CPR) requires stable control of compression rhythm and depth, yet most training systems presuppose instructor mediation, repeated practice, and explanatory guidance-assumptions that do not hold in the Tibet Autonomous Region, where instruction is fragmented and learners' linguistic and educational backgrounds are heterogeneous. We present TibetCPR, a low-cost, self-guided CPR training system that pairs depth-driven electrotactile feedback with rhythm-driven visual cues within a Tibetan-language narrative. In a randomised study with 40 lay community m",
-      "summary_fr": "High-quality cardiopulmonary resuscitation (CPR) requires stable control of compression rhythm and depth, yet most training systems presuppose instructor mediation, repeated practice, and explanatory guidance-assumptions that do not hold in the Tibet Autonomous Region, where instruction is fragmented and learners' linguistic and educational backgrounds are heterogeneous. We present TibetCPR, a low-cost, self-guided CPR training system that pairs depth-driven electrotactile feedback with rhythm-driven visual cues within a Tibetan-language narrative. In a randomised study with 40 lay community m",
-      "resume_fr": "High-quality cardiopulmonary resuscitation (CPR) requires stable control of compression rhythm and depth, yet most training systems presuppose instructor mediation, repeated practice, and explanatory guidance-assumptions that do not hold in the Tibet Autonomous Region, where instruction is fragmented and learners' linguistic and educational backgrounds are heterogeneous. We present TibetCPR, a low-cost, self-guided CPR training system that pairs depth-driven electrotactile feedback with rhythm-driven visual cues within a Tibetan-language narrative. In a randomised study with 40 lay community m",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Agentopia: Long-Term Life Simulation and Learning in Agent Societies",
-      "url": "https://arxiv.org/abs/2606.07513v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-06-05T17:59:31.000Z",
-      "score": 50,
-      "summary_en": "Humans learn from social life. Simulating this process with LLM-powered agents represents a promising research direction, raising a natural question: whether LLMs can learn from such simulated social experience to better understand and replicate human behavior. However, prior agent society simulations typically operate at the scale of days, limiting the depth of social interactions and long-term growth. In this paper, we study long-term life simulation and LLM learning in agent societies, with two goals: (1) investigating social behaviors that emerge from life-long simulation, and (2) developi",
-      "summary_fr": "Humans learn from social life. Simulating this process with LLM-powered agents represents a promising research direction, raising a natural question: whether LLMs can learn from such simulated social experience to better understand and replicate human behavior. However, prior agent society simulations typically operate at the scale of days, limiting the depth of social interactions and long-term growth. In this paper, we study long-term life simulation and LLM learning in agent societies, with two goals: (1) investigating social behaviors that emerge from life-long simulation, and (2) developi",
-      "resume_fr": "Humans learn from social life. Simulating this process with LLM-powered agents represents a promising research direction, raising a natural question: whether LLMs can learn from such simulated social experience to better understand and replicate human behavior. However, prior agent society simulations typically operate at the scale of days, limiting the depth of social interactions and long-term growth. In this paper, we study long-term life simulation and LLM learning in agent societies, with two goals: (1) investigating social behaviors that emerge from life-long simulation, and (2) developi",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies",
-      "url": "https://arxiv.org/abs/2606.07492v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-06-05T17:46:36.000Z",
-      "score": 50,
-      "summary_en": "The ranking of recommendation algorithms is a challenging problem since model performance is sensitive to dataset characteristics such as sparsity, sequential structure, and scale. This drives a demand for a proper methodology for fair comparison between algorithms. Naive aggregation of performance metrics (e.g., averaging NDCG over benchmarks) can yield misleading rankings, undermining practical selection. To address this problem, we introduce a novel, data-driven ranking methodology based on Bradley-Terry (BT) model. We demonstrate that the obtained ranking depends on key dataset statistics.",
-      "summary_fr": "The ranking of recommendation algorithms is a challenging problem since model performance is sensitive to dataset characteristics such as sparsity, sequential structure, and scale. This drives a demand for a proper methodology for fair comparison between algorithms. Naive aggregation of performance metrics (e.g., averaging NDCG over benchmarks) can yield misleading rankings, undermining practical selection. To address this problem, we introduce a novel, data-driven ranking methodology based on Bradley-Terry (BT) model. We demonstrate that the obtained ranking depends on key dataset statistics.",
-      "resume_fr": "The ranking of recommendation algorithms is a challenging problem since model performance is sensitive to dataset characteristics such as sparsity, sequential structure, and scale. This drives a demand for a proper methodology for fair comparison between algorithms. Naive aggregation of performance metrics (e.g., averaging NDCG over benchmarks) can yield misleading rankings, undermining practical selection. To address this problem, we introduce a novel, data-driven ranking methodology based on Bradley-Terry (BT) model. We demonstrate that the obtained ranking depends on key dataset statistics.",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
 }
