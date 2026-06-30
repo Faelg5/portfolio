@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-29T11:21:54.429Z",
+  "generatedAt": "2026-06-30T09:57:47.879Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
-  "totalAnalyzed": 94,
+  "totalAnalyzed": 100,
   "totalPublished": 60,
   "publishTarget": "default",
   "debug": {
@@ -95,6 +95,196 @@
     }
   },
   "items": [
+    {
+      "title": "Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models",
+      "url": "https://arxiv.org/abs/2606.30627v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-06-29T17:56:03.000Z",
+      "score": 50,
+      "summary_en": "Conservative offline training is widely advocated as a safe foundation for subsequent online adaptation: if a policy stays close to well-supported behaviour, the argument goes, it is less likely to exploit imperfections in a learned reward model. We challenge this intuition empirically and mechanistically. We train a Qwen3-14B policy under Direct Preference Optimisation (DPO) with three levels of conservatism ($β\\in \\{β_{\\mathrm{lo}}, β_{\\mathrm{mid}}, β_{\\mathrm{hi}}\\}$ derived from empirical log-ratio percentiles), then adapt each checkpoint online against a learned reward ensemble (3\\,$\\tim",
+      "summary_fr": "Conservative offline training is widely advocated as a safe foundation for subsequent online adaptation: if a policy stays close to well-supported behaviour, the argument goes, it is less likely to exploit imperfections in a learned reward model. We challenge this intuition empirically and mechanistically. We train a Qwen3-14B policy under Direct Preference Optimisation (DPO) with three levels of conservatism ($β\\in \\{β_{\\mathrm{lo}}, β_{\\mathrm{mid}}, β_{\\mathrm{hi}}\\}$ derived from empirical log-ratio percentiles), then adapt each checkpoint online against a learned reward ensemble (3\\,$\\tim",
+      "resume_fr": "Conservative offline training is widely advocated as a safe foundation for subsequent online adaptation: if a policy stays close to well-supported behaviour, the argument goes, it is less likely to exploit imperfections in a learned reward model. We challenge this intuition empirically and mechanistically. We train a Qwen3-14B policy under Direct Preference Optimisation (DPO) with three levels of conservatism ($β\\in \\{β_{\\mathrm{lo}}, β_{\\mathrm{mid}}, β_{\\mathrm{hi}}\\}$ derived from empirical log-ratio percentiles), then adapt each checkpoint online against a learned reward ensemble (3\\,$\\tim",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "A Hybrid Framework For Crypto-Ransomware Detection In Enterprise Shared Storage",
+      "url": "https://arxiv.org/abs/2606.30586v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-06-29T17:30:51.000Z",
+      "score": 70,
+      "summary_en": "Most corporate workplace environments enforce policies and technical controls that limit the storage of sensitive data on client endpoints. Consequently, ransomware operators have evolved variants that expand their attack surface from local systems to network drives and shared storage resources. As traditional endpoint detection mechanisms focus primarily on local system behaviour, a compromised client can impact remote file servers, such as by encrypting shared data, without directly triggering behavioural changes on the servers themselves. In this paper, we propose a hybrid detection framewo",
+      "summary_fr": "Most corporate workplace environments enforce policies and technical controls that limit the storage of sensitive data on client endpoints. Consequently, ransomware operators have evolved variants that expand their attack surface from local systems to network drives and shared storage resources. As traditional endpoint detection mechanisms focus primarily on local system behaviour, a compromised client can impact remote file servers, such as by encrypting shared data, without directly triggering behavioural changes on the servers themselves. In this paper, we propose a hybrid detection framewo",
+      "resume_fr": "Most corporate workplace environments enforce policies and technical controls that limit the storage of sensitive data on client endpoints. Consequently, ransomware operators have evolved variants that expand their attack surface from local systems to network drives and shared storage resources. As traditional endpoint detection mechanisms focus primarily on local system behaviour, a compromised client can impact remote file servers, such as by encrypting shared data, without directly triggering behavioural changes on the servers themselves. In this paper, we propose a hybrid detection framewo",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Attractor States Emerge in Multi-Turn LLM Conversations",
+      "url": "https://arxiv.org/abs/2606.30571v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-06-29T17:14:29.000Z",
+      "score": 70,
+      "summary_en": "Large language models (LLMs) are increasingly used in open-ended multi-agent settings, but the long-run dynamics of model--model interaction remain poorly understood. We study whether open-ended LLM discussions exhibit attractor-like behavior, i.e. topic-independent stable sets of behaviors which conversations settle into. Across 7 LLMs and 20 controversial topics, we compare self-play and mixed-play dyadic debates, tracking trajectories in representation space, discourse traits, and stances. We find self-play trajectories to be model-specific attractors that draw their conversation partners a",
+      "summary_fr": "Large language models (LLMs) are increasingly used in open-ended multi-agent settings, but the long-run dynamics of model--model interaction remain poorly understood. We study whether open-ended LLM discussions exhibit attractor-like behavior, i.e. topic-independent stable sets of behaviors which conversations settle into. Across 7 LLMs and 20 controversial topics, we compare self-play and mixed-play dyadic debates, tracking trajectories in representation space, discourse traits, and stances. We find self-play trajectories to be model-specific attractors that draw their conversation partners a",
+      "resume_fr": "Large language models (LLMs) are increasingly used in open-ended multi-agent settings, but the long-run dynamics of model--model interaction remain poorly understood. We study whether open-ended LLM discussions exhibit attractor-like behavior, i.e. topic-independent stable sets of behaviors which conversations settle into. Across 7 LLMs and 20 controversial topics, we compare self-play and mixed-play dyadic debates, tracking trajectories in representation space, discourse traits, and stances. We find self-play trajectories to be model-specific attractors that draw their conversation partners a",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion Tools Using Behavioral Signals and Attention Checks",
+      "url": "https://arxiv.org/abs/2606.30549v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-06-29T16:47:46.000Z",
+      "score": 50,
+      "summary_en": "AI code completion tools, such as Github Copilot, provide students with code suggestions to help them write programs. However, recent qualitative studies suggest that students fail to critically evaluate these suggestions. We present Clover, a code completion tool that logs students' interactions with code suggestions and additionally offers attention checks to probe reflective engagement during programming tasks. We also develop a taxonomy of behavioral interaction metrics for AI-assisted programming, informed by literature. We analyzed relationships between interaction patterns, engagement w",
+      "summary_fr": "AI code completion tools, such as Github Copilot, provide students with code suggestions to help them write programs. However, recent qualitative studies suggest that students fail to critically evaluate these suggestions. We present Clover, a code completion tool that logs students' interactions with code suggestions and additionally offers attention checks to probe reflective engagement during programming tasks. We also develop a taxonomy of behavioral interaction metrics for AI-assisted programming, informed by literature. We analyzed relationships between interaction patterns, engagement w",
+      "resume_fr": "AI code completion tools, such as Github Copilot, provide students with code suggestions to help them write programs. However, recent qualitative studies suggest that students fail to critically evaluate these suggestions. We present Clover, a code completion tool that logs students' interactions with code suggestions and additionally offers attention checks to probe reflective engagement during programming tasks. We also develop a taxonomy of behavioral interaction metrics for AI-assisted programming, informed by literature. We analyzed relationships between interaction patterns, engagement w",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "ManimAgent: Self-Evolving Multimodal Agents for Visual Education",
+      "url": "https://arxiv.org/abs/2606.30296v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-06-29T13:37:56.000Z",
+      "score": 50,
+      "summary_en": "Multi-round reflection lets agents built on large language models recover from failures within a single task, but each task remains an isolated episode: lessons learned across many reflection rounds on one task are discarded before the next begins. We study this gap on a code-generation task: from a scientific paper section, the agent writes Python in the open-source Manim library to render a mathematical animation. We present ManimAgent, a self-evolving multimodal agent that carries reflection experience across tasks through a dual-channel Episodic Memory Bank grown entirely from its own task",
+      "summary_fr": "Multi-round reflection lets agents built on large language models recover from failures within a single task, but each task remains an isolated episode: lessons learned across many reflection rounds on one task are discarded before the next begins. We study this gap on a code-generation task: from a scientific paper section, the agent writes Python in the open-source Manim library to render a mathematical animation. We present ManimAgent, a self-evolving multimodal agent that carries reflection experience across tasks through a dual-channel Episodic Memory Bank grown entirely from its own task",
+      "resume_fr": "Multi-round reflection lets agents built on large language models recover from failures within a single task, but each task remains an isolated episode: lessons learned across many reflection rounds on one task are discarded before the next begins. We study this gap on a code-generation task: from a scientific paper section, the agent writes Python in the open-source Manim library to render a mathematical animation. We present ManimAgent, a self-evolving multimodal agent that carries reflection experience across tasks through a dual-channel Episodic Memory Bank grown entirely from its own task",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "A causal modeling perspective on decision theory",
+      "url": "https://arxiv.org/abs/2606.29911v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-06-29T07:48:22.000Z",
+      "score": 50,
+      "summary_en": "Decision theory provides a formal framework for how agents should make choices under uncertainty, drawing on ideas from philosophy, probability, and causality. Despite significant progress, the field still lacks a unified modeling language, and key concepts - such as the distinction between subjective and objective elements, or what it means for a decision theory to perform well - are often left implicit. This can make it difficult to evaluate and compare competing theories, particularly in controversial cases. In this paper, we address these issues by introducing a formal framework for decisi",
+      "summary_fr": "Decision theory provides a formal framework for how agents should make choices under uncertainty, drawing on ideas from philosophy, probability, and causality. Despite significant progress, the field still lacks a unified modeling language, and key concepts - such as the distinction between subjective and objective elements, or what it means for a decision theory to perform well - are often left implicit. This can make it difficult to evaluate and compare competing theories, particularly in controversial cases. In this paper, we address these issues by introducing a formal framework for decisi",
+      "resume_fr": "Decision theory provides a formal framework for how agents should make choices under uncertainty, drawing on ideas from philosophy, probability, and causality. Despite significant progress, the field still lacks a unified modeling language, and key concepts - such as the distinction between subjective and objective elements, or what it means for a decision theory to perform well - are often left implicit. This can make it difficult to evaluate and compare competing theories, particularly in controversial cases. In this paper, we address these issues by introducing a formal framework for decisi",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "SABER-Math: Automated Benchmark for Information Retrieval Evaluation in Mathematics",
+      "url": "https://arxiv.org/abs/2606.29894v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-06-29T07:32:50.000Z",
+      "score": 50,
+      "summary_en": "As agentic AI systems tackle more complex mathematical tasks, they increasingly rely on information retrieval (IR) to search problem databases, theorem libraries, and educational resources. However, choosing the right retriever remains difficult, as it is infeasible to directly isolate its effect on downstream performance. On the other hand, existing retrieval-specific benchmarks often fail to capture fine-grained mathematical relevance, penalizing relevant documents. We address this gap by introducing SABER-Math, the first fully automated benchmark for evaluating mathematical IR without exper",
+      "summary_fr": "As agentic AI systems tackle more complex mathematical tasks, they increasingly rely on information retrieval (IR) to search problem databases, theorem libraries, and educational resources. However, choosing the right retriever remains difficult, as it is infeasible to directly isolate its effect on downstream performance. On the other hand, existing retrieval-specific benchmarks often fail to capture fine-grained mathematical relevance, penalizing relevant documents. We address this gap by introducing SABER-Math, the first fully automated benchmark for evaluating mathematical IR without exper",
+      "resume_fr": "As agentic AI systems tackle more complex mathematical tasks, they increasingly rely on information retrieval (IR) to search problem databases, theorem libraries, and educational resources. However, choosing the right retriever remains difficult, as it is infeasible to directly isolate its effect on downstream performance. On the other hand, existing retrieval-specific benchmarks often fail to capture fine-grained mathematical relevance, penalizing relevant documents. We address this gap by introducing SABER-Math, the first fully automated benchmark for evaluating mathematical IR without exper",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "LLMography: Transforming Human-AI Conversations into Traceability, Oversight, and Auditability Indicators",
+      "url": "https://arxiv.org/abs/2606.29437v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-06-28T14:54:03.000Z",
+      "score": 65,
+      "summary_en": "The growing use of Large Language Models (LLMs) in education, software engineering, academic writing, and technical documentation raises a key question: how can we evaluate not only AI-assisted outputs, but also the interaction process that produced them? Current debates often focus on detecting whether a final artifact was generated by AI, while overlooking the conversation history that reveals human direction, AI contribution, corrections, validation, and traceability. This paper introduces LLMography, a framework for transforming Human-AI conversations into measurable indicators of provenan",
+      "summary_fr": "The growing use of Large Language Models (LLMs) in education, software engineering, academic writing, and technical documentation raises a key question: how can we evaluate not only AI-assisted outputs, but also the interaction process that produced them? Current debates often focus on detecting whether a final artifact was generated by AI, while overlooking the conversation history that reveals human direction, AI contribution, corrections, validation, and traceability. This paper introduces LLMography, a framework for transforming Human-AI conversations into measurable indicators of provenan",
+      "resume_fr": "The growing use of Large Language Models (LLMs) in education, software engineering, academic writing, and technical documentation raises a key question: how can we evaluate not only AI-assisted outputs, but also the interaction process that produced them? Current debates often focus on detecting whether a final artifact was generated by AI, while overlooking the conversation history that reveals human direction, AI contribution, corrections, validation, and traceability. This paper introduces LLMography, a framework for transforming Human-AI conversations into measurable indicators of provenan",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "The Role of Online Forums in Developer Understanding of Privacy Law -- A Reddit Case Study",
+      "url": "https://arxiv.org/abs/2606.29393v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-06-28T13:33:27.000Z",
+      "score": 85,
+      "summary_en": "Software practitioners use online forums to navigate complex and often ambiguous legal privacy requirements, yet little is known about their professional backgrounds, what challenges they face, and how they use and assess the credibility of the advice received, or how they resolve ambiguities in posts. We report the findings of a survey of 223 Reddit users from regulatory-focused subreddits, complemented by a qualitative analysis of 2,248 posts and responses. Our results show that, despite holding privacy-related certifications, most participants frequently use forums to seek legal advice. Key",
+      "summary_fr": "Software practitioners use online forums to navigate complex and often ambiguous legal privacy requirements, yet little is known about their professional backgrounds, what challenges they face, and how they use and assess the credibility of the advice received, or how they resolve ambiguities in posts. We report the findings of a survey of 223 Reddit users from regulatory-focused subreddits, complemented by a qualitative analysis of 2,248 posts and responses. Our results show that, despite holding privacy-related certifications, most participants frequently use forums to seek legal advice. Key",
+      "resume_fr": "Software practitioners use online forums to navigate complex and often ambiguous legal privacy requirements, yet little is known about their professional backgrounds, what challenges they face, and how they use and assess the credibility of the advice received, or how they resolve ambiguities in posts. We report the findings of a survey of 223 Reddit users from regulatory-focused subreddits, complemented by a qualitative analysis of 2,248 posts and responses. Our results show that, despite holding privacy-related certifications, most participants frequently use forums to seek legal advice. Key",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Deterministic Decisions for High-Stakes AI. A Zero-Egress Pipeline with the Deployability of RAG and the Accuracy of Machine Learning",
+      "url": "https://arxiv.org/abs/2606.29280v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-06-28T08:58:17.000Z",
+      "score": 65,
+      "summary_en": "We identify intervention bias as a previously unquantified failure mode of zero-shot large-language-model (LLM) educational advisory agents: without task-specific training, they recommend action when a hindsight-optimal oracle policy mandates inaction. In a six-arm ablation on the Open University Learning Analytics Dataset (N=800 students, four temporal cutoffs), at day 56 -- when the oracle designates 70.1% of students as needing no intervention -- zero-shot GPT-4o recommends action for 73%, a 43 percentage-point false-positive rate. Commercial RAG and SQL-augmented retrieval are comparably m",
+      "summary_fr": "We identify intervention bias as a previously unquantified failure mode of zero-shot large-language-model (LLM) educational advisory agents: without task-specific training, they recommend action when a hindsight-optimal oracle policy mandates inaction. In a six-arm ablation on the Open University Learning Analytics Dataset (N=800 students, four temporal cutoffs), at day 56 -- when the oracle designates 70.1% of students as needing no intervention -- zero-shot GPT-4o recommends action for 73%, a 43 percentage-point false-positive rate. Commercial RAG and SQL-augmented retrieval are comparably m",
+      "resume_fr": "We identify intervention bias as a previously unquantified failure mode of zero-shot large-language-model (LLM) educational advisory agents: without task-specific training, they recommend action when a hindsight-optimal oracle policy mandates inaction. In a six-arm ablation on the Open University Learning Analytics Dataset (N=800 students, four temporal cutoffs), at day 56 -- when the oracle designates 70.1% of students as needing no intervention -- zero-shot GPT-4o recommends action for 73%, a 43 percentage-point false-positive rate. Commercial RAG and SQL-augmented retrieval are comparably m",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand",
       "url": "https://arxiv.org/abs/2606.28323v1",
@@ -1043,196 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student Writing",
-      "url": "https://arxiv.org/abs/2606.15914v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-06-14T16:44:36.000Z",
-      "score": 65,
-      "summary_en": "Gender bias in LLMs has been studied extensively in model outputs, with biased prompts shown to amplify stereotyped generations. Whether such bias propagates into text produced by humans who use these systems, however, remains underexplored. We investigate whether gender bias in an LLM writing assistant transfers into career plan essays written by students. We first verify that a gender-biased prompt induces gender-differentiated language in LLM-generated essays, while a neutral prompt does not. We then recruited participants (N = 123) in a controlled environment to write career plan essays fo",
-      "summary_fr": "Gender bias in LLMs has been studied extensively in model outputs, with biased prompts shown to amplify stereotyped generations. Whether such bias propagates into text produced by humans who use these systems, however, remains underexplored. We investigate whether gender bias in an LLM writing assistant transfers into career plan essays written by students. We first verify that a gender-biased prompt induces gender-differentiated language in LLM-generated essays, while a neutral prompt does not. We then recruited participants (N = 123) in a controlled environment to write career plan essays fo",
-      "resume_fr": "Gender bias in LLMs has been studied extensively in model outputs, with biased prompts shown to amplify stereotyped generations. Whether such bias propagates into text produced by humans who use these systems, however, remains underexplored. We investigate whether gender bias in an LLM writing assistant transfers into career plan essays written by students. We first verify that a gender-biased prompt induces gender-differentiated language in LLM-generated essays, while a neutral prompt does not. We then recruited participants (N = 123) in a controlled environment to write career plan essays fo",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments",
-      "url": "https://arxiv.org/abs/2606.15766v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-06-14T12:05:49.000Z",
-      "score": 85,
-      "summary_en": "A central pedagogical value evaluated in AI tutor benchmarks is scaffolding: guiding students through graduated steps toward a solution. Alignment and evaluation methods for embedding scaffolding behaviour into chatbots, however, rest on an implicit assumption: that students will take up the scaffolding and engage in the conversation. To examine whether this assumption holds, we introduce an evaluation pipeline around two metrics - Chatbot Scaffolding and Student Uptake - and apply them across nine datasets of 9,490 chats, spanning AI tutor benchmarks and real-world deployments of educational ",
-      "summary_fr": "A central pedagogical value evaluated in AI tutor benchmarks is scaffolding: guiding students through graduated steps toward a solution. Alignment and evaluation methods for embedding scaffolding behaviour into chatbots, however, rest on an implicit assumption: that students will take up the scaffolding and engage in the conversation. To examine whether this assumption holds, we introduce an evaluation pipeline around two metrics - Chatbot Scaffolding and Student Uptake - and apply them across nine datasets of 9,490 chats, spanning AI tutor benchmarks and real-world deployments of educational ",
-      "resume_fr": "A central pedagogical value evaluated in AI tutor benchmarks is scaffolding: guiding students through graduated steps toward a solution. Alignment and evaluation methods for embedding scaffolding behaviour into chatbots, however, rest on an implicit assumption: that students will take up the scaffolding and engage in the conversation. To examine whether this assumption holds, we introduce an evaluation pipeline around two metrics - Chatbot Scaffolding and Student Uptake - and apply them across nine datasets of 9,490 chats, spanning AI tutor benchmarks and real-world deployments of educational ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "SCAN: A Decision-Making Framework for Effective Task Allocation with Generative AI",
-      "url": "https://arxiv.org/abs/2606.15601v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-06-14T05:11:35.000Z",
-      "score": 85,
-      "summary_en": "We introduce SCAN -- a human-centric decision-making framework to facilitate learners for effective task allocation with Generative Artificial Intelligence (GenAI) based on Vygotsky's Zone of Proximal Development and Metacognition. In SCAN, we systematize and formalize AI-human interaction by introducing a task-identification approach with four \"sub-zones\": Substitute, Complement, Aid, and Non-negotiable. After describing the four sub-zones, we demonstrate how SCAN framework can be applied for knowledge workers in the workplace and students in education to metacognitively \"scan\" their use of G",
-      "summary_fr": "We introduce SCAN -- a human-centric decision-making framework to facilitate learners for effective task allocation with Generative Artificial Intelligence (GenAI) based on Vygotsky's Zone of Proximal Development and Metacognition. In SCAN, we systematize and formalize AI-human interaction by introducing a task-identification approach with four \"sub-zones\": Substitute, Complement, Aid, and Non-negotiable. After describing the four sub-zones, we demonstrate how SCAN framework can be applied for knowledge workers in the workplace and students in education to metacognitively \"scan\" their use of G",
-      "resume_fr": "We introduce SCAN -- a human-centric decision-making framework to facilitate learners for effective task allocation with Generative Artificial Intelligence (GenAI) based on Vygotsky's Zone of Proximal Development and Metacognition. In SCAN, we systematize and formalize AI-human interaction by introducing a task-identification approach with four \"sub-zones\": Substitute, Complement, Aid, and Non-negotiable. After describing the four sub-zones, we demonstrate how SCAN framework can be applied for knowledge workers in the workplace and students in education to metacognitively \"scan\" their use of G",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Agentic Retrieval and Reinforcement Learned Equation Chains: A Controlled Generation Framework for Complex and Novel Physics Word Problems",
-      "url": "https://arxiv.org/abs/2606.15591v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-06-14T04:22:36.000Z",
-      "score": 85,
-      "summary_en": "Generating high-quality Physics Word Problems (PWPs) that are novel, complex, and solvable remains a challenging and underexplored problem in educational content generation. Existing approaches, many adapted from Math Word Problem (MWP) generation, often produce ambiguous, unsolvable, or structurally simple questions with limited linguistic diversity. We introduce ARVRE (Agentic Retrieval Value Reinforced Equation-chain), a two-stage framework for generating diverse and mathematically valid PWPs. In the first stage, a form of offline temporal-difference learning is used to construct valid chai",
-      "summary_fr": "Generating high-quality Physics Word Problems (PWPs) that are novel, complex, and solvable remains a challenging and underexplored problem in educational content generation. Existing approaches, many adapted from Math Word Problem (MWP) generation, often produce ambiguous, unsolvable, or structurally simple questions with limited linguistic diversity. We introduce ARVRE (Agentic Retrieval Value Reinforced Equation-chain), a two-stage framework for generating diverse and mathematically valid PWPs. In the first stage, a form of offline temporal-difference learning is used to construct valid chai",
-      "resume_fr": "Generating high-quality Physics Word Problems (PWPs) that are novel, complex, and solvable remains a challenging and underexplored problem in educational content generation. Existing approaches, many adapted from Math Word Problem (MWP) generation, often produce ambiguous, unsolvable, or structurally simple questions with limited linguistic diversity. We introduce ARVRE (Agentic Retrieval Value Reinforced Equation-chain), a two-stage framework for generating diverse and mathematically valid PWPs. In the first stage, a form of offline temporal-difference learning is used to construct valid chai",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "How Ventura College Scaled Faculty AI-Readiness Through Communities of  Practice",
-      "url": "https://edtechmagazine.com/higher/article/2026/06/how-ventura-college-scaled-faculty-ai-readiness-through-communities-practice",
-      "source": "EdTech Magazine (Higher Ed)",
-      "published": "2026-06-12T20:46:13.000Z",
-      "score": 65,
-      "summary_en": "Artificial intelligence promises big gains for faculty in higher education, including greater efficiencies and elevated learning outcomes. To realize the wins, professors need to get up to speed on the tools. While many are experimenting on their own, some institutions are taking steps to accelerate that learning. At Ventura College, a California community college, leaders recently stood up communities of practice around AI use. A CoP brings together individuals with a shared interest in a topic or technology; in this case, AI. The group then works together to learn more about the topic or…",
-      "summary_fr": "Artificial intelligence promises big gains for faculty in higher education, including greater efficiencies and elevated learning outcomes. To realize the wins, professors need to get up to speed on the tools. While many are experimenting on their own, some institutions are taking steps to accelerate that learning. At Ventura College, a California community college, leaders recently stood up communities of practice around AI use. A CoP brings together individuals with a shared interest in a topic or technology; in this case, AI. The group then works together to learn more about the topic or…",
-      "resume_fr": "Artificial intelligence promises big gains for faculty in higher education, including greater efficiencies and elevated learning outcomes. To realize the wins, professors need to get up to speed on the tools. While many are experimenting on their own, some institutions are taking steps to accelerate that learning. At Ventura College, a California community college, leaders recently stood up communities of practice around AI use. A CoP brings together individuals with a shared interest in a topic or technology; in this case, AI. The group then works together to learn more about the topic or…",
-      "tags": [],
-      "breakdown": {
-        "research": 0,
-        "policy": 35,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=edtechmagazine.com&sz=128"
-    },
-    {
-      "title": "AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
-      "url": "https://arxiv.org/abs/2606.14694v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-06-12T17:56:25.000Z",
-      "score": 70,
-      "summary_en": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. Yet many real-world scenarios are inherently dynamic, such as audio and video stream, where information arrives as a continuous stream and models must reason, update, and respond under partial observations. Recent streaming reasoning methods allow models to think while reading, but they largely rely on supervised imitation of pre-constructed trajectories, which limits their flexibility. In this paper, we propose AdaSR, an adaptive strea",
-      "summary_fr": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. Yet many real-world scenarios are inherently dynamic, such as audio and video stream, where information arrives as a continuous stream and models must reason, update, and respond under partial observations. Recent streaming reasoning methods allow models to think while reading, but they largely rely on supervised imitation of pre-constructed trajectories, which limits their flexibility. In this paper, we propose AdaSR, an adaptive strea",
-      "resume_fr": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. Yet many real-world scenarios are inherently dynamic, such as audio and video stream, where information arrives as a continuous stream and models must reason, update, and respond under partial observations. Recent streaming reasoning methods allow models to think while reading, but they largely rely on supervised imitation of pre-constructed trajectories, which limits their flexibility. In this paper, we propose AdaSR, an adaptive strea",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "A Complexity Measure for Active Learning in Multi-group Mean Estimation",
-      "url": "https://arxiv.org/abs/2606.14690v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-06-12T17:54:26.000Z",
-      "score": 70,
-      "summary_en": "We study a \\emph{max-risk} objective for active learning in a multi-group mean estimation $d$-armed bandits: a learner adaptively allocates a budget of $T$ samples across $d$ groups to minimize the worst-case uncertainty index $\\max_{k\\in[d]}σ_k^2/n_k$, where $σ_k$ is the standard deviation of the distribution of arm $d$, and $n_k$ is the number of times arm $d$ is sampled. We develop a local minimax framework and prove the first general lower bound for this objective, valid for any finite-variance hypothesis class. The bound separates difficulty into three orthogonal factors: a \\emph{budget} ",
-      "summary_fr": "We study a \\emph{max-risk} objective for active learning in a multi-group mean estimation $d$-armed bandits: a learner adaptively allocates a budget of $T$ samples across $d$ groups to minimize the worst-case uncertainty index $\\max_{k\\in[d]}σ_k^2/n_k$, where $σ_k$ is the standard deviation of the distribution of arm $d$, and $n_k$ is the number of times arm $d$ is sampled. We develop a local minimax framework and prove the first general lower bound for this objective, valid for any finite-variance hypothesis class. The bound separates difficulty into three orthogonal factors: a \\emph{budget} ",
-      "resume_fr": "We study a \\emph{max-risk} objective for active learning in a multi-group mean estimation $d$-armed bandits: a learner adaptively allocates a budget of $T$ samples across $d$ groups to minimize the worst-case uncertainty index $\\max_{k\\in[d]}σ_k^2/n_k$, where $σ_k$ is the standard deviation of the distribution of arm $d$, and $n_k$ is the number of times arm $d$ is sampled. We develop a local minimax framework and prove the first general lower bound for this objective, valid for any finite-variance hypothesis class. The bound separates difficulty into three orthogonal factors: a \\emph{budget} ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillation Framework for Efficient Fire Classification",
-      "url": "https://arxiv.org/abs/2606.14684v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-06-12T17:48:27.000Z",
-      "score": 70,
-      "summary_en": "Real-time fire classification systems require models that are simultaneously accurate, computationally efficient, and deployable on resource-constrained hardware. This work proposes \\textbf{HumP-KD}, a Hybrid Uncertainty-aware Multi-stage Progressive Knowledge Distillation framework for efficient fire classification. Two datasets, FlameVision and Dataset-II, containing 8,600 and 31,309 images, are used. Various CNN and transformer baselines are applied under standard preprocessing, online augmentation, Gaussian noise and motion blur robustness conditions. The proposed HumP-KD model distills kn",
-      "summary_fr": "Real-time fire classification systems require models that are simultaneously accurate, computationally efficient, and deployable on resource-constrained hardware. This work proposes \\textbf{HumP-KD}, a Hybrid Uncertainty-aware Multi-stage Progressive Knowledge Distillation framework for efficient fire classification. Two datasets, FlameVision and Dataset-II, containing 8,600 and 31,309 images, are used. Various CNN and transformer baselines are applied under standard preprocessing, online augmentation, Gaussian noise and motion blur robustness conditions. The proposed HumP-KD model distills kn",
-      "resume_fr": "Real-time fire classification systems require models that are simultaneously accurate, computationally efficient, and deployable on resource-constrained hardware. This work proposes \\textbf{HumP-KD}, a Hybrid Uncertainty-aware Multi-stage Progressive Knowledge Distillation framework for efficient fire classification. Two datasets, FlameVision and Dataset-II, containing 8,600 and 31,309 images, are used. Various CNN and transformer baselines are applied under standard preprocessing, online augmentation, Gaussian noise and motion blur robustness conditions. The proposed HumP-KD model distills kn",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Abstracting Cross-Domain Action Sequences into Interpretable Workflows",
-      "url": "https://arxiv.org/abs/2606.14654v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-06-12T17:19:15.000Z",
-      "score": 85,
-      "summary_en": "Sequential or time-stamped interaction logs provide objective records of digital application usage, yet their granularity and noise often obscure meaningful insights into people's work. Such insights are essential for improving digital products in ways grounded in real-world user interactions. Prior research has applied deep learning models to cluster user actions into high-level activities, but these approaches are highly sensitive to noise and struggle to generalize across applications. To address this limitation, we introduce WorkflowView, a framework that uses large language models (LLMs) ",
-      "summary_fr": "Sequential or time-stamped interaction logs provide objective records of digital application usage, yet their granularity and noise often obscure meaningful insights into people's work. Such insights are essential for improving digital products in ways grounded in real-world user interactions. Prior research has applied deep learning models to cluster user actions into high-level activities, but these approaches are highly sensitive to noise and struggle to generalize across applications. To address this limitation, we introduce WorkflowView, a framework that uses large language models (LLMs) ",
-      "resume_fr": "Sequential or time-stamped interaction logs provide objective records of digital application usage, yet their granularity and noise often obscure meaningful insights into people's work. Such insights are essential for improving digital products in ways grounded in real-world user interactions. Prior research has applied deep learning models to cluster user actions into high-level activities, but these approaches are highly sensitive to noise and struggle to generalize across applications. To address this limitation, we introduce WorkflowView, a framework that uses large language models (LLMs) ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Verifiable User Simulation for Search and Recommendation Systems",
-      "url": "https://arxiv.org/abs/2606.14474v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-06-12T14:09:56.000Z",
-      "score": 50,
-      "summary_en": "Large-language-model (LLM) based user simulation is increasingly adopted for evaluating search engines, recommender systems, and retrieval-augmented generation pipelines, yet most simulators remain opaque: it is difficult to determine why a simulated user made a particular choice or whether that choice is consistent with the intended user profile. Compounding this, recent research shows that LLMs can produce biased or discriminatory responses depending on user background characteristics such as language, education level, and cultural context, raising concerns about the equitable treatment of m",
-      "summary_fr": "Large-language-model (LLM) based user simulation is increasingly adopted for evaluating search engines, recommender systems, and retrieval-augmented generation pipelines, yet most simulators remain opaque: it is difficult to determine why a simulated user made a particular choice or whether that choice is consistent with the intended user profile. Compounding this, recent research shows that LLMs can produce biased or discriminatory responses depending on user background characteristics such as language, education level, and cultural context, raising concerns about the equitable treatment of m",
-      "resume_fr": "Large-language-model (LLM) based user simulation is increasingly adopted for evaluating search engines, recommender systems, and retrieval-augmented generation pipelines, yet most simulators remain opaque: it is difficult to determine why a simulated user made a particular choice or whether that choice is consistent with the intended user profile. Compounding this, recent research shows that LLMs can produce biased or discriminatory responses depending on user background characteristics such as language, education level, and cultural context, raising concerns about the equitable treatment of m",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
