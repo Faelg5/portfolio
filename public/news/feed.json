@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T09:58:32.432Z",
+  "generatedAt": "2026-07-08T08:42:06.359Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,120 @@
     }
   },
   "items": [
+    {
+      "title": "On the feasibility of dependency parsing of non-human sequences without a gold standard. Is evaluation possible in other species?",
+      "url": "https://arxiv.org/abs/2607.06542v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-07-07T17:47:26.000Z",
+      "score": 85,
+      "summary_en": "Dependency parsing consists of finding a tree representation for a sequence. Unsupervised dependency parsing aims to develop parsing methods without a gold standard during model training. In human languages, an unsupervised parser can be evaluated because some gold standard is usually available or can be created. For other species, a gold standard is unknown. Thus one may conclude that it is impossible to determine the accuracy of an unsupervised parser and, consequently, dependency parsing is unfeasible in other species. However, here we apply recent advances in network science to demonstrate",
+      "summary_fr": "Dependency parsing consists of finding a tree representation for a sequence. Unsupervised dependency parsing aims to develop parsing methods without a gold standard during model training. In human languages, an unsupervised parser can be evaluated because some gold standard is usually available or can be created. For other species, a gold standard is unknown. Thus one may conclude that it is impossible to determine the accuracy of an unsupervised parser and, consequently, dependency parsing is unfeasible in other species. However, here we apply recent advances in network science to demonstrate",
+      "resume_fr": "Dependency parsing consists of finding a tree representation for a sequence. Unsupervised dependency parsing aims to develop parsing methods without a gold standard during model training. In human languages, an unsupervised parser can be evaluated because some gold standard is usually available or can be created. For other species, a gold standard is unknown. Thus one may conclude that it is impossible to determine the accuracy of an unsupervised parser and, consequently, dependency parsing is unfeasible in other species. However, here we apply recent advances in network science to demonstrate",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology",
+      "url": "https://arxiv.org/abs/2607.06531v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-07-07T17:38:47.000Z",
+      "score": 70,
+      "summary_en": "- Objective: Multimodal deep learning models in oncology are currently limited by monolithic designs that rigidly couple data ingestion, clinical routing, and artificial intelligence (AI) inference. To address this inflexibility, we propose the Large Cancer Assistant (LCA), a model-agnostic, post-hoc orchestration framework designed for scalable clinical decision support. - Methods: The LCA is mathematically formalized as a 7-tuple architecture grounded in the principle of Algorithmic Impermeability, ensuring the orchestration logic remains strictly independent of underlying black-box AI model",
+      "summary_fr": "- Objective: Multimodal deep learning models in oncology are currently limited by monolithic designs that rigidly couple data ingestion, clinical routing, and artificial intelligence (AI) inference. To address this inflexibility, we propose the Large Cancer Assistant (LCA), a model-agnostic, post-hoc orchestration framework designed for scalable clinical decision support. - Methods: The LCA is mathematically formalized as a 7-tuple architecture grounded in the principle of Algorithmic Impermeability, ensuring the orchestration logic remains strictly independent of underlying black-box AI model",
+      "resume_fr": "- Objective: Multimodal deep learning models in oncology are currently limited by monolithic designs that rigidly couple data ingestion, clinical routing, and artificial intelligence (AI) inference. To address this inflexibility, we propose the Large Cancer Assistant (LCA), a model-agnostic, post-hoc orchestration framework designed for scalable clinical decision support. - Methods: The LCA is mathematically formalized as a 7-tuple architecture grounded in the principle of Algorithmic Impermeability, ensuring the orchestration logic remains strictly independent of underlying black-box AI model",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "DynaKRAG: A Unified Framework for Learnable Evidence Control in Multi-Hop Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2607.06507v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-07-07T17:09:36.000Z",
+      "score": 70,
+      "summary_en": "Multi-hop retrieval-augmented generation (RAG) acquires evidence sequentially, with each new document potentially revealing missing facts, bridge entities, query defects, or sufficient support for answering. Existing methods provide useful operations such as iterative retrieval, query reformulation, evidence critique, and sufficiency judging, but typically organize them within method-specific pipelines or predefined control topologies. This leaves underexplored how to learn a shared state-conditioned policy that chooses among currently valid evidence operations. We introduce DynaKRAG, which fo",
+      "summary_fr": "Multi-hop retrieval-augmented generation (RAG) acquires evidence sequentially, with each new document potentially revealing missing facts, bridge entities, query defects, or sufficient support for answering. Existing methods provide useful operations such as iterative retrieval, query reformulation, evidence critique, and sufficiency judging, but typically organize them within method-specific pipelines or predefined control topologies. This leaves underexplored how to learn a shared state-conditioned policy that chooses among currently valid evidence operations. We introduce DynaKRAG, which fo",
+      "resume_fr": "Multi-hop retrieval-augmented generation (RAG) acquires evidence sequentially, with each new document potentially revealing missing facts, bridge entities, query defects, or sufficient support for answering. Existing methods provide useful operations such as iterative retrieval, query reformulation, evidence critique, and sufficiency judging, but typically organize them within method-specific pipelines or predefined control topologies. This leaves underexplored how to learn a shared state-conditioned policy that chooses among currently valid evidence operations. We introduce DynaKRAG, which fo",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Assessing the Operational Impact of Poisoning Attacks over Augmented 3D Point Cloud Public Datasets for Connected and Autonomous Vehicles",
+      "url": "https://arxiv.org/abs/2607.06484v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-07-07T16:46:16.000Z",
+      "score": 70,
+      "summary_en": "Poisoning attacks against public datasets lead to major concerns, such as (i) misclassification of perceived objects when the poisoned data is used for training and (ii) embedding of backdoors that may eventually be triggered later on, when specific conditions in the system apply over the learned models. Its impact over data augmentation models is unclear. While data augmentation reduces the likelihood of poisoning attack success, some valid questions remain. Is data augmentation affecting the impact of poisoning attacks? can it increase the number of poisoned samples or injected backdoors? We",
+      "summary_fr": "Poisoning attacks against public datasets lead to major concerns, such as (i) misclassification of perceived objects when the poisoned data is used for training and (ii) embedding of backdoors that may eventually be triggered later on, when specific conditions in the system apply over the learned models. Its impact over data augmentation models is unclear. While data augmentation reduces the likelihood of poisoning attack success, some valid questions remain. Is data augmentation affecting the impact of poisoning attacks? can it increase the number of poisoned samples or injected backdoors? We",
+      "resume_fr": "Poisoning attacks against public datasets lead to major concerns, such as (i) misclassification of perceived objects when the poisoned data is used for training and (ii) embedding of backdoors that may eventually be triggered later on, when specific conditions in the system apply over the learned models. Its impact over data augmentation models is unclear. While data augmentation reduces the likelihood of poisoning attack success, some valid questions remain. Is data augmentation affecting the impact of poisoning attacks? can it increase the number of poisoned samples or injected backdoors? We",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "BaFCo: A Document Understanding Benchmark for Complex Bangla Form Comprehension",
+      "url": "https://arxiv.org/abs/2607.05614v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-07-06T20:17:38.000Z",
+      "score": 50,
+      "summary_en": "Document comprehension is a challenging yet impactful task for Multimodal Large Language Models, especially as these systems see growing adoption in real-world, human-centric applications. However, this adoption is limited for low-resource languages such as Bangla due to the scarcity of high-quality annotated data. To address this gap, we introduce BaFCo, a benchmark dataset for Bangla form comprehension with a focus on Document Layout Analysis (DLA) and Key Information Extraction (KIE). BaFCo curates 200 multi-page complex Bangladeshi government forms, sourced from across diverse sectors incl",
+      "summary_fr": "Document comprehension is a challenging yet impactful task for Multimodal Large Language Models, especially as these systems see growing adoption in real-world, human-centric applications. However, this adoption is limited for low-resource languages such as Bangla due to the scarcity of high-quality annotated data. To address this gap, we introduce BaFCo, a benchmark dataset for Bangla form comprehension with a focus on Document Layout Analysis (DLA) and Key Information Extraction (KIE). BaFCo curates 200 multi-page complex Bangladeshi government forms, sourced from across diverse sectors incl",
+      "resume_fr": "Document comprehension is a challenging yet impactful task for Multimodal Large Language Models, especially as these systems see growing adoption in real-world, human-centric applications. However, this adoption is limited for low-resource languages such as Bangla due to the scarcity of high-quality annotated data. To address this gap, we introduce BaFCo, a benchmark dataset for Bangla form comprehension with a focus on Document Layout Analysis (DLA) and Key Information Extraction (KIE). BaFCo curates 200 multi-page complex Bangladeshi government forms, sourced from across diverse sectors incl",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming",
+      "url": "https://arxiv.org/abs/2607.05571v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-07-06T19:15:07.000Z",
+      "score": 50,
+      "summary_en": "Large language models are increasingly explored as AI tutors, yet deploying them in K-12 settings raises concerns around privacy, cost, and reliance on proprietary models. Small language models (SLMs) offer a promising alternative, but selecting the right model for a specific educational context remains difficult, particularly when the target domain, such as block-based programming, is largely absent from model training data. We introduce CSTutorBench, a benchmark for evaluating language models as CS tutors in VEX VR, a block-based robotics environment. The benchmark comprises 17 scenario-base",
+      "summary_fr": "Large language models are increasingly explored as AI tutors, yet deploying them in K-12 settings raises concerns around privacy, cost, and reliance on proprietary models. Small language models (SLMs) offer a promising alternative, but selecting the right model for a specific educational context remains difficult, particularly when the target domain, such as block-based programming, is largely absent from model training data. We introduce CSTutorBench, a benchmark for evaluating language models as CS tutors in VEX VR, a block-based robotics environment. The benchmark comprises 17 scenario-base",
+      "resume_fr": "Large language models are increasingly explored as AI tutors, yet deploying them in K-12 settings raises concerns around privacy, cost, and reliance on proprietary models. Small language models (SLMs) offer a promising alternative, but selecting the right model for a specific educational context remains difficult, particularly when the target domain, such as block-based programming, is largely absent from model training data. We introduce CSTutorBench, a benchmark for evaluating language models as CS tutors in VEX VR, a block-based robotics environment. The benchmark comprises 17 scenario-base",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
       "url": "https://arxiv.org/abs/2607.05396v1",
@@ -1119,120 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Students' Perception Accuracy of Partners' AI Use and its Relation to Collaboration Performance",
-      "url": "https://arxiv.org/abs/2606.23237v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-06-22T12:23:41.000Z",
-      "score": 50,
-      "summary_en": "Collaborative assignments are a cornerstone of programming education. Effective collaboration during a programming project depends on the formation of reasonably accurate beliefs about how each partner works. Generative AI tools, now widely used by undergraduate students, have introduced a consequential and largely invisible new dimension into collaboration: each student's use of AI. When partners collaborate remotely, they interpret partners' ability and effort through their code. This raises the question of how accurately students perceive each other's AI use in collaborations, and if a misa",
-      "summary_fr": "Collaborative assignments are a cornerstone of programming education. Effective collaboration during a programming project depends on the formation of reasonably accurate beliefs about how each partner works. Generative AI tools, now widely used by undergraduate students, have introduced a consequential and largely invisible new dimension into collaboration: each student's use of AI. When partners collaborate remotely, they interpret partners' ability and effort through their code. This raises the question of how accurately students perceive each other's AI use in collaborations, and if a misa",
-      "resume_fr": "Collaborative assignments are a cornerstone of programming education. Effective collaboration during a programming project depends on the formation of reasonably accurate beliefs about how each partner works. Generative AI tools, now widely used by undergraduate students, have introduced a consequential and largely invisible new dimension into collaboration: each student's use of AI. When partners collaborate remotely, they interpret partners' ability and effort through their code. This raises the question of how accurately students perceive each other's AI use in collaborations, and if a misa",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "AI-Assisted Help-Seeking Trajectories in Programming Education from an SRL-Informed Perspective",
-      "url": "https://arxiv.org/abs/2606.22809v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-06-22T03:37:58.000Z",
-      "score": 65,
-      "summary_en": "Generative AI tools provide novice programmers with instant, personalized support, but also raise concerns about whether AI use supports or bypasses students' regulation of problem-solving. Existing work has largely focused on correctness, usability, or overall usage frequency, with less attention to how student--AI help-seeking unfolds. This study addresses this gap by analyzing AI-assisted help-seeking trajectories in university-level programming. Using an SRL-informed analytical framework that links prompt-level help-seeking codes to conceptual, implementation, debugging, and reflective for",
-      "summary_fr": "Generative AI tools provide novice programmers with instant, personalized support, but also raise concerns about whether AI use supports or bypasses students' regulation of problem-solving. Existing work has largely focused on correctness, usability, or overall usage frequency, with less attention to how student--AI help-seeking unfolds. This study addresses this gap by analyzing AI-assisted help-seeking trajectories in university-level programming. Using an SRL-informed analytical framework that links prompt-level help-seeking codes to conceptual, implementation, debugging, and reflective for",
-      "resume_fr": "Generative AI tools provide novice programmers with instant, personalized support, but also raise concerns about whether AI use supports or bypasses students' regulation of problem-solving. Existing work has largely focused on correctness, usability, or overall usage frequency, with less attention to how student--AI help-seeking unfolds. This study addresses this gap by analyzing AI-assisted help-seeking trajectories in university-level programming. Using an SRL-informed analytical framework that links prompt-level help-seeking codes to conceptual, implementation, debugging, and reflective for",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Libretto: Giving LLM Agents a Sense of Musical Structure",
-      "url": "https://arxiv.org/abs/2606.22708v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-06-21T22:56:07.000Z",
-      "score": 50,
-      "summary_en": "Generative music systems can now produce impressive audio from text prompts, but audio outputs are difficult to inspect, edit, and diagnose as musical structure. We introduce Libretto, an agent-facing framework for symbolic music generation and revision. Libretto uses an LLM-native grammar with explicit onset slots, voices, and bar-level organization, then evaluates each piece in a corpus-calibrated statistical space over rhythm, harmony, melody, texture, form, and variation. The same structural axes support retrieval, diagnosis, copy-risk control, and iterative self-revision. Across gap filli",
-      "summary_fr": "Generative music systems can now produce impressive audio from text prompts, but audio outputs are difficult to inspect, edit, and diagnose as musical structure. We introduce Libretto, an agent-facing framework for symbolic music generation and revision. Libretto uses an LLM-native grammar with explicit onset slots, voices, and bar-level organization, then evaluates each piece in a corpus-calibrated statistical space over rhythm, harmony, melody, texture, form, and variation. The same structural axes support retrieval, diagnosis, copy-risk control, and iterative self-revision. Across gap filli",
-      "resume_fr": "Generative music systems can now produce impressive audio from text prompts, but audio outputs are difficult to inspect, edit, and diagnose as musical structure. We introduce Libretto, an agent-facing framework for symbolic music generation and revision. Libretto uses an LLM-native grammar with explicit onset slots, voices, and bar-level organization, then evaluates each piece in a corpus-calibrated statistical space over rhythm, harmony, melody, texture, form, and variation. The same structural axes support retrieval, diagnosis, copy-risk control, and iterative self-revision. Across gap filli",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle",
-      "url": "https://arxiv.org/abs/2606.22609v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-06-21T17:33:19.000Z",
-      "score": 50,
-      "summary_en": "The rise of online tutoring platforms in the gig economy has made education more scalable, flexible, and on-demand. These platforms rely on learner evaluations as the primary feedback for tutors and platforms. However, such feedback offers limited guidance for tutors' improvement and makes it difficult to monitor tutor quality at scale. To this end, we explored AI-powered automated feedback and how tutors perceive and respond to it. We deployed a research probe on Ringle, a popular online English tutoring platform, that analyzed tutors' lessons and provided automated feedback. We then surveyed",
-      "summary_fr": "The rise of online tutoring platforms in the gig economy has made education more scalable, flexible, and on-demand. These platforms rely on learner evaluations as the primary feedback for tutors and platforms. However, such feedback offers limited guidance for tutors' improvement and makes it difficult to monitor tutor quality at scale. To this end, we explored AI-powered automated feedback and how tutors perceive and respond to it. We deployed a research probe on Ringle, a popular online English tutoring platform, that analyzed tutors' lessons and provided automated feedback. We then surveyed",
-      "resume_fr": "The rise of online tutoring platforms in the gig economy has made education more scalable, flexible, and on-demand. These platforms rely on learner evaluations as the primary feedback for tutors and platforms. However, such feedback offers limited guidance for tutors' improvement and makes it difficult to monitor tutor quality at scale. To this end, we explored AI-powered automated feedback and how tutors perceive and respond to it. We deployed a research probe on Ringle, a popular online English tutoring platform, that analyzed tutors' lessons and provided automated feedback. We then surveyed",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "L20-Edu-135M: An Auditable Single-GPU Study of Data-Efficient Small Language Modeling",
-      "url": "https://arxiv.org/abs/2606.22189v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-06-20T18:42:37.000Z",
-      "score": 50,
-      "summary_en": "Small language models are cheap to serve and feasible on local hardware, but strong public 135M-class systems are commonly trained with hundreds of billions to trillions of tokens on large clusters. We study a sharply resource-constrained regime: a complete 134.5M-parameter language-model pipeline executed on one NVIDIA L20 GPU. The released checkpoint, L20-Edu-135M, receives approximately 13B pretraining tokens: 10B FineWeb-Edu tokens followed by a 3B-token educational, mathematics, code, and reasoning mixture. We document the architecture, data gates, cross-source MinHash/LSH near-deduplicat",
-      "summary_fr": "Small language models are cheap to serve and feasible on local hardware, but strong public 135M-class systems are commonly trained with hundreds of billions to trillions of tokens on large clusters. We study a sharply resource-constrained regime: a complete 134.5M-parameter language-model pipeline executed on one NVIDIA L20 GPU. The released checkpoint, L20-Edu-135M, receives approximately 13B pretraining tokens: 10B FineWeb-Edu tokens followed by a 3B-token educational, mathematics, code, and reasoning mixture. We document the architecture, data gates, cross-source MinHash/LSH near-deduplicat",
-      "resume_fr": "Small language models are cheap to serve and feasible on local hardware, but strong public 135M-class systems are commonly trained with hundreds of billions to trillions of tokens on large clusters. We study a sharply resource-constrained regime: a complete 134.5M-parameter language-model pipeline executed on one NVIDIA L20 GPU. The released checkpoint, L20-Edu-135M, receives approximately 13B pretraining tokens: 10B FineWeb-Edu tokens followed by a 3B-token educational, mathematics, code, and reasoning mixture. We document the architecture, data gates, cross-source MinHash/LSH near-deduplicat",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning",
-      "url": "https://arxiv.org/abs/2606.20559v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-06-18T17:59:45.000Z",
-      "score": 50,
-      "summary_en": "Egocentric video understanding is inherently limited by the narrow perspective of wearable cameras: a single viewpoint, a single modality, a single model cannot capture the full richness of human action. We argue that a truly expressive egocentric representation must subsume complementary knowledge across viewpoints, modalities, and foundation model representations, yet remain deployable from egocentric video alone. To this end, we introduce a hierarchical multi-teacher distillation framework that produces UNIEGO, a unified egocentric encoder trained with nine teachers spanning ego-exo viewpoi",
-      "summary_fr": "Egocentric video understanding is inherently limited by the narrow perspective of wearable cameras: a single viewpoint, a single modality, a single model cannot capture the full richness of human action. We argue that a truly expressive egocentric representation must subsume complementary knowledge across viewpoints, modalities, and foundation model representations, yet remain deployable from egocentric video alone. To this end, we introduce a hierarchical multi-teacher distillation framework that produces UNIEGO, a unified egocentric encoder trained with nine teachers spanning ego-exo viewpoi",
-      "resume_fr": "Egocentric video understanding is inherently limited by the narrow perspective of wearable cameras: a single viewpoint, a single modality, a single model cannot capture the full richness of human action. We argue that a truly expressive egocentric representation must subsume complementary knowledge across viewpoints, modalities, and foundation model representations, yet remain deployable from egocentric video alone. To this end, we introduce a hierarchical multi-teacher distillation framework that produces UNIEGO, a unified egocentric encoder trained with nine teachers spanning ego-exo viewpoi",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
