@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T10:00:12.870Z",
+  "generatedAt": "2026-07-10T09:50:47.392Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,139 @@
     }
   },
   "items": [
+    {
+      "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
+      "url": "https://arxiv.org/abs/2607.08768v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-07-09T17:59:32.000Z",
+      "score": 70,
+      "summary_en": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-world environments. However, existing benchmarks struggle to evaluate such agents effectively, as they often rely on sandboxed environments and single-turn evaluation paradigms. Moreover, their scenario-based task taxonomies mix multiple model capabilities within the same task category, making it difficult to identify the root causes of agent failures. To address these limitations, we introduce UniC",
+      "summary_fr": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-world environments. However, existing benchmarks struggle to evaluate such agents effectively, as they often rely on sandboxed environments and single-turn evaluation paradigms. Moreover, their scenario-based task taxonomies mix multiple model capabilities within the same task category, making it difficult to identify the root causes of agent failures. To address these limitations, we introduce UniC",
+      "resume_fr": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-world environments. However, existing benchmarks struggle to evaluate such agents effectively, as they often rely on sandboxed environments and single-turn evaluation paradigms. Moreover, their scenario-based task taxonomies mix multiple model capabilities within the same task category, making it difficult to identify the root causes of agent failures. To address these limitations, we introduce UniC",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis",
+      "url": "https://arxiv.org/abs/2607.08748v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-07-09T17:49:14.000Z",
+      "score": 50,
+      "summary_en": "In this study, we present a large-scale descriptive analysis of the use of an AI-based learning assistant (Syntea) in higher education. Based on objective log data from 77,543 students enrolled in distance studies, we examine usage patterns across gender, age group, study cluster, degree, and study mode. To date, existing research on educational chatbots has largely relied on comparatively small samples and self-reported survey data, while large-scale evidence on actual usage behavior remains limited. Our findings show that Syntea is already embedded in the study routines of many learners, but",
+      "summary_fr": "In this study, we present a large-scale descriptive analysis of the use of an AI-based learning assistant (Syntea) in higher education. Based on objective log data from 77,543 students enrolled in distance studies, we examine usage patterns across gender, age group, study cluster, degree, and study mode. To date, existing research on educational chatbots has largely relied on comparatively small samples and self-reported survey data, while large-scale evidence on actual usage behavior remains limited. Our findings show that Syntea is already embedded in the study routines of many learners, but",
+      "resume_fr": "In this study, we present a large-scale descriptive analysis of the use of an AI-based learning assistant (Syntea) in higher education. Based on objective log data from 77,543 students enrolled in distance studies, we examine usage patterns across gender, age group, study cluster, degree, and study mode. To date, existing research on educational chatbots has largely relied on comparatively small samples and self-reported survey data, while large-scale evidence on actual usage behavior remains limited. Our findings show that Syntea is already embedded in the study routines of many learners, but",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation",
+      "url": "https://arxiv.org/abs/2607.08741v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-07-09T17:41:49.000Z",
+      "score": 70,
+      "summary_en": "Generating realistic 3D human motions in real-time within interactive applications is key for animation, simulation, and humanoid robotics. While recent offline motion generation approaches offer precise control via text and kinematic constraints, they lack the inference speed required for interactive settings. Conversely, existing online methods enable real-time synthesis but often sacrifice controllability or struggle with complex text semantics and long-horizon goals due to limited context windows. In this work, we introduce ARDY, a streaming generation framework that bridges this gap by en",
+      "summary_fr": "Generating realistic 3D human motions in real-time within interactive applications is key for animation, simulation, and humanoid robotics. While recent offline motion generation approaches offer precise control via text and kinematic constraints, they lack the inference speed required for interactive settings. Conversely, existing online methods enable real-time synthesis but often sacrifice controllability or struggle with complex text semantics and long-horizon goals due to limited context windows. In this work, we introduce ARDY, a streaming generation framework that bridges this gap by en",
+      "resume_fr": "Generating realistic 3D human motions in real-time within interactive applications is key for animation, simulation, and humanoid robotics. While recent offline motion generation approaches offer precise control via text and kinematic constraints, they lack the inference speed required for interactive settings. Conversely, existing online methods enable real-time synthesis but often sacrifice controllability or struggle with complex text semantics and long-horizon goals due to limited context windows. In this work, we introduce ARDY, a streaming generation framework that bridges this gap by en",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
+      "url": "https://arxiv.org/abs/2607.08716v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-07-09T17:26:28.000Z",
+      "score": 70,
+      "summary_en": "In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment facts, prior attempts, diagnoses, and open subgoals can be buried in the context window or pushed beyond it, failing to influence decisions when needed. We call this failure mode \"behavioral state decay\". We study memory as an active intervention mechanism rather than passive retrieval. A separate memory agent runs alongside an unmodified action agent, updating a structured memory bank from the rec",
+      "summary_fr": "In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment facts, prior attempts, diagnoses, and open subgoals can be buried in the context window or pushed beyond it, failing to influence decisions when needed. We call this failure mode \"behavioral state decay\". We study memory as an active intervention mechanism rather than passive retrieval. A separate memory agent runs alongside an unmodified action agent, updating a structured memory bank from the rec",
+      "resume_fr": "In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment facts, prior attempts, diagnoses, and open subgoals can be buried in the context window or pushed beyond it, failing to influence decisions when needed. We call this failure mode \"behavioral state decay\". We study memory as an active intervention mechanism rather than passive retrieval. A separate memory agent runs alongside an unmodified action agent, updating a structured memory bank from the rec",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata",
+      "url": "https://arxiv.org/abs/2607.08698v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-07-09T16:55:46.000Z",
+      "score": 50,
+      "summary_en": "We examine educational YouTube videos through multimodal metadata, such as transcripts, titles, thumbnails, and viewer comments, to investigate how ChatGPT is framed across creator groups and how those framings relate to audience response and platform reach. Little is known about how large language models are presented to learners in informal, creator-driven public discourse. Following PRISMA, we selected 52 videos for analysis. We identified three structurally distinct discourse groups: (G1) videos that positioned ChatGPT as a conceptual scaffold for thinking, (G2) videos oriented toward retr",
+      "summary_fr": "We examine educational YouTube videos through multimodal metadata, such as transcripts, titles, thumbnails, and viewer comments, to investigate how ChatGPT is framed across creator groups and how those framings relate to audience response and platform reach. Little is known about how large language models are presented to learners in informal, creator-driven public discourse. Following PRISMA, we selected 52 videos for analysis. We identified three structurally distinct discourse groups: (G1) videos that positioned ChatGPT as a conceptual scaffold for thinking, (G2) videos oriented toward retr",
+      "resume_fr": "We examine educational YouTube videos through multimodal metadata, such as transcripts, titles, thumbnails, and viewer comments, to investigate how ChatGPT is framed across creator groups and how those framings relate to audience response and platform reach. Little is known about how large language models are presented to learners in informal, creator-driven public discourse. Following PRISMA, we selected 52 videos for analysis. We identified three structurally distinct discourse groups: (G1) videos that positioned ChatGPT as a conceptual scaffold for thinking, (G2) videos oriented toward retr",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "ArtMine: Discovering and Formalizing Artistic Processes",
+      "url": "https://arxiv.org/abs/2607.08331v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-07-09T10:16:53.000Z",
+      "score": 50,
+      "summary_en": "Understanding how artworks are created requires reasoning about the iterative decisions, material operations, and contextual influences that shape artistic production. While recent generative AI systems can synthesize artworks with high fidelity, they primarily model distributions over finished artifacts rather than the creative processes underlying their creation. In practice, artistic workflows are only partially documented through fragmented sources such as archival records, preparatory studies, correspondence, etc., making process-level understanding difficult to formalize computationally.",
+      "summary_fr": "Understanding how artworks are created requires reasoning about the iterative decisions, material operations, and contextual influences that shape artistic production. While recent generative AI systems can synthesize artworks with high fidelity, they primarily model distributions over finished artifacts rather than the creative processes underlying their creation. In practice, artistic workflows are only partially documented through fragmented sources such as archival records, preparatory studies, correspondence, etc., making process-level understanding difficult to formalize computationally.",
+      "resume_fr": "Understanding how artworks are created requires reasoning about the iterative decisions, material operations, and contextual influences that shape artistic production. While recent generative AI systems can synthesize artworks with high fidelity, they primarily model distributions over finished artifacts rather than the creative processes underlying their creation. In practice, artistic workflows are only partially documented through fragmented sources such as archival records, preparatory studies, correspondence, etc., making process-level understanding difficult to formalize computationally.",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "From Triggers to Emotions: A CPM-Grounded Appraisal Multi-Agent for Dynamic Emotional Evolution in Persona-Based Dialogue",
+      "url": "https://arxiv.org/abs/2607.07824v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-07-08T18:06:03.000Z",
+      "score": 50,
+      "summary_en": "Large Language Models (LLMs) have substantially advanced persona-based dialogue agents for emotion-sensitive role simulation in healthcare, education, counseling, customer service, and interactive storytelling. However, two related lines of work leave a key gap. Persona-based dialogue systems often encode emotions as static traits or surface-level stylistic cues, and affective dialogue research has largely focused on empathetic response generation toward users rather than modeling the agent persona's own evolving emotional state. As a result, trigger-driven emotional evolution within a charact",
+      "summary_fr": "Large Language Models (LLMs) have substantially advanced persona-based dialogue agents for emotion-sensitive role simulation in healthcare, education, counseling, customer service, and interactive storytelling. However, two related lines of work leave a key gap. Persona-based dialogue systems often encode emotions as static traits or surface-level stylistic cues, and affective dialogue research has largely focused on empathetic response generation toward users rather than modeling the agent persona's own evolving emotional state. As a result, trigger-driven emotional evolution within a charact",
+      "resume_fr": "Large Language Models (LLMs) have substantially advanced persona-based dialogue agents for emotion-sensitive role simulation in healthcare, education, counseling, customer service, and interactive storytelling. However, two related lines of work leave a key gap. Persona-based dialogue systems often encode emotions as static traits or surface-level stylistic cues, and affective dialogue research has largely focused on empathetic response generation toward users rather than modeling the agent persona's own evolving emotional state. As a result, trigger-driven emotional evolution within a charact",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "The Key to Going Linear: Analysis-Driven Transformer Linearization",
       "url": "https://arxiv.org/abs/2607.07706v1",
@@ -264,6 +397,25 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Overview of the NLPCC 2026 Shared Task 1: Difficulty-Aware Multilingual and Multimodal Medical Instructional Video Understanding Evaluation",
+      "url": "https://arxiv.org/abs/2607.06618v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-07-07T09:24:48.000Z",
+      "score": 50,
+      "summary_en": "Following the CMIVQA, MMI-VQA, and M4IVQA challenges in NLPCC 2023--2025, we introduce the Difficulty-Aware Medical Instructional Video Question Answering (DA-MIVQA) shared task for NLPCC 2026. DA-MIVQA extends previous multilingual and multimodal medical video benchmarks by explicitly distinguishing questions according to the type and complexity of evidence required for answering. Specifically, simple questions can often be answered from subtitle-based textual cues, whereas complex questions require visual grounding, procedural understanding, and cross-modal evidence integration. The challeng",
+      "summary_fr": "Following the CMIVQA, MMI-VQA, and M4IVQA challenges in NLPCC 2023--2025, we introduce the Difficulty-Aware Medical Instructional Video Question Answering (DA-MIVQA) shared task for NLPCC 2026. DA-MIVQA extends previous multilingual and multimodal medical video benchmarks by explicitly distinguishing questions according to the type and complexity of evidence required for answering. Specifically, simple questions can often be answered from subtitle-based textual cues, whereas complex questions require visual grounding, procedural understanding, and cross-modal evidence integration. The challeng",
+      "resume_fr": "Following the CMIVQA, MMI-VQA, and M4IVQA challenges in NLPCC 2023--2025, we introduce the Difficulty-Aware Medical Instructional Video Question Answering (DA-MIVQA) shared task for NLPCC 2026. DA-MIVQA extends previous multilingual and multimodal medical video benchmarks by explicitly distinguishing questions according to the type and complexity of evidence required for answering. Specifically, simple questions can often be answered from subtitle-based textual cues, whereas complex questions require visual grounding, procedural understanding, and cross-modal evidence integration. The challeng",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
@@ -1081,158 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Agentic Knowledge Tracing: A Multi-Agent LLM Architecture for Stealth Assessment of Financial Literacy in Serious Games",
-      "url": "https://arxiv.org/abs/2606.25358v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-06-24T03:43:59.000Z",
-      "score": 50,
-      "summary_en": "Assessing financial literacy during gameplay without disrupting the learning experience remains a key challenge in serious games for education. We present the Agentic BKT pipeline, a multi-agent large language model architecture for stealth assessment of financial competencies from open-ended gameplay events. The pipeline processes events from a 2D platformer serious game aligned with the OECD/INFE financial literacy framework through four phases: (1) the game captures every player decision as a structured event log; (2) an LLM event classifier labels each action on a four-point rubric validat",
-      "summary_fr": "Assessing financial literacy during gameplay without disrupting the learning experience remains a key challenge in serious games for education. We present the Agentic BKT pipeline, a multi-agent large language model architecture for stealth assessment of financial competencies from open-ended gameplay events. The pipeline processes events from a 2D platformer serious game aligned with the OECD/INFE financial literacy framework through four phases: (1) the game captures every player decision as a structured event log; (2) an LLM event classifier labels each action on a four-point rubric validat",
-      "resume_fr": "Assessing financial literacy during gameplay without disrupting the learning experience remains a key challenge in serious games for education. We present the Agentic BKT pipeline, a multi-agent large language model architecture for stealth assessment of financial competencies from open-ended gameplay events. The pipeline processes events from a 2D platformer serious game aligned with the OECD/INFE financial literacy framework through four phases: (1) the game captures every player decision as a structured event log; (2) an LLM event classifier labels each action on a four-point rubric validat",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "The Digital Pirahã Condition: Ecological Mismatch and the Reconstruction of Recursive Cognition",
-      "url": "https://arxiv.org/abs/2606.25287v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-06-24T01:42:10.000Z",
-      "score": 50,
-      "summary_en": "Contemporary digital and AI-mediated environments are reshaping the cognitive ecologies within which human reasoning develops. As everyday activity becomes embedded in datafied infrastructures, cognitive habits adapt to conditions of immediacy, fragmentation, externalisation, and algorithmic filtering. This paper introduces the Digital Pirahã Condition, a cultural ecological model explaining how these environments cultivate adaptive but shallow cognitive patterns, epistemic flattening, reduced recursive capacity, and heightened reliance on external scaffolds. While functional within digital sy",
-      "summary_fr": "Contemporary digital and AI-mediated environments are reshaping the cognitive ecologies within which human reasoning develops. As everyday activity becomes embedded in datafied infrastructures, cognitive habits adapt to conditions of immediacy, fragmentation, externalisation, and algorithmic filtering. This paper introduces the Digital Pirahã Condition, a cultural ecological model explaining how these environments cultivate adaptive but shallow cognitive patterns, epistemic flattening, reduced recursive capacity, and heightened reliance on external scaffolds. While functional within digital sy",
-      "resume_fr": "Contemporary digital and AI-mediated environments are reshaping the cognitive ecologies within which human reasoning develops. As everyday activity becomes embedded in datafied infrastructures, cognitive habits adapt to conditions of immediacy, fragmentation, externalisation, and algorithmic filtering. This paper introduces the Digital Pirahã Condition, a cultural ecological model explaining how these environments cultivate adaptive but shallow cognitive patterns, epistemic flattening, reduced recursive capacity, and heightened reliance on external scaffolds. While functional within digital sy",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Development and validation of a multidimensional scale for AI tutoring acceptance in higher education",
-      "url": "https://www.nature.com/articles/s41539-026-00431-9",
-      "source": "npj Science of Learning (Nature)",
-      "published": "2026-06-24T00:00:00.000Z",
-      "score": 50,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
-    },
-    {
-      "title": "Matching Tasks to Objectives: Fine-Tuning and Prompt-Tuning Strategies for Encoder-Decoder Pre-trained Language Models",
-      "url": "https://arxiv.org/abs/2606.24841v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-06-23T17:21:03.000Z",
-      "score": 50,
-      "summary_en": "Prompt-based learning has emerged as a dominant paradigm in natural language processing. This study explores the impact of diverse pre-training objectives on the performance of encoder-decoder pre-trained language models across generation and question answering tasks, with a focus on commonsense knowledge retrieval and completion. We highlight the benefits of incorporating multiple objectives during both pre-training and fine-tuning stages. We introduce the Match Task to Objective (MTO) framework and methods for determining the appropriate objective for a given task. This framework offers auto",
-      "summary_fr": "Prompt-based learning has emerged as a dominant paradigm in natural language processing. This study explores the impact of diverse pre-training objectives on the performance of encoder-decoder pre-trained language models across generation and question answering tasks, with a focus on commonsense knowledge retrieval and completion. We highlight the benefits of incorporating multiple objectives during both pre-training and fine-tuning stages. We introduce the Match Task to Objective (MTO) framework and methods for determining the appropriate objective for a given task. This framework offers auto",
-      "resume_fr": "Prompt-based learning has emerged as a dominant paradigm in natural language processing. This study explores the impact of diverse pre-training objectives on the performance of encoder-decoder pre-trained language models across generation and question answering tasks, with a focus on commonsense knowledge retrieval and completion. We highlight the benefits of incorporating multiple objectives during both pre-training and fine-tuning stages. We introduce the Match Task to Objective (MTO) framework and methods for determining the appropriate objective for a given task. This framework offers auto",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Paying to Know: Micro-Transaction Markets for Verified Product Information in Agentic E-Commerce",
-      "url": "https://arxiv.org/abs/2606.24783v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-06-23T16:42:21.000Z",
-      "score": 70,
-      "summary_en": "Commercial NLP treats the shopping chatbot as a recommender or a conversion tool: its job is to match a user to a catalogue entry and close a sale. We argue that the arrival of agent-native micro-payment rails (e.g., x402, AP2) changes what is scarce. When the buyer is an autonomous agent that can investigate exhaustively, the bottleneck is no longer matching products but acquiring trustworthy, decision-relevant information about them. We envision agentic e-commerce as a micro-transaction market for verified information: buyer agents spend fractions of a cent to progressively unlock seller- an",
-      "summary_fr": "Commercial NLP treats the shopping chatbot as a recommender or a conversion tool: its job is to match a user to a catalogue entry and close a sale. We argue that the arrival of agent-native micro-payment rails (e.g., x402, AP2) changes what is scarce. When the buyer is an autonomous agent that can investigate exhaustively, the bottleneck is no longer matching products but acquiring trustworthy, decision-relevant information about them. We envision agentic e-commerce as a micro-transaction market for verified information: buyer agents spend fractions of a cent to progressively unlock seller- an",
-      "resume_fr": "Commercial NLP treats the shopping chatbot as a recommender or a conversion tool: its job is to match a user to a catalogue entry and close a sale. We argue that the arrival of agent-native micro-payment rails (e.g., x402, AP2) changes what is scarce. When the buyer is an autonomous agent that can investigate exhaustively, the bottleneck is no longer matching products but acquiring trustworthy, decision-relevant information about them. We envision agentic e-commerce as a micro-transaction market for verified information: buyer agents spend fractions of a cent to progressively unlock seller- an",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Model selection with proper scoring rules on data sets of time series",
-      "url": "https://arxiv.org/abs/2606.24715v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-06-23T15:36:28.000Z",
-      "score": 50,
-      "summary_en": "We consider the problem of model selection between probabilistic models on data sets of time series. Chosen a proper scoring rule, we denote by the term \\textit{score} the average value of the scoring rule on the test of an individual time series. For model selection, we need aggregating the values of the scores across multiple time series. Three summary statistics are commonly used for model selection: mean score, median score, and mean rank. Results in previous papers show that these statistics can yield conflicting decisions; we show how the conflicting conclusions are due to the skewness o",
-      "summary_fr": "We consider the problem of model selection between probabilistic models on data sets of time series. Chosen a proper scoring rule, we denote by the term \\textit{score} the average value of the scoring rule on the test of an individual time series. For model selection, we need aggregating the values of the scores across multiple time series. Three summary statistics are commonly used for model selection: mean score, median score, and mean rank. Results in previous papers show that these statistics can yield conflicting decisions; we show how the conflicting conclusions are due to the skewness o",
-      "resume_fr": "We consider the problem of model selection between probabilistic models on data sets of time series. Chosen a proper scoring rule, we denote by the term \\textit{score} the average value of the scoring rule on the test of an individual time series. For model selection, we need aggregating the values of the scores across multiple time series. Three summary statistics are commonly used for model selection: mean score, median score, and mean rank. Results in previous papers show that these statistics can yield conflicting decisions; we show how the conflicting conclusions are due to the skewness o",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "A Dynamic Coupling Theory of Expertise Through Thinking Flow and Workflow Evolution",
-      "url": "https://arxiv.org/abs/2606.24197v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-06-23T06:32:51.000Z",
-      "score": 50,
-      "summary_en": "Expertise has long been explained through tacit knowledge, deliberate practice, skill acquisition, and expert performance. While these perspectives have advanced understanding of expertise, they often describe its conditions or outcomes rather than the cognitive architecture through which expertise continuously emerges and evolves. This paper proposes Workflow Cognition as a theoretical framework for explaining expertise as a dynamic cognitive phenomenon. Workflow Cognition is defined as the cognitive architecture emerging from the recursive coupling of Thinking Flow and Workflow Evolution. Th",
-      "summary_fr": "Expertise has long been explained through tacit knowledge, deliberate practice, skill acquisition, and expert performance. While these perspectives have advanced understanding of expertise, they often describe its conditions or outcomes rather than the cognitive architecture through which expertise continuously emerges and evolves. This paper proposes Workflow Cognition as a theoretical framework for explaining expertise as a dynamic cognitive phenomenon. Workflow Cognition is defined as the cognitive architecture emerging from the recursive coupling of Thinking Flow and Workflow Evolution. Th",
-      "resume_fr": "Expertise has long been explained through tacit knowledge, deliberate practice, skill acquisition, and expert performance. While these perspectives have advanced understanding of expertise, they often describe its conditions or outcomes rather than the cognitive architecture through which expertise continuously emerges and evolves. This paper proposes Workflow Cognition as a theoretical framework for explaining expertise as a dynamic cognitive phenomenon. Workflow Cognition is defined as the cognitive architecture emerging from the recursive coupling of Thinking Flow and Workflow Evolution. Th",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences",
-      "url": "https://arxiv.org/abs/2606.24104v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-06-23T03:35:30.000Z",
-      "score": 100,
-      "summary_en": "Generative artificial intelligence(GenAI) is reshaping learning in higher education, with particularly pronounced implications for the humanities and social sciences(HSS), where learning outcomes are commonly expressed through written and interpretive forms that align closely with GenAI's capabilities. Yet, systematic evidence on the educational impacts of GenAI on HSS students remains limited. Addressing this gap, this study draws on a large-scale survey of HSS students in China to examine its role in academic development. Guided by relevant learning theories, this study focuses on four dimen",
-      "summary_fr": "Generative artificial intelligence(GenAI) is reshaping learning in higher education, with particularly pronounced implications for the humanities and social sciences(HSS), where learning outcomes are commonly expressed through written and interpretive forms that align closely with GenAI's capabilities. Yet, systematic evidence on the educational impacts of GenAI on HSS students remains limited. Addressing this gap, this study draws on a large-scale survey of HSS students in China to examine its role in academic development. Guided by relevant learning theories, this study focuses on four dimen",
-      "resume_fr": "Generative artificial intelligence(GenAI) is reshaping learning in higher education, with particularly pronounced implications for the humanities and social sciences(HSS), where learning outcomes are commonly expressed through written and interpretive forms that align closely with GenAI's capabilities. Yet, systematic evidence on the educational impacts of GenAI on HSS students remains limited. Addressing this gap, this study draws on a large-scale survey of HSS students in China to examine its role in academic development. Guided by relevant learning theories, this study focuses on four dimen",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
