@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-13T09:45:33.264Z",
+  "generatedAt": "2026-07-14T08:25:18.362Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
-  "totalAnalyzed": 100,
+  "totalAnalyzed": 48,
   "totalPublished": 60,
   "publishTarget": "default",
   "debug": {
