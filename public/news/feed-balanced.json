@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T08:29:57.035Z",
+  "generatedAt": "2026-07-17T08:24:57.556Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,120 @@
     }
   },
   "items": [
+    {
+      "title": "RoboTTT: Context Scaling for Robot Policies",
+      "url": "https://arxiv.org/abs/2607.15275v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-07-16T17:59:06.000Z",
+      "score": 50,
+      "summary_en": "Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visuomotor context to 8K timesteps, three orders of magnitude beyond state-of-the-art policies, without growing inference latency. At this context length, we unlock new robot capabilities: one-shot in-context imitation from human video demonstrations, on-the-fly policy improvement, robustness to perturbations, and stronger performance on multi-stage, long-horizon tasks. We also observe, for the first ",
+      "summary_fr": "Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visuomotor context to 8K timesteps, three orders of magnitude beyond state-of-the-art policies, without growing inference latency. At this context length, we unlock new robot capabilities: one-shot in-context imitation from human video demonstrations, on-the-fly policy improvement, robustness to perturbations, and stronger performance on multi-stage, long-horizon tasks. We also observe, for the first ",
+      "resume_fr": "Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visuomotor context to 8K timesteps, three orders of magnitude beyond state-of-the-art policies, without growing inference latency. At this context length, we unlock new robot capabilities: one-shot in-context imitation from human video demonstrations, on-the-fly policy improvement, robustness to perturbations, and stronger performance on multi-stage, long-horizon tasks. We also observe, for the first ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier",
+      "url": "https://arxiv.org/abs/2607.15258v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-07-16T17:52:26.000Z",
+      "score": 70,
+      "summary_en": "The growing use of Bitcoin as a decentralized digital asset and investment tool has sparked strong interest in understanding its market behavior. This study presents a new approach to analyze Bitcoin market sentiment by combining on-chain and financial data with social media posts. Unlike models that aim to predict prices, this work focuses on explaining market sentiment using blockchain transactions, historical price data of Bitcoin, and daily Twitter sentiment classifications. The method merges sentiment trends with on-chain and financial metrics, normalized into a dataset for detailed marke",
+      "summary_fr": "The growing use of Bitcoin as a decentralized digital asset and investment tool has sparked strong interest in understanding its market behavior. This study presents a new approach to analyze Bitcoin market sentiment by combining on-chain and financial data with social media posts. Unlike models that aim to predict prices, this work focuses on explaining market sentiment using blockchain transactions, historical price data of Bitcoin, and daily Twitter sentiment classifications. The method merges sentiment trends with on-chain and financial metrics, normalized into a dataset for detailed marke",
+      "resume_fr": "The growing use of Bitcoin as a decentralized digital asset and investment tool has sparked strong interest in understanding its market behavior. This study presents a new approach to analyze Bitcoin market sentiment by combining on-chain and financial data with social media posts. Unlike models that aim to predict prices, this work focuses on explaining market sentiment using blockchain transactions, historical price data of Bitcoin, and daily Twitter sentiment classifications. The method merges sentiment trends with on-chain and financial metrics, normalized into a dataset for detailed marke",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "AutoSynthesis: An agentic system for automated meta-analysis",
+      "url": "https://arxiv.org/abs/2607.15247v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-07-16T17:45:27.000Z",
+      "score": 50,
+      "summary_en": "Evidence synthesis is crucial for turning primary research into reliable knowledge for science, medicine, education, and policy. Yet, quantitative evidence synthesis remains largely manual and difficult to scale. Here, we introduce AutoSynthesis, an end-to-end multi-agent system for automated meta-analysis. Given a research question in natural language, AutoSynthesis formulates a search strategy, retrieves scientific literature, screens candidate studies, assesses full-text eligibility, extracts quantitative statistics, computes standardized effect sizes, and finally performs random-effects me",
+      "summary_fr": "Evidence synthesis is crucial for turning primary research into reliable knowledge for science, medicine, education, and policy. Yet, quantitative evidence synthesis remains largely manual and difficult to scale. Here, we introduce AutoSynthesis, an end-to-end multi-agent system for automated meta-analysis. Given a research question in natural language, AutoSynthesis formulates a search strategy, retrieves scientific literature, screens candidate studies, assesses full-text eligibility, extracts quantitative statistics, computes standardized effect sizes, and finally performs random-effects me",
+      "resume_fr": "Evidence synthesis is crucial for turning primary research into reliable knowledge for science, medicine, education, and policy. Yet, quantitative evidence synthesis remains largely manual and difficult to scale. Here, we introduce AutoSynthesis, an end-to-end multi-agent system for automated meta-analysis. Given a research question in natural language, AutoSynthesis formulates a search strategy, retrieves scientific literature, screens candidate studies, assesses full-text eligibility, extracts quantitative statistics, computes standardized effect sizes, and finally performs random-effects me",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "The Misclassification of Autistic Writing as AI-Generated",
+      "url": "https://arxiv.org/abs/2607.14729v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-07-16T08:54:09.000Z",
+      "score": 50,
+      "summary_en": "Recent findings suggest that detection models for artificial intelligence (AI) cannot accurately identify AI-generated text and may exhibit bias against certain minority groups. In the present study, anecdotal claims that autistic writers more often have their work flagged as AI-generated are examined empirically. A corpus of approximately 60,000 Reddit posts split into \"likely-autistic\" and \"general-Reddit\" subcorpora is used to compare the distribution of probabilities output by the OpenAI GPT-2 detection model. Differences in textual features between subcorpora are observed and compared to ",
+      "summary_fr": "Recent findings suggest that detection models for artificial intelligence (AI) cannot accurately identify AI-generated text and may exhibit bias against certain minority groups. In the present study, anecdotal claims that autistic writers more often have their work flagged as AI-generated are examined empirically. A corpus of approximately 60,000 Reddit posts split into \"likely-autistic\" and \"general-Reddit\" subcorpora is used to compare the distribution of probabilities output by the OpenAI GPT-2 detection model. Differences in textual features between subcorpora are observed and compared to ",
+      "resume_fr": "Recent findings suggest that detection models for artificial intelligence (AI) cannot accurately identify AI-generated text and may exhibit bias against certain minority groups. In the present study, anecdotal claims that autistic writers more often have their work flagged as AI-generated are examined empirically. A corpus of approximately 60,000 Reddit posts split into \"likely-autistic\" and \"general-Reddit\" subcorpora is used to compare the distribution of probabilities output by the OpenAI GPT-2 detection model. Differences in textual features between subcorpora are observed and compared to ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Assessing AI in Introductory Physics Problem Solving",
+      "url": "https://arxiv.org/abs/2607.14303v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-07-15T19:08:56.000Z",
+      "score": 50,
+      "summary_en": "Reasoning or inference-scaling models are the new generation of Large Language Models (LLMs) capable of complex problem solving. To investigate their problem-solving capability in physics, we evaluated model o4-mini by OpenAI on solving traditional, end-of-chapter problems from Halliday and Resnick's \"Fundamentals of Physics,\" spanning core topics in the undergraduate physics curriculum. Performance was analyzed across modality and problem difficulty. The model solved the problems with overall accuracy of about 90%, but performance depended strongly on representation: accuracy was much higher ",
+      "summary_fr": "Reasoning or inference-scaling models are the new generation of Large Language Models (LLMs) capable of complex problem solving. To investigate their problem-solving capability in physics, we evaluated model o4-mini by OpenAI on solving traditional, end-of-chapter problems from Halliday and Resnick's \"Fundamentals of Physics,\" spanning core topics in the undergraduate physics curriculum. Performance was analyzed across modality and problem difficulty. The model solved the problems with overall accuracy of about 90%, but performance depended strongly on representation: accuracy was much higher ",
+      "resume_fr": "Reasoning or inference-scaling models are the new generation of Large Language Models (LLMs) capable of complex problem solving. To investigate their problem-solving capability in physics, we evaluated model o4-mini by OpenAI on solving traditional, end-of-chapter problems from Halliday and Resnick's \"Fundamentals of Physics,\" spanning core topics in the undergraduate physics curriculum. Performance was analyzed across modality and problem difficulty. The model solved the problems with overall accuracy of about 90%, but performance depended strongly on representation: accuracy was much higher ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)",
+      "url": "https://arxiv.org/abs/2607.14301v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-07-15T19:04:11.000Z",
+      "score": 50,
+      "summary_en": "As generative AI (GenAI) becomes increasingly embedded in undergraduate academic writing, how students rely on these tools, rather than simply whether they use them, has become a central question for learning, academic integrity, and educational equity. Existing measures of reliance were developed inductively, focused on discrete problem-solving tasks, and validated mainly with homogeneous samples. This study developed and validated the GenAI Reliance Types Scale (GenAI-RTS), a 20-item instrument measuring four theoretically derived types of GenAI reliance: Strategic, Instrumental, Dependent, ",
+      "summary_fr": "As generative AI (GenAI) becomes increasingly embedded in undergraduate academic writing, how students rely on these tools, rather than simply whether they use them, has become a central question for learning, academic integrity, and educational equity. Existing measures of reliance were developed inductively, focused on discrete problem-solving tasks, and validated mainly with homogeneous samples. This study developed and validated the GenAI Reliance Types Scale (GenAI-RTS), a 20-item instrument measuring four theoretically derived types of GenAI reliance: Strategic, Instrumental, Dependent, ",
+      "resume_fr": "As generative AI (GenAI) becomes increasingly embedded in undergraduate academic writing, how students rely on these tools, rather than simply whether they use them, has become a central question for learning, academic integrity, and educational equity. Existing measures of reliance were developed inductively, focused on discrete problem-solving tasks, and validated mainly with homogeneous samples. This study developed and validated the GenAI Reliance Types Scale (GenAI-RTS), a 20-item instrument measuring four theoretically derived types of GenAI reliance: Strategic, Instrumental, Dependent, ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Primary School Earthquake Education",
       "url": "https://arxiv.org/abs/2607.14046v1",
@@ -1120,120 +1234,6 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
-    },
-    {
-      "title": "Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education",
-      "url": "https://arxiv.org/abs/2607.01214v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-07-01T17:52:09.000Z",
-      "score": 85,
-      "summary_en": "Statistical visualization is usually treated as a visual medium, but data can also be touched. Three dimensional printed tactile graphs let blind and low vision students feel distributions, trace trends, and explore relationships through direct haptic interaction. Yet classroom scale use remains limited because producing each graph in CAD software requires specialized skill and hours of manual work. We address this bottleneck as a software problem through a three layer reusable pipeline in about 1500 lines of JavaScript. The first layer derives tactile design parameters automatically from plat",
-      "summary_fr": "Statistical visualization is usually treated as a visual medium, but data can also be touched. Three dimensional printed tactile graphs let blind and low vision students feel distributions, trace trends, and explore relationships through direct haptic interaction. Yet classroom scale use remains limited because producing each graph in CAD software requires specialized skill and hours of manual work. We address this bottleneck as a software problem through a three layer reusable pipeline in about 1500 lines of JavaScript. The first layer derives tactile design parameters automatically from plat",
-      "resume_fr": "Statistical visualization is usually treated as a visual medium, but data can also be touched. Three dimensional printed tactile graphs let blind and low vision students feel distributions, trace trends, and explore relationships through direct haptic interaction. Yet classroom scale use remains limited because producing each graph in CAD software requires specialized skill and hours of manual work. We address this bottleneck as a software problem through a three layer reusable pipeline in about 1500 lines of JavaScript. The first layer derives tactile design parameters automatically from plat",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
-      "url": "https://arxiv.org/abs/2607.01306v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-07-01T16:55:06.000Z",
-      "score": 85,
-      "summary_en": "Counterfactual explanations explain machine learning predictions by identifying minimal input changes that would alter a model's decision. Although many existing methods successfully generate prediction-changing alternatives, they often produce unrealistic or infeasible recommendations due to a lack of explicit mechanisms for incorporating domain knowledge and intervention constraints. Neuro-symbolic AI offers a promising direction by combining data-driven predictive models with symbolic reasoning capable of representing human-understandable rules and feasible actions. This paper presents PACE",
-      "summary_fr": "Counterfactual explanations explain machine learning predictions by identifying minimal input changes that would alter a model's decision. Although many existing methods successfully generate prediction-changing alternatives, they often produce unrealistic or infeasible recommendations due to a lack of explicit mechanisms for incorporating domain knowledge and intervention constraints. Neuro-symbolic AI offers a promising direction by combining data-driven predictive models with symbolic reasoning capable of representing human-understandable rules and feasible actions. This paper presents PACE",
-      "resume_fr": "Counterfactual explanations explain machine learning predictions by identifying minimal input changes that would alter a model's decision. Although many existing methods successfully generate prediction-changing alternatives, they often produce unrealistic or infeasible recommendations due to a lack of explicit mechanisms for incorporating domain knowledge and intervention constraints. Neuro-symbolic AI offers a promising direction by combining data-driven predictive models with symbolic reasoning capable of representing human-understandable rules and feasible actions. This paper presents PACE",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework",
-      "url": "https://arxiv.org/abs/2607.00395v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-07-01T03:43:47.000Z",
-      "score": 85,
-      "summary_en": "As generative AI is increasingly used by children and adolescents, there is a growing need for risk evaluation frameworks that account for child-specific harms. However, most existing safety evaluation frameworks focus on general user populations, often overlooking risks unique to younger users. To address this gap, we propose an evaluation framework that integrates expert-guided risk factors with real-world AI incident data for child safety. The framework identifies hazard categories from expert guidelines and AI incident databases and uses this information to construct a synthetic test set f",
-      "summary_fr": "As generative AI is increasingly used by children and adolescents, there is a growing need for risk evaluation frameworks that account for child-specific harms. However, most existing safety evaluation frameworks focus on general user populations, often overlooking risks unique to younger users. To address this gap, we propose an evaluation framework that integrates expert-guided risk factors with real-world AI incident data for child safety. The framework identifies hazard categories from expert guidelines and AI incident databases and uses this information to construct a synthetic test set f",
-      "resume_fr": "As generative AI is increasingly used by children and adolescents, there is a growing need for risk evaluation frameworks that account for child-specific harms. However, most existing safety evaluation frameworks focus on general user populations, often overlooking risks unique to younger users. To address this gap, we propose an evaluation framework that integrates expert-guided risk factors with real-world AI incident data for child safety. The framework identifies hazard categories from expert guidelines and AI incident databases and uses this information to construct a synthetic test set f",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Regulation competencies and social well-being in at-risk adolescents: a systematic review of behavioral and neurophysiological research",
-      "url": "https://www.nature.com/articles/s41539-026-00435-5",
-      "source": "npj Science of Learning (Nature)",
-      "published": "2026-07-01T00:00:00.000Z",
-      "score": 85,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
-    },
-    {
-      "title": "SEFORA: Student Essays with Feedback Corpus and LLM Feedback Evaluation Framework",
-      "url": "https://arxiv.org/abs/2607.00274v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-06-30T23:48:15.000Z",
-      "score": 85,
-      "summary_en": "Effective writing feedback is among the strongest drivers of student learning, yet producing it at scale is labor-intensive. LLMs offer a natural path to scaling writing support, but two gaps stand in the way: few public corpora capture how instructors actually deliver feedback in real classrooms, and no reliable method measures whether generated feedback aligns with what an instructor would write. We address both. SEFORA is a public corpus pairing instructor inline feedback with assignment prompts, rubrics, scores, and multi-draft revisions across various college writing genres, comprising 56",
-      "summary_fr": "Effective writing feedback is among the strongest drivers of student learning, yet producing it at scale is labor-intensive. LLMs offer a natural path to scaling writing support, but two gaps stand in the way: few public corpora capture how instructors actually deliver feedback in real classrooms, and no reliable method measures whether generated feedback aligns with what an instructor would write. We address both. SEFORA is a public corpus pairing instructor inline feedback with assignment prompts, rubrics, scores, and multi-draft revisions across various college writing genres, comprising 56",
-      "resume_fr": "Effective writing feedback is among the strongest drivers of student learning, yet producing it at scale is labor-intensive. LLMs offer a natural path to scaling writing support, but two gaps stand in the way: few public corpora capture how instructors actually deliver feedback in real classrooms, and no reliable method measures whether generated feedback aligns with what an instructor would write. We address both. SEFORA is a public corpus pairing instructor inline feedback with assignment prompts, rubrics, scores, and multi-draft revisions across various college writing genres, comprising 56",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations",
-      "url": "https://arxiv.org/abs/2606.31012v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-06-30T00:57:50.000Z",
-      "score": 85,
-      "summary_en": "While large language models now enable rapid generation of interactive learning materials, evaluating the interaction quality of these explorable explanations remains an open challenge. Existing benchmarks largely focus on code executability or visual fidelity, providing limited insight into dynamic interaction behaviors such as learner-controlled state transitions and context-sensitive system responses, which are factors that critically shape learners' conceptual understanding. We present EE-Eval, an automated evaluation framework that formalizes interactivity as a finite space of learner-con",
-      "summary_fr": "While large language models now enable rapid generation of interactive learning materials, evaluating the interaction quality of these explorable explanations remains an open challenge. Existing benchmarks largely focus on code executability or visual fidelity, providing limited insight into dynamic interaction behaviors such as learner-controlled state transitions and context-sensitive system responses, which are factors that critically shape learners' conceptual understanding. We present EE-Eval, an automated evaluation framework that formalizes interactivity as a finite space of learner-con",
-      "resume_fr": "While large language models now enable rapid generation of interactive learning materials, evaluating the interaction quality of these explorable explanations remains an open challenge. Existing benchmarks largely focus on code executability or visual fidelity, providing limited insight into dynamic interaction behaviors such as learner-controlled state transitions and context-sensitive system responses, which are factors that critically shape learners' conceptual understanding. We present EE-Eval, an automated evaluation framework that formalizes interactivity as a finite space of learner-con",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
 }
