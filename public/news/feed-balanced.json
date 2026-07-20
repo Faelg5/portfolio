@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T08:32:04.358Z",
+  "generatedAt": "2026-07-20T09:31:31.906Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -113,6 +113,82 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
+    },
+    {
+      "title": "An Exam for Active Observers",
+      "url": "https://arxiv.org/abs/2607.16165v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-07-17T17:46:23.000Z",
+      "score": 70,
+      "summary_en": "Human vision is a closed loop: gaze is continuously redirected by intermediate hypotheses rather than a single snapshot. Decades of psychophysics and cognitive science have argued that this active observation is essential for a wide range of tasks. Whether today's multimodal large language models (MLLMs) exercise active observation is an empirical question that current vision-language benchmarks do not answer. We introduce ActiveVision, a benchmark that makes active observation measurable for MLLMs, comprising 17 tasks across 3 categories. Tasks are designed to force repeated visual perception",
+      "summary_fr": "Human vision is a closed loop: gaze is continuously redirected by intermediate hypotheses rather than a single snapshot. Decades of psychophysics and cognitive science have argued that this active observation is essential for a wide range of tasks. Whether today's multimodal large language models (MLLMs) exercise active observation is an empirical question that current vision-language benchmarks do not answer. We introduce ActiveVision, a benchmark that makes active observation measurable for MLLMs, comprising 17 tasks across 3 categories. Tasks are designed to force repeated visual perception",
+      "resume_fr": "Human vision is a closed loop: gaze is continuously redirected by intermediate hypotheses rather than a single snapshot. Decades of psychophysics and cognitive science have argued that this active observation is essential for a wide range of tasks. Whether today's multimodal large language models (MLLMs) exercise active observation is an empirical question that current vision-language benchmarks do not answer. We introduce ActiveVision, a benchmark that makes active observation measurable for MLLMs, comprising 17 tasks across 3 categories. Tasks are designed to force repeated visual perception",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Student Evaluation of Repeated AI Feedback Across a Semester of Writing",
+      "url": "https://arxiv.org/abs/2607.16115v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-07-17T16:53:00.000Z",
+      "score": 50,
+      "summary_en": "Generative AI is increasingly used for feedback in higher education, but evidence from repeated classroom use remains limited. This short paper analyses 2988 reflective essay-feedback-appraisal instances from 283 Estonian bachelor students across one semester. Students obtained and assessed feedback from a self-selected AI tool using a uniform prompt. The present analysis of the anonymized text corpus covers essay content, AI feedback, and its perceived helpfulness. Students found feedback helpful and actionable more often than not; about a tenth thought AI unhelpful, more so towards the end o",
+      "summary_fr": "Generative AI is increasingly used for feedback in higher education, but evidence from repeated classroom use remains limited. This short paper analyses 2988 reflective essay-feedback-appraisal instances from 283 Estonian bachelor students across one semester. Students obtained and assessed feedback from a self-selected AI tool using a uniform prompt. The present analysis of the anonymized text corpus covers essay content, AI feedback, and its perceived helpfulness. Students found feedback helpful and actionable more often than not; about a tenth thought AI unhelpful, more so towards the end o",
+      "resume_fr": "Generative AI is increasingly used for feedback in higher education, but evidence from repeated classroom use remains limited. This short paper analyses 2988 reflective essay-feedback-appraisal instances from 283 Estonian bachelor students across one semester. Students obtained and assessed feedback from a self-selected AI tool using a uniform prompt. The present analysis of the anonymized text corpus covers essay content, AI feedback, and its perceived helpfulness. Students found feedback helpful and actionable more often than not; about a tenth thought AI unhelpful, more so towards the end o",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Frontier AI performance across the business disciplines: a case-grounded benchmark of knowledge work and analytical reasoning",
+      "url": "https://arxiv.org/abs/2607.16057v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-07-17T15:34:51.000Z",
+      "score": 50,
+      "summary_en": "Large language models (LLMs) are improving rapidly as reflected in benchmark scores, yet these AI benchmarks largely test capabilities such as factual recall, narrow question answering, mathematical problem-solving, and coding and agentic tool-use. What remains poorly measured is AI progress on the analytical knowledge work white-collar professionals perform daily, including synthesizing complex information, exercising judgment under uncertainty and incomplete information, applying strategic and adversarial thinking in multi-stakeholder settings, weighing trade-offs, and producing defensible, ",
+      "summary_fr": "Large language models (LLMs) are improving rapidly as reflected in benchmark scores, yet these AI benchmarks largely test capabilities such as factual recall, narrow question answering, mathematical problem-solving, and coding and agentic tool-use. What remains poorly measured is AI progress on the analytical knowledge work white-collar professionals perform daily, including synthesizing complex information, exercising judgment under uncertainty and incomplete information, applying strategic and adversarial thinking in multi-stakeholder settings, weighing trade-offs, and producing defensible, ",
+      "resume_fr": "Large language models (LLMs) are improving rapidly as reflected in benchmark scores, yet these AI benchmarks largely test capabilities such as factual recall, narrow question answering, mathematical problem-solving, and coding and agentic tool-use. What remains poorly measured is AI progress on the analytical knowledge work white-collar professionals perform daily, including synthesizing complex information, exercising judgment under uncertainty and incomplete information, applying strategic and adversarial thinking in multi-stakeholder settings, weighing trade-offs, and producing defensible, ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "A Critical Analysis of Trustworthy AI Tools, Mark Frameworks, and the Implementation Chasms",
+      "url": "https://arxiv.org/abs/2607.15480v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-07-16T21:56:43.000Z",
+      "score": 85,
+      "summary_en": "As artificial intelligence (AI) systems increasingly impact society, ensuring their ethical and trustworthy deployment has become a global priority. While a myriad of high-level ethical guidelines have emerged, criticism persists that these frameworks remain abstract and lack concrete mechanisms for implementation. This paper conducts a critical analysis of tools and trust mark frameworks intended to operationalize trustworthy AI (TAI), drawing on a comprehensive dataset from the OECD. Through empirical mapping and descriptive comparative analysis, we identify significant asymmetries in ethica",
+      "summary_fr": "As artificial intelligence (AI) systems increasingly impact society, ensuring their ethical and trustworthy deployment has become a global priority. While a myriad of high-level ethical guidelines have emerged, criticism persists that these frameworks remain abstract and lack concrete mechanisms for implementation. This paper conducts a critical analysis of tools and trust mark frameworks intended to operationalize trustworthy AI (TAI), drawing on a comprehensive dataset from the OECD. Through empirical mapping and descriptive comparative analysis, we identify significant asymmetries in ethica",
+      "resume_fr": "As artificial intelligence (AI) systems increasingly impact society, ensuring their ethical and trustworthy deployment has become a global priority. While a myriad of high-level ethical guidelines have emerged, criticism persists that these frameworks remain abstract and lack concrete mechanisms for implementation. This paper conducts a critical analysis of tools and trust mark frameworks intended to operationalize trustworthy AI (TAI), drawing on a comprehensive dataset from the OECD. Through empirical mapping and descriptive comparative analysis, we identify significant asymmetries in ethica",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
       "title": "RoboTTT: Context Scaling for Robot Policies",
@@ -1149,82 +1225,6 @@
       "summary_en": "Scalable and reliable grading of command-line examinations remains a challenge in computing education, where rising enrolments make manual marking difficult and rule-based autograders cannot handle partial credit, equivalent solutions, or syntactic variation. This paper evaluates whether four frontier Large Language Models (GPT, Claude Opus, Gemini, and GLM) can approximate expert judgment when grading short Linux/bash command responses. The study adopts a four-level cognitive taxonomy that combines cognitive complexity and operational impact, ranging from information retrieval (L1) and basic ",
       "summary_fr": "Scalable and reliable grading of command-line examinations remains a challenge in computing education, where rising enrolments make manual marking difficult and rule-based autograders cannot handle partial credit, equivalent solutions, or syntactic variation. This paper evaluates whether four frontier Large Language Models (GPT, Claude Opus, Gemini, and GLM) can approximate expert judgment when grading short Linux/bash command responses. The study adopts a four-level cognitive taxonomy that combines cognitive complexity and operational impact, ranging from information retrieval (L1) and basic ",
       "resume_fr": "Scalable and reliable grading of command-line examinations remains a challenge in computing education, where rising enrolments make manual marking difficult and rule-based autograders cannot handle partial credit, equivalent solutions, or syntactic variation. This paper evaluates whether four frontier Large Language Models (GPT, Claude Opus, Gemini, and GLM) can approximate expert judgment when grading short Linux/bash command responses. The study adopts a four-level cognitive taxonomy that combines cognitive complexity and operational impact, ranging from information retrieval (L1) and basic ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation",
-      "url": "https://arxiv.org/abs/2607.02361v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-07-02T16:02:55.000Z",
-      "score": 85,
-      "summary_en": "In today's data-driven world, students often struggle with interpreting visualisations due to limited visualisation literacy. Data comics have emerged as a promising medium to enhance engagement and understanding, but their educational value has seen little empirical examination, partly due to the effort required to create them. Recent advances in Generative AI (GenAI) offer a scalable solution to this challenge. We conducted a within-subjects study with 60 university students, comparing conventional visualisations with data comics, created with assistance from GenAI tools, across information ",
-      "summary_fr": "In today's data-driven world, students often struggle with interpreting visualisations due to limited visualisation literacy. Data comics have emerged as a promising medium to enhance engagement and understanding, but their educational value has seen little empirical examination, partly due to the effort required to create them. Recent advances in Generative AI (GenAI) offer a scalable solution to this challenge. We conducted a within-subjects study with 60 university students, comparing conventional visualisations with data comics, created with assistance from GenAI tools, across information ",
-      "resume_fr": "In today's data-driven world, students often struggle with interpreting visualisations due to limited visualisation literacy. Data comics have emerged as a promising medium to enhance engagement and understanding, but their educational value has seen little empirical examination, partly due to the effort required to create them. Recent advances in Generative AI (GenAI) offer a scalable solution to this challenge. We conducted a within-subjects study with 60 university students, comparing conventional visualisations with data comics, created with assistance from GenAI tools, across information ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "AIriskEval-edu: New Dataset for Risk Assessment in AI-mediated K-12 Educational Explanations",
-      "url": "https://arxiv.org/abs/2607.01934v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-07-02T09:28:21.000Z",
-      "score": 50,
-      "summary_en": "This work introduces AIriskEval-edu-db2, a new dataset designed to train and evaluate auditors based on LLMs for an explainable pedagogical risk assessment in instructional content for grades K-12. The dataset comprises 1,639 explanations from 170 curated ScienceQA questions, covering science, language arts, and social sciences. For each question, the dataset includes an explanation written by a human teacher alongside 11 explanations generated by LLM-simulated teacher profiles associated with distinct pedagogical risks. We propose a comprehensive risk rubric aligned with established education",
-      "summary_fr": "This work introduces AIriskEval-edu-db2, a new dataset designed to train and evaluate auditors based on LLMs for an explainable pedagogical risk assessment in instructional content for grades K-12. The dataset comprises 1,639 explanations from 170 curated ScienceQA questions, covering science, language arts, and social sciences. For each question, the dataset includes an explanation written by a human teacher alongside 11 explanations generated by LLM-simulated teacher profiles associated with distinct pedagogical risks. We propose a comprehensive risk rubric aligned with established education",
-      "resume_fr": "This work introduces AIriskEval-edu-db2, a new dataset designed to train and evaluate auditors based on LLMs for an explainable pedagogical risk assessment in instructional content for grades K-12. The dataset comprises 1,639 explanations from 170 curated ScienceQA questions, covering science, language arts, and social sciences. For each question, the dataset includes an explanation written by a human teacher alongside 11 explanations generated by LLM-simulated teacher profiles associated with distinct pedagogical risks. We propose a comprehensive risk rubric aligned with established education",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Single-Channel EEG-Based Cognitive Load Assessment in Online Learning: A Hybrid Deep Learning Approach",
-      "url": "https://arxiv.org/abs/2607.01795v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-07-02T07:13:01.000Z",
-      "score": 50,
-      "summary_en": "Monitoring cognitive load during online learning could help instructors identify content that learners find difficult, but remote settings remove the visual cues that support this judgement in a classroom. We study whether a single-channel, consumer-grade EEG device (the NeuroSky MindWave Mobile 2) can distinguish easy from difficult educational-video content, using the publicly available dataset of Wang et al. [24] (ten learners, one excluded for excessive noise, leaving nine). We implement a hybrid CNN+LSTM+Attention model that combines the raw waveform with band-power features. In a within-",
-      "summary_fr": "Monitoring cognitive load during online learning could help instructors identify content that learners find difficult, but remote settings remove the visual cues that support this judgement in a classroom. We study whether a single-channel, consumer-grade EEG device (the NeuroSky MindWave Mobile 2) can distinguish easy from difficult educational-video content, using the publicly available dataset of Wang et al. [24] (ten learners, one excluded for excessive noise, leaving nine). We implement a hybrid CNN+LSTM+Attention model that combines the raw waveform with band-power features. In a within-",
-      "resume_fr": "Monitoring cognitive load during online learning could help instructors identify content that learners find difficult, but remote settings remove the visual cues that support this judgement in a classroom. We study whether a single-channel, consumer-grade EEG device (the NeuroSky MindWave Mobile 2) can distinguish easy from difficult educational-video content, using the publicly available dataset of Wang et al. [24] (ten learners, one excluded for excessive noise, leaving nine). We implement a hybrid CNN+LSTM+Attention model that combines the raw waveform with band-power features. In a within-",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments",
-      "url": "https://arxiv.org/abs/2607.01692v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-07-02T04:36:33.000Z",
-      "score": 50,
-      "summary_en": "The rapid integration of Large Language Models (LLMs) into educational technology threatens to reduce mathematical learning to mere answer generation. This paper presents a generative study, usability study, and 12-participant field deployment of AITutor, an interactive system that translates theoretical pedagogical mechanisms into concrete user interface features. We explore how junior-high students preparing for high-stakes exams (Zhongkao) interact with AI tutoring. Through mixed-methods triangulation (7,379 telemetry events, 8 contextual observations, 10 interviews), we reveal that student",
-      "summary_fr": "The rapid integration of Large Language Models (LLMs) into educational technology threatens to reduce mathematical learning to mere answer generation. This paper presents a generative study, usability study, and 12-participant field deployment of AITutor, an interactive system that translates theoretical pedagogical mechanisms into concrete user interface features. We explore how junior-high students preparing for high-stakes exams (Zhongkao) interact with AI tutoring. Through mixed-methods triangulation (7,379 telemetry events, 8 contextual observations, 10 interviews), we reveal that student",
-      "resume_fr": "The rapid integration of Large Language Models (LLMs) into educational technology threatens to reduce mathematical learning to mere answer generation. This paper presents a generative study, usability study, and 12-participant field deployment of AITutor, an interactive system that translates theoretical pedagogical mechanisms into concrete user interface features. We explore how junior-high students preparing for high-stakes exams (Zhongkao) interact with AI tutoring. Through mixed-methods triangulation (7,379 telemetry events, 8 contextual observations, 10 interviews), we reveal that student",
       "tags": [],
       "breakdown": {
         "research": 35,
