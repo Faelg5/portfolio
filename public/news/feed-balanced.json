@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T09:13:57.784Z",
+  "generatedAt": "2026-08-01T08:32:00.400Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -237,6 +237,25 @@
       "summary_en": "Generative Artificial Intelligence (AI) is increasingly used by Muslims for religious guidance, Qur'anic interpretation, Hadith explanation, jurisprudential rulings, and Islamic education. Despite its growing adoption, there is limited empirical evidence on whether current AI systems provide authentic, verifiable, and trustworthy Islamic knowledge suitable for high-trust religious contexts. This study evaluates six leading generative AI systems using fifty realistic open-ended Islamic questions covering Qur'anic interpretation, Hadith, Fiqh, ethics, pastoral advice, and Madhhab-sensitive topic",
       "summary_fr": "Generative Artificial Intelligence (AI) is increasingly used by Muslims for religious guidance, Qur'anic interpretation, Hadith explanation, jurisprudential rulings, and Islamic education. Despite its growing adoption, there is limited empirical evidence on whether current AI systems provide authentic, verifiable, and trustworthy Islamic knowledge suitable for high-trust religious contexts. This study evaluates six leading generative AI systems using fifty realistic open-ended Islamic questions covering Qur'anic interpretation, Hadith, Fiqh, ethics, pastoral advice, and Madhhab-sensitive topic",
       "resume_fr": "Generative Artificial Intelligence (AI) is increasingly used by Muslims for religious guidance, Qur'anic interpretation, Hadith explanation, jurisprudential rulings, and Islamic education. Despite its growing adoption, there is limited empirical evidence on whether current AI systems provide authentic, verifiable, and trustworthy Islamic knowledge suitable for high-trust religious contexts. This study evaluates six leading generative AI systems using fifty realistic open-ended Islamic questions covering Qur'anic interpretation, Hadith, Fiqh, ethics, pastoral advice, and Madhhab-sensitive topic",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education",
+      "url": "https://arxiv.org/abs/2607.28203v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-07-30T13:40:56.000Z",
+      "score": 50,
+      "summary_en": "Students differ in how they prefer to engage with learning resources, with some favoring textual materials and others visual or video-based content. Recent advances in generative AI have led CS education research to focus on text-based AI tools for developing learning resources. However, advances in AI video models and the rapid proliferation of AI video generation tools have made it possible for instructors to create high-quality personalized educational videos efficiently and cost-effectively. Understanding students' perceptions of AI-generated videos is thus critical for helping CS instruct",
+      "summary_fr": "Students differ in how they prefer to engage with learning resources, with some favoring textual materials and others visual or video-based content. Recent advances in generative AI have led CS education research to focus on text-based AI tools for developing learning resources. However, advances in AI video models and the rapid proliferation of AI video generation tools have made it possible for instructors to create high-quality personalized educational videos efficiently and cost-effectively. Understanding students' perceptions of AI-generated videos is thus critical for helping CS instruct",
+      "resume_fr": "Students differ in how they prefer to engage with learning resources, with some favoring textual materials and others visual or video-based content. Recent advances in generative AI have led CS education research to focus on text-based AI tools for developing learning resources. However, advances in AI video models and the rapid proliferation of AI video generation tools have made it possible for instructors to create high-quality personalized educational videos efficiently and cost-effectively. Understanding students' perceptions of AI-generated videos is thus critical for helping CS instruct",
       "tags": [],
       "breakdown": {
         "research": 35,
@@ -1206,25 +1225,6 @@
       "summary_en": "tiny_schiller closes the small-language-model prototyping, fine-tuning, education, and research gap for German literary text, providing a single-file, drop-in counterpart to Karpathy's tiny_shakespeare. The available German literary corpora are larger and richer, but require parser engineering before a single line of training or fine-tuning code can run. tiny_schiller is a 2.07-megabyte single file of eleven public-domain Schiller dramas, sourced from DraCor's GerDraCor export (CC0) and processed by deterministic parser engineering. Character-level, GPT-2 byte-pair encoding, and cl100k_base to",
       "summary_fr": "tiny_schiller closes the small-language-model prototyping, fine-tuning, education, and research gap for German literary text, providing a single-file, drop-in counterpart to Karpathy's tiny_shakespeare. The available German literary corpora are larger and richer, but require parser engineering before a single line of training or fine-tuning code can run. tiny_schiller is a 2.07-megabyte single file of eleven public-domain Schiller dramas, sourced from DraCor's GerDraCor export (CC0) and processed by deterministic parser engineering. Character-level, GPT-2 byte-pair encoding, and cl100k_base to",
       "resume_fr": "tiny_schiller closes the small-language-model prototyping, fine-tuning, education, and research gap for German literary text, providing a single-file, drop-in counterpart to Karpathy's tiny_shakespeare. The available German literary corpora are larger and richer, but require parser engineering before a single line of training or fine-tuning code can run. tiny_schiller is a 2.07-megabyte single file of eleven public-domain Schiller dramas, sourced from DraCor's GerDraCor export (CC0) and processed by deterministic parser engineering. Character-level, GPT-2 byte-pair encoding, and cl100k_base to",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing Education",
-      "url": "https://arxiv.org/abs/2607.19699v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-07-22T03:02:06.000Z",
-      "score": 50,
-      "summary_en": "The rise of generative AI (GenAI) in higher education has prompted urgent debates surrounding academic integrity and ethical use. This study examines cross-cultural differences in student perceptions of GenAI use, comparing responses from students at Canadian and South Korean universities. Using a scenario-based survey administered in Fall 2024, we analyzed how students judged the ethicality and rule compliance of AI-assisted coding practices. Results reveal that Canadian students were consistently more likely to perceive the use of GenAI as both unethical and against institutional policies co",
-      "summary_fr": "The rise of generative AI (GenAI) in higher education has prompted urgent debates surrounding academic integrity and ethical use. This study examines cross-cultural differences in student perceptions of GenAI use, comparing responses from students at Canadian and South Korean universities. Using a scenario-based survey administered in Fall 2024, we analyzed how students judged the ethicality and rule compliance of AI-assisted coding practices. Results reveal that Canadian students were consistently more likely to perceive the use of GenAI as both unethical and against institutional policies co",
-      "resume_fr": "The rise of generative AI (GenAI) in higher education has prompted urgent debates surrounding academic integrity and ethical use. This study examines cross-cultural differences in student perceptions of GenAI use, comparing responses from students at Canadian and South Korean universities. Using a scenario-based survey administered in Fall 2024, we analyzed how students judged the ethicality and rule compliance of AI-assisted coding practices. Results reveal that Canadian students were consistently more likely to perceive the use of GenAI as both unethical and against institutional policies co",
       "tags": [],
       "breakdown": {
         "research": 35,
