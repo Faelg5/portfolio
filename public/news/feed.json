@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T10:02:42.121Z",
+  "generatedAt": "2026-08-04T08:51:27.985Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,158 @@
     }
   },
   "items": [
+    {
+      "title": "Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework",
+      "url": "https://arxiv.org/abs/2608.02599v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-08-03T17:59:09.000Z",
+      "score": 85,
+      "summary_en": "Artificial intelligence (AI) is increasingly central to power and energy systems, supporting modeling, forecasting, optimization, and control. Yet most existing works emphasize specialized applications and offer little reusable material for newcomers or interdisciplinary learners, who increasingly rely on large language models rather than building their own. This gap points to a need for engineering-grounded AI (EGAI), in which AI workflows follow established engineering and power-system domain rules rather than acting as task-agnostic black boxes. Motivated by a community survey of researcher",
+      "summary_fr": "Artificial intelligence (AI) is increasingly central to power and energy systems, supporting modeling, forecasting, optimization, and control. Yet most existing works emphasize specialized applications and offer little reusable material for newcomers or interdisciplinary learners, who increasingly rely on large language models rather than building their own. This gap points to a need for engineering-grounded AI (EGAI), in which AI workflows follow established engineering and power-system domain rules rather than acting as task-agnostic black boxes. Motivated by a community survey of researcher",
+      "resume_fr": "Artificial intelligence (AI) is increasingly central to power and energy systems, supporting modeling, forecasting, optimization, and control. Yet most existing works emphasize specialized applications and offer little reusable material for newcomers or interdisciplinary learners, who increasingly rely on large language models rather than building their own. This gap points to a need for engineering-grounded AI (EGAI), in which AI workflows follow established engineering and power-system domain rules rather than acting as task-agnostic black boxes. Motivated by a community survey of researcher",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs",
+      "url": "https://arxiv.org/abs/2608.02578v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-08-03T17:51:58.000Z",
+      "score": 70,
+      "summary_en": "World Action Models (WAMs) augment robot policies with action-conditioned predicted futures, but a plausible future alone does not justify changing the action that a bimanual policy would execute. We present CoWAM, a selective intervention layer that expresses synchronization, role compatibility, and collision convergence as coordination contracts. Each contract combines typed admissibility checks with event-conditioned verification and calibrated intervention gates. CoWAM preserves the nominal action unless an alternative satisfies every active obligation and provides a clear, low-risk improv",
+      "summary_fr": "World Action Models (WAMs) augment robot policies with action-conditioned predicted futures, but a plausible future alone does not justify changing the action that a bimanual policy would execute. We present CoWAM, a selective intervention layer that expresses synchronization, role compatibility, and collision convergence as coordination contracts. Each contract combines typed admissibility checks with event-conditioned verification and calibrated intervention gates. CoWAM preserves the nominal action unless an alternative satisfies every active obligation and provides a clear, low-risk improv",
+      "resume_fr": "World Action Models (WAMs) augment robot policies with action-conditioned predicted futures, but a plausible future alone does not justify changing the action that a bimanual policy would execute. We present CoWAM, a selective intervention layer that expresses synchronization, role compatibility, and collision convergence as coordination contracts. Each contract combines typed admissibility checks with event-conditioned verification and calibrated intervention gates. CoWAM preserves the nominal action unless an alternative satisfies every active obligation and provides a clear, low-risk improv",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Pseudorandom Streams within Diffusion Models Act as Learnable Inputs That Affect Generation Quality",
+      "url": "https://arxiv.org/abs/2608.02575v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-08-03T17:50:54.000Z",
+      "score": 70,
+      "summary_en": "Diffusion models rely on stochastic inputs, yet on finite-precision hardware, the \"randomness\" they consume is realized as deterministic numerical orbits generated by pseudorandom rules. Accessible orbit structure can become a learnable input and affect both training and generation because the realized loss and its gradient depend on the concrete pseudorandom values consumed at each optimization step. A small multilayer perceptron predicts the next value of an orbit from its recent history, measuring general sequence predictability. A diffusion probe replaces real images with online random ten",
+      "summary_fr": "Diffusion models rely on stochastic inputs, yet on finite-precision hardware, the \"randomness\" they consume is realized as deterministic numerical orbits generated by pseudorandom rules. Accessible orbit structure can become a learnable input and affect both training and generation because the realized loss and its gradient depend on the concrete pseudorandom values consumed at each optimization step. A small multilayer perceptron predicts the next value of an orbit from its recent history, measuring general sequence predictability. A diffusion probe replaces real images with online random ten",
+      "resume_fr": "Diffusion models rely on stochastic inputs, yet on finite-precision hardware, the \"randomness\" they consume is realized as deterministic numerical orbits generated by pseudorandom rules. Accessible orbit structure can become a learnable input and affect both training and generation because the realized loss and its gradient depend on the concrete pseudorandom values consumed at each optimization step. A small multilayer perceptron predicts the next value of an orbit from its recent history, measuring general sequence predictability. A diffusion probe replaces real images with online random ten",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant",
+      "url": "https://arxiv.org/abs/2608.02420v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-08-03T16:01:47.000Z",
+      "score": 50,
+      "summary_en": "This work-in-progress research paper explores Chat-Debugging, a novel use case for large language models as an assistant for hardware debugging tasks to improve students' debugging skills. Hardware debugging can be a time-consuming and stressful skill to develop, leading to frustration and other negative emotions. While past work has explored streamlining and automating software-based circuit debugging where digital circuits are dominant, Chat-Debugging aids in physical hardware debugging where circuits may be analog, digital, or mixed-signal. Qualitative data were collected from LLM chat logs",
+      "summary_fr": "This work-in-progress research paper explores Chat-Debugging, a novel use case for large language models as an assistant for hardware debugging tasks to improve students' debugging skills. Hardware debugging can be a time-consuming and stressful skill to develop, leading to frustration and other negative emotions. While past work has explored streamlining and automating software-based circuit debugging where digital circuits are dominant, Chat-Debugging aids in physical hardware debugging where circuits may be analog, digital, or mixed-signal. Qualitative data were collected from LLM chat logs",
+      "resume_fr": "This work-in-progress research paper explores Chat-Debugging, a novel use case for large language models as an assistant for hardware debugging tasks to improve students' debugging skills. Hardware debugging can be a time-consuming and stressful skill to develop, leading to frustration and other negative emotions. While past work has explored streamlining and automating software-based circuit debugging where digital circuits are dominant, Chat-Debugging aids in physical hardware debugging where circuits may be analog, digital, or mixed-signal. Qualitative data were collected from LLM chat logs",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers",
+      "url": "https://arxiv.org/abs/2608.02024v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-08-03T10:23:42.000Z",
+      "score": 85,
+      "summary_en": "Large language models (LLMs) are increasingly used across diverse tasks in K-12 education, yet existing safety evaluations rarely examine how harmful or inappropriate content appears in interactions between LLMs and students or teachers. To address this, we present EduZone, an evaluation framework for LLM safety across diverse educational scenarios. Our framework systematically combines (1) student- and teacher-facing LLM usage contexts, (2) fine-grained curriculum concepts, and (3) 6 risk categories and 28 subcategories spanning both conventional and education-specific harms to generate conte",
+      "summary_fr": "Large language models (LLMs) are increasingly used across diverse tasks in K-12 education, yet existing safety evaluations rarely examine how harmful or inappropriate content appears in interactions between LLMs and students or teachers. To address this, we present EduZone, an evaluation framework for LLM safety across diverse educational scenarios. Our framework systematically combines (1) student- and teacher-facing LLM usage contexts, (2) fine-grained curriculum concepts, and (3) 6 risk categories and 28 subcategories spanning both conventional and education-specific harms to generate conte",
+      "resume_fr": "Large language models (LLMs) are increasingly used across diverse tasks in K-12 education, yet existing safety evaluations rarely examine how harmful or inappropriate content appears in interactions between LLMs and students or teachers. To address this, we present EduZone, an evaluation framework for LLM safety across diverse educational scenarios. Our framework systematically combines (1) student- and teacher-facing LLM usage contexts, (2) fine-grained curriculum concepts, and (3) 6 risk categories and 28 subcategories spanning both conventional and education-specific harms to generate conte",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Investigating Social Bias in Narrative Image Generation",
+      "url": "https://arxiv.org/abs/2608.01780v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-08-03T06:56:26.000Z",
+      "score": 50,
+      "summary_en": "Text-to-image (T2I) generation models are increasingly embedded in applications such as media content creation and education, raising concerns about how their outputs may reproduce social biases. Prior work has shown that T2I models exhibit social biases, yet existing evaluations largely focus on a photo generation task. As a result, it remains unclear whether and how such biases manifest in more narrative visual formats, such as storyboards and comics, where characters and events are presented across multiple panels. In this work, we compare bias expression across photo, storyboard, and comic",
+      "summary_fr": "Text-to-image (T2I) generation models are increasingly embedded in applications such as media content creation and education, raising concerns about how their outputs may reproduce social biases. Prior work has shown that T2I models exhibit social biases, yet existing evaluations largely focus on a photo generation task. As a result, it remains unclear whether and how such biases manifest in more narrative visual formats, such as storyboards and comics, where characters and events are presented across multiple panels. In this work, we compare bias expression across photo, storyboard, and comic",
+      "resume_fr": "Text-to-image (T2I) generation models are increasingly embedded in applications such as media content creation and education, raising concerns about how their outputs may reproduce social biases. Prior work has shown that T2I models exhibit social biases, yet existing evaluations largely focus on a photo generation task. As a result, it remains unclear whether and how such biases manifest in more narrative visual formats, such as storyboards and comics, where characters and events are presented across multiple panels. In this work, we compare bias expression across photo, storyboard, and comic",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education",
+      "url": "https://arxiv.org/abs/2608.01705v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-08-03T05:10:21.000Z",
+      "score": 85,
+      "summary_en": "Generative artificial intelligence (GenAI) has entered classrooms faster than teachers have been prepared to use it well, producing a GenAI literacy lag in which technological diffusion outpaces educators' conceptual, pedagogical, and ethical readiness. Established AI literacy frameworks predate the widespread adoption of large language models and, while acknowledging ethics, position it as a discrete competency rather than a constitutive commitment, with equity and agency as supplementary design principles. Recent GenAI-specific efforts address isolated features but remain fragmented. We intr",
+      "summary_fr": "Generative artificial intelligence (GenAI) has entered classrooms faster than teachers have been prepared to use it well, producing a GenAI literacy lag in which technological diffusion outpaces educators' conceptual, pedagogical, and ethical readiness. Established AI literacy frameworks predate the widespread adoption of large language models and, while acknowledging ethics, position it as a discrete competency rather than a constitutive commitment, with equity and agency as supplementary design principles. Recent GenAI-specific efforts address isolated features but remain fragmented. We intr",
+      "resume_fr": "Generative artificial intelligence (GenAI) has entered classrooms faster than teachers have been prepared to use it well, producing a GenAI literacy lag in which technological diffusion outpaces educators' conceptual, pedagogical, and ethical readiness. Established AI literacy frameworks predate the widespread adoption of large language models and, while acknowledging ethics, position it as a discrete competency rather than a constitutive commitment, with equity and agency as supplementary design principles. Recent GenAI-specific efforts address isolated features but remain fragmented. We intr",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Exploring Usability and Legal Practice: Insights from German Judicial Users of Digital Forensics",
+      "url": "https://arxiv.org/abs/2608.00541v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-08-01T08:54:54.000Z",
+      "score": 85,
+      "summary_en": "Digital forensics has become an integral part of modern criminal proceedings, yet its effective integration remains challenging because of increasing data volumes, evolving technologies, and complex interactions between technical and legal stakeholders. Although prior work has focused primarily on digital forensic tools and methods, its broader procedural and organizational context has received limited attention. Building on emerging perspectives inspired by usability research and human-centered security, we conceptualize digital forensics as part of a socio-technical system within criminal pr",
+      "summary_fr": "Digital forensics has become an integral part of modern criminal proceedings, yet its effective integration remains challenging because of increasing data volumes, evolving technologies, and complex interactions between technical and legal stakeholders. Although prior work has focused primarily on digital forensic tools and methods, its broader procedural and organizational context has received limited attention. Building on emerging perspectives inspired by usability research and human-centered security, we conceptualize digital forensics as part of a socio-technical system within criminal pr",
+      "resume_fr": "Digital forensics has become an integral part of modern criminal proceedings, yet its effective integration remains challenging because of increasing data volumes, evolving technologies, and complex interactions between technical and legal stakeholders. Although prior work has focused primarily on digital forensic tools and methods, its broader procedural and organizational context has received limited attention. Building on emerging perspectives inspired by usability research and human-centered security, we conceptualize digital forensics as part of a socio-technical system within criminal pr",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "TokTier: Exact Stateful Tokenization for Agentic LLM Serving",
       "url": "https://arxiv.org/abs/2607.29678v1",
@@ -1073,158 +1225,6 @@
       "summary_en": "We present a systematic study of healthcare-domain cross-lingual transfer to address the scarcity of biomedical NMT resources for Arabic-script languages. We use Arabic and Persian as higher-resource pivots to improve translation for \\textbf{four severely low-resource} targets: Dari (Afghan Persian, a standardised variety of Persian), Pashto, Sorani Kurdish (Central Kurdish, a major standardized variety of Kurdish), and Urdu (closely related to Hindi). Using LoRA fine-tuning on small decoder-only LLMs, we train \\textit{domain-specific pivot adapters} and evaluate \\textbf{three transfer strateg",
       "summary_fr": "We present a systematic study of healthcare-domain cross-lingual transfer to address the scarcity of biomedical NMT resources for Arabic-script languages. We use Arabic and Persian as higher-resource pivots to improve translation for \\textbf{four severely low-resource} targets: Dari (Afghan Persian, a standardised variety of Persian), Pashto, Sorani Kurdish (Central Kurdish, a major standardized variety of Kurdish), and Urdu (closely related to Hindi). Using LoRA fine-tuning on small decoder-only LLMs, we train \\textit{domain-specific pivot adapters} and evaluate \\textbf{three transfer strateg",
       "resume_fr": "We present a systematic study of healthcare-domain cross-lingual transfer to address the scarcity of biomedical NMT resources for Arabic-script languages. We use Arabic and Persian as higher-resource pivots to improve translation for \\textbf{four severely low-resource} targets: Dari (Afghan Persian, a standardised variety of Persian), Pashto, Sorani Kurdish (Central Kurdish, a major standardized variety of Kurdish), and Urdu (closely related to Hindi). Using LoRA fine-tuning on small decoder-only LLMs, we train \\textit{domain-specific pivot adapters} and evaluate \\textbf{three transfer strateg",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Towards Reducing Foreign Language Anxiety Using Level-Appropriate Embodied Conversational Agents",
-      "url": "https://arxiv.org/abs/2607.21887v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-07-24T01:31:13.000Z",
-      "score": 50,
-      "summary_en": "Foreign language anxiety (FLA) can be a major barrier to second language acquisition (SLA), especially in conversational contexts. With the proliferation of large language models (LLMs) throughout all areas of life, recent work suggests that interacting with LLM agents can be instrumental within the field of SLA and foreign language education, especially for reducing FLA. Related work also suggests that linguistic demands and task complexity can be predictors of FLA, implying that the use of demanding, complex language could lead to learners experiencing higher FLA. In this paper, we propose a",
-      "summary_fr": "Foreign language anxiety (FLA) can be a major barrier to second language acquisition (SLA), especially in conversational contexts. With the proliferation of large language models (LLMs) throughout all areas of life, recent work suggests that interacting with LLM agents can be instrumental within the field of SLA and foreign language education, especially for reducing FLA. Related work also suggests that linguistic demands and task complexity can be predictors of FLA, implying that the use of demanding, complex language could lead to learners experiencing higher FLA. In this paper, we propose a",
-      "resume_fr": "Foreign language anxiety (FLA) can be a major barrier to second language acquisition (SLA), especially in conversational contexts. With the proliferation of large language models (LLMs) throughout all areas of life, recent work suggests that interacting with LLM agents can be instrumental within the field of SLA and foreign language education, especially for reducing FLA. Related work also suggests that linguistic demands and task complexity can be predictors of FLA, implying that the use of demanding, complex language could lead to learners experiencing higher FLA. In this paper, we propose a",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "AI-Integrated Scientific Inquiry: A Practice-Centered Vision for Science Education",
-      "url": "https://arxiv.org/abs/2607.21777v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-07-23T19:47:57.000Z",
-      "score": 85,
-      "summary_en": "Artificial intelligence (AI) has become part of scientific inquiry. Scientists use AI to observe and measure phenomena, to identify patterns in data, and to build models. As AI moves into scientific inquiry, it gains relevance for science education: students should learn how AI is changing scientific practices, ideally by engaging in AI-integrated scientific inquiry themselves. How to design such instruction, grounded in authentic scientific practice rather than taught as a standalone topic, remains an open question. In our vision, which we describe in this article, AI is treated as a set of s",
-      "summary_fr": "Artificial intelligence (AI) has become part of scientific inquiry. Scientists use AI to observe and measure phenomena, to identify patterns in data, and to build models. As AI moves into scientific inquiry, it gains relevance for science education: students should learn how AI is changing scientific practices, ideally by engaging in AI-integrated scientific inquiry themselves. How to design such instruction, grounded in authentic scientific practice rather than taught as a standalone topic, remains an open question. In our vision, which we describe in this article, AI is treated as a set of s",
-      "resume_fr": "Artificial intelligence (AI) has become part of scientific inquiry. Scientists use AI to observe and measure phenomena, to identify patterns in data, and to build models. As AI moves into scientific inquiry, it gains relevance for science education: students should learn how AI is changing scientific practices, ideally by engaging in AI-integrated scientific inquiry themselves. How to design such instruction, grounded in authentic scientific practice rather than taught as a standalone topic, remains an open question. In our vision, which we describe in this article, AI is treated as a set of s",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Charting the Moral Universe: Capturing Virtues and Values of Data Visualization Practice",
-      "url": "https://arxiv.org/abs/2607.21732v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-07-23T18:28:26.000Z",
-      "score": 85,
-      "summary_en": "What do we value in our visualizations, and in the people who design them? Despite a growing body of work on critical data visualization, the conception of what it is to do ethical data visualization work can often be narrow (for instance, holding that our ethical duties are discharged merely by avoiding overtly lying or manipulating data), or entangled with potentially problematic implicit value structures (such as the assumption of the objectivity and neutrality of data, and so the designer's role being merely the passive conveying of numbers as efficiently as possible). Yet, what it means t",
-      "summary_fr": "What do we value in our visualizations, and in the people who design them? Despite a growing body of work on critical data visualization, the conception of what it is to do ethical data visualization work can often be narrow (for instance, holding that our ethical duties are discharged merely by avoiding overtly lying or manipulating data), or entangled with potentially problematic implicit value structures (such as the assumption of the objectivity and neutrality of data, and so the designer's role being merely the passive conveying of numbers as efficiently as possible). Yet, what it means t",
-      "resume_fr": "What do we value in our visualizations, and in the people who design them? Despite a growing body of work on critical data visualization, the conception of what it is to do ethical data visualization work can often be narrow (for instance, holding that our ethical duties are discharged merely by avoiding overtly lying or manipulating data), or entangled with potentially problematic implicit value structures (such as the assumption of the objectivity and neutrality of data, and so the designer's role being merely the passive conveying of numbers as efficiently as possible). Yet, what it means t",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
-      "url": "https://arxiv.org/abs/2607.21595v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-07-23T17:59:59.000Z",
-      "score": 50,
-      "summary_en": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reasoning. To bridge this gap, we present VLM-IE3D, a unified framework that enhances the 3D spatial awareness of VLMs by equipping them with both implicit and explicit 3D geometries learned from RGB videos. Our VLM-IE3D introduces Implicit Geometry Tokens (IGTs) that capture high-level geometric priors from input videos, as well as complementary Explicit Geometry Tokens (EGTs) that encode detailed geom",
-      "summary_fr": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reasoning. To bridge this gap, we present VLM-IE3D, a unified framework that enhances the 3D spatial awareness of VLMs by equipping them with both implicit and explicit 3D geometries learned from RGB videos. Our VLM-IE3D introduces Implicit Geometry Tokens (IGTs) that capture high-level geometric priors from input videos, as well as complementary Explicit Geometry Tokens (EGTs) that encode detailed geom",
-      "resume_fr": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reasoning. To bridge this gap, we present VLM-IE3D, a unified framework that enhances the 3D spatial awareness of VLMs by equipping them with both implicit and explicit 3D geometries learned from RGB videos. Our VLM-IE3D introduces Implicit Geometry Tokens (IGTs) that capture high-level geometric priors from input videos, as well as complementary Explicit Geometry Tokens (EGTs) that encode detailed geom",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Synthetic data generation framework for quality control automation in gravure printing",
-      "url": "https://arxiv.org/abs/2607.21577v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-07-23T17:55:21.000Z",
-      "score": 70,
-      "summary_en": "Quality control in printing, particularly in rotogravure printing, still depends on slow, costly, and subjective manual inspection. Automated surface defect detection is critical for maintaining high-quality standards in rotogravure printing. Deep learning models give prospects for automation. However, training robust deep learning models, such as YOLO or Vision Transformers, is heavily hindered by the extreme scarcity of real-world industrial defects images. To overcome this limitation, this paper introduces a novel synthetic data generation framework tailored for rotogravure printing quality",
-      "summary_fr": "Quality control in printing, particularly in rotogravure printing, still depends on slow, costly, and subjective manual inspection. Automated surface defect detection is critical for maintaining high-quality standards in rotogravure printing. Deep learning models give prospects for automation. However, training robust deep learning models, such as YOLO or Vision Transformers, is heavily hindered by the extreme scarcity of real-world industrial defects images. To overcome this limitation, this paper introduces a novel synthetic data generation framework tailored for rotogravure printing quality",
-      "resume_fr": "Quality control in printing, particularly in rotogravure printing, still depends on slow, costly, and subjective manual inspection. Automated surface defect detection is critical for maintaining high-quality standards in rotogravure printing. Deep learning models give prospects for automation. However, training robust deep learning models, such as YOLO or Vision Transformers, is heavily hindered by the extreme scarcity of real-world industrial defects images. To overcome this limitation, this paper introduces a novel synthetic data generation framework tailored for rotogravure printing quality",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity",
-      "url": "https://arxiv.org/abs/2607.21573v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-07-23T17:52:01.000Z",
-      "score": 85,
-      "summary_en": "Faithful explanations of time-series classifiers should identify subsequences that are not only sufficient to preserve a black-box model's prediction, but also necessary for maintaining it. However, existing sufficiency-oriented methods can assign high importance to spurious subsequences that support the prediction without being essential to the model's decision. We introduce \\textbf{TimePNS}, a necessity-aware framework for time-series explanation. Inspired by Pearl's counterfactual notion of necessity, TimePNS assesses whether a temporal factor is necessary by intervening on it and measuring",
-      "summary_fr": "Faithful explanations of time-series classifiers should identify subsequences that are not only sufficient to preserve a black-box model's prediction, but also necessary for maintaining it. However, existing sufficiency-oriented methods can assign high importance to spurious subsequences that support the prediction without being essential to the model's decision. We introduce \\textbf{TimePNS}, a necessity-aware framework for time-series explanation. Inspired by Pearl's counterfactual notion of necessity, TimePNS assesses whether a temporal factor is necessary by intervening on it and measuring",
-      "resume_fr": "Faithful explanations of time-series classifiers should identify subsequences that are not only sufficient to preserve a black-box model's prediction, but also necessary for maintaining it. However, existing sufficiency-oriented methods can assign high importance to spurious subsequences that support the prediction without being essential to the model's decision. We introduce \\textbf{TimePNS}, a necessity-aware framework for time-series explanation. Inspired by Pearl's counterfactual notion of necessity, TimePNS assesses whether a temporal factor is necessary by intervening on it and measuring",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education",
-      "url": "https://arxiv.org/abs/2607.21570v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-07-23T17:50:28.000Z",
-      "score": 50,
-      "summary_en": "Large Language Models (LLMs) show promise for medical education, but most existing systems focus on localized interactions such as question answering or single-turn feedback, rather than organizing an entire clinical case into a decision-centered learning trajectory. We introduce \\textit{MedGame}, a framework that transforms static clinical cases into structured, executable storytelling games. MedGame uses a dual-engine design: a Medical Narrative Designer synthesizes case-grounded clinical storylines with states and decision nodes, while a Story Director converts them into dependency-aware mu",
-      "summary_fr": "Large Language Models (LLMs) show promise for medical education, but most existing systems focus on localized interactions such as question answering or single-turn feedback, rather than organizing an entire clinical case into a decision-centered learning trajectory. We introduce \\textit{MedGame}, a framework that transforms static clinical cases into structured, executable storytelling games. MedGame uses a dual-engine design: a Medical Narrative Designer synthesizes case-grounded clinical storylines with states and decision nodes, while a Story Director converts them into dependency-aware mu",
-      "resume_fr": "Large Language Models (LLMs) show promise for medical education, but most existing systems focus on localized interactions such as question answering or single-turn feedback, rather than organizing an entire clinical case into a decision-centered learning trajectory. We introduce \\textit{MedGame}, a framework that transforms static clinical cases into structured, executable storytelling games. MedGame uses a dual-engine design: a Medical Narrative Designer synthesizes case-grounded clinical storylines with states and decision nodes, while a Story Director converts them into dependency-aware mu",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "The Boundaries of Automation: A Theory of Persistent Human Participation",
-      "url": "https://arxiv.org/abs/2607.21547v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-07-23T17:33:43.000Z",
-      "score": 50,
-      "summary_en": "The rapid progress of AI has intensified the long-standing pursuit of automation: replacing human participation with algorithms wherever possible. Implicit in this pursuit is the assumption that humans remain in the loop only because current AI systems are not yet sufficiently capable. This paper challenges that assumption. Rather than asking how far automation can extend, we ask where its conceptual limits lie and argue that human participation may persist even with highly capable AI systems for three distinct reasons. Technical or complementarity grounds arise when humans contribute capabili",
-      "summary_fr": "The rapid progress of AI has intensified the long-standing pursuit of automation: replacing human participation with algorithms wherever possible. Implicit in this pursuit is the assumption that humans remain in the loop only because current AI systems are not yet sufficiently capable. This paper challenges that assumption. Rather than asking how far automation can extend, we ask where its conceptual limits lie and argue that human participation may persist even with highly capable AI systems for three distinct reasons. Technical or complementarity grounds arise when humans contribute capabili",
-      "resume_fr": "The rapid progress of AI has intensified the long-standing pursuit of automation: replacing human participation with algorithms wherever possible. Implicit in this pursuit is the assumption that humans remain in the loop only because current AI systems are not yet sufficiently capable. This paper challenges that assumption. Rather than asking how far automation can extend, we ask where its conceptual limits lie and argue that human participation may persist even with highly capable AI systems for three distinct reasons. Technical or complementarity grounds arise when humans contribute capabili",
       "tags": [],
       "breakdown": {
         "research": 35,
