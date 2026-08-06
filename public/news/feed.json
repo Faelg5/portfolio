@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T08:48:48.925Z",
+  "generatedAt": "2026-08-06T08:50:18.928Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,44 @@
     }
   },
   "items": [
+    {
+      "title": "Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition",
+      "url": "https://arxiv.org/abs/2608.05115v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-08-05T17:46:28.000Z",
+      "score": 50,
+      "summary_en": "Can computer vision help make classrooms safer? In this pilot study, we investigate privacy-aware and computationally efficient classroom incident recognition from CCTV-style observations. This setting remains underexplored, with limited benchmarks and few methods designed for the privacy, efficiency, and generalization demands of real-world deployment. We introduce a novel hybrid benchmark combining generative CCTV-style videos with real-world classroom pose data, and propose a lightweight, but robust motion-reasoning framework motivated by the observation that many incidents differ more in m",
+      "summary_fr": "Can computer vision help make classrooms safer? In this pilot study, we investigate privacy-aware and computationally efficient classroom incident recognition from CCTV-style observations. This setting remains underexplored, with limited benchmarks and few methods designed for the privacy, efficiency, and generalization demands of real-world deployment. We introduce a novel hybrid benchmark combining generative CCTV-style videos with real-world classroom pose data, and propose a lightweight, but robust motion-reasoning framework motivated by the observation that many incidents differ more in m",
+      "resume_fr": "Can computer vision help make classrooms safer? In this pilot study, we investigate privacy-aware and computationally efficient classroom incident recognition from CCTV-style observations. This setting remains underexplored, with limited benchmarks and few methods designed for the privacy, efficiency, and generalization demands of real-world deployment. We introduce a novel hybrid benchmark combining generative CCTV-style videos with real-world classroom pose data, and propose a lightweight, but robust motion-reasoning framework motivated by the observation that many incidents differ more in m",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning",
+      "url": "https://arxiv.org/abs/2608.04892v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-08-05T14:17:19.000Z",
+      "score": 85,
+      "summary_en": "Artificial intelligence systems that adapt instruction to individual learners are increasingly deployed in K-12 classrooms, yet empirical evidence on their effects in authentic elementary settings remains limited, particularly for students with mathematics learning difficulties. This dissertation examines AI-powered personalized learning during primary school fraction instruction, a domain that is foundational to later mathematics and STEM achievement. The first manuscript presents a systematic review of research on artificial intelligence in mathematics education published between 2020 and 20",
+      "summary_fr": "Artificial intelligence systems that adapt instruction to individual learners are increasingly deployed in K-12 classrooms, yet empirical evidence on their effects in authentic elementary settings remains limited, particularly for students with mathematics learning difficulties. This dissertation examines AI-powered personalized learning during primary school fraction instruction, a domain that is foundational to later mathematics and STEM achievement. The first manuscript presents a systematic review of research on artificial intelligence in mathematics education published between 2020 and 20",
+      "resume_fr": "Artificial intelligence systems that adapt instruction to individual learners are increasingly deployed in K-12 classrooms, yet empirical evidence on their effects in authentic elementary settings remains limited, particularly for students with mathematics learning difficulties. This dissertation examines AI-powered personalized learning during primary school fraction instruction, a domain that is foundational to later mathematics and STEM achievement. The first manuscript presents a systematic review of research on artificial intelligence in mathematics education published between 2020 and 20",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "SocietyBench: Forecasting Counterfactual Social-World Evolution",
       "url": "https://arxiv.org/abs/2608.04009v1",
@@ -226,6 +264,25 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Reconstructing Persistent Worlds from Narratives for Narrative-Grounded Interactive Experiences",
+      "url": "https://arxiv.org/abs/2608.04037v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-08-03T20:06:13.000Z",
+      "score": 85,
+      "summary_en": "Designing narrative-grounded interactive experiences remains labor-intensive because interactive content must align with the underlying world implied by the narrative. Existing approaches formulate problems such as narrative planning, scene generation, and gameplay generation, each constructing computational representations tailored to specific downstream tasks rather than explicitly reconstructing and maintaining the persistent world that grounds them. We investigate reconstructing explicit persistent worlds from narrative descriptions as the central computational objective for narrative-grou",
+      "summary_fr": "Designing narrative-grounded interactive experiences remains labor-intensive because interactive content must align with the underlying world implied by the narrative. Existing approaches formulate problems such as narrative planning, scene generation, and gameplay generation, each constructing computational representations tailored to specific downstream tasks rather than explicitly reconstructing and maintaining the persistent world that grounds them. We investigate reconstructing explicit persistent worlds from narrative descriptions as the central computational objective for narrative-grou",
+      "resume_fr": "Designing narrative-grounded interactive experiences remains labor-intensive because interactive content must align with the underlying world implied by the narrative. Existing approaches formulate problems such as narrative planning, scene generation, and gameplay generation, each constructing computational representations tailored to specific downstream tasks rather than explicitly reconstructing and maintaining the persistent world that grounds them. We investigate reconstructing explicit persistent worlds from narrative descriptions as the central computational objective for narrative-grou",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
@@ -1176,63 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "A Sustainable Remote Access Architecture for Digital Inclusion through the Reuse of Discredited TV-BOX Devices",
-      "url": "https://arxiv.org/abs/2607.23935v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-07-27T02:12:02.000Z",
-      "score": 50,
-      "summary_en": "Digital inclusion and the volume of electronic waste (e-waste) are major challenges for society, with direct impacts on the educational context. Educational institutions, especially those with limited resources, face difficulties in expanding and maintaining computer laboratories. This paper presents the implementation of a sustainable, low-cost Desktop Virtualization Infrastructure (VDI) developed through the reuse of discarded electronic equipment. The proposed solution employs a refurbished Linux server and repurposes confiscated TV Box devices (originally intended for disposal) into functi",
-      "summary_fr": "Digital inclusion and the volume of electronic waste (e-waste) are major challenges for society, with direct impacts on the educational context. Educational institutions, especially those with limited resources, face difficulties in expanding and maintaining computer laboratories. This paper presents the implementation of a sustainable, low-cost Desktop Virtualization Infrastructure (VDI) developed through the reuse of discarded electronic equipment. The proposed solution employs a refurbished Linux server and repurposes confiscated TV Box devices (originally intended for disposal) into functi",
-      "resume_fr": "Digital inclusion and the volume of electronic waste (e-waste) are major challenges for society, with direct impacts on the educational context. Educational institutions, especially those with limited resources, face difficulties in expanding and maintaining computer laboratories. This paper presents the implementation of a sustainable, low-cost Desktop Virtualization Infrastructure (VDI) developed through the reuse of discarded electronic equipment. The proposed solution employs a refurbished Linux server and repurposes confiscated TV Box devices (originally intended for disposal) into functi",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "On AI Safety and Security Technical Debt in Engineering AI-Enabled Systems",
-      "url": "https://arxiv.org/abs/2607.23365v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-07-25T21:15:41.000Z",
-      "score": 50,
-      "summary_en": "Artificial intelligence (AI) systems are increasingly deployed in high-stakes domains such as healthcare, autonomous driving, finance, and education. While these systems offer powerful data-driven and adaptive capabilities, their complexity, rapid evolution, and dependence on dynamic data pipelines introduce new forms of engineering liability collectively referred to as AI Technical Debts (AITDs). AITDs arise from root causes spanning data governance, model implementation, algorithm design, architectural decisions, operational processes, documentation practices, and testing adequacy. Unlike co",
-      "summary_fr": "Artificial intelligence (AI) systems are increasingly deployed in high-stakes domains such as healthcare, autonomous driving, finance, and education. While these systems offer powerful data-driven and adaptive capabilities, their complexity, rapid evolution, and dependence on dynamic data pipelines introduce new forms of engineering liability collectively referred to as AI Technical Debts (AITDs). AITDs arise from root causes spanning data governance, model implementation, algorithm design, architectural decisions, operational processes, documentation practices, and testing adequacy. Unlike co",
-      "resume_fr": "Artificial intelligence (AI) systems are increasingly deployed in high-stakes domains such as healthcare, autonomous driving, finance, and education. While these systems offer powerful data-driven and adaptive capabilities, their complexity, rapid evolution, and dependence on dynamic data pipelines introduce new forms of engineering liability collectively referred to as AI Technical Debts (AITDs). AITDs arise from root causes spanning data governance, model implementation, algorithm design, architectural decisions, operational processes, documentation practices, and testing adequacy. Unlike co",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference",
-      "url": "https://arxiv.org/abs/2607.22511v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-07-24T17:32:35.000Z",
-      "score": 70,
-      "summary_en": "Automating theoretical research is constrained not only by the generation of candidate results, but also by their reliable evaluation. A common approach is to close the research loop with a large language model (LLM) reviewer. However, such reviewers remain empirically unreliable: they may accept fabricated papers and detect them at rates close to chance (Bad Scientist, 2025). We present CausalForge, a framework for automated theoretical research in causal inference grounded in the Lean proof assistant. CausalForge combines Causalean, a foundational Lean library for causal inference containing",
-      "summary_fr": "Automating theoretical research is constrained not only by the generation of candidate results, but also by their reliable evaluation. A common approach is to close the research loop with a large language model (LLM) reviewer. However, such reviewers remain empirically unreliable: they may accept fabricated papers and detect them at rates close to chance (Bad Scientist, 2025). We present CausalForge, a framework for automated theoretical research in causal inference grounded in the Lean proof assistant. CausalForge combines Causalean, a foundational Lean library for causal inference containing",
-      "resume_fr": "Automating theoretical research is constrained not only by the generation of candidate results, but also by their reliable evaluation. A common approach is to close the research loop with a large language model (LLM) reviewer. However, such reviewers remain empirically unreliable: they may accept fabricated papers and detect them at rates close to chance (Bad Scientist, 2025). We present CausalForge, a framework for automated theoretical research in causal inference grounded in the Lean proof assistant. CausalForge combines Causalean, a foundational Lean library for causal inference containing",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
