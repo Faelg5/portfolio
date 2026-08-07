@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-06T08:50:18.928Z",
+  "generatedAt": "2026-08-07T07:38:14.378Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
-  "totalAnalyzed": 100,
+  "totalAnalyzed": 83,
   "totalPublished": 60,
   "publishTarget": "default",
   "debug": {
@@ -95,6 +95,25 @@
     }
   },
   "items": [
+    {
+      "title": "Decolonizing Linguistic Policies in Automated Speech Recognition: A Framework for Cross-Culturally Competent Speech AI",
+      "url": "https://arxiv.org/abs/2608.06141v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-08-06T15:10:29.000Z",
+      "score": 100,
+      "summary_en": "This paper focuses on automatic speech recognition (ASR) and ASR-mediated voice interfaces that shape access to public services, healthcare, and education. We argue that persistent failures for low-resource, Indigenous, and non-standard language varieties are not only technical errors, but also implicit linguistic policies that reproduce colonial language hierarchies. Drawing on linguistic capital, raciolinguistic ideology, language policy research, and decolonial computing, we show how data, metrics, and model priors determine whose voices become machine-legible. We introduce the Three Harms ",
+      "summary_fr": "This paper focuses on automatic speech recognition (ASR) and ASR-mediated voice interfaces that shape access to public services, healthcare, and education. We argue that persistent failures for low-resource, Indigenous, and non-standard language varieties are not only technical errors, but also implicit linguistic policies that reproduce colonial language hierarchies. Drawing on linguistic capital, raciolinguistic ideology, language policy research, and decolonial computing, we show how data, metrics, and model priors determine whose voices become machine-legible. We introduce the Three Harms ",
+      "resume_fr": "This paper focuses on automatic speech recognition (ASR) and ASR-mediated voice interfaces that shape access to public services, healthcare, and education. We argue that persistent failures for low-resource, Indigenous, and non-standard language varieties are not only technical errors, but also implicit linguistic policies that reproduce colonial language hierarchies. Drawing on linguistic capital, raciolinguistic ideology, language policy research, and decolonial computing, we show how data, metrics, and model priors determine whose voices become machine-legible. We introduce the Three Harms ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition",
       "url": "https://arxiv.org/abs/2608.05115v1",
@@ -1206,25 +1225,6 @@
       "summary_en": "Recent Vision-Language Models (VLMs) have achieved remarkable success in visual understanding, driven by the growing availability of high-quality image-text pairs. However, the performance of VLMs often degrades in the video domain due to the essential need for temporal understanding and the scarcity of large-scale annotated video data. In this work, we focus on marine video understanding, which brings further challenges: first, it requires substantial domain expertise; and video VLMs usually struggle with localizing and interpreting critical information from marine videos, as the informative ",
       "summary_fr": "Recent Vision-Language Models (VLMs) have achieved remarkable success in visual understanding, driven by the growing availability of high-quality image-text pairs. However, the performance of VLMs often degrades in the video domain due to the essential need for temporal understanding and the scarcity of large-scale annotated video data. In this work, we focus on marine video understanding, which brings further challenges: first, it requires substantial domain expertise; and video VLMs usually struggle with localizing and interpreting critical information from marine videos, as the informative ",
       "resume_fr": "Recent Vision-Language Models (VLMs) have achieved remarkable success in visual understanding, driven by the growing availability of high-quality image-text pairs. However, the performance of VLMs often degrades in the video domain due to the essential need for temporal understanding and the scarcity of large-scale annotated video data. In this work, we focus on marine video understanding, which brings further challenges: first, it requires substantial domain expertise; and video VLMs usually struggle with localizing and interpreting critical information from marine videos, as the informative ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "On Capturing the Narrative: Social Media Manipulation Wargaming for Cyberliteracy",
-      "url": "https://arxiv.org/abs/2607.23993v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-07-27T04:40:00.000Z",
-      "score": 50,
-      "summary_en": "Misinformation is deeply embedded in online discourse, with nearly one in five posts during global events generated by bots that amplify false content. In recent years, the use of Generative AI has further lowered the barrier to producing convincing misinformation, yet most digital literacy education still relies on static checklists and single-player inoculation games built for an earlier media landscape. This paper describes how we addressed this educational gap through Capture the Narrative, a four-week multi-university competition in which student teams build LLM-powered bots to influence ",
-      "summary_fr": "Misinformation is deeply embedded in online discourse, with nearly one in five posts during global events generated by bots that amplify false content. In recent years, the use of Generative AI has further lowered the barrier to producing convincing misinformation, yet most digital literacy education still relies on static checklists and single-player inoculation games built for an earlier media landscape. This paper describes how we addressed this educational gap through Capture the Narrative, a four-week multi-university competition in which student teams build LLM-powered bots to influence ",
-      "resume_fr": "Misinformation is deeply embedded in online discourse, with nearly one in five posts during global events generated by bots that amplify false content. In recent years, the use of Generative AI has further lowered the barrier to producing convincing misinformation, yet most digital literacy education still relies on static checklists and single-player inoculation games built for an earlier media landscape. This paper describes how we addressed this educational gap through Capture the Narrative, a four-week multi-university competition in which student teams build LLM-powered bots to influence ",
       "tags": [],
       "breakdown": {
         "research": 35,
