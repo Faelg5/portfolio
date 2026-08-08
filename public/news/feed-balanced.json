@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T07:38:14.378Z",
+  "generatedAt": "2026-08-08T07:09:54.629Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
-  "totalAnalyzed": 83,
+  "totalAnalyzed": 100,
   "totalPublished": 60,
   "publishTarget": "default",
   "debug": {
@@ -96,6 +96,82 @@
   },
   "items": [
     {
+      "title": "RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer",
+      "url": "https://arxiv.org/abs/2608.06347v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-08-06T17:52:06.000Z",
+      "score": 85,
+      "summary_en": "Multilingual reasoning transfer is crucial for extending reasoning capabilities of large language models (LLMs) beyond high-resource languages. On-policy self-distillation (OPSD) and its variants have emerged as a promising paradigm, providing dense token-level supervision on student-generated rollouts, yet their objectives do not explicitly prioritize reasoning signals most critical to cross-lingual transfer. We characterize that target-language reasoning comprises the generation of both surface text and reasoning pivots, which are decisions that advance or redirect the reasoning process and ",
+      "summary_fr": "Multilingual reasoning transfer is crucial for extending reasoning capabilities of large language models (LLMs) beyond high-resource languages. On-policy self-distillation (OPSD) and its variants have emerged as a promising paradigm, providing dense token-level supervision on student-generated rollouts, yet their objectives do not explicitly prioritize reasoning signals most critical to cross-lingual transfer. We characterize that target-language reasoning comprises the generation of both surface text and reasoning pivots, which are decisions that advance or redirect the reasoning process and ",
+      "resume_fr": "Multilingual reasoning transfer is crucial for extending reasoning capabilities of large language models (LLMs) beyond high-resource languages. On-policy self-distillation (OPSD) and its variants have emerged as a promising paradigm, providing dense token-level supervision on student-generated rollouts, yet their objectives do not explicitly prioritize reasoning signals most critical to cross-lingual transfer. We characterize that target-language reasoning comprises the generation of both surface text and reasoning pivots, which are decisions that advance or redirect the reasoning process and ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Optimal Rates for Learning with Monotone Adversaries",
+      "url": "https://arxiv.org/abs/2608.06337v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-08-06T17:45:32.000Z",
+      "score": 50,
+      "summary_en": "A monotone adversary observes an i.i.d. labeled sample and appends a finite number of further examples of its choice, every one of them labeled correctly by the target hypothesis. The learner sees a uniform shuffle of the combined sample and is scored on the original distribution. Every example is correctly labeled, but the insertions depend on the clean sample, so the combined sample is not exchangeable. Larsen, Pabbaraju, and Shetty, who introduced this model, showed that empirical risk minimization attains expected error $O((d/n)\\log(n/d))$ for classes of VC dimension $d$, and that every kn",
+      "summary_fr": "A monotone adversary observes an i.i.d. labeled sample and appends a finite number of further examples of its choice, every one of them labeled correctly by the target hypothesis. The learner sees a uniform shuffle of the combined sample and is scored on the original distribution. Every example is correctly labeled, but the insertions depend on the clean sample, so the combined sample is not exchangeable. Larsen, Pabbaraju, and Shetty, who introduced this model, showed that empirical risk minimization attains expected error $O((d/n)\\log(n/d))$ for classes of VC dimension $d$, and that every kn",
+      "resume_fr": "A monotone adversary observes an i.i.d. labeled sample and appends a finite number of further examples of its choice, every one of them labeled correctly by the target hypothesis. The learner sees a uniform shuffle of the combined sample and is scored on the original distribution. Every example is correctly labeled, but the insertions depend on the clean sample, so the combined sample is not exchangeable. Larsen, Pabbaraju, and Shetty, who introduced this model, showed that empirical risk minimization attains expected error $O((d/n)\\log(n/d))$ for classes of VC dimension $d$, and that every kn",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Benchmarking and Enhancing LLMs for Rule-Intensive Review of National Standard Documents",
+      "url": "https://arxiv.org/abs/2608.06312v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-08-06T17:27:23.000Z",
+      "score": 70,
+      "summary_en": "Large language models (LLMs) increasingly support complex professional tasks, yet their capabilities in rule-intensive document review remain insufficiently evaluated. National standard documents, such as China GB/T standards, offer a representative testbed: they are lengthy, highly structured, and governed by explicit rules for scope, terminology, normative wording, and cross-section consistency. Existing benchmarks focus on domain knowledge and question answering, largely overlooking intrinsic quality review for professional documents. Such reviews rely heavily on human experts, making them ",
+      "summary_fr": "Large language models (LLMs) increasingly support complex professional tasks, yet their capabilities in rule-intensive document review remain insufficiently evaluated. National standard documents, such as China GB/T standards, offer a representative testbed: they are lengthy, highly structured, and governed by explicit rules for scope, terminology, normative wording, and cross-section consistency. Existing benchmarks focus on domain knowledge and question answering, largely overlooking intrinsic quality review for professional documents. Such reviews rely heavily on human experts, making them ",
+      "resume_fr": "Large language models (LLMs) increasingly support complex professional tasks, yet their capabilities in rule-intensive document review remain insufficiently evaluated. National standard documents, such as China GB/T standards, offer a representative testbed: they are lengthy, highly structured, and governed by explicit rules for scope, terminology, normative wording, and cross-section consistency. Existing benchmarks focus on domain knowledge and question answering, largely overlooking intrinsic quality review for professional documents. Such reviews rely heavily on human experts, making them ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Toward Deployable Bangla Sign Language Recognition with Expert-Validated Data and a Lightweight Attention-Based Model",
+      "url": "https://arxiv.org/abs/2608.06252v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-08-06T16:41:22.000Z",
+      "score": 50,
+      "summary_en": "Deaf and hard-of-hearing people in Bangladesh communicate mainly through Bangla Sign Language (BdSL). Automatic BdSL recognition on personal devices could widen access to education and services. Existing systems use controlled-setting datasets without expert verification and heavyweight pretrained backbones unsuited to on-device use. We introduce RSBdSL38, 10,874 expert-validated images spanning all 38 BdSL hand signs, representing the 51 letters of the Bangla alphabet, recorded from real signers at three special-needs schools across Bangladesh. We propose a lightweight attention based convolu",
+      "summary_fr": "Deaf and hard-of-hearing people in Bangladesh communicate mainly through Bangla Sign Language (BdSL). Automatic BdSL recognition on personal devices could widen access to education and services. Existing systems use controlled-setting datasets without expert verification and heavyweight pretrained backbones unsuited to on-device use. We introduce RSBdSL38, 10,874 expert-validated images spanning all 38 BdSL hand signs, representing the 51 letters of the Bangla alphabet, recorded from real signers at three special-needs schools across Bangladesh. We propose a lightweight attention based convolu",
+      "resume_fr": "Deaf and hard-of-hearing people in Bangladesh communicate mainly through Bangla Sign Language (BdSL). Automatic BdSL recognition on personal devices could widen access to education and services. Existing systems use controlled-setting datasets without expert verification and heavyweight pretrained backbones unsuited to on-device use. We introduce RSBdSL38, 10,874 expert-validated images spanning all 38 BdSL hand signs, representing the 51 letters of the Bangla alphabet, recorded from real signers at three special-needs schools across Bangladesh. We propose a lightweight attention based convolu",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
       "title": "Decolonizing Linguistic Policies in Automated Speech Recognition: A Framework for Cross-Culturally Competent Speech AI",
       "url": "https://arxiv.org/abs/2608.06141v1",
       "source": "arXiv – cs.HC + education",
@@ -112,6 +188,44 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis",
+      "url": "https://arxiv.org/abs/2608.05898v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-08-06T11:24:10.000Z",
+      "score": 50,
+      "summary_en": "As Generative AI coding tools reshape professional software development, universities have begun designing courses to prepare students for AI-assisted development workflows. By analyzing the syllabi of these courses, we can gather empirical evidence about these courses, reveal how this emerging curricular area is being defined, and gain guidance for future curriculum design. We analyzed 23 publicly available syllabi and course materials of upper-division, credit-bearing courses that meet specific criteria, including explicitly addressing Generative AI in software engineering. Through iterative",
+      "summary_fr": "As Generative AI coding tools reshape professional software development, universities have begun designing courses to prepare students for AI-assisted development workflows. By analyzing the syllabi of these courses, we can gather empirical evidence about these courses, reveal how this emerging curricular area is being defined, and gain guidance for future curriculum design. We analyzed 23 publicly available syllabi and course materials of upper-division, credit-bearing courses that meet specific criteria, including explicitly addressing Generative AI in software engineering. Through iterative",
+      "resume_fr": "As Generative AI coding tools reshape professional software development, universities have begun designing courses to prepare students for AI-assisted development workflows. By analyzing the syllabi of these courses, we can gather empirical evidence about these courses, reveal how this emerging curricular area is being defined, and gain guidance for future curriculum design. We analyzed 23 publicly available syllabi and course materials of upper-division, credit-bearing courses that meet specific criteria, including explicitly addressing Generative AI in software engineering. Through iterative",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration",
+      "url": "https://arxiv.org/abs/2608.05741v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-08-06T08:22:19.000Z",
+      "score": 50,
+      "summary_en": "Large language models (LLMs) can generate fluent and convincing text at scale, creating growing risks for misinformation dissemination, educational misuse, and platform governance. These concerns make robust detection of machine-generated text increasingly necessary. Recent zero-shot detectors mainly exploit probability-based statistical discrepancies, but they do not explicitly account for the training process of LLMs, which leaves a distinct generation mechanism insufficiently modeled and limits detection robustness. To address this issue, we propose EchoPrompt, a training-free detector base",
+      "summary_fr": "Large language models (LLMs) can generate fluent and convincing text at scale, creating growing risks for misinformation dissemination, educational misuse, and platform governance. These concerns make robust detection of machine-generated text increasingly necessary. Recent zero-shot detectors mainly exploit probability-based statistical discrepancies, but they do not explicitly account for the training process of LLMs, which leaves a distinct generation mechanism insufficiently modeled and limits detection robustness. To address this issue, we propose EchoPrompt, a training-free detector base",
+      "resume_fr": "Large language models (LLMs) can generate fluent and convincing text at scale, creating growing risks for misinformation dissemination, educational misuse, and platform governance. These concerns make robust detection of machine-generated text increasingly necessary. Recent zero-shot detectors mainly exploit probability-based statistical discrepancies, but they do not explicitly account for the training process of LLMs, which leaves a distinct generation mechanism insufficiently modeled and limits detection robustness. To address this issue, we propose EchoPrompt, a training-free detector base",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
@@ -1111,120 +1225,6 @@
       "summary_en": "The use of cheat sheets in exams is often framed as a way to reduce cognitive load and support student performance. However, little is known about how students choose between self-created and instructor-provided cheat sheets, or how these choices relate to their broader approaches to exam preparation. We conducted a longitudinal study in a senior-level undergraduate software requirements course, where students could use either an instructor-provided or a self-created cheat sheet for both the midterm and final exams. Across three survey waves, we received 53, 50, and 44 responses, respectively.",
       "summary_fr": "The use of cheat sheets in exams is often framed as a way to reduce cognitive load and support student performance. However, little is known about how students choose between self-created and instructor-provided cheat sheets, or how these choices relate to their broader approaches to exam preparation. We conducted a longitudinal study in a senior-level undergraduate software requirements course, where students could use either an instructor-provided or a self-created cheat sheet for both the midterm and final exams. Across three survey waves, we received 53, 50, and 44 responses, respectively.",
       "resume_fr": "The use of cheat sheets in exams is often framed as a way to reduce cognitive load and support student performance. However, little is known about how students choose between self-created and instructor-provided cheat sheets, or how these choices relate to their broader approaches to exam preparation. We conducted a longitudinal study in a senior-level undergraduate software requirements course, where students could use either an instructor-provided or a self-created cheat sheet for both the midterm and final exams. Across three survey waves, we received 53, 50, and 44 responses, respectively.",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation",
-      "url": "https://arxiv.org/abs/2607.24731v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-07-27T17:57:02.000Z",
-      "score": 70,
-      "summary_en": "On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should behave under classifier-free guidance (CFG), a default component of modern diffusion systems, remains poorly understood. Existing OPD methods naturally extend velocity matching to the CFG-composed prediction, directly matching teacher and student guided velocities. We show that this objective is under-identified at the branch level: positive- and negative-branch errors can compensate in the guided prediction. Through two contrasting cases, we find th",
-      "summary_fr": "On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should behave under classifier-free guidance (CFG), a default component of modern diffusion systems, remains poorly understood. Existing OPD methods naturally extend velocity matching to the CFG-composed prediction, directly matching teacher and student guided velocities. We show that this objective is under-identified at the branch level: positive- and negative-branch errors can compensate in the guided prediction. Through two contrasting cases, we find th",
-      "resume_fr": "On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should behave under classifier-free guidance (CFG), a default component of modern diffusion systems, remains poorly understood. Existing OPD methods naturally extend velocity matching to the CFG-composed prediction, directly matching teacher and student guided velocities. We show that this objective is under-identified at the branch level: positive- and negative-branch errors can compensate in the guided prediction. Through two contrasting cases, we find th",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation",
-      "url": "https://arxiv.org/abs/2607.24720v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-07-27T17:55:03.000Z",
-      "score": 85,
-      "summary_en": "Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, making it difficult to identify how planning ability is acquired, shaped, and integrated. To address this challenge, we introduce a unified and controlled multi-turn environment that enables precise control. It allows systematically study long-horizon planning across three stages. (1) Planning ability acquisition during pre-training. We study data format, distribution, and quality. Explicit world m",
-      "summary_fr": "Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, making it difficult to identify how planning ability is acquired, shaped, and integrated. To address this challenge, we introduce a unified and controlled multi-turn environment that enables precise control. It allows systematically study long-horizon planning across three stages. (1) Planning ability acquisition during pre-training. We study data format, distribution, and quality. Explicit world m",
-      "resume_fr": "Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, making it difficult to identify how planning ability is acquired, shaped, and integrated. To address this challenge, we introduce a unified and controlled multi-turn environment that enables precise control. It allows systematically study long-horizon planning across three stages. (1) Planning ability acquisition during pre-training. We study data format, distribution, and quality. Explicit world m",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "ERUnderstand: Evaluating Vision-Language Models on Structured ER Diagrams",
-      "url": "https://arxiv.org/abs/2607.24707v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-07-27T17:46:43.000Z",
-      "score": 50,
-      "summary_en": "Entity-Relationship Diagrams (ERDs) are central to conceptual database design, yet they are typically available only as rendered images rather than machine-readable schemas, limiting AI-assisted database engineering. We introduce ERUnderstand, the first large-scale benchmark for structured understanding of ER diagrams, comprising 2,960 diagrams collected from curated educational sources, real-world schemas, and synthetically generated examples spanning diverse domains, notations, complexity levels, and Extended Entity-Relationship (EER) constructs. Each diagram is paired with a standardized ma",
-      "summary_fr": "Entity-Relationship Diagrams (ERDs) are central to conceptual database design, yet they are typically available only as rendered images rather than machine-readable schemas, limiting AI-assisted database engineering. We introduce ERUnderstand, the first large-scale benchmark for structured understanding of ER diagrams, comprising 2,960 diagrams collected from curated educational sources, real-world schemas, and synthetically generated examples spanning diverse domains, notations, complexity levels, and Extended Entity-Relationship (EER) constructs. Each diagram is paired with a standardized ma",
-      "resume_fr": "Entity-Relationship Diagrams (ERDs) are central to conceptual database design, yet they are typically available only as rendered images rather than machine-readable schemas, limiting AI-assisted database engineering. We introduce ERUnderstand, the first large-scale benchmark for structured understanding of ER diagrams, comprising 2,960 diagrams collected from curated educational sources, real-world schemas, and synthetically generated examples spanning diverse domains, notations, complexity levels, and Extended Entity-Relationship (EER) constructs. Each diagram is paired with a standardized ma",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education",
-      "url": "https://arxiv.org/abs/2607.24612v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-07-27T16:12:15.000Z",
-      "score": 50,
-      "summary_en": "Individuals with Attention-Deficit/Hyperactivity Disorder (ADHD) often face significant barriers in computing education. In asynchronous learning environments, instructional videos can impose high extraneous cognitive load, often relying on assumptions about sustained attention and working memory that do not align with ADHD neurocognitive profiles. In this work, we evaluate a post-hoc video processing intervention that segments instructional content into single-instruction chunks followed by fixed-length pauses to reduce cognitive load. In a within-participants controlled study with 17 individ",
-      "summary_fr": "Individuals with Attention-Deficit/Hyperactivity Disorder (ADHD) often face significant barriers in computing education. In asynchronous learning environments, instructional videos can impose high extraneous cognitive load, often relying on assumptions about sustained attention and working memory that do not align with ADHD neurocognitive profiles. In this work, we evaluate a post-hoc video processing intervention that segments instructional content into single-instruction chunks followed by fixed-length pauses to reduce cognitive load. In a within-participants controlled study with 17 individ",
-      "resume_fr": "Individuals with Attention-Deficit/Hyperactivity Disorder (ADHD) often face significant barriers in computing education. In asynchronous learning environments, instructional videos can impose high extraneous cognitive load, often relying on assumptions about sustained attention and working memory that do not align with ADHD neurocognitive profiles. In this work, we evaluate a post-hoc video processing intervention that segments instructional content into single-instruction chunks followed by fixed-length pauses to reduce cognitive load. In a within-participants controlled study with 17 individ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Proceedings of The First Reflection in Creative Experience (RiCE) Workshop",
-      "url": "https://arxiv.org/abs/2607.24558v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-07-27T15:30:18.000Z",
-      "score": 50,
-      "summary_en": "Reflection and metacognition are central to the creative user experience. However, most HCI research on reflection focuses on clear, task-oriented goals such as to reflect on personal data or pedagogical outcomes. This contrasts with the open-ended and challenging to articulate goals of creative user experiences. For the first time, this workshop brings together interdisciplinary researchers, designers, educators, and artists across HCI, Cognitive Science, Design, AI, Learning Sciences, and Digital Art to examine reflection in creative interaction. The workshop will discuss themes, drawn from ",
-      "summary_fr": "Reflection and metacognition are central to the creative user experience. However, most HCI research on reflection focuses on clear, task-oriented goals such as to reflect on personal data or pedagogical outcomes. This contrasts with the open-ended and challenging to articulate goals of creative user experiences. For the first time, this workshop brings together interdisciplinary researchers, designers, educators, and artists across HCI, Cognitive Science, Design, AI, Learning Sciences, and Digital Art to examine reflection in creative interaction. The workshop will discuss themes, drawn from ",
-      "resume_fr": "Reflection and metacognition are central to the creative user experience. However, most HCI research on reflection focuses on clear, task-oriented goals such as to reflect on personal data or pedagogical outcomes. This contrasts with the open-ended and challenging to articulate goals of creative user experiences. For the first time, this workshop brings together interdisciplinary researchers, designers, educators, and artists across HCI, Cognitive Science, Design, AI, Learning Sciences, and Digital Art to examine reflection in creative interaction. The workshop will discuss themes, drawn from ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "MarineEVT: Advancing Event-Centric Marine Video Understanding via Visual Tool Reasoning",
-      "url": "https://arxiv.org/abs/2607.24064v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-07-27T07:06:14.000Z",
-      "score": 50,
-      "summary_en": "Recent Vision-Language Models (VLMs) have achieved remarkable success in visual understanding, driven by the growing availability of high-quality image-text pairs. However, the performance of VLMs often degrades in the video domain due to the essential need for temporal understanding and the scarcity of large-scale annotated video data. In this work, we focus on marine video understanding, which brings further challenges: first, it requires substantial domain expertise; and video VLMs usually struggle with localizing and interpreting critical information from marine videos, as the informative ",
-      "summary_fr": "Recent Vision-Language Models (VLMs) have achieved remarkable success in visual understanding, driven by the growing availability of high-quality image-text pairs. However, the performance of VLMs often degrades in the video domain due to the essential need for temporal understanding and the scarcity of large-scale annotated video data. In this work, we focus on marine video understanding, which brings further challenges: first, it requires substantial domain expertise; and video VLMs usually struggle with localizing and interpreting critical information from marine videos, as the informative ",
-      "resume_fr": "Recent Vision-Language Models (VLMs) have achieved remarkable success in visual understanding, driven by the growing availability of high-quality image-text pairs. However, the performance of VLMs often degrades in the video domain due to the essential need for temporal understanding and the scarcity of large-scale annotated video data. In this work, we focus on marine video understanding, which brings further challenges: first, it requires substantial domain expertise; and video VLMs usually struggle with localizing and interpreting critical information from marine videos, as the informative ",
       "tags": [],
       "breakdown": {
         "research": 35,
