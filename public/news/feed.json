@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T07:59:56.332Z",
+  "generatedAt": "2026-08-11T07:24:13.298Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,82 @@
     }
   },
   "items": [
+    {
+      "title": "Mirroring the Past: Exploring How Ancestral Digital Self Influences History Learning",
+      "url": "https://arxiv.org/abs/2608.09719v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-08-10T15:20:28.000Z",
+      "score": 50,
+      "summary_en": "Learners often perceive history as distant from themselves, which limits immersion and empathy in history learning. To bridge this gap, we introduce the \"Ancestral Digital Self,\" an AI-generated pedagogical agent presented in prerecorded videos that mirrors the learner's facial features and vocal timbre, representing a historically situated version of the self. We developed a reproducible workflow for creating AI-generated historical learning videos and conducted a within-subjects study (N=36) comparing a Digital Self agent with a non-self pedagogical agent. The Digital Self agent enhanced exp",
+      "summary_fr": "Learners often perceive history as distant from themselves, which limits immersion and empathy in history learning. To bridge this gap, we introduce the \"Ancestral Digital Self,\" an AI-generated pedagogical agent presented in prerecorded videos that mirrors the learner's facial features and vocal timbre, representing a historically situated version of the self. We developed a reproducible workflow for creating AI-generated historical learning videos and conducted a within-subjects study (N=36) comparing a Digital Self agent with a non-self pedagogical agent. The Digital Self agent enhanced exp",
+      "resume_fr": "Learners often perceive history as distant from themselves, which limits immersion and empathy in history learning. To bridge this gap, we introduce the \"Ancestral Digital Self,\" an AI-generated pedagogical agent presented in prerecorded videos that mirrors the learner's facial features and vocal timbre, representing a historically situated version of the self. We developed a reproducible workflow for creating AI-generated historical learning videos and conducted a within-subjects study (N=36) comparing a Digital Self agent with a non-self pedagogical agent. The Digital Self agent enhanced exp",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Designing PULSE: A Realtime Annotation Tool to Support Simulation Debriefing",
+      "url": "https://arxiv.org/abs/2608.09715v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-08-10T15:18:18.000Z",
+      "score": 50,
+      "summary_en": "Debriefing is central to effective simulation-based education. However, effective debriefing is challenged by high instructor workloads and limited engagement of observing students. A real-time annotation tool to support debriefing, called PULSE, was co-designed with nursing educators. A field study comparing three standard simulation debriefings with three debriefings using PULSE was conducted as a preliminary evaluation. Outcomes were assessed using the Debriefing Assessment for Simulation in Healthcare (DASH) student survey and a follow-up instructor interview. PULSE significantly improved ",
+      "summary_fr": "Debriefing is central to effective simulation-based education. However, effective debriefing is challenged by high instructor workloads and limited engagement of observing students. A real-time annotation tool to support debriefing, called PULSE, was co-designed with nursing educators. A field study comparing three standard simulation debriefings with three debriefings using PULSE was conducted as a preliminary evaluation. Outcomes were assessed using the Debriefing Assessment for Simulation in Healthcare (DASH) student survey and a follow-up instructor interview. PULSE significantly improved ",
+      "resume_fr": "Debriefing is central to effective simulation-based education. However, effective debriefing is challenged by high instructor workloads and limited engagement of observing students. A real-time annotation tool to support debriefing, called PULSE, was co-designed with nursing educators. A field study comparing three standard simulation debriefings with three debriefings using PULSE was conducted as a preliminary evaluation. Outcomes were assessed using the Debriefing Assessment for Simulation in Healthcare (DASH) student survey and a follow-up instructor interview. PULSE significantly improved ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "ELBench: A Multi-Dimensional Benchmark for Education-Facing Large Language Models",
+      "url": "https://arxiv.org/abs/2608.09548v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-08-10T12:46:58.000Z",
+      "score": 50,
+      "summary_en": "Large language models are increasingly deployed in education as tutors, teaching assistants, and content generators. These roles place demands that ordinary question answering does not: a usable education-facing model is supposed to be accurate, safe under sensitive prompts, instructionally useful, and aligned with pedagogical goals at the same time. Existing benchmarks evaluate these requirements largely in isolation, so none assesses education-facing suitability as an integrated profile. We introduce ELBench, the first benchmark to evaluate all four requirements (General Capability, Safety a",
+      "summary_fr": "Large language models are increasingly deployed in education as tutors, teaching assistants, and content generators. These roles place demands that ordinary question answering does not: a usable education-facing model is supposed to be accurate, safe under sensitive prompts, instructionally useful, and aligned with pedagogical goals at the same time. Existing benchmarks evaluate these requirements largely in isolation, so none assesses education-facing suitability as an integrated profile. We introduce ELBench, the first benchmark to evaluate all four requirements (General Capability, Safety a",
+      "resume_fr": "Large language models are increasingly deployed in education as tutors, teaching assistants, and content generators. These roles place demands that ordinary question answering does not: a usable education-facing model is supposed to be accurate, safe under sensitive prompts, instructionally useful, and aligned with pedagogical goals at the same time. Existing benchmarks evaluate these requirements largely in isolation, so none assesses education-facing suitability as an integrated profile. We introduce ELBench, the first benchmark to evaluate all four requirements (General Capability, Safety a",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Imagining the Musical Metaverse: a study on the needs and creative practices of composers and musicians",
+      "url": "https://arxiv.org/abs/2608.08938v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-08-09T22:13:49.000Z",
+      "score": 85,
+      "summary_en": "This study explores user needs for the Musical Metaverse (MM) through a series of workshops with electroacoustic composers, classical musicians, and music producers. Using a design approach based on the prompt \"as if by magic,\" participants were invited to reflect on how the MM could impact their practice in composition, performance, and education domains. While groups maintain distinct priorities based on their roles, they share interests in educational applications and creative learning environments. Key themes include preference for mixed reality over purely virtual environments, virtual sp",
+      "summary_fr": "This study explores user needs for the Musical Metaverse (MM) through a series of workshops with electroacoustic composers, classical musicians, and music producers. Using a design approach based on the prompt \"as if by magic,\" participants were invited to reflect on how the MM could impact their practice in composition, performance, and education domains. While groups maintain distinct priorities based on their roles, they share interests in educational applications and creative learning environments. Key themes include preference for mixed reality over purely virtual environments, virtual sp",
+      "resume_fr": "This study explores user needs for the Musical Metaverse (MM) through a series of workshops with electroacoustic composers, classical musicians, and music producers. Using a design approach based on the prompt \"as if by magic,\" participants were invited to reflect on how the MM could impact their practice in composition, performance, and education domains. While groups maintain distinct priorities based on their roles, they share interests in educational applications and creative learning environments. Key themes include preference for mixed reality over purely virtual environments, virtual sp",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "Post-Grokking Collapse at the Representation-Readout Interface in Muon-Trained Transformers",
       "url": "https://arxiv.org/abs/2608.07436v1",
@@ -1158,82 +1234,6 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
-    },
-    {
-      "title": "Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes",
-      "url": "https://arxiv.org/abs/2607.26338v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-07-28T23:20:53.000Z",
-      "score": 50,
-      "summary_en": "Artificial Intelligence (AI) is transforming higher education, but its benefits can vary depending on where, how, and how often it supports learning. While prior research emphasizes cognitive and academic outcomes, this study examines how AI chatbots support the psychological needs and motivational states of engineering students. A survey of college engineering students (n = 206) examined perceived effects of AI chatbots on autonomy, relatedness, and relief from competence frustration. Structural equation modeling with latent interaction effects examined how baseline autonomy, competence frust",
-      "summary_fr": "Artificial Intelligence (AI) is transforming higher education, but its benefits can vary depending on where, how, and how often it supports learning. While prior research emphasizes cognitive and academic outcomes, this study examines how AI chatbots support the psychological needs and motivational states of engineering students. A survey of college engineering students (n = 206) examined perceived effects of AI chatbots on autonomy, relatedness, and relief from competence frustration. Structural equation modeling with latent interaction effects examined how baseline autonomy, competence frust",
-      "resume_fr": "Artificial Intelligence (AI) is transforming higher education, but its benefits can vary depending on where, how, and how often it supports learning. While prior research emphasizes cognitive and academic outcomes, this study examines how AI chatbots support the psychological needs and motivational states of engineering students. A survey of college engineering students (n = 206) examined perceived effects of AI chatbots on autonomy, relatedness, and relief from competence frustration. Structural equation modeling with latent interaction effects examined how baseline autonomy, competence frust",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach",
-      "url": "https://arxiv.org/abs/2607.26317v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-07-28T22:33:16.000Z",
-      "score": 50,
-      "summary_en": "Psychometric calibration for educational tests typically requires costly human response data. Large language models (LLMs) simulated examinees offer a promising route to early calibration, but their responses are too accurate and too uniform. We propose Cognitive Diagnostic Profiling (CDP), a zero-shot framework that prompts LLMs to simulate plausible examinees with diverse cognitive profiles: binary attribute-mastery patterns are rendered as natural-language profiles and sampled under an uninformative or an informative distribution. Using the Tatsuoka fraction-subtraction dataset (536 examine",
-      "summary_fr": "Psychometric calibration for educational tests typically requires costly human response data. Large language models (LLMs) simulated examinees offer a promising route to early calibration, but their responses are too accurate and too uniform. We propose Cognitive Diagnostic Profiling (CDP), a zero-shot framework that prompts LLMs to simulate plausible examinees with diverse cognitive profiles: binary attribute-mastery patterns are rendered as natural-language profiles and sampled under an uninformative or an informative distribution. Using the Tatsuoka fraction-subtraction dataset (536 examine",
-      "resume_fr": "Psychometric calibration for educational tests typically requires costly human response data. Large language models (LLMs) simulated examinees offer a promising route to early calibration, but their responses are too accurate and too uniform. We propose Cognitive Diagnostic Profiling (CDP), a zero-shot framework that prompts LLMs to simulate plausible examinees with diverse cognitive profiles: binary attribute-mastery patterns are rendered as natural-language profiles and sampled under an uninformative or an informative distribution. Using the Tatsuoka fraction-subtraction dataset (536 examine",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2607.26057v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-07-28T17:59:46.000Z",
-      "score": 70,
-      "summary_en": "On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreliable supervision and waste compute. We identify a teacher-student continuation asymmetry on failed prefixes, where the teacher tends to redirect while the student continues along the original direction, and convert it into a label-free handoff trigger in Relay On-Policy Distillation (Relay-OPD). During traini",
-      "summary_fr": "On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreliable supervision and waste compute. We identify a teacher-student continuation asymmetry on failed prefixes, where the teacher tends to redirect while the student continues along the original direction, and convert it into a label-free handoff trigger in Relay On-Policy Distillation (Relay-OPD). During traini",
-      "resume_fr": "On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreliable supervision and waste compute. We identify a teacher-student continuation asymmetry on failed prefixes, where the teacher tends to redirect while the student continues along the original direction, and convert it into a label-free handoff trigger in Relay On-Policy Distillation (Relay-OPD). During traini",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "$π\\mathbf{R}^2$: Reactive Real-time Flow Policies",
-      "url": "https://arxiv.org/abs/2607.26055v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-07-28T17:59:31.000Z",
-      "score": 85,
-      "summary_en": "Generalist manipulation policies increasingly take the form of action-chunking flow policies built on large pretrained backbones. Such chunks run open-loop, so the policy cannot react to sensory input arriving mid-execution, sacrificing \\emph{reactivity}. Replanning more often would restore it, but the perception-to-action pipeline (a large backbone plus multiple denoising steps) is too slow: this \\emph{latency} forbids frequent replanning and leaves committed actions stale, making such policies ill-suited for dynamic, closed-loop control. We present $π\\mathbf{R}^2$, which makes these policies",
-      "summary_fr": "Generalist manipulation policies increasingly take the form of action-chunking flow policies built on large pretrained backbones. Such chunks run open-loop, so the policy cannot react to sensory input arriving mid-execution, sacrificing \\emph{reactivity}. Replanning more often would restore it, but the perception-to-action pipeline (a large backbone plus multiple denoising steps) is too slow: this \\emph{latency} forbids frequent replanning and leaves committed actions stale, making such policies ill-suited for dynamic, closed-loop control. We present $π\\mathbf{R}^2$, which makes these policies",
-      "resume_fr": "Generalist manipulation policies increasingly take the form of action-chunking flow policies built on large pretrained backbones. Such chunks run open-loop, so the policy cannot react to sensory input arriving mid-execution, sacrificing \\emph{reactivity}. Replanning more often would restore it, but the perception-to-action pipeline (a large backbone plus multiple denoising steps) is too slow: this \\emph{latency} forbids frequent replanning and leaves committed actions stale, making such policies ill-suited for dynamic, closed-loop control. We present $π\\mathbf{R}^2$, which makes these policies",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
 }
