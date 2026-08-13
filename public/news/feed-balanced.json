@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-12T07:47:00.380Z",
+  "generatedAt": "2026-08-13T07:48:09.160Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
-  "totalAnalyzed": 91,
+  "totalAnalyzed": 71,
   "totalPublished": 60,
   "publishTarget": "default",
   "debug": {
@@ -95,6 +95,63 @@
     }
   },
   "items": [
+    {
+      "title": "A Framework for Designing Reward Functions: From Objectives to Features to Human-Aligned Reward Functions",
+      "url": "https://arxiv.org/abs/2608.12302v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-08-12T17:46:00.000Z",
+      "score": 70,
+      "summary_en": "We present a formal process to enable non-experts to instantiate and iterate on human-aligned reward functions, i.e. reward functions that adhere to a given preference ordering over trajectories. Given a task described in natural language, our process produces a linear reward function in three steps: distill the task's objectives into a set of fundamental objectives and derive measurable outcome variables that capture those fundamental objectives, select a causally representative subset of outcome variables as the reward terms, and fit weights to those reward terms via preference elicitation. ",
+      "summary_fr": "We present a formal process to enable non-experts to instantiate and iterate on human-aligned reward functions, i.e. reward functions that adhere to a given preference ordering over trajectories. Given a task described in natural language, our process produces a linear reward function in three steps: distill the task's objectives into a set of fundamental objectives and derive measurable outcome variables that capture those fundamental objectives, select a causally representative subset of outcome variables as the reward terms, and fit weights to those reward terms via preference elicitation. ",
+      "resume_fr": "We present a formal process to enable non-experts to instantiate and iterate on human-aligned reward functions, i.e. reward functions that adhere to a given preference ordering over trajectories. Given a task described in natural language, our process produces a linear reward function in three steps: distill the task's objectives into a set of fundamental objectives and derive measurable outcome variables that capture those fundamental objectives, select a causally representative subset of outcome variables as the reward terms, and fit weights to those reward terms via preference elicitation. ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Making AI-Generated Feedback Matter: From Provision to Student Enactment",
+      "url": "https://arxiv.org/abs/2608.11625v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-08-12T04:12:34.000Z",
+      "score": 85,
+      "summary_en": "Feedback processes strongly influence student learning, yet their educational value depends on addressing two distinct challenges: providing high-quality, timely, and individualised feedback at scale, and supporting students to interpret, evaluate, and act on that feedback productively. Generative AI offers a credible means of addressing the provision challenge, but students' uptake of AI-generated feedback remains limited. We conducted a large-scale quasi-experimental sequential cohort study comparing three AI-mediated feedback workflows across 13,037 students and 51,296 student-authored reso",
+      "summary_fr": "Feedback processes strongly influence student learning, yet their educational value depends on addressing two distinct challenges: providing high-quality, timely, and individualised feedback at scale, and supporting students to interpret, evaluate, and act on that feedback productively. Generative AI offers a credible means of addressing the provision challenge, but students' uptake of AI-generated feedback remains limited. We conducted a large-scale quasi-experimental sequential cohort study comparing three AI-mediated feedback workflows across 13,037 students and 51,296 student-authored reso",
+      "resume_fr": "Feedback processes strongly influence student learning, yet their educational value depends on addressing two distinct challenges: providing high-quality, timely, and individualised feedback at scale, and supporting students to interpret, evaluate, and act on that feedback productively. Generative AI offers a credible means of addressing the provision challenge, but students' uptake of AI-generated feedback remains limited. We conducted a large-scale quasi-experimental sequential cohort study comparing three AI-mediated feedback workflows across 13,037 students and 51,296 student-authored reso",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era",
+      "url": "https://arxiv.org/abs/2608.11540v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-08-12T01:09:37.000Z",
+      "score": 85,
+      "summary_en": "The convergence of artificial intelligence (AI), Industrial Internet of Things, cyber-physical systems, and advanced robotics is reshaping manufacturing faster than engineering curricula can adapt, widening the gap between the competencies required on the shop floor and those delivered by traditional engineering and technology education. This paper proposes a Workforce Readiness Level (WRL) framework, which adapts the Technology Readiness Level scale into nine progressive competency stages and a four-pillar rubric, digital and AI literacy, cyber-physical systems fluency, human-machine collabor",
+      "summary_fr": "The convergence of artificial intelligence (AI), Industrial Internet of Things, cyber-physical systems, and advanced robotics is reshaping manufacturing faster than engineering curricula can adapt, widening the gap between the competencies required on the shop floor and those delivered by traditional engineering and technology education. This paper proposes a Workforce Readiness Level (WRL) framework, which adapts the Technology Readiness Level scale into nine progressive competency stages and a four-pillar rubric, digital and AI literacy, cyber-physical systems fluency, human-machine collabor",
+      "resume_fr": "The convergence of artificial intelligence (AI), Industrial Internet of Things, cyber-physical systems, and advanced robotics is reshaping manufacturing faster than engineering curricula can adapt, widening the gap between the competencies required on the shop floor and those delivered by traditional engineering and technology education. This paper proposes a Workforce Readiness Level (WRL) framework, which adapts the Technology Readiness Level scale into nine progressive competency stages and a four-pillar rubric, digital and AI literacy, cyber-physical systems fluency, human-machine collabor",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
       "url": "https://arxiv.org/abs/2608.11200v1",
@@ -1176,63 +1233,6 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Beyond pilotitis: Zimbabwe calls for continental action on foundational numeracy",
-      "url": "https://world-education-blog.org/2026/07/30/beyond-pilotitis-zimbabwe-calls-for-continental-action-on-foundational-numeracy/",
-      "source": "UNESCO GEM – World Education Blog",
-      "published": "2026-07-30T14:46:07.000Z",
-      "score": 65,
-      "summary_en": "By Prof. Torerayi Moyo, Honorable Minister of Primary and Secondary Education, Zimbabwe During the Foundational Learning Exchange 2026 in Lilongwe, Zimbabwe’s Minister of Primary and Secondary Education, Hon. Prof. Torerayi Moyo, made the case for giving foundational numeracy the same priority as literacy — and called for the development of an Africa Foundational Numeracy White […] The post Beyond pilotitis: Zimbabwe calls for continental action on foundational numeracy appeared first on World Education Blog.",
-      "summary_fr": "By Prof. Torerayi Moyo, Honorable Minister of Primary and Secondary Education, Zimbabwe During the Foundational Learning Exchange 2026 in Lilongwe, Zimbabwe’s Minister of Primary and Secondary Education, Hon. Prof. Torerayi Moyo, made the case for giving foundational numeracy the same priority as literacy — and called for the development of an Africa Foundational Numeracy White […] The post Beyond pilotitis: Zimbabwe calls for continental action on foundational numeracy appeared first on World Education Blog.",
-      "resume_fr": "By Prof. Torerayi Moyo, Honorable Minister of Primary and Secondary Education, Zimbabwe During the Foundational Learning Exchange 2026 in Lilongwe, Zimbabwe’s Minister of Primary and Secondary Education, Hon. Prof. Torerayi Moyo, made the case for giving foundational numeracy the same priority as literacy — and called for the development of an Africa Foundational Numeracy White […] The post Beyond pilotitis: Zimbabwe calls for continental action on foundational numeracy appeared first on World Education Blog.",
-      "tags": [],
-      "breakdown": {
-        "research": 0,
-        "policy": 35,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=world-education-blog.org&sz=128"
-    },
-    {
-      "title": "AI and Authenticity in Islamic Research: A Critical Evaluation of Generative AI Reliability, Hallucination, and Source Fidelity in Quranic, Hadith, and Fiqh Knowledge",
-      "url": "https://arxiv.org/abs/2607.28237v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-07-30T14:04:41.000Z",
-      "score": 50,
-      "summary_en": "Generative Artificial Intelligence (AI) is increasingly used by Muslims for religious guidance, Qur'anic interpretation, Hadith explanation, jurisprudential rulings, and Islamic education. Despite its growing adoption, there is limited empirical evidence on whether current AI systems provide authentic, verifiable, and trustworthy Islamic knowledge suitable for high-trust religious contexts. This study evaluates six leading generative AI systems using fifty realistic open-ended Islamic questions covering Qur'anic interpretation, Hadith, Fiqh, ethics, pastoral advice, and Madhhab-sensitive topic",
-      "summary_fr": "Generative Artificial Intelligence (AI) is increasingly used by Muslims for religious guidance, Qur'anic interpretation, Hadith explanation, jurisprudential rulings, and Islamic education. Despite its growing adoption, there is limited empirical evidence on whether current AI systems provide authentic, verifiable, and trustworthy Islamic knowledge suitable for high-trust religious contexts. This study evaluates six leading generative AI systems using fifty realistic open-ended Islamic questions covering Qur'anic interpretation, Hadith, Fiqh, ethics, pastoral advice, and Madhhab-sensitive topic",
-      "resume_fr": "Generative Artificial Intelligence (AI) is increasingly used by Muslims for religious guidance, Qur'anic interpretation, Hadith explanation, jurisprudential rulings, and Islamic education. Despite its growing adoption, there is limited empirical evidence on whether current AI systems provide authentic, verifiable, and trustworthy Islamic knowledge suitable for high-trust religious contexts. This study evaluates six leading generative AI systems using fifty realistic open-ended Islamic questions covering Qur'anic interpretation, Hadith, Fiqh, ethics, pastoral advice, and Madhhab-sensitive topic",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education",
-      "url": "https://arxiv.org/abs/2607.28203v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-07-30T13:40:56.000Z",
-      "score": 50,
-      "summary_en": "Students differ in how they prefer to engage with learning resources, with some favoring textual materials and others visual or video-based content. Recent advances in generative AI have led CS education research to focus on text-based AI tools for developing learning resources. However, advances in AI video models and the rapid proliferation of AI video generation tools have made it possible for instructors to create high-quality personalized educational videos efficiently and cost-effectively. Understanding students' perceptions of AI-generated videos is thus critical for helping CS instruct",
-      "summary_fr": "Students differ in how they prefer to engage with learning resources, with some favoring textual materials and others visual or video-based content. Recent advances in generative AI have led CS education research to focus on text-based AI tools for developing learning resources. However, advances in AI video models and the rapid proliferation of AI video generation tools have made it possible for instructors to create high-quality personalized educational videos efficiently and cost-effectively. Understanding students' perceptions of AI-generated videos is thus critical for helping CS instruct",
-      "resume_fr": "Students differ in how they prefer to engage with learning resources, with some favoring textual materials and others visual or video-based content. Recent advances in generative AI have led CS education research to focus on text-based AI tools for developing learning resources. However, advances in AI video models and the rapid proliferation of AI video generation tools have made it possible for instructors to create high-quality personalized educational videos efficiently and cost-effectively. Understanding students' perceptions of AI-generated videos is thus critical for helping CS instruct",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
