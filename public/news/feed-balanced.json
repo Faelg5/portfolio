@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-13T07:48:09.160Z",
+  "generatedAt": "2026-08-14T07:46:17.159Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
-  "totalAnalyzed": 71,
+  "totalAnalyzed": 100,
   "totalPublished": 60,
   "publishTarget": "default",
   "debug": {
@@ -96,6 +96,120 @@
   },
   "items": [
     {
+      "title": "Safety vs. Social Image: Co-Designing Protection Mechanisms Against Ableist Harassment with People with Disabilities in Social Virtual Reality",
+      "url": "https://arxiv.org/abs/2608.13532v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-08-13T17:49:00.000Z",
+      "score": 65,
+      "summary_en": "People with disabilities (PWD) increasingly use avatars to express disability identities in social virtual reality (VR), but greater visibility also invites targeted harassment. Existing safety features are often insufficient, overlooking PWD's experiences and needs. To address this gap, we co-designed protection mechanisms with 11 PWD to reveal their values and needs. Our research employed a social lens to interpret harassment behaviors and protection mechanisms. Inspired by Hall's Proxemics Theory that interpersonal distances indicate social intent and boundaries, we divided social VR spaces",
+      "summary_fr": "People with disabilities (PWD) increasingly use avatars to express disability identities in social virtual reality (VR), but greater visibility also invites targeted harassment. Existing safety features are often insufficient, overlooking PWD's experiences and needs. To address this gap, we co-designed protection mechanisms with 11 PWD to reveal their values and needs. Our research employed a social lens to interpret harassment behaviors and protection mechanisms. Inspired by Hall's Proxemics Theory that interpersonal distances indicate social intent and boundaries, we divided social VR spaces",
+      "resume_fr": "People with disabilities (PWD) increasingly use avatars to express disability identities in social virtual reality (VR), but greater visibility also invites targeted harassment. Existing safety features are often insufficient, overlooking PWD's experiences and needs. To address this gap, we co-designed protection mechanisms with 11 PWD to reveal their values and needs. Our research employed a social lens to interpret harassment behaviors and protection mechanisms. Inspired by Hall's Proxemics Theory that interpersonal distances indicate social intent and boundaries, we divided social VR spaces",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+      "url": "https://arxiv.org/abs/2608.13522v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-08-13T17:41:27.000Z",
+      "score": 50,
+      "summary_en": "AI agents are increasingly used for programming, but do not provide any guarantee on the correctness of generated code. Verified code generation, in which an agent produces both an implementation and a machine-checked proof of its specification, offers a stronger path toward trustworthy AI-generated software. Existing benchmarks in this direction either focus on individual functions or only evaluate proof generation with provided implementations. It is still an open question whether agents can make coherent implementation and proof choices across real multi-module codebases. To bridge this gap",
+      "summary_fr": "AI agents are increasingly used for programming, but do not provide any guarantee on the correctness of generated code. Verified code generation, in which an agent produces both an implementation and a machine-checked proof of its specification, offers a stronger path toward trustworthy AI-generated software. Existing benchmarks in this direction either focus on individual functions or only evaluate proof generation with provided implementations. It is still an open question whether agents can make coherent implementation and proof choices across real multi-module codebases. To bridge this gap",
+      "resume_fr": "AI agents are increasingly used for programming, but do not provide any guarantee on the correctness of generated code. Verified code generation, in which an agent produces both an implementation and a machine-checked proof of its specification, offers a stronger path toward trustworthy AI-generated software. Existing benchmarks in this direction either focus on individual functions or only evaluate proof generation with provided implementations. It is still an open question whether agents can make coherent implementation and proof choices across real multi-module codebases. To bridge this gap",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Academic League of Artificial Intelligence - An Integrative Perspective of Teaching, Research, and Extension",
+      "url": "https://arxiv.org/abs/2608.13447v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-08-13T16:32:44.000Z",
+      "score": 50,
+      "summary_en": "Academic leagues have become important mechanisms for promoting extracurricular education and strengthening the integration between universities and society. This paper presents the organizational framework adopted by the Academic League of Artificial Intelligence (LIA) at the Federal University of Santa Catarina (UFSC), designed to integrate teaching, research, and university extension through a student-centered, project-based approach. The framework combines democratic governance, collaborative learning, and dynamic project organization to foster both technical and transversal competencies. ",
+      "summary_fr": "Academic leagues have become important mechanisms for promoting extracurricular education and strengthening the integration between universities and society. This paper presents the organizational framework adopted by the Academic League of Artificial Intelligence (LIA) at the Federal University of Santa Catarina (UFSC), designed to integrate teaching, research, and university extension through a student-centered, project-based approach. The framework combines democratic governance, collaborative learning, and dynamic project organization to foster both technical and transversal competencies. ",
+      "resume_fr": "Academic leagues have become important mechanisms for promoting extracurricular education and strengthening the integration between universities and society. This paper presents the organizational framework adopted by the Academic League of Artificial Intelligence (LIA) at the Federal University of Santa Catarina (UFSC), designed to integrate teaching, research, and university extension through a student-centered, project-based approach. The framework combines democratic governance, collaborative learning, and dynamic project organization to foster both technical and transversal competencies. ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Jointly Predicting Courses and Grades Using a Transformer-Based Model",
+      "url": "https://arxiv.org/abs/2608.13409v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-08-13T16:05:22.000Z",
+      "score": 65,
+      "summary_en": "Existing predictive models in learning analytics often treat student academic history as a simple sequence, overlooking the concurrent nature of courses taken within a semester. This simplification can lead to inaccurate performance predictions, particularly for students with heavy or challenging course loads. This paper introduces a TRansformer for Academic Course-grade Estimation (TRACE) that addresses this limitation by jointly predicting both the set of courses a student will take and their corresponding grades for an upcoming semester. Our approach encodes courses on a per-semester basis ",
+      "summary_fr": "Existing predictive models in learning analytics often treat student academic history as a simple sequence, overlooking the concurrent nature of courses taken within a semester. This simplification can lead to inaccurate performance predictions, particularly for students with heavy or challenging course loads. This paper introduces a TRansformer for Academic Course-grade Estimation (TRACE) that addresses this limitation by jointly predicting both the set of courses a student will take and their corresponding grades for an upcoming semester. Our approach encodes courses on a per-semester basis ",
+      "resume_fr": "Existing predictive models in learning analytics often treat student academic history as a simple sequence, overlooking the concurrent nature of courses taken within a semester. This simplification can lead to inaccurate performance predictions, particularly for students with heavy or challenging course loads. This paper introduces a TRansformer for Academic Course-grade Estimation (TRACE) that addresses this limitation by jointly predicting both the set of courses a student will take and their corresponding grades for an upcoming semester. Our approach encodes courses on a per-semester basis ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "How LLMs Respond to Escalating Delusions: Four Longitudinal Trajectories of Model Behavior",
+      "url": "https://arxiv.org/abs/2608.13017v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-08-13T09:36:40.000Z",
+      "score": 65,
+      "summary_en": "The widespread use of LLMs among psychiatric populations has raised concerns regarding their safety and potential iatrogenic impact in the context of AI psychosis. While growing literature conceptualizes AI psychosis and documents case studies, empirical evidence tracing AI-exacerbated psychotic processes remains scarce. We propose and test a longitudinal qualitative evaluation design, supported by automated metrics, to assess mainstream LLMs' potential to exacerbate psychosis. Fifteen widely used LLMs were prompted across 30 days using the same 30-message script, simulating progression from m",
+      "summary_fr": "The widespread use of LLMs among psychiatric populations has raised concerns regarding their safety and potential iatrogenic impact in the context of AI psychosis. While growing literature conceptualizes AI psychosis and documents case studies, empirical evidence tracing AI-exacerbated psychotic processes remains scarce. We propose and test a longitudinal qualitative evaluation design, supported by automated metrics, to assess mainstream LLMs' potential to exacerbate psychosis. Fifteen widely used LLMs were prompted across 30 days using the same 30-message script, simulating progression from m",
+      "resume_fr": "The widespread use of LLMs among psychiatric populations has raised concerns regarding their safety and potential iatrogenic impact in the context of AI psychosis. While growing literature conceptualizes AI psychosis and documents case studies, empirical evidence tracing AI-exacerbated psychotic processes remains scarce. We propose and test a longitudinal qualitative evaluation design, supported by automated metrics, to assess mainstream LLMs' potential to exacerbate psychosis. Fifteen widely used LLMs were prompted across 30 days using the same 30-message script, simulating progression from m",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Transforming Interactions in Thesis Supervision: An Exposé-First Workflow in Higher Education",
+      "url": "https://arxiv.org/abs/2608.12546v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-08-12T19:36:49.000Z",
+      "score": 100,
+      "summary_en": "At the studied research institute, one professorship oversees approximately 20 theses per semester, while day-to-day supervision is distributed among doctoral and postdoctoral researchers. To manage this supervision demand, the institute uses an exposé-first workflow in which students prepare a research proposal before entering the main thesis-writing phase. This paper asks how students, supervisors, and administrators experience the exposé-first workflow as a structured process for early thesis preparation, and how it redistributes responsibility, supervision, and administrative coordination ",
+      "summary_fr": "At the studied research institute, one professorship oversees approximately 20 theses per semester, while day-to-day supervision is distributed among doctoral and postdoctoral researchers. To manage this supervision demand, the institute uses an exposé-first workflow in which students prepare a research proposal before entering the main thesis-writing phase. This paper asks how students, supervisors, and administrators experience the exposé-first workflow as a structured process for early thesis preparation, and how it redistributes responsibility, supervision, and administrative coordination ",
+      "resume_fr": "At the studied research institute, one professorship oversees approximately 20 theses per semester, while day-to-day supervision is distributed among doctoral and postdoctoral researchers. To manage this supervision demand, the institute uses an exposé-first workflow in which students prepare a research proposal before entering the main thesis-writing phase. This paper asks how students, supervisors, and administrators experience the exposé-first workflow as a structured process for early thesis preparation, and how it redistributes responsibility, supervision, and administrative coordination ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
       "title": "A Framework for Designing Reward Functions: From Objectives to Features to Human-Aligned Reward Functions",
       "url": "https://arxiv.org/abs/2608.12302v1",
       "source": "arXiv – cs.LG + learning analytics",
@@ -151,6 +265,25 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Learning contact representations in real-world clutter for universal robotic grasping",
+      "url": "https://www.nature.com/articles/s42256-026-01292-y",
+      "source": "Nature Machine Intelligence",
+      "published": "2026-08-12T00:00:00.000Z",
+      "score": 70,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
     },
     {
       "title": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
@@ -303,6 +436,25 @@
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Impact-resistant, autonomous robots inspired by tensegrity architecture",
+      "url": "https://www.nature.com/articles/s42256-026-01280-2",
+      "source": "Nature Machine Intelligence",
+      "published": "2026-08-10T00:00:00.000Z",
+      "score": 70,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
     },
     {
       "title": "Imagining the Musical Metaverse: a study on the needs and creative practices of composers and musicians",
@@ -1081,158 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth",
-      "url": "https://arxiv.org/abs/2607.28890v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-07-30T23:16:41.000Z",
-      "score": 50,
-      "summary_en": "Evaluations of LLM-assisted qualitative coding almost universally measure model performance as agreement with human coders, a practice that presumes human coding is the standard to approximate. This study provides empirical evidence that the presumption fails in ways agreement metrics cannot detect. Five LLM systems and three trained human coders independently applied a 72-item hierarchical codebook to 2,560 educator messages from a K-12 AI platform. Beyond conventional agreement analysis, an independent domain expert judged 855 pairwise comparisons of code sets blind to source, treating human",
-      "summary_fr": "Evaluations of LLM-assisted qualitative coding almost universally measure model performance as agreement with human coders, a practice that presumes human coding is the standard to approximate. This study provides empirical evidence that the presumption fails in ways agreement metrics cannot detect. Five LLM systems and three trained human coders independently applied a 72-item hierarchical codebook to 2,560 educator messages from a K-12 AI platform. Beyond conventional agreement analysis, an independent domain expert judged 855 pairwise comparisons of code sets blind to source, treating human",
-      "resume_fr": "Evaluations of LLM-assisted qualitative coding almost universally measure model performance as agreement with human coders, a practice that presumes human coding is the standard to approximate. This study provides empirical evidence that the presumption fails in ways agreement metrics cannot detect. Five LLM systems and three trained human coders independently applied a 72-item hierarchical codebook to 2,560 educator messages from a K-12 AI platform. Beyond conventional agreement analysis, an independent domain expert judged 855 pairwise comparisons of code sets blind to source, treating human",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use",
-      "url": "https://arxiv.org/abs/2607.28889v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-07-30T23:16:20.000Z",
-      "score": 50,
-      "summary_en": "Qualitative researchers increasingly encounter interaction corpora whose scale exceeds what manual coding alone can address, and large language models (LLMs) are frequently proposed as analytic assistants. The open questions are not whether LLMs can participate in qualitative analysis but to what extent, in what phases, and under what safeguards. This article provides a detailed procedural account of a multi-phase human-LLM collaborative pipeline that adapted open, axial, and selective coding to develop a hierarchical codebook from 45,000 messages exchanged between K-12 educators and a generat",
-      "summary_fr": "Qualitative researchers increasingly encounter interaction corpora whose scale exceeds what manual coding alone can address, and large language models (LLMs) are frequently proposed as analytic assistants. The open questions are not whether LLMs can participate in qualitative analysis but to what extent, in what phases, and under what safeguards. This article provides a detailed procedural account of a multi-phase human-LLM collaborative pipeline that adapted open, axial, and selective coding to develop a hierarchical codebook from 45,000 messages exchanged between K-12 educators and a generat",
-      "resume_fr": "Qualitative researchers increasingly encounter interaction corpora whose scale exceeds what manual coding alone can address, and large language models (LLMs) are frequently proposed as analytic assistants. The open questions are not whether LLMs can participate in qualitative analysis but to what extent, in what phases, and under what safeguards. This article provides a detailed procedural account of a multi-phase human-LLM collaborative pipeline that adapted open, axial, and selective coding to develop a hierarchical codebook from 45,000 messages exchanged between K-12 educators and a generat",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "IEEE Publishing Ethics Team Upholds Research Integrity",
-      "url": "https://spectrum.ieee.org/ieee-publishing-ethics-research-integrity",
-      "source": "IEEE Spectrum – AI",
-      "published": "2026-07-30T18:00:03.000Z",
-      "score": 70,
-      "summary_en": "Given a rising number of publishing misconduct allegations, IEEE in 2022 created the Publishing Ethics Team as a centralized department to assist in handling claims. The group also works to increase the organization’s visibility in the broader publishing ethics area and helps IEEE volunteers write new policies. Here are some highlights of the team’s activities last year. New detection tools IEEE conducted a pilot program in 2024 to integrate tools from the International Association of Scientific, Technical, and Medical Publishers (STM) Integrity Hub into the peer-review workflow of IEEE Access",
-      "summary_fr": "Given a rising number of publishing misconduct allegations, IEEE in 2022 created the Publishing Ethics Team as a centralized department to assist in handling claims. The group also works to increase the organization’s visibility in the broader publishing ethics area and helps IEEE volunteers write new policies. Here are some highlights of the team’s activities last year. New detection tools IEEE conducted a pilot program in 2024 to integrate tools from the International Association of Scientific, Technical, and Medical Publishers (STM) Integrity Hub into the peer-review workflow of IEEE Access",
-      "resume_fr": "Given a rising number of publishing misconduct allegations, IEEE in 2022 created the Publishing Ethics Team as a centralized department to assist in handling claims. The group also works to increase the organization’s visibility in the broader publishing ethics area and helps IEEE volunteers write new policies. Here are some highlights of the team’s activities last year. New detection tools IEEE conducted a pilot program in 2024 to integrate tools from the International Association of Scientific, Technical, and Medical Publishers (STM) Integrity Hub into the peer-review workflow of IEEE Access",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
-    },
-    {
-      "title": "Learning to Trace Seiberg Dualities",
-      "url": "https://arxiv.org/abs/2607.28628v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-07-30T17:59:56.000Z",
-      "score": 50,
-      "summary_en": "Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establish when two systems are dual, even when all of the \"rules of the game\" are well-known. Said differently, when confronted with two systems, how can one efficiently establish that they are in fact dual? In this paper we use machine learning methods to address this question for Seiberg dualities of supersymmetric quiver gauge theories. Mathematically, this involves establishing mutations of quivers,",
-      "summary_fr": "Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establish when two systems are dual, even when all of the \"rules of the game\" are well-known. Said differently, when confronted with two systems, how can one efficiently establish that they are in fact dual? In this paper we use machine learning methods to address this question for Seiberg dualities of supersymmetric quiver gauge theories. Mathematically, this involves establishing mutations of quivers,",
-      "resume_fr": "Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establish when two systems are dual, even when all of the \"rules of the game\" are well-known. Said differently, when confronted with two systems, how can one efficiently establish that they are in fact dual? In this paper we use machine learning methods to address this question for Seiberg dualities of supersymmetric quiver gauge theories. Mathematically, this involves establishing mutations of quivers,",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
-      "url": "https://arxiv.org/abs/2607.28609v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-07-30T17:57:41.000Z",
-      "score": 70,
-      "summary_en": "Computer-using agents (CUAs) are advancing rapidly across the digital world. A CUA trajectory records the agent's actions, states, and reasoning. Verifying whether it fulfilled the task instruction is central to CUA evaluation, data curation, and reinforcement learning. Neither human-written verifiers nor human annotators can provide such verification at scale, so the field increasingly turns to vision-language models (VLMs) as judges of CUA trajectories. But a fundamental question has long gone unexamined: are these VLM judges reliable enough? To study it systematically, we introduce OSReward",
-      "summary_fr": "Computer-using agents (CUAs) are advancing rapidly across the digital world. A CUA trajectory records the agent's actions, states, and reasoning. Verifying whether it fulfilled the task instruction is central to CUA evaluation, data curation, and reinforcement learning. Neither human-written verifiers nor human annotators can provide such verification at scale, so the field increasingly turns to vision-language models (VLMs) as judges of CUA trajectories. But a fundamental question has long gone unexamined: are these VLM judges reliable enough? To study it systematically, we introduce OSReward",
-      "resume_fr": "Computer-using agents (CUAs) are advancing rapidly across the digital world. A CUA trajectory records the agent's actions, states, and reasoning. Verifying whether it fulfilled the task instruction is central to CUA evaluation, data curation, and reinforcement learning. Neither human-written verifiers nor human annotators can provide such verification at scale, so the field increasingly turns to vision-language models (VLMs) as judges of CUA trajectories. But a fundamental question has long gone unexamined: are these VLM judges reliable enough? To study it systematically, we introduce OSReward",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2607.28590v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-07-30T17:43:46.000Z",
-      "score": 70,
-      "summary_en": "Multimodal on-policy distillation (OPD) transfers fine-grained visual knowledge by supervising student-generated trajectories with a privileged-view teacher. Yet its next-token corrections are source-mixed, combining visual signals with linguistic priors and teacher-specific effects. The key challenge is to estimate which corrections are supported by visual evidence, not merely where or how strongly to distill. We introduce Visual Attribution Distillation (VAD), a counterfactual target-reconstruction algorithm that estimates the visually attributable part of a teacher correction. At each stude",
-      "summary_fr": "Multimodal on-policy distillation (OPD) transfers fine-grained visual knowledge by supervising student-generated trajectories with a privileged-view teacher. Yet its next-token corrections are source-mixed, combining visual signals with linguistic priors and teacher-specific effects. The key challenge is to estimate which corrections are supported by visual evidence, not merely where or how strongly to distill. We introduce Visual Attribution Distillation (VAD), a counterfactual target-reconstruction algorithm that estimates the visually attributable part of a teacher correction. At each stude",
-      "resume_fr": "Multimodal on-policy distillation (OPD) transfers fine-grained visual knowledge by supervising student-generated trajectories with a privileged-view teacher. Yet its next-token corrections are source-mixed, combining visual signals with linguistic priors and teacher-specific effects. The key challenge is to estimate which corrections are supported by visual evidence, not merely where or how strongly to distill. We introduce Visual Attribution Distillation (VAD), a counterfactual target-reconstruction algorithm that estimates the visually attributable part of a teacher correction. At each stude",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers",
-      "url": "https://arxiv.org/abs/2607.28589v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-07-30T17:43:36.000Z",
-      "score": 50,
-      "summary_en": "Post-training quantization (PTQ) has emerged as an effective solution for deploying Vision Transformers (ViTs) on resource-constrained devices. However, existing PTQ methods typically employ uniform bit-widths across transformer components, overlooking their heterogeneous sensitivity to quantization and leading to inefficient precision allocation. In this paper, we propose {MixFrag, a fragility-guided mixed-precision PTQ framework for Vision Transformers. MixFrag first estimates component-level quantization fragility by measuring the Kullback--Leibler (KL) divergence between full-precision and",
-      "summary_fr": "Post-training quantization (PTQ) has emerged as an effective solution for deploying Vision Transformers (ViTs) on resource-constrained devices. However, existing PTQ methods typically employ uniform bit-widths across transformer components, overlooking their heterogeneous sensitivity to quantization and leading to inefficient precision allocation. In this paper, we propose {MixFrag, a fragility-guided mixed-precision PTQ framework for Vision Transformers. MixFrag first estimates component-level quantization fragility by measuring the Kullback--Leibler (KL) divergence between full-precision and",
-      "resume_fr": "Post-training quantization (PTQ) has emerged as an effective solution for deploying Vision Transformers (ViTs) on resource-constrained devices. However, existing PTQ methods typically employ uniform bit-widths across transformer components, overlooking their heterogeneous sensitivity to quantization and leading to inefficient precision allocation. In this paper, we propose {MixFrag, a fragility-guided mixed-precision PTQ framework for Vision Transformers. MixFrag first estimates component-level quantization fragility by measuring the Kullback--Leibler (KL) divergence between full-precision and",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "$β$-OPSD: Deriving with Policy Optimization, Training with Self-Distillation",
-      "url": "https://arxiv.org/abs/2607.28582v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-07-30T17:41:16.000Z",
-      "score": 70,
-      "summary_en": "On-policy self-distillation (OPSD) is a promising approach to improve reasoning language models, but it remains brittle in practice: making it work reliably often requires substantial engineering effort. We identify a structural source of this difficulty: vanilla OPSD is precisely the $β=1$ member of a broader policy-optimization family, where $β$ weights the KL penalty anchoring the student to a reference policy. This equivalence turns $β$ from an implicit value fixed at one into a controllable regularization parameter, yielding a more general formulation that trades off proximity to a refere",
-      "summary_fr": "On-policy self-distillation (OPSD) is a promising approach to improve reasoning language models, but it remains brittle in practice: making it work reliably often requires substantial engineering effort. We identify a structural source of this difficulty: vanilla OPSD is precisely the $β=1$ member of a broader policy-optimization family, where $β$ weights the KL penalty anchoring the student to a reference policy. This equivalence turns $β$ from an implicit value fixed at one into a controllable regularization parameter, yielding a more general formulation that trades off proximity to a refere",
-      "resume_fr": "On-policy self-distillation (OPSD) is a promising approach to improve reasoning language models, but it remains brittle in practice: making it work reliably often requires substantial engineering effort. We identify a structural source of this difficulty: vanilla OPSD is precisely the $β=1$ member of a broader policy-optimization family, where $β$ weights the KL penalty anchoring the student to a reference policy. This equivalence turns $β$ from an implicit value fixed at one into a controllable regularization parameter, yielding a more general formulation that trades off proximity to a refere",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
