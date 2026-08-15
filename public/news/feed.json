@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T07:46:17.159Z",
+  "generatedAt": "2026-08-15T06:54:28.628Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,25 @@
     }
   },
   "items": [
+    {
+      "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
+      "url": "https://spectrum.ieee.org/digital-signal-processing",
+      "source": "IEEE Spectrum – AI",
+      "published": "2026-08-14T18:00:02.000Z",
+      "score": 50,
+      "summary_en": "Bede Liu, a digital signal processing pioneer, died on 7 May. He was 91. Liu was widely regarded as one of the founders of modern digital signal processing, a field that applies mathematical algorithms to analyze, modify, and transmit signals including sound, images, and video. The IEEE Life Fellow taught electrical engineering at Princeton for more than 50 years. From 1994 to 1997, he chaired the university’s electrical and computer engineering department. Liu’s research aided the transition from analog to digital processing of sound, images, and video. His work helped establish many of the m",
+      "summary_fr": "Bede Liu, a digital signal processing pioneer, died on 7 May. He was 91. Liu was widely regarded as one of the founders of modern digital signal processing, a field that applies mathematical algorithms to analyze, modify, and transmit signals including sound, images, and video. The IEEE Life Fellow taught electrical engineering at Princeton for more than 50 years. From 1994 to 1997, he chaired the university’s electrical and computer engineering department. Liu’s research aided the transition from analog to digital processing of sound, images, and video. His work helped establish many of the m",
+      "resume_fr": "Bede Liu, a digital signal processing pioneer, died on 7 May. He was 91. Liu was widely regarded as one of the founders of modern digital signal processing, a field that applies mathematical algorithms to analyze, modify, and transmit signals including sound, images, and video. The IEEE Life Fellow taught electrical engineering at Princeton for more than 50 years. From 1994 to 1997, he chaired the university’s electrical and computer engineering department. Liu’s research aided the transition from analog to digital processing of sound, images, and video. His work helped establish many of the m",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
+    },
     {
       "title": "Safety vs. Social Image: Co-Designing Protection Mechanisms Against Ableist Harassment with People with Disabilities in Social Virtual Reality",
       "url": "https://arxiv.org/abs/2608.13532v1",
@@ -1214,25 +1233,6 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game",
-      "url": "https://arxiv.org/abs/2607.29300v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-07-31T11:17:06.000Z",
-      "score": 50,
-      "summary_en": "This paper discusses games, their use in education, and previous work on integrating game engines and learning management systems (LMS). It proposes a bidirectional integration where game environments are generated using LMS content, introducing the concept of hypergamification as the use of a comprehensive game environment rather than isolated game design elements. A working pilot implementation of an importable Unity package for Blackboard integration is demonstrated, along with a demo game that uses the developed package. The paper also discusses the limitations of the proposed approach and",
-      "summary_fr": "This paper discusses games, their use in education, and previous work on integrating game engines and learning management systems (LMS). It proposes a bidirectional integration where game environments are generated using LMS content, introducing the concept of hypergamification as the use of a comprehensive game environment rather than isolated game design elements. A working pilot implementation of an importable Unity package for Blackboard integration is demonstrated, along with a demo game that uses the developed package. The paper also discusses the limitations of the proposed approach and",
-      "resume_fr": "This paper discusses games, their use in education, and previous work on integrating game engines and learning management systems (LMS). It proposes a bidirectional integration where game environments are generated using LMS content, introducing the concept of hypergamification as the use of a comprehensive game environment rather than isolated game design elements. A working pilot implementation of an importable Unity package for Blackboard integration is demonstrated, along with a demo game that uses the developed package. The paper also discusses the limitations of the proposed approach and",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
