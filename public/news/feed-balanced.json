@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T07:12:34.079Z",
+  "generatedAt": "2026-08-18T07:00:13.964Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,120 @@
     }
   },
   "items": [
+    {
+      "title": "An Analytical-Prior Framework for Data-Efficient Prediction of Sound-Reduction Frequencies in Rectangular Side-Branch Helmholtz Resonators",
+      "url": "https://arxiv.org/abs/2608.16873v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-08-17T17:53:14.000Z",
+      "score": 85,
+      "summary_en": "High-fidelity finite-element simulations can provide accurate numerical predictions for side-branch resonators, but large simulation datasets are expensive to generate and purely data-driven surrogates may become unreliable when simulation-labelled data are scarce. This study develops an analytical-prior learning framework that reuses a low-cost analytical model to improve data efficiency under limited high-fidelity simulation budgets. Two complementary routes are considered. When the analytical model remains available at inference, it is retained as an explicit baseline and the simulation dat",
+      "summary_fr": "High-fidelity finite-element simulations can provide accurate numerical predictions for side-branch resonators, but large simulation datasets are expensive to generate and purely data-driven surrogates may become unreliable when simulation-labelled data are scarce. This study develops an analytical-prior learning framework that reuses a low-cost analytical model to improve data efficiency under limited high-fidelity simulation budgets. Two complementary routes are considered. When the analytical model remains available at inference, it is retained as an explicit baseline and the simulation dat",
+      "resume_fr": "High-fidelity finite-element simulations can provide accurate numerical predictions for side-branch resonators, but large simulation datasets are expensive to generate and purely data-driven surrogates may become unreliable when simulation-labelled data are scarce. This study develops an analytical-prior learning framework that reuses a low-cost analytical model to improve data efficiency under limited high-fidelity simulation budgets. Two complementary routes are considered. When the analytical model remains available at inference, it is retained as an explicit baseline and the simulation dat",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Proteus: Incremental Memory Activation for Long-Context Sequence Modeling",
+      "url": "https://arxiv.org/abs/2608.16844v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-08-17T17:30:43.000Z",
+      "score": 70,
+      "summary_en": "The quadratic cost of attention-based sequence models for long contexts has motivated a growing line of research on memory-based models that can compress context into a compact state. However, most existing memory models expose a static memory throughout the entire sequence. Because early tokens face no compression pressure, they occupy too many degrees of freedom and \"pollute\" the memory state, leaving little capacity for later context and increasing interference between what is stored and what arrives next. We study a new paradigm of incremental memory activation, where the effective capacit",
+      "summary_fr": "The quadratic cost of attention-based sequence models for long contexts has motivated a growing line of research on memory-based models that can compress context into a compact state. However, most existing memory models expose a static memory throughout the entire sequence. Because early tokens face no compression pressure, they occupy too many degrees of freedom and \"pollute\" the memory state, leaving little capacity for later context and increasing interference between what is stored and what arrives next. We study a new paradigm of incremental memory activation, where the effective capacit",
+      "resume_fr": "The quadratic cost of attention-based sequence models for long contexts has motivated a growing line of research on memory-based models that can compress context into a compact state. However, most existing memory models expose a static memory throughout the entire sequence. Because early tokens face no compression pressure, they occupy too many degrees of freedom and \"pollute\" the memory state, leaving little capacity for later context and increasing interference between what is stored and what arrives next. We study a new paradigm of incremental memory activation, where the effective capacit",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Policy Iteration with Human Feedback: Bringing Post-Training RL to In-context Learning",
+      "url": "https://arxiv.org/abs/2608.16831v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-08-17T17:16:43.000Z",
+      "score": 70,
+      "summary_en": "Generative pretraining established reusable task representations; later work on language-based task conditioning and in-context learning showed that a fixed model could adapt its behavior from instructions and demonstrations. Policy Iteration with Human Feedback (PIHF) builds on this development and the recurrent evaluate-and-improve structure of generalized policy iteration. PIHF uses a pretrained language model as its execution substrate and moves persistent revision to a versioned natural-language policy and tool set. A language-model critic and clinical expert review complete-panel reasoni",
+      "summary_fr": "Generative pretraining established reusable task representations; later work on language-based task conditioning and in-context learning showed that a fixed model could adapt its behavior from instructions and demonstrations. Policy Iteration with Human Feedback (PIHF) builds on this development and the recurrent evaluate-and-improve structure of generalized policy iteration. PIHF uses a pretrained language model as its execution substrate and moves persistent revision to a versioned natural-language policy and tool set. A language-model critic and clinical expert review complete-panel reasoni",
+      "resume_fr": "Generative pretraining established reusable task representations; later work on language-based task conditioning and in-context learning showed that a fixed model could adapt its behavior from instructions and demonstrations. Policy Iteration with Human Feedback (PIHF) builds on this development and the recurrent evaluate-and-improve structure of generalized policy iteration. PIHF uses a pretrained language model as its execution substrate and moves persistent revision to a versioned natural-language policy and tool set. A language-model critic and clinical expert review complete-panel reasoni",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "ClawGym II: Exploring Black-Box RL on Agent Harness",
+      "url": "https://arxiv.org/abs/2608.16798v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-08-17T16:53:03.000Z",
+      "score": 70,
+      "summary_en": "Agent harnesses have substantially improved performance on long-horizon tasks by coordinating agent interactions with the environment. However, reinforcement learning through complex harnesses remains largely unexplored, as scaling such training to long-horizon agent tasks introduces fundamental challenges. In this work, we present a unified black-box RL framework for stable and scalable optimization of general agents through complex harnesses. Concretely, we first build a sandbox-based execution infrastructure that isolates task environments and harnesses within temporary sandboxes for large-",
+      "summary_fr": "Agent harnesses have substantially improved performance on long-horizon tasks by coordinating agent interactions with the environment. However, reinforcement learning through complex harnesses remains largely unexplored, as scaling such training to long-horizon agent tasks introduces fundamental challenges. In this work, we present a unified black-box RL framework for stable and scalable optimization of general agents through complex harnesses. Concretely, we first build a sandbox-based execution infrastructure that isolates task environments and harnesses within temporary sandboxes for large-",
+      "resume_fr": "Agent harnesses have substantially improved performance on long-horizon tasks by coordinating agent interactions with the environment. However, reinforcement learning through complex harnesses remains largely unexplored, as scaling such training to long-horizon agent tasks introduces fundamental challenges. In this work, we present a unified black-box RL framework for stable and scalable optimization of general agents through complex harnesses. Concretely, we first build a sandbox-based execution infrastructure that isolates task environments and harnesses within temporary sandboxes for large-",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "PolyDebate: A Game-Orchestrated Multimodal System for Debate Skills Practice and Evaluation",
+      "url": "https://arxiv.org/abs/2608.16276v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-08-17T08:49:39.000Z",
+      "score": 85,
+      "summary_en": "Debate is a structured form of persuasive communication that trains argument construction, rebuttal, oral delivery, and audience awareness. These skills are valued in education, language learning, and professional communication. Recent AI debate systems and LLM-based judges have advanced argument generation and debate evaluation, but most remain text-centered and rarely support learners through a complete multimodal practice experience. We introduce PolyDebate, a game-orchestrated multimodal system for English debate practice and evaluation. PolyDebate guides learners through staged one-on-one",
+      "summary_fr": "Debate is a structured form of persuasive communication that trains argument construction, rebuttal, oral delivery, and audience awareness. These skills are valued in education, language learning, and professional communication. Recent AI debate systems and LLM-based judges have advanced argument generation and debate evaluation, but most remain text-centered and rarely support learners through a complete multimodal practice experience. We introduce PolyDebate, a game-orchestrated multimodal system for English debate practice and evaluation. PolyDebate guides learners through staged one-on-one",
+      "resume_fr": "Debate is a structured form of persuasive communication that trains argument construction, rebuttal, oral delivery, and audience awareness. These skills are valued in education, language learning, and professional communication. Recent AI debate systems and LLM-based judges have advanced argument generation and debate evaluation, but most remain text-centered and rarely support learners through a complete multimodal practice experience. We introduce PolyDebate, a game-orchestrated multimodal system for English debate practice and evaluation. PolyDebate guides learners through staged one-on-one",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Who's Keeping Score? Interactive Steering of LLM-Powered Scoring with Attune",
+      "url": "https://arxiv.org/abs/2608.14948v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-08-15T00:06:02.000Z",
+      "score": 85,
+      "summary_en": "Large language models (LLMs) are increasingly used to score text records at scale (e.g., rating candidate resumes on a 1-5 scale). However, existing LLM-powered approaches do not account for the fact that effective scoring requires both holistic understanding of records and locally consistent judgments across similar ones. We present Attune, a mixed-initiative system for steerable LLM-powered scoring. Given a task description and scoring range, Attune performs pairwise comparisons across records to develop a global understanding first, and then resolves these comparisons into consistent score ",
+      "summary_fr": "Large language models (LLMs) are increasingly used to score text records at scale (e.g., rating candidate resumes on a 1-5 scale). However, existing LLM-powered approaches do not account for the fact that effective scoring requires both holistic understanding of records and locally consistent judgments across similar ones. We present Attune, a mixed-initiative system for steerable LLM-powered scoring. Given a task description and scoring range, Attune performs pairwise comparisons across records to develop a global understanding first, and then resolves these comparisons into consistent score ",
+      "resume_fr": "Large language models (LLMs) are increasingly used to score text records at scale (e.g., rating candidate resumes on a 1-5 scale). However, existing LLM-powered approaches do not account for the fact that effective scoring requires both holistic understanding of records and locally consistent judgments across similar ones. We present Attune, a mixed-initiative system for steerable LLM-powered scoring. Given a task description and scoring range, Attune performs pairwise comparisons across records to develop a global understanding first, and then resolves these comparisons into consistent score ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
       "url": "https://spectrum.ieee.org/digital-signal-processing",
@@ -1111,120 +1225,6 @@
       "summary_en": "This work-in-progress research paper explores Chat-Debugging, a novel use case for large language models as an assistant for hardware debugging tasks to improve students' debugging skills. Hardware debugging can be a time-consuming and stressful skill to develop, leading to frustration and other negative emotions. While past work has explored streamlining and automating software-based circuit debugging where digital circuits are dominant, Chat-Debugging aids in physical hardware debugging where circuits may be analog, digital, or mixed-signal. Qualitative data were collected from LLM chat logs",
       "summary_fr": "This work-in-progress research paper explores Chat-Debugging, a novel use case for large language models as an assistant for hardware debugging tasks to improve students' debugging skills. Hardware debugging can be a time-consuming and stressful skill to develop, leading to frustration and other negative emotions. While past work has explored streamlining and automating software-based circuit debugging where digital circuits are dominant, Chat-Debugging aids in physical hardware debugging where circuits may be analog, digital, or mixed-signal. Qualitative data were collected from LLM chat logs",
       "resume_fr": "This work-in-progress research paper explores Chat-Debugging, a novel use case for large language models as an assistant for hardware debugging tasks to improve students' debugging skills. Hardware debugging can be a time-consuming and stressful skill to develop, leading to frustration and other negative emotions. While past work has explored streamlining and automating software-based circuit debugging where digital circuits are dominant, Chat-Debugging aids in physical hardware debugging where circuits may be analog, digital, or mixed-signal. Qualitative data were collected from LLM chat logs",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers",
-      "url": "https://arxiv.org/abs/2608.02024v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-08-03T10:23:42.000Z",
-      "score": 85,
-      "summary_en": "Large language models (LLMs) are increasingly used across diverse tasks in K-12 education, yet existing safety evaluations rarely examine how harmful or inappropriate content appears in interactions between LLMs and students or teachers. To address this, we present EduZone, an evaluation framework for LLM safety across diverse educational scenarios. Our framework systematically combines (1) student- and teacher-facing LLM usage contexts, (2) fine-grained curriculum concepts, and (3) 6 risk categories and 28 subcategories spanning both conventional and education-specific harms to generate conte",
-      "summary_fr": "Large language models (LLMs) are increasingly used across diverse tasks in K-12 education, yet existing safety evaluations rarely examine how harmful or inappropriate content appears in interactions between LLMs and students or teachers. To address this, we present EduZone, an evaluation framework for LLM safety across diverse educational scenarios. Our framework systematically combines (1) student- and teacher-facing LLM usage contexts, (2) fine-grained curriculum concepts, and (3) 6 risk categories and 28 subcategories spanning both conventional and education-specific harms to generate conte",
-      "resume_fr": "Large language models (LLMs) are increasingly used across diverse tasks in K-12 education, yet existing safety evaluations rarely examine how harmful or inappropriate content appears in interactions between LLMs and students or teachers. To address this, we present EduZone, an evaluation framework for LLM safety across diverse educational scenarios. Our framework systematically combines (1) student- and teacher-facing LLM usage contexts, (2) fine-grained curriculum concepts, and (3) 6 risk categories and 28 subcategories spanning both conventional and education-specific harms to generate conte",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Investigating Social Bias in Narrative Image Generation",
-      "url": "https://arxiv.org/abs/2608.01780v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-08-03T06:56:26.000Z",
-      "score": 50,
-      "summary_en": "Text-to-image (T2I) generation models are increasingly embedded in applications such as media content creation and education, raising concerns about how their outputs may reproduce social biases. Prior work has shown that T2I models exhibit social biases, yet existing evaluations largely focus on a photo generation task. As a result, it remains unclear whether and how such biases manifest in more narrative visual formats, such as storyboards and comics, where characters and events are presented across multiple panels. In this work, we compare bias expression across photo, storyboard, and comic",
-      "summary_fr": "Text-to-image (T2I) generation models are increasingly embedded in applications such as media content creation and education, raising concerns about how their outputs may reproduce social biases. Prior work has shown that T2I models exhibit social biases, yet existing evaluations largely focus on a photo generation task. As a result, it remains unclear whether and how such biases manifest in more narrative visual formats, such as storyboards and comics, where characters and events are presented across multiple panels. In this work, we compare bias expression across photo, storyboard, and comic",
-      "resume_fr": "Text-to-image (T2I) generation models are increasingly embedded in applications such as media content creation and education, raising concerns about how their outputs may reproduce social biases. Prior work has shown that T2I models exhibit social biases, yet existing evaluations largely focus on a photo generation task. As a result, it remains unclear whether and how such biases manifest in more narrative visual formats, such as storyboards and comics, where characters and events are presented across multiple panels. In this work, we compare bias expression across photo, storyboard, and comic",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education",
-      "url": "https://arxiv.org/abs/2608.01705v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-08-03T05:10:21.000Z",
-      "score": 85,
-      "summary_en": "Generative artificial intelligence (GenAI) has entered classrooms faster than teachers have been prepared to use it well, producing a GenAI literacy lag in which technological diffusion outpaces educators' conceptual, pedagogical, and ethical readiness. Established AI literacy frameworks predate the widespread adoption of large language models and, while acknowledging ethics, position it as a discrete competency rather than a constitutive commitment, with equity and agency as supplementary design principles. Recent GenAI-specific efforts address isolated features but remain fragmented. We intr",
-      "summary_fr": "Generative artificial intelligence (GenAI) has entered classrooms faster than teachers have been prepared to use it well, producing a GenAI literacy lag in which technological diffusion outpaces educators' conceptual, pedagogical, and ethical readiness. Established AI literacy frameworks predate the widespread adoption of large language models and, while acknowledging ethics, position it as a discrete competency rather than a constitutive commitment, with equity and agency as supplementary design principles. Recent GenAI-specific efforts address isolated features but remain fragmented. We intr",
-      "resume_fr": "Generative artificial intelligence (GenAI) has entered classrooms faster than teachers have been prepared to use it well, producing a GenAI literacy lag in which technological diffusion outpaces educators' conceptual, pedagogical, and ethical readiness. Established AI literacy frameworks predate the widespread adoption of large language models and, while acknowledging ethics, position it as a discrete competency rather than a constitutive commitment, with equity and agency as supplementary design principles. Recent GenAI-specific efforts address isolated features but remain fragmented. We intr",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Exploring Usability and Legal Practice: Insights from German Judicial Users of Digital Forensics",
-      "url": "https://arxiv.org/abs/2608.00541v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-08-01T08:54:54.000Z",
-      "score": 85,
-      "summary_en": "Digital forensics has become an integral part of modern criminal proceedings, yet its effective integration remains challenging because of increasing data volumes, evolving technologies, and complex interactions between technical and legal stakeholders. Although prior work has focused primarily on digital forensic tools and methods, its broader procedural and organizational context has received limited attention. Building on emerging perspectives inspired by usability research and human-centered security, we conceptualize digital forensics as part of a socio-technical system within criminal pr",
-      "summary_fr": "Digital forensics has become an integral part of modern criminal proceedings, yet its effective integration remains challenging because of increasing data volumes, evolving technologies, and complex interactions between technical and legal stakeholders. Although prior work has focused primarily on digital forensic tools and methods, its broader procedural and organizational context has received limited attention. Building on emerging perspectives inspired by usability research and human-centered security, we conceptualize digital forensics as part of a socio-technical system within criminal pr",
-      "resume_fr": "Digital forensics has become an integral part of modern criminal proceedings, yet its effective integration remains challenging because of increasing data volumes, evolving technologies, and complex interactions between technical and legal stakeholders. Although prior work has focused primarily on digital forensic tools and methods, its broader procedural and organizational context has received limited attention. Building on emerging perspectives inspired by usability research and human-centered security, we conceptualize digital forensics as part of a socio-technical system within criminal pr",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "TokTier: Exact Stateful Tokenization for Agentic LLM Serving",
-      "url": "https://arxiv.org/abs/2607.29678v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-07-31T17:56:30.000Z",
-      "score": 70,
-      "summary_en": "LLM serving systems cache prompt KV state, yet most front ends still re-tokenize the full request text on every call. The cost lands on coding agents, which resubmit a long transcript after each small tool result, and reuse is hard because even a short append can change token boundaries near the end of the previous sequence. Across 153,951 calls from two agent ecosystems, the median call appends about 1.4K characters, and only 1.0-3.6% of calls start or rebuild a session with contexts of millions of characters. At a 94.1% fleet prompt-cache hit rate, tokenization reaches up to 64% of time to f",
-      "summary_fr": "LLM serving systems cache prompt KV state, yet most front ends still re-tokenize the full request text on every call. The cost lands on coding agents, which resubmit a long transcript after each small tool result, and reuse is hard because even a short append can change token boundaries near the end of the previous sequence. Across 153,951 calls from two agent ecosystems, the median call appends about 1.4K characters, and only 1.0-3.6% of calls start or rebuild a session with contexts of millions of characters. At a 94.1% fleet prompt-cache hit rate, tokenization reaches up to 64% of time to f",
-      "resume_fr": "LLM serving systems cache prompt KV state, yet most front ends still re-tokenize the full request text on every call. The cost lands on coding agents, which resubmit a long transcript after each small tool result, and reuse is hard because even a short append can change token boundaries near the end of the previous sequence. Across 153,951 calls from two agent ecosystems, the median call appends about 1.4K characters, and only 1.0-3.6% of calls start or rebuild a session with contexts of millions of characters. At a 94.1% fleet prompt-cache hit rate, tokenization reaches up to 64% of time to f",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations",
-      "url": "https://arxiv.org/abs/2607.29624v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-07-31T16:57:49.000Z",
-      "score": 50,
-      "summary_en": "Traditional static assessments rely on a subtractive, deficit-based grading model that often penalizes ambition and obscures diagnostic feedback. Conversely, traditional face-to-face oral examinations introduce severe construct-irrelevant variance by exacerbating performative anxiety and the sociological power imbalances inherent to academic hierarchies. This paper presents the theoretical foundation for the \"Socratic Test,\" an automated, computer-mediated conversational assessment. By integrating Dynamic Assessment principles, multimodal workspaces, Bloom's Taxonomy for real-time proctoring, ",
-      "summary_fr": "Traditional static assessments rely on a subtractive, deficit-based grading model that often penalizes ambition and obscures diagnostic feedback. Conversely, traditional face-to-face oral examinations introduce severe construct-irrelevant variance by exacerbating performative anxiety and the sociological power imbalances inherent to academic hierarchies. This paper presents the theoretical foundation for the \"Socratic Test,\" an automated, computer-mediated conversational assessment. By integrating Dynamic Assessment principles, multimodal workspaces, Bloom's Taxonomy for real-time proctoring, ",
-      "resume_fr": "Traditional static assessments rely on a subtractive, deficit-based grading model that often penalizes ambition and obscures diagnostic feedback. Conversely, traditional face-to-face oral examinations introduce severe construct-irrelevant variance by exacerbating performative anxiety and the sociological power imbalances inherent to academic hierarchies. This paper presents the theoretical foundation for the \"Socratic Test,\" an automated, computer-mediated conversational assessment. By integrating Dynamic Assessment principles, multimodal workspaces, Bloom's Taxonomy for real-time proctoring, ",
       "tags": [],
       "breakdown": {
         "research": 35,
