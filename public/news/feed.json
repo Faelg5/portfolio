@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-18T07:00:13.964Z",
+  "generatedAt": "2026-08-19T07:01:23.813Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
-  "totalAnalyzed": 100,
+  "totalAnalyzed": 89,
   "totalPublished": 60,
   "publishTarget": "default",
   "debug": {
@@ -95,6 +95,63 @@
     }
   },
   "items": [
+    {
+      "title": "Analysis of Types of Inquiries in Student-AI Interaction: A case study of two CS2 tasks",
+      "url": "https://arxiv.org/abs/2608.17919v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-08-18T15:45:06.000Z",
+      "score": 100,
+      "summary_en": "Background and Context: Question and inquiry are integral parts of knowledge seeking and learning. Despite their importance, students tend not to ask enough questions in the classroom. However, studies have shown that students interact extensively with generative AI systems for learning and problem solving. Objective: In this paper, we seek to better understand the types of questions that students ask AI systems, and how those questions evolve during problem solving and across tasks. Method: We use the Graesser et al. taxonomy to classify students' inquiries into 18 types. We develop a few-sho",
+      "summary_fr": "Background and Context: Question and inquiry are integral parts of knowledge seeking and learning. Despite their importance, students tend not to ask enough questions in the classroom. However, studies have shown that students interact extensively with generative AI systems for learning and problem solving. Objective: In this paper, we seek to better understand the types of questions that students ask AI systems, and how those questions evolve during problem solving and across tasks. Method: We use the Graesser et al. taxonomy to classify students' inquiries into 18 types. We develop a few-sho",
+      "resume_fr": "Background and Context: Question and inquiry are integral parts of knowledge seeking and learning. Despite their importance, students tend not to ask enough questions in the classroom. However, studies have shown that students interact extensively with generative AI systems for learning and problem solving. Objective: In this paper, we seek to better understand the types of questions that students ask AI systems, and how those questions evolve during problem solving and across tasks. Method: We use the Graesser et al. taxonomy to classify students' inquiries into 18 types. We develop a few-sho",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "From Student Risk Prediction to SC2R: Semantics-Constrained Counterfactual Recourse for Educational Decision Support",
+      "url": "https://arxiv.org/abs/2608.17618v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-08-18T10:33:21.000Z",
+      "score": 85,
+      "summary_en": "Learning analytics models can identify students at risk of poor performance, but they do not directly indicate which interventions are feasible, actionable, and compatible with educational constraints. This paper introduces SC2R, a semantics-constrained counterfactual recourse framework for educational decision support. SC2R combines a calibrated predictive model, integer-programming-based recourse generation over discrete action variables, a lightweight RDF vocabulary for intervention-plan representation, and SHACL validation for enforcing timing, budget, immutability, and availability constr",
+      "summary_fr": "Learning analytics models can identify students at risk of poor performance, but they do not directly indicate which interventions are feasible, actionable, and compatible with educational constraints. This paper introduces SC2R, a semantics-constrained counterfactual recourse framework for educational decision support. SC2R combines a calibrated predictive model, integer-programming-based recourse generation over discrete action variables, a lightweight RDF vocabulary for intervention-plan representation, and SHACL validation for enforcing timing, budget, immutability, and availability constr",
+      "resume_fr": "Learning analytics models can identify students at risk of poor performance, but they do not directly indicate which interventions are feasible, actionable, and compatible with educational constraints. This paper introduces SC2R, a semantics-constrained counterfactual recourse framework for educational decision support. SC2R combines a calibrated predictive model, integer-programming-based recourse generation over discrete action variables, a lightweight RDF vocabulary for intervention-plan representation, and SHACL validation for enforcing timing, budget, immutability, and availability constr",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Explainable AI-Powered Framework for Video-Based Skill Assessment in Cataract Surgery",
+      "url": "https://arxiv.org/abs/2608.17522v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-08-18T08:45:27.000Z",
+      "score": 85,
+      "summary_en": "Persistent shortages in the surgical workforce and inherent limitations of traditional training methods highlight the necessity of automated, data-driven approaches in surgical education. This study addresses these challenges by introducing a novel, explainable AI-powered framework for automated skill assessment, specifically focusing on cataract surgery. We present the world's largest dataset of cataract surgery videos, comprising 2,000 recordings. Additionally, we propose an AI-powered analytical framework that employs advanced computer vision and signal-processing techniques to automaticall",
+      "summary_fr": "Persistent shortages in the surgical workforce and inherent limitations of traditional training methods highlight the necessity of automated, data-driven approaches in surgical education. This study addresses these challenges by introducing a novel, explainable AI-powered framework for automated skill assessment, specifically focusing on cataract surgery. We present the world's largest dataset of cataract surgery videos, comprising 2,000 recordings. Additionally, we propose an AI-powered analytical framework that employs advanced computer vision and signal-processing techniques to automaticall",
+      "resume_fr": "Persistent shortages in the surgical workforce and inherent limitations of traditional training methods highlight the necessity of automated, data-driven approaches in surgical education. This study addresses these challenges by introducing a novel, explainable AI-powered framework for automated skill assessment, specifically focusing on cataract surgery. We present the world's largest dataset of cataract surgery videos, comprising 2,000 recordings. Additionally, we propose an AI-powered analytical framework that employs advanced computer vision and signal-processing techniques to automaticall",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "An Analytical-Prior Framework for Data-Efficient Prediction of Sound-Reduction Frequencies in Rectangular Side-Branch Helmholtz Resonators",
       "url": "https://arxiv.org/abs/2608.16873v1",
@@ -1176,63 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs",
-      "url": "https://arxiv.org/abs/2608.02578v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-08-03T17:51:58.000Z",
-      "score": 70,
-      "summary_en": "World Action Models (WAMs) augment robot policies with action-conditioned predicted futures, but a plausible future alone does not justify changing the action that a bimanual policy would execute. We present CoWAM, a selective intervention layer that expresses synchronization, role compatibility, and collision convergence as coordination contracts. Each contract combines typed admissibility checks with event-conditioned verification and calibrated intervention gates. CoWAM preserves the nominal action unless an alternative satisfies every active obligation and provides a clear, low-risk improv",
-      "summary_fr": "World Action Models (WAMs) augment robot policies with action-conditioned predicted futures, but a plausible future alone does not justify changing the action that a bimanual policy would execute. We present CoWAM, a selective intervention layer that expresses synchronization, role compatibility, and collision convergence as coordination contracts. Each contract combines typed admissibility checks with event-conditioned verification and calibrated intervention gates. CoWAM preserves the nominal action unless an alternative satisfies every active obligation and provides a clear, low-risk improv",
-      "resume_fr": "World Action Models (WAMs) augment robot policies with action-conditioned predicted futures, but a plausible future alone does not justify changing the action that a bimanual policy would execute. We present CoWAM, a selective intervention layer that expresses synchronization, role compatibility, and collision convergence as coordination contracts. Each contract combines typed admissibility checks with event-conditioned verification and calibrated intervention gates. CoWAM preserves the nominal action unless an alternative satisfies every active obligation and provides a clear, low-risk improv",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Pseudorandom Streams within Diffusion Models Act as Learnable Inputs That Affect Generation Quality",
-      "url": "https://arxiv.org/abs/2608.02575v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-08-03T17:50:54.000Z",
-      "score": 70,
-      "summary_en": "Diffusion models rely on stochastic inputs, yet on finite-precision hardware, the \"randomness\" they consume is realized as deterministic numerical orbits generated by pseudorandom rules. Accessible orbit structure can become a learnable input and affect both training and generation because the realized loss and its gradient depend on the concrete pseudorandom values consumed at each optimization step. A small multilayer perceptron predicts the next value of an orbit from its recent history, measuring general sequence predictability. A diffusion probe replaces real images with online random ten",
-      "summary_fr": "Diffusion models rely on stochastic inputs, yet on finite-precision hardware, the \"randomness\" they consume is realized as deterministic numerical orbits generated by pseudorandom rules. Accessible orbit structure can become a learnable input and affect both training and generation because the realized loss and its gradient depend on the concrete pseudorandom values consumed at each optimization step. A small multilayer perceptron predicts the next value of an orbit from its recent history, measuring general sequence predictability. A diffusion probe replaces real images with online random ten",
-      "resume_fr": "Diffusion models rely on stochastic inputs, yet on finite-precision hardware, the \"randomness\" they consume is realized as deterministic numerical orbits generated by pseudorandom rules. Accessible orbit structure can become a learnable input and affect both training and generation because the realized loss and its gradient depend on the concrete pseudorandom values consumed at each optimization step. A small multilayer perceptron predicts the next value of an orbit from its recent history, measuring general sequence predictability. A diffusion probe replaces real images with online random ten",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant",
-      "url": "https://arxiv.org/abs/2608.02420v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-08-03T16:01:47.000Z",
-      "score": 50,
-      "summary_en": "This work-in-progress research paper explores Chat-Debugging, a novel use case for large language models as an assistant for hardware debugging tasks to improve students' debugging skills. Hardware debugging can be a time-consuming and stressful skill to develop, leading to frustration and other negative emotions. While past work has explored streamlining and automating software-based circuit debugging where digital circuits are dominant, Chat-Debugging aids in physical hardware debugging where circuits may be analog, digital, or mixed-signal. Qualitative data were collected from LLM chat logs",
-      "summary_fr": "This work-in-progress research paper explores Chat-Debugging, a novel use case for large language models as an assistant for hardware debugging tasks to improve students' debugging skills. Hardware debugging can be a time-consuming and stressful skill to develop, leading to frustration and other negative emotions. While past work has explored streamlining and automating software-based circuit debugging where digital circuits are dominant, Chat-Debugging aids in physical hardware debugging where circuits may be analog, digital, or mixed-signal. Qualitative data were collected from LLM chat logs",
-      "resume_fr": "This work-in-progress research paper explores Chat-Debugging, a novel use case for large language models as an assistant for hardware debugging tasks to improve students' debugging skills. Hardware debugging can be a time-consuming and stressful skill to develop, leading to frustration and other negative emotions. While past work has explored streamlining and automating software-based circuit debugging where digital circuits are dominant, Chat-Debugging aids in physical hardware debugging where circuits may be analog, digital, or mixed-signal. Qualitative data were collected from LLM chat logs",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
