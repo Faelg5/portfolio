@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-22T06:56:06.921Z",
+  "generatedAt": "2026-08-23T06:57:23.399Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
-  "totalAnalyzed": 83,
+  "totalAnalyzed": 100,
   "totalPublished": 60,
   "publishTarget": "default",
   "debug": {
@@ -150,6 +150,44 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Explainable Transformer Models for Clinical Prediction Tasks on Structured Electronic Health Records",
+      "url": "https://arxiv.org/abs/2608.20315v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-08-20T17:54:17.000Z",
+      "score": 50,
+      "summary_en": "Predictive models over structured electronic health records (EHRs) remain central to machine learning for healthcare, but few have jointly emphasized quantitative laboratory information and interpretability with respect to input medical events. We present BERT-LER, a BERT-style model for coded EHR timelines pretrained and fine-tuned from a de-identified EHR dataset of 75 million patients, that encodes laboratory test results as discrete tokens while retaining graded information through percentile-based binning, paired with Integrated Gradients for token-level attributions grounded in the input",
+      "summary_fr": "Predictive models over structured electronic health records (EHRs) remain central to machine learning for healthcare, but few have jointly emphasized quantitative laboratory information and interpretability with respect to input medical events. We present BERT-LER, a BERT-style model for coded EHR timelines pretrained and fine-tuned from a de-identified EHR dataset of 75 million patients, that encodes laboratory test results as discrete tokens while retaining graded information through percentile-based binning, paired with Integrated Gradients for token-level attributions grounded in the input",
+      "resume_fr": "Predictive models over structured electronic health records (EHRs) remain central to machine learning for healthcare, but few have jointly emphasized quantitative laboratory information and interpretability with respect to input medical events. We present BERT-LER, a BERT-style model for coded EHR timelines pretrained and fine-tuned from a de-identified EHR dataset of 75 million patients, that encodes laboratory test results as discrete tokens while retaining graded information through percentile-based binning, paired with Integrated Gradients for token-level attributions grounded in the input",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Physical-Support Confidence Sets for Highly Coherent Dictionaries",
+      "url": "https://arxiv.org/abs/2608.20295v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-08-20T17:35:26.000Z",
+      "score": 50,
+      "summary_en": "Sparse pursuit after dictionary learning can yield a precise atom support even when its physical interpretation is not justified by the calibration data, especially for highly coherent dictionaries where alternative calibration-compatible dictionaries may assign different physical meanings to the same selected support. We develop resolution-aware physical-support inference that jointly accounts for uncertainty in the learned dictionary and in the representation of a deployment signal. Our cross-dictionary confidence correspondence retains calibration-compatible dictionaries and deployment-comp",
+      "summary_fr": "Sparse pursuit after dictionary learning can yield a precise atom support even when its physical interpretation is not justified by the calibration data, especially for highly coherent dictionaries where alternative calibration-compatible dictionaries may assign different physical meanings to the same selected support. We develop resolution-aware physical-support inference that jointly accounts for uncertainty in the learned dictionary and in the representation of a deployment signal. Our cross-dictionary confidence correspondence retains calibration-compatible dictionaries and deployment-comp",
+      "resume_fr": "Sparse pursuit after dictionary learning can yield a precise atom support even when its physical interpretation is not justified by the calibration data, especially for highly coherent dictionaries where alternative calibration-compatible dictionaries may assign different physical meanings to the same selected support. We develop resolution-aware physical-support inference that jointly accounts for uncertainty in the learned dictionary and in the representation of a deployment signal. Our cross-dictionary confidence correspondence retains calibration-compatible dictionaries and deployment-comp",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
@@ -1195,44 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "SocietyBench: Forecasting Counterfactual Social-World Evolution",
-      "url": "https://arxiv.org/abs/2608.04009v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-08-04T17:59:56.000Z",
-      "score": 70,
-      "summary_en": "Large language models (LLMs), and the agents built on top of them, are now benchmarked heavily on whether they can finish a task -- fix a bug, drive a browser, operate a GUI. A complementary social ability, namely how well a model understands and forecasts the way real social events unfold, has barely been measured. We introduce SocietyBench, an end-to-end benchmark that takes a one-line event topic, collects Web news and social-media posts across five platforms, distills them into a date-indexed timeline that keeps factual events and a public-opinion layer separate, and then turns every cutof",
-      "summary_fr": "Large language models (LLMs), and the agents built on top of them, are now benchmarked heavily on whether they can finish a task -- fix a bug, drive a browser, operate a GUI. A complementary social ability, namely how well a model understands and forecasts the way real social events unfold, has barely been measured. We introduce SocietyBench, an end-to-end benchmark that takes a one-line event topic, collects Web news and social-media posts across five platforms, distills them into a date-indexed timeline that keeps factual events and a public-opinion layer separate, and then turns every cutof",
-      "resume_fr": "Large language models (LLMs), and the agents built on top of them, are now benchmarked heavily on whether they can finish a task -- fix a bug, drive a browser, operate a GUI. A complementary social ability, namely how well a model understands and forecasts the way real social events unfold, has barely been measured. We introduce SocietyBench, an end-to-end benchmark that takes a one-line event topic, collects Web news and social-media posts across five platforms, distills them into a date-indexed timeline that keeps factual events and a public-opinion layer separate, and then turns every cutof",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education",
-      "url": "https://arxiv.org/abs/2608.04006v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-08-04T17:59:20.000Z",
-      "score": 50,
-      "summary_en": "LLMs are reshaping educational technology, yet evaluating their responses for pedagogical alignment remains underexplored, relying heavily on the expertise of learning engineers building the technology. To bridge this gap, we explore trustworthiness as a structured lens for evaluation, leveraging existing measures of LLM trustworthiness to systematically identify potential pedagogical disruptions. Through a longitudinal co-design process with learning engineers developing an LLM-powered digital textbook, we: (1) co-constructed five trustworthiness metrics comprising 20 measures tailored to ped",
-      "summary_fr": "LLMs are reshaping educational technology, yet evaluating their responses for pedagogical alignment remains underexplored, relying heavily on the expertise of learning engineers building the technology. To bridge this gap, we explore trustworthiness as a structured lens for evaluation, leveraging existing measures of LLM trustworthiness to systematically identify potential pedagogical disruptions. Through a longitudinal co-design process with learning engineers developing an LLM-powered digital textbook, we: (1) co-constructed five trustworthiness metrics comprising 20 measures tailored to ped",
-      "resume_fr": "LLMs are reshaping educational technology, yet evaluating their responses for pedagogical alignment remains underexplored, relying heavily on the expertise of learning engineers building the technology. To bridge this gap, we explore trustworthiness as a structured lens for evaluation, leveraging existing measures of LLM trustworthiness to systematically identify potential pedagogical disruptions. Through a longitudinal co-design process with learning engineers developing an LLM-powered digital textbook, we: (1) co-constructed five trustworthiness metrics comprising 20 measures tailored to ped",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
