@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T07:04:36.801Z",
+  "generatedAt": "2026-08-26T07:04:42.935Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,120 @@
     }
   },
   "items": [
+    {
+      "title": "Shaping the Future of Generative AI for Black Communities: A Frame Analysis of Public Discourse and Empirical Scholarly Research",
+      "url": "https://arxiv.org/abs/2608.24767v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-08-25T16:05:45.000Z",
+      "score": 65,
+      "summary_en": "As generative AI (genAI) systems become embedded in education, employment, healthcare, and creative industries, the impact and engagement among marginalized groups have become both a widespread discourse and a focus in scholarly research. As a starting point, we examine public discourse and empirical research to explore the impact of genAI systems on Black communities. We conducted a systematic literature review (SLR) of 91 empirical papers alongside a media discourse frame analysis of 28 public resources, applying Entman's framing theory to map how each corpus defines problems, attributes cau",
+      "summary_fr": "As generative AI (genAI) systems become embedded in education, employment, healthcare, and creative industries, the impact and engagement among marginalized groups have become both a widespread discourse and a focus in scholarly research. As a starting point, we examine public discourse and empirical research to explore the impact of genAI systems on Black communities. We conducted a systematic literature review (SLR) of 91 empirical papers alongside a media discourse frame analysis of 28 public resources, applying Entman's framing theory to map how each corpus defines problems, attributes cau",
+      "resume_fr": "As generative AI (genAI) systems become embedded in education, employment, healthcare, and creative industries, the impact and engagement among marginalized groups have become both a widespread discourse and a focus in scholarly research. As a starting point, we examine public discourse and empirical research to explore the impact of genAI systems on Black communities. We conducted a systematic literature review (SLR) of 91 empirical papers alongside a media discourse frame analysis of 28 public resources, applying Entman's framing theory to map how each corpus defines problems, attributes cau",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Causal Modelling of Support Interventions for Student Competency Assessment",
+      "url": "https://arxiv.org/abs/2608.24632v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-08-25T14:46:00.000Z",
+      "score": 50,
+      "summary_en": "Accurate assessment of student competencies is essential for enabling educators to identify individual needs, design targeted interventions, and evaluate the effectiveness of educational strategies. Empirical assessment procedures are typically grounded in psychometric models, such as item response theory, which relate student competence levels to performance on assessment tasks. In this paper, we advocate adopting a structural causal modelling approach to educational assessment, moving beyond probabilistic belief updating toward a framework that explicitly supports interventional and counterf",
+      "summary_fr": "Accurate assessment of student competencies is essential for enabling educators to identify individual needs, design targeted interventions, and evaluate the effectiveness of educational strategies. Empirical assessment procedures are typically grounded in psychometric models, such as item response theory, which relate student competence levels to performance on assessment tasks. In this paper, we advocate adopting a structural causal modelling approach to educational assessment, moving beyond probabilistic belief updating toward a framework that explicitly supports interventional and counterf",
+      "resume_fr": "Accurate assessment of student competencies is essential for enabling educators to identify individual needs, design targeted interventions, and evaluate the effectiveness of educational strategies. Empirical assessment procedures are typically grounded in psychometric models, such as item response theory, which relate student competence levels to performance on assessment tasks. In this paper, we advocate adopting a structural causal modelling approach to educational assessment, moving beyond probabilistic belief updating toward a framework that explicitly supports interventional and counterf",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Mind the Student: Behavioral and Contextual Cues for Automated Engagement Prediction in Online Learning",
+      "url": "https://arxiv.org/abs/2608.24340v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-08-25T10:03:07.000Z",
+      "score": 50,
+      "summary_en": "The prediction of student engagement from the online tutoring videos is difficult because engagement is a multidimensional construct comprising distinct behavioral, emotional, and cognitive states. A reliable prediction requires bringing together different types of behavioral signals as well as expressive cues. Through our analysis of the CASED dataset, it is clear that engagement prediction gets even harder due to the high inter-person variability as well as the subjectivity of the engagement annotation. To tackle these challenges, we develop a multimodal framework that integrates the implici",
+      "summary_fr": "The prediction of student engagement from the online tutoring videos is difficult because engagement is a multidimensional construct comprising distinct behavioral, emotional, and cognitive states. A reliable prediction requires bringing together different types of behavioral signals as well as expressive cues. Through our analysis of the CASED dataset, it is clear that engagement prediction gets even harder due to the high inter-person variability as well as the subjectivity of the engagement annotation. To tackle these challenges, we develop a multimodal framework that integrates the implici",
+      "resume_fr": "The prediction of student engagement from the online tutoring videos is difficult because engagement is a multidimensional construct comprising distinct behavioral, emotional, and cognitive states. A reliable prediction requires bringing together different types of behavioral signals as well as expressive cues. Through our analysis of the CASED dataset, it is clear that engagement prediction gets even harder due to the high inter-person variability as well as the subjectivity of the engagement annotation. To tackle these challenges, we develop a multimodal framework that integrates the implici",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "When LLMs Slow Down: How Environmental Impacts Mediate University Students' LLM Usage",
+      "url": "https://arxiv.org/abs/2608.23968v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-08-25T01:46:54.000Z",
+      "score": 85,
+      "summary_en": "Large Language Models (LLMs) are increasingly being embedded into all facets of society, from search to education, industrial, and financial applications. These systems' carbon and water footprints raise important sustainability concerns, particularly with adoption rates exceeding 80% among university students, despite limited insight into the environmental impacts of individual usage. Eco-feedback interfaces offer a promising approach to encourage more sustainable behaviors, yet their role in shaping LLM users' sustainability awareness and decision-making remains underexplored. We design and ",
+      "summary_fr": "Large Language Models (LLMs) are increasingly being embedded into all facets of society, from search to education, industrial, and financial applications. These systems' carbon and water footprints raise important sustainability concerns, particularly with adoption rates exceeding 80% among university students, despite limited insight into the environmental impacts of individual usage. Eco-feedback interfaces offer a promising approach to encourage more sustainable behaviors, yet their role in shaping LLM users' sustainability awareness and decision-making remains underexplored. We design and ",
+      "resume_fr": "Large Language Models (LLMs) are increasingly being embedded into all facets of society, from search to education, industrial, and financial applications. These systems' carbon and water footprints raise important sustainability concerns, particularly with adoption rates exceeding 80% among university students, despite limited insight into the environmental impacts of individual usage. Eco-feedback interfaces offer a promising approach to encourage more sustainable behaviors, yet their role in shaping LLM users' sustainability awareness and decision-making remains underexplored. We design and ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring",
+      "url": "https://arxiv.org/abs/2608.23814v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-08-24T20:42:56.000Z",
+      "score": 85,
+      "summary_en": "Large Language Models (LLMs) demonstrate strong capabilities in automated essay scoring (AES), but contemporary approaches typically employ fixed prompt selection, failing to address operational cost concerns and evolving optimal configurations. We propose a novel cost-aware approach that treats each prompt type as an arm in a multi-armed bandit (MAB) controller, enabling adaptive selection of optimal prompting strategies during inference. Our experiments on IELTS Writing Task 2 essays show that the MAB framework achieves comparable scoring accuracy to exhaustive grid search while reducing LLM",
+      "summary_fr": "Large Language Models (LLMs) demonstrate strong capabilities in automated essay scoring (AES), but contemporary approaches typically employ fixed prompt selection, failing to address operational cost concerns and evolving optimal configurations. We propose a novel cost-aware approach that treats each prompt type as an arm in a multi-armed bandit (MAB) controller, enabling adaptive selection of optimal prompting strategies during inference. Our experiments on IELTS Writing Task 2 essays show that the MAB framework achieves comparable scoring accuracy to exhaustive grid search while reducing LLM",
+      "resume_fr": "Large Language Models (LLMs) demonstrate strong capabilities in automated essay scoring (AES), but contemporary approaches typically employ fixed prompt selection, failing to address operational cost concerns and evolving optimal configurations. We propose a novel cost-aware approach that treats each prompt type as an arm in a multi-armed bandit (MAB) controller, enabling adaptive selection of optimal prompting strategies during inference. Our experiments on IELTS Writing Task 2 essays show that the MAB framework achieves comparable scoring accuracy to exhaustive grid search while reducing LLM",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "When Youth Enter The Chat: An Epistemic Shift in the Validation of LLM-Based Measures of Student Talk",
+      "url": "https://arxiv.org/abs/2608.23780v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-08-24T19:25:12.000Z",
+      "score": 50,
+      "summary_en": "LLMs are being used increasingly to measure aspects of student discourse (e.g. talk moves, collaboration, equity of voice) at scale. Typically, LLM-based measures of student talk use transcriptions of classroom conversations that only include verbal contributions, which de-contextualize student language. Common practices for validating these measures include comparing outputs against expert annotations by adults, using held out evaluation sets and F1 scores. We argue that these approaches are insufficient to ensure that such measures are meaningful and equitable for teaching and learning, part",
+      "summary_fr": "LLMs are being used increasingly to measure aspects of student discourse (e.g. talk moves, collaboration, equity of voice) at scale. Typically, LLM-based measures of student talk use transcriptions of classroom conversations that only include verbal contributions, which de-contextualize student language. Common practices for validating these measures include comparing outputs against expert annotations by adults, using held out evaluation sets and F1 scores. We argue that these approaches are insufficient to ensure that such measures are meaningful and equitable for teaching and learning, part",
+      "resume_fr": "LLMs are being used increasingly to measure aspects of student discourse (e.g. talk moves, collaboration, equity of voice) at scale. Typically, LLM-based measures of student talk use transcriptions of classroom conversations that only include verbal contributions, which de-contextualize student language. Common practices for validating these measures include comparing outputs against expert annotations by adults, using held out evaluation sets and F1 scores. We argue that these approaches are insufficient to ensure that such measures are meaningful and equitable for teaching and learning, part",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
       "url": "https://arxiv.org/abs/2608.23564v1",
@@ -1119,120 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "ELBench: A Multi-Dimensional Benchmark for Education-Facing Large Language Models",
-      "url": "https://arxiv.org/abs/2608.09548v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-08-10T12:46:58.000Z",
-      "score": 50,
-      "summary_en": "Large language models are increasingly deployed in education as tutors, teaching assistants, and content generators. These roles place demands that ordinary question answering does not: a usable education-facing model is supposed to be accurate, safe under sensitive prompts, instructionally useful, and aligned with pedagogical goals at the same time. Existing benchmarks evaluate these requirements largely in isolation, so none assesses education-facing suitability as an integrated profile. We introduce ELBench, the first benchmark to evaluate all four requirements (General Capability, Safety a",
-      "summary_fr": "Large language models are increasingly deployed in education as tutors, teaching assistants, and content generators. These roles place demands that ordinary question answering does not: a usable education-facing model is supposed to be accurate, safe under sensitive prompts, instructionally useful, and aligned with pedagogical goals at the same time. Existing benchmarks evaluate these requirements largely in isolation, so none assesses education-facing suitability as an integrated profile. We introduce ELBench, the first benchmark to evaluate all four requirements (General Capability, Safety a",
-      "resume_fr": "Large language models are increasingly deployed in education as tutors, teaching assistants, and content generators. These roles place demands that ordinary question answering does not: a usable education-facing model is supposed to be accurate, safe under sensitive prompts, instructionally useful, and aligned with pedagogical goals at the same time. Existing benchmarks evaluate these requirements largely in isolation, so none assesses education-facing suitability as an integrated profile. We introduce ELBench, the first benchmark to evaluate all four requirements (General Capability, Safety a",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Impact-resistant, autonomous robots inspired by tensegrity architecture",
-      "url": "https://www.nature.com/articles/s42256-026-01280-2",
-      "source": "Nature Machine Intelligence",
-      "published": "2026-08-10T00:00:00.000Z",
-      "score": 70,
-      "summary_en": "",
-      "summary_fr": "",
-      "resume_fr": "",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
-    },
-    {
-      "title": "Imagining the Musical Metaverse: a study on the needs and creative practices of composers and musicians",
-      "url": "https://arxiv.org/abs/2608.08938v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-08-09T22:13:49.000Z",
-      "score": 85,
-      "summary_en": "This study explores user needs for the Musical Metaverse (MM) through a series of workshops with electroacoustic composers, classical musicians, and music producers. Using a design approach based on the prompt \"as if by magic,\" participants were invited to reflect on how the MM could impact their practice in composition, performance, and education domains. While groups maintain distinct priorities based on their roles, they share interests in educational applications and creative learning environments. Key themes include preference for mixed reality over purely virtual environments, virtual sp",
-      "summary_fr": "This study explores user needs for the Musical Metaverse (MM) through a series of workshops with electroacoustic composers, classical musicians, and music producers. Using a design approach based on the prompt \"as if by magic,\" participants were invited to reflect on how the MM could impact their practice in composition, performance, and education domains. While groups maintain distinct priorities based on their roles, they share interests in educational applications and creative learning environments. Key themes include preference for mixed reality over purely virtual environments, virtual sp",
-      "resume_fr": "This study explores user needs for the Musical Metaverse (MM) through a series of workshops with electroacoustic composers, classical musicians, and music producers. Using a design approach based on the prompt \"as if by magic,\" participants were invited to reflect on how the MM could impact their practice in composition, performance, and education domains. While groups maintain distinct priorities based on their roles, they share interests in educational applications and creative learning environments. Key themes include preference for mixed reality over purely virtual environments, virtual sp",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Post-Grokking Collapse at the Representation-Readout Interface in Muon-Trained Transformers",
-      "url": "https://arxiv.org/abs/2608.07436v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-08-07T17:21:49.000Z",
-      "score": 50,
-      "summary_en": "Under the standard split, Muon gets hidden matrices and AdamW embeddings/output head. Muon groks modular addition faster, but its solutions do not hold. All nine configurations on $(a+b) \\bmod 113$ grok and later lose generalization. Across five seeds the selected AdamW reference falls below threshold on four, reaching 27.59%. Instability persists across two moduli, two widths, two training fractions, subtraction, and depth. The failure arises at the representation-readout interface, identified only jointly up to an invertible map unselected by the loss. After solving the training set, the gra",
-      "summary_fr": "Under the standard split, Muon gets hidden matrices and AdamW embeddings/output head. Muon groks modular addition faster, but its solutions do not hold. All nine configurations on $(a+b) \\bmod 113$ grok and later lose generalization. Across five seeds the selected AdamW reference falls below threshold on four, reaching 27.59%. Instability persists across two moduli, two widths, two training fractions, subtraction, and depth. The failure arises at the representation-readout interface, identified only jointly up to an invertible map unselected by the loss. After solving the training set, the gra",
-      "resume_fr": "Under the standard split, Muon gets hidden matrices and AdamW embeddings/output head. Muon groks modular addition faster, but its solutions do not hold. All nine configurations on $(a+b) \\bmod 113$ grok and later lose generalization. Across five seeds the selected AdamW reference falls below threshold on four, reaching 27.59%. Instability persists across two moduli, two widths, two training fractions, subtraction, and depth. The failure arises at the representation-readout interface, identified only jointly up to an invertible map unselected by the loss. After solving the training set, the gra",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Wasserstein Policy Gradient for Entropy-Regularized Linear-Quadratic Control",
-      "url": "https://arxiv.org/abs/2608.07433v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-08-07T17:17:58.000Z",
-      "score": 70,
-      "summary_en": "Wasserstein policy gradient (WPG) updates state-conditional action laws by transport in the action space. We study entropy-regularized discounted linear-quadratic (LQ) control. A Bellman verification argument shows that the unrestricted problem has a linear-Gaussian optimal policy, and the discounted-occupancy-weighted statewise Wasserstein gradient is tangent to this policy class. WPG therefore reduces exactly to a finite-dimensional ODE for the feedback gain and action covariance. We prove that this ODE is globally well posed and converges exponentially from every admissible initialization. ",
-      "summary_fr": "Wasserstein policy gradient (WPG) updates state-conditional action laws by transport in the action space. We study entropy-regularized discounted linear-quadratic (LQ) control. A Bellman verification argument shows that the unrestricted problem has a linear-Gaussian optimal policy, and the discounted-occupancy-weighted statewise Wasserstein gradient is tangent to this policy class. WPG therefore reduces exactly to a finite-dimensional ODE for the feedback gain and action covariance. We prove that this ODE is globally well posed and converges exponentially from every admissible initialization. ",
-      "resume_fr": "Wasserstein policy gradient (WPG) updates state-conditional action laws by transport in the action space. We study entropy-regularized discounted linear-quadratic (LQ) control. A Bellman verification argument shows that the unrestricted problem has a linear-Gaussian optimal policy, and the discounted-occupancy-weighted statewise Wasserstein gradient is tangent to this policy class. WPG therefore reduces exactly to a finite-dimensional ODE for the feedback gain and action covariance. We prove that this ODE is globally well posed and converges exponentially from every admissible initialization. ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Diffusion LLMs as Targets and Adversaries: Mechanistic Safety Exploits",
-      "url": "https://arxiv.org/abs/2608.07430v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-08-07T17:17:18.000Z",
-      "score": 50,
-      "summary_en": "Diffusion Large Language Models (DLLMs) replace autoregressive next-token prediction with iterative parallel denoising, yet their internal safety mechanisms remain poorly understood. In this work, we investigate DLLMs both as targets and as adversaries, exposing mechanistic vulnerabilities in diffusion-based alignment. We first show that safety alignment in DLLMs remains sparse and transferable across architectures. DLLMs initialized from autoregressive predecessors inherit the same mechanistic safety footprint as their source models, enabling transfer attacks via direct safety neuron mapping ",
-      "summary_fr": "Diffusion Large Language Models (DLLMs) replace autoregressive next-token prediction with iterative parallel denoising, yet their internal safety mechanisms remain poorly understood. In this work, we investigate DLLMs both as targets and as adversaries, exposing mechanistic vulnerabilities in diffusion-based alignment. We first show that safety alignment in DLLMs remains sparse and transferable across architectures. DLLMs initialized from autoregressive predecessors inherit the same mechanistic safety footprint as their source models, enabling transfer attacks via direct safety neuron mapping ",
-      "resume_fr": "Diffusion Large Language Models (DLLMs) replace autoregressive next-token prediction with iterative parallel denoising, yet their internal safety mechanisms remain poorly understood. In this work, we investigate DLLMs both as targets and as adversaries, exposing mechanistic vulnerabilities in diffusion-based alignment. We first show that safety alignment in DLLMs remains sparse and transferable across architectures. DLLMs initialized from autoregressive predecessors inherit the same mechanistic safety footprint as their source models, enabling transfer attacks via direct safety neuron mapping ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
