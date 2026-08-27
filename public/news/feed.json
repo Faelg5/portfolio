@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T07:04:42.935Z",
+  "generatedAt": "2026-08-27T17:35:47.138Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,101 @@
     }
   },
   "items": [
+    {
+      "title": "IEEE Student Conference Provides Visibility to Budding Authors",
+      "url": "https://spectrum.ieee.org/ieee-student-conference-budding-authors",
+      "source": "IEEE Spectrum – AI",
+      "published": "2026-08-26T20:00:04.000Z",
+      "score": 50,
+      "summary_en": "The IEEE–Eta Kappa Nu (IEEE-HKN) honor society is preparing to host the Innovating the Future event on 6 November. The inaugural one-day, in-person event is designed to provide a forum for IEEE and IEEE-HKN undergraduate and graduate student authors to present their original research papers. A keynote address and thematic presentation sessions are planned as well. Student attendees can network with their peers and gain firsthand experience with the academic publishing process. To present at the conference, students had to submit an abstract of their research before 1 May. Students whose work w",
+      "summary_fr": "The IEEE–Eta Kappa Nu (IEEE-HKN) honor society is preparing to host the Innovating the Future event on 6 November. The inaugural one-day, in-person event is designed to provide a forum for IEEE and IEEE-HKN undergraduate and graduate student authors to present their original research papers. A keynote address and thematic presentation sessions are planned as well. Student attendees can network with their peers and gain firsthand experience with the academic publishing process. To present at the conference, students had to submit an abstract of their research before 1 May. Students whose work w",
+      "resume_fr": "The IEEE–Eta Kappa Nu (IEEE-HKN) honor society is preparing to host the Innovating the Future event on 6 November. The inaugural one-day, in-person event is designed to provide a forum for IEEE and IEEE-HKN undergraduate and graduate student authors to present their original research papers. A keynote address and thematic presentation sessions are planned as well. Student attendees can network with their peers and gain firsthand experience with the academic publishing process. To present at the conference, students had to submit an abstract of their research before 1 May. Students whose work w",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
+    },
+    {
+      "title": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
+      "url": "https://arxiv.org/abs/2608.26094v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-08-26T17:56:33.000Z",
+      "score": 70,
+      "summary_en": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actions as monolithic patterns. These limitations hinder fine-grained, biomechanically grounded feedback. We introduce MyoMechanix, a multimodal ecosystem for weight-loaded actions that aligns motion with muscle activity. Expert-annotated, it contains 7,500+ samples of 20 actions from 38 subjects, with synchronized multiview RGB video, 3D pose, sEMG, and additional physiological signals, forming the la",
+      "summary_fr": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actions as monolithic patterns. These limitations hinder fine-grained, biomechanically grounded feedback. We introduce MyoMechanix, a multimodal ecosystem for weight-loaded actions that aligns motion with muscle activity. Expert-annotated, it contains 7,500+ samples of 20 actions from 38 subjects, with synchronized multiview RGB video, 3D pose, sEMG, and additional physiological signals, forming the la",
+      "resume_fr": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actions as monolithic patterns. These limitations hinder fine-grained, biomechanically grounded feedback. We introduce MyoMechanix, a multimodal ecosystem for weight-loaded actions that aligns motion with muscle activity. Expert-annotated, it contains 7,500+ samples of 20 actions from 38 subjects, with synchronized multiview RGB video, 3D pose, sEMG, and additional physiological signals, forming the la",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans",
+      "url": "https://arxiv.org/abs/2608.26091v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-08-26T17:54:24.000Z",
+      "score": 70,
+      "summary_en": "Civil infrastructure compliance checking has long relied on engineers manually reading legacy 2D plans; however, OCR-based automation strips away the geometry and layout essential for interpreting these plans. We present a Visual-First Multimodal Retrieval-Augmented Generation (RAG) framework called PlanSightRAG. It indexes and reasons directly over plan imagery, integrates a ColNomic-3B multi-vector retrieval, an agentic Planner-Retriever-Auditor-Synthesizer, and MaxSim heatmaps as an evidence trail. We introduce a 4,056-pair benchmark from five state Departments of Transportation (DOT) stand",
+      "summary_fr": "Civil infrastructure compliance checking has long relied on engineers manually reading legacy 2D plans; however, OCR-based automation strips away the geometry and layout essential for interpreting these plans. We present a Visual-First Multimodal Retrieval-Augmented Generation (RAG) framework called PlanSightRAG. It indexes and reasons directly over plan imagery, integrates a ColNomic-3B multi-vector retrieval, an agentic Planner-Retriever-Auditor-Synthesizer, and MaxSim heatmaps as an evidence trail. We introduce a 4,056-pair benchmark from five state Departments of Transportation (DOT) stand",
+      "resume_fr": "Civil infrastructure compliance checking has long relied on engineers manually reading legacy 2D plans; however, OCR-based automation strips away the geometry and layout essential for interpreting these plans. We present a Visual-First Multimodal Retrieval-Augmented Generation (RAG) framework called PlanSightRAG. It indexes and reasons directly over plan imagery, integrates a ColNomic-3B multi-vector retrieval, an agentic Planner-Retriever-Auditor-Synthesizer, and MaxSim heatmaps as an evidence trail. We introduce a 4,056-pair benchmark from five state Departments of Transportation (DOT) stand",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "A knowledge-driven framework for predicting single-cell responses for unprofiled drugs",
+      "url": "https://www.nature.com/articles/s42256-026-01286-w",
+      "source": "Nature Machine Intelligence",
+      "published": "2026-08-26T00:00:00.000Z",
+      "score": 70,
+      "summary_en": "",
+      "summary_fr": "",
+      "resume_fr": "",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=www.nature.com&sz=128"
+    },
+    {
+      "title": "Teaching Geometric Proof with Tech: Pitfalls and Possibilities",
+      "url": "https://arxiv.org/abs/2608.25117v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-08-25T20:12:20.000Z",
+      "score": 65,
+      "summary_en": "Geometric proof is a foundational yet challenging topic in mathematics, requiring students to integrate visual, logical, and notational skills. While technology has enhanced learning in other mathematical domains, its impact on geometric proof remains limited. To investigate this gap, we interviewed 18 geometry teachers to establish the technical requirements of educational proof tools. These requirements inform our review of 33 commercial and research tools. Our findings reveal a critical mismatch: while teachers value certain digital tools for initial planning and exploration activities, the",
+      "summary_fr": "Geometric proof is a foundational yet challenging topic in mathematics, requiring students to integrate visual, logical, and notational skills. While technology has enhanced learning in other mathematical domains, its impact on geometric proof remains limited. To investigate this gap, we interviewed 18 geometry teachers to establish the technical requirements of educational proof tools. These requirements inform our review of 33 commercial and research tools. Our findings reveal a critical mismatch: while teachers value certain digital tools for initial planning and exploration activities, the",
+      "resume_fr": "Geometric proof is a foundational yet challenging topic in mathematics, requiring students to integrate visual, logical, and notational skills. While technology has enhanced learning in other mathematical domains, its impact on geometric proof remains limited. To investigate this gap, we interviewed 18 geometry teachers to establish the technical requirements of educational proof tools. These requirements inform our review of 33 commercial and research tools. Our findings reveal a critical mismatch: while teachers value certain digital tools for initial planning and exploration activities, the",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "Shaping the Future of Generative AI for Black Communities: A Frame Analysis of Public Discourse and Empirical Scholarly Research",
       "url": "https://arxiv.org/abs/2608.24767v1",
@@ -1138,101 +1233,6 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "A Quantum Roadmap for Softmax Attention: Exact Born-Rule Analogs for Softmax Attention on the Probability Simplex",
-      "url": "https://arxiv.org/abs/2608.11173v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-08-11T17:32:30.000Z",
-      "score": 70,
-      "summary_en": "The attention mechanism forms the foundation of many modern AI models such as the Transformer. In one subclass of problems where attention is used, inputs and outputs are bound to the probability simplex so that all outputs sum to one. In this setting, softmax attention admits an exact, component-by-component quantum realization. Attention scores are Hadamard-test statistics on block-encoded projections of amplitude-encoded inputs. The exponential softmax is the interior of a cosine-squared family generated by Born-rule measurement under an exact bijection, whose boundary expresses sparse atte",
-      "summary_fr": "The attention mechanism forms the foundation of many modern AI models such as the Transformer. In one subclass of problems where attention is used, inputs and outputs are bound to the probability simplex so that all outputs sum to one. In this setting, softmax attention admits an exact, component-by-component quantum realization. Attention scores are Hadamard-test statistics on block-encoded projections of amplitude-encoded inputs. The exponential softmax is the interior of a cosine-squared family generated by Born-rule measurement under an exact bijection, whose boundary expresses sparse atte",
-      "resume_fr": "The attention mechanism forms the foundation of many modern AI models such as the Transformer. In one subclass of problems where attention is used, inputs and outputs are bound to the probability simplex so that all outputs sum to one. In this setting, softmax attention admits an exact, component-by-component quantum realization. Attention scores are Hadamard-test statistics on block-encoded projections of amplitude-encoded inputs. The exponential softmax is the interior of a cosine-squared family generated by Born-rule measurement under an exact bijection, whose boundary expresses sparse atte",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "AI-Generated Interactive Fiction for Educational Use: A Pilot Study of Perceived Comprehensibility, Coherence, and Engagement",
-      "url": "https://arxiv.org/abs/2608.10818v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-08-11T11:41:05.000Z",
-      "score": 85,
-      "summary_en": "Generative artificial intelligence (AI) can produce educational content at scale, including interactive and narrative learning experiences, but technical generation alone is not sufficient: scenarios that are confusing, narratively inconsistent, or unengaging are unlikely to be useful in practice. This paper presents a pilot user-centred evaluation of AI-generated interactive fiction (IF) for educational use in higher education. Using a previously described domain-agnostic pipeline and a shared STEM content base, we generated a controlled pool of scenarios and asked participants (N = 22, STEM ",
-      "summary_fr": "Generative artificial intelligence (AI) can produce educational content at scale, including interactive and narrative learning experiences, but technical generation alone is not sufficient: scenarios that are confusing, narratively inconsistent, or unengaging are unlikely to be useful in practice. This paper presents a pilot user-centred evaluation of AI-generated interactive fiction (IF) for educational use in higher education. Using a previously described domain-agnostic pipeline and a shared STEM content base, we generated a controlled pool of scenarios and asked participants (N = 22, STEM ",
-      "resume_fr": "Generative artificial intelligence (AI) can produce educational content at scale, including interactive and narrative learning experiences, but technical generation alone is not sufficient: scenarios that are confusing, narratively inconsistent, or unengaging are unlikely to be useful in practice. This paper presents a pilot user-centred evaluation of AI-generated interactive fiction (IF) for educational use in higher education. Using a previously described domain-agnostic pipeline and a shared STEM content base, we generated a controlled pool of scenarios and asked participants (N = 22, STEM ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action in LLM Student Simulators",
-      "url": "https://arxiv.org/abs/2608.10492v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-08-11T05:07:49.000Z",
-      "score": 85,
-      "summary_en": "Large Language Model (LLM)-based simulators often reproduce observable actions but fail to capture the underlying reasoning behind them. In education, where student simulation is increasingly used for various applications such as evaluating tutoring systems, this gap is especially pronounced. Two students may submit identical submissions for entirely different reasons. We present INTERNAL STUDENT DIALOGUE (INSIDE), a student modeling framework that fine-tunes LLMs not only to act like students but also to think like them. INSIDE generates internal dialogue grounded in Bloom's Taxonomy across c",
-      "summary_fr": "Large Language Model (LLM)-based simulators often reproduce observable actions but fail to capture the underlying reasoning behind them. In education, where student simulation is increasingly used for various applications such as evaluating tutoring systems, this gap is especially pronounced. Two students may submit identical submissions for entirely different reasons. We present INTERNAL STUDENT DIALOGUE (INSIDE), a student modeling framework that fine-tunes LLMs not only to act like students but also to think like them. INSIDE generates internal dialogue grounded in Bloom's Taxonomy across c",
-      "resume_fr": "Large Language Model (LLM)-based simulators often reproduce observable actions but fail to capture the underlying reasoning behind them. In education, where student simulation is increasingly used for various applications such as evaluating tutoring systems, this gap is especially pronounced. Two students may submit identical submissions for entirely different reasons. We present INTERNAL STUDENT DIALOGUE (INSIDE), a student modeling framework that fine-tunes LLMs not only to act like students but also to think like them. INSIDE generates internal dialogue grounded in Bloom's Taxonomy across c",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Mirroring the Past: Exploring How Ancestral Digital Self Influences History Learning",
-      "url": "https://arxiv.org/abs/2608.09719v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-08-10T15:20:28.000Z",
-      "score": 50,
-      "summary_en": "Learners often perceive history as distant from themselves, which limits immersion and empathy in history learning. To bridge this gap, we introduce the \"Ancestral Digital Self,\" an AI-generated pedagogical agent presented in prerecorded videos that mirrors the learner's facial features and vocal timbre, representing a historically situated version of the self. We developed a reproducible workflow for creating AI-generated historical learning videos and conducted a within-subjects study (N=36) comparing a Digital Self agent with a non-self pedagogical agent. The Digital Self agent enhanced exp",
-      "summary_fr": "Learners often perceive history as distant from themselves, which limits immersion and empathy in history learning. To bridge this gap, we introduce the \"Ancestral Digital Self,\" an AI-generated pedagogical agent presented in prerecorded videos that mirrors the learner's facial features and vocal timbre, representing a historically situated version of the self. We developed a reproducible workflow for creating AI-generated historical learning videos and conducted a within-subjects study (N=36) comparing a Digital Self agent with a non-self pedagogical agent. The Digital Self agent enhanced exp",
-      "resume_fr": "Learners often perceive history as distant from themselves, which limits immersion and empathy in history learning. To bridge this gap, we introduce the \"Ancestral Digital Self,\" an AI-generated pedagogical agent presented in prerecorded videos that mirrors the learner's facial features and vocal timbre, representing a historically situated version of the self. We developed a reproducible workflow for creating AI-generated historical learning videos and conducted a within-subjects study (N=36) comparing a Digital Self agent with a non-self pedagogical agent. The Digital Self agent enhanced exp",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Designing PULSE: A Realtime Annotation Tool to Support Simulation Debriefing",
-      "url": "https://arxiv.org/abs/2608.09715v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-08-10T15:18:18.000Z",
-      "score": 50,
-      "summary_en": "Debriefing is central to effective simulation-based education. However, effective debriefing is challenged by high instructor workloads and limited engagement of observing students. A real-time annotation tool to support debriefing, called PULSE, was co-designed with nursing educators. A field study comparing three standard simulation debriefings with three debriefings using PULSE was conducted as a preliminary evaluation. Outcomes were assessed using the Debriefing Assessment for Simulation in Healthcare (DASH) student survey and a follow-up instructor interview. PULSE significantly improved ",
-      "summary_fr": "Debriefing is central to effective simulation-based education. However, effective debriefing is challenged by high instructor workloads and limited engagement of observing students. A real-time annotation tool to support debriefing, called PULSE, was co-designed with nursing educators. A field study comparing three standard simulation debriefings with three debriefings using PULSE was conducted as a preliminary evaluation. Outcomes were assessed using the Debriefing Assessment for Simulation in Healthcare (DASH) student survey and a follow-up instructor interview. PULSE significantly improved ",
-      "resume_fr": "Debriefing is central to effective simulation-based education. However, effective debriefing is challenged by high instructor workloads and limited engagement of observing students. A real-time annotation tool to support debriefing, called PULSE, was co-designed with nursing educators. A field study comparing three standard simulation debriefings with three debriefings using PULSE was conducted as a preliminary evaluation. Outcomes were assessed using the Debriefing Assessment for Simulation in Healthcare (DASH) student survey and a follow-up instructor interview. PULSE significantly improved ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
