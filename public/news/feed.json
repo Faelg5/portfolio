@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T18:36:36.477Z",
+  "generatedAt": "2026-08-29T12:38:44.471Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -131,6 +131,25 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "SWE-Prime: Fewer Trajectories, Better Performance",
+      "url": "https://arxiv.org/abs/2608.27449v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-08-27T17:58:10.000Z",
+      "score": 50,
+      "summary_en": "To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT) on successful trajectories. However, task success does not guarantee high-quality supervision: successful trajectories may still contain ineffective, redundant, or risky steps. Directly using such trajectories for SFT can introduce noisy supervision and encourage models to imitate undesirable problem-solving behaviors. Therefore, we propose SWE-Prime, a multi-granularity, two-stage SFT data sele",
+      "summary_fr": "To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT) on successful trajectories. However, task success does not guarantee high-quality supervision: successful trajectories may still contain ineffective, redundant, or risky steps. Directly using such trajectories for SFT can introduce noisy supervision and encourage models to imitate undesirable problem-solving behaviors. Therefore, we propose SWE-Prime, a multi-granularity, two-stage SFT data sele",
+      "resume_fr": "To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT) on successful trajectories. However, task success does not guarantee high-quality supervision: successful trajectories may still contain ineffective, redundant, or risky steps. Directly using such trajectories for SFT can introduce noisy supervision and encourage models to imitate undesirable problem-solving behaviors. Therefore, we propose SWE-Prime, a multi-granularity, two-stage SFT data sele",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     },
     {
@@ -1200,25 +1219,6 @@
     {
       "title": "Making AI-Generated Feedback Matter: From Provision to Student Enactment",
       "url": "https://arxiv.org/abs/2608.11625v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-08-12T04:12:34.000Z",
-      "score": 85,
-      "summary_en": "Feedback processes strongly influence student learning, yet their educational value depends on addressing two distinct challenges: providing high-quality, timely, and individualised feedback at scale, and supporting students to interpret, evaluate, and act on that feedback productively. Generative AI offers a credible means of addressing the provision challenge, but students' uptake of AI-generated feedback remains limited. We conducted a large-scale quasi-experimental sequential cohort study comparing three AI-mediated feedback workflows across 13,037 students and 51,296 student-authored reso",
-      "summary_fr": "Feedback processes strongly influence student learning, yet their educational value depends on addressing two distinct challenges: providing high-quality, timely, and individualised feedback at scale, and supporting students to interpret, evaluate, and act on that feedback productively. Generative AI offers a credible means of addressing the provision challenge, but students' uptake of AI-generated feedback remains limited. We conducted a large-scale quasi-experimental sequential cohort study comparing three AI-mediated feedback workflows across 13,037 students and 51,296 student-authored reso",
-      "resume_fr": "Feedback processes strongly influence student learning, yet their educational value depends on addressing two distinct challenges: providing high-quality, timely, and individualised feedback at scale, and supporting students to interpret, evaluate, and act on that feedback productively. Generative AI offers a credible means of addressing the provision challenge, but students' uptake of AI-generated feedback remains limited. We conducted a large-scale quasi-experimental sequential cohort study comparing three AI-mediated feedback workflows across 13,037 students and 51,296 student-authored reso",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Making AI-Generated Feedback Matter: A Large-Scale Study of Feedback Workflows and Student Enactment",
-      "url": "https://arxiv.org/abs/2608.11625v2",
       "source": "arXiv – cs.AI + education/MOOC",
       "published": "2026-08-12T04:12:34.000Z",
       "score": 85,
