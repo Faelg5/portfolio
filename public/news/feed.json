@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T12:21:35.072Z",
+  "generatedAt": "2026-09-08T11:10:59.116Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -218,6 +218,25 @@
       "summary_en": "LLM-based chatbots are increasingly used as everyday confidants. Because they are designed to maximize user satisfaction, they can respond with excessive empathy and affirmation, which may reinforce mistaken beliefs and foster dependence on AI. While the psychological effects of chatbots on individual users have begun to be studied, how the psychological states and relationships of many users evolve when they keep consulting an AI is hard to observe in real settings. We build a virtual classroom simulation in which 20 student agents interact and, when stressed, consult either a friend or a cou",
       "summary_fr": "LLM-based chatbots are increasingly used as everyday confidants. Because they are designed to maximize user satisfaction, they can respond with excessive empathy and affirmation, which may reinforce mistaken beliefs and foster dependence on AI. While the psychological effects of chatbots on individual users have begun to be studied, how the psychological states and relationships of many users evolve when they keep consulting an AI is hard to observe in real settings. We build a virtual classroom simulation in which 20 student agents interact and, when stressed, consult either a friend or a cou",
       "resume_fr": "LLM-based chatbots are increasingly used as everyday confidants. Because they are designed to maximize user satisfaction, they can respond with excessive empathy and affirmation, which may reinforce mistaken beliefs and foster dependence on AI. While the psychological effects of chatbots on individual users have begun to be studied, how the psychological states and relationships of many users evolve when they keep consulting an AI is hard to observe in real settings. We build a virtual classroom simulation in which 20 student agents interact and, when stressed, consult either a friend or a cou",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Building a research-software catalog with a coding agent: from hackathon prototype to public deployment",
+      "url": "https://arxiv.org/abs/2609.04711v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-09-04T04:31:51.000Z",
+      "score": 50,
+      "summary_en": "Generative AI and coding agents can accelerate research software development, but they also increase the need for efficient software discovery and maintenance. We developed a repository catalog during a three-day hackathon and subsequently examined the engineering required to make it suitable for public deployment, including adversarial review, data-quality checks, browser-level validation, and publication safeguards. We then explored whether the lessons learned from this prototype could be transferred to a much larger, human-curated portal, through a retrieval agent under development for Mate",
+      "summary_fr": "Generative AI and coding agents can accelerate research software development, but they also increase the need for efficient software discovery and maintenance. We developed a repository catalog during a three-day hackathon and subsequently examined the engineering required to make it suitable for public deployment, including adversarial review, data-quality checks, browser-level validation, and publication safeguards. We then explored whether the lessons learned from this prototype could be transferred to a much larger, human-curated portal, through a retrieval agent under development for Mate",
+      "resume_fr": "Generative AI and coding agents can accelerate research software development, but they also increase the need for efficient software discovery and maintenance. We developed a repository catalog during a three-day hackathon and subsequently examined the engineering required to make it suitable for public deployment, including adversarial review, data-quality checks, browser-level validation, and publication safeguards. We then explored whether the lessons learned from this prototype could be transferred to a much larger, human-curated portal, through a retrieval agent under development for Mate",
       "tags": [],
       "breakdown": {
         "research": 35,
@@ -1214,25 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Across-Design Uncertainty in Short Pricing Panels: Evidence from Simulated Price Trajectories",
-      "url": "https://arxiv.org/abs/2608.21334v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-08-21T17:40:31.000Z",
-      "score": 50,
-      "summary_en": "Short observational pricing panels can contain many observations while offering only a small number of distinct price movements. This paper studies the inferential consequences of that distinction in a synthetic data-generating process calibrated to a sparse pricing regime. We separate uncertainty conditional on a realised price trajectory from variation in estimation error across alternative trajectories generated by the same pricing process. In the baseline simulations, the latter component accounts for 97.6% of the variance of estimation error for the gradient-boosted specification. Within-",
-      "summary_fr": "Short observational pricing panels can contain many observations while offering only a small number of distinct price movements. This paper studies the inferential consequences of that distinction in a synthetic data-generating process calibrated to a sparse pricing regime. We separate uncertainty conditional on a realised price trajectory from variation in estimation error across alternative trajectories generated by the same pricing process. In the baseline simulations, the latter component accounts for 97.6% of the variance of estimation error for the gradient-boosted specification. Within-",
-      "resume_fr": "Short observational pricing panels can contain many observations while offering only a small number of distinct price movements. This paper studies the inferential consequences of that distinction in a synthetic data-generating process calibrated to a sparse pricing regime. We separate uncertainty conditional on a realised price trajectory from variation in estimation error across alternative trajectories generated by the same pricing process. In the baseline simulations, the latter component accounts for 97.6% of the variance of estimation error for the gradient-boosted specification. Within-",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
