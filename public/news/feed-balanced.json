@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T11:25:00.369Z",
+  "generatedAt": "2026-09-17T11:34:17.186Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,196 @@
     }
   },
   "items": [
+    {
+      "title": "Exponential Hardness of Off-Policy Evaluation under History-Dependent Logging",
+      "url": "https://arxiv.org/abs/2609.19135v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-09-16T17:56:12.000Z",
+      "score": 70,
+      "summary_en": "Can a logged dataset visit every hidden state frequently and still be exponentially uninformative about a target policy's value? We show that it can when the logger depends on history. For every horizon $H \\ge 3$, we construct two POMDPs with at most two latent states per stage, three actions, and a common logger with three memory states. Action coverage, belief coverage, and two behavior-marginal outcome-revealing conditions all have constants independent of $H$. Nevertheless, evaluating a known deterministic target policy to accuracy $1/8$ requires $Θ((3/2)^H \\log(1/δ))$ logged episodes at c",
+      "summary_fr": "Can a logged dataset visit every hidden state frequently and still be exponentially uninformative about a target policy's value? We show that it can when the logger depends on history. For every horizon $H \\ge 3$, we construct two POMDPs with at most two latent states per stage, three actions, and a common logger with three memory states. Action coverage, belief coverage, and two behavior-marginal outcome-revealing conditions all have constants independent of $H$. Nevertheless, evaluating a known deterministic target policy to accuracy $1/8$ requires $Θ((3/2)^H \\log(1/δ))$ logged episodes at c",
+      "resume_fr": "Can a logged dataset visit every hidden state frequently and still be exponentially uninformative about a target policy's value? We show that it can when the logger depends on history. For every horizon $H \\ge 3$, we construct two POMDPs with at most two latent states per stage, three actions, and a common logger with three memory states. Action coverage, belief coverage, and two behavior-marginal outcome-revealing conditions all have constants independent of $H$. Nevertheless, evaluating a known deterministic target policy to accuracy $1/8$ requires $Θ((3/2)^H \\log(1/δ))$ logged episodes at c",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments",
+      "url": "https://arxiv.org/abs/2609.19128v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-09-16T17:50:42.000Z",
+      "score": 70,
+      "summary_en": "Language agents remain brittle in interactive environments, where success requires long-horizon state tracking, valid action execution, and recovery from failed steps. We extend SwiftSage, a dual-process agent that combines a fast action proposer with a slower planner, using two modular cognitive extensions: an Adaptive Memory Module (AMM) for salience-gated episodic storage and trigger-driven retrieval, and a Self-Reflection Module (SRM) for bounded execution-time validation and corrective intervention. Both modules are implemented as feature-flagged extensions over the same execution substra",
+      "summary_fr": "Language agents remain brittle in interactive environments, where success requires long-horizon state tracking, valid action execution, and recovery from failed steps. We extend SwiftSage, a dual-process agent that combines a fast action proposer with a slower planner, using two modular cognitive extensions: an Adaptive Memory Module (AMM) for salience-gated episodic storage and trigger-driven retrieval, and a Self-Reflection Module (SRM) for bounded execution-time validation and corrective intervention. Both modules are implemented as feature-flagged extensions over the same execution substra",
+      "resume_fr": "Language agents remain brittle in interactive environments, where success requires long-horizon state tracking, valid action execution, and recovery from failed steps. We extend SwiftSage, a dual-process agent that combines a fast action proposer with a slower planner, using two modular cognitive extensions: an Adaptive Memory Module (AMM) for salience-gated episodic storage and trigger-driven retrieval, and a Self-Reflection Module (SRM) for bounded execution-time validation and corrective intervention. Both modules are implemented as feature-flagged extensions over the same execution substra",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Prepared Or Unprepared? Evaluating Healthcare Workforce Readiness for Clinical Adoption of Artificial Intelligence in Nigeria",
+      "url": "https://arxiv.org/abs/2609.19096v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-09-16T17:30:48.000Z",
+      "score": 50,
+      "summary_en": "Artificial intelligence (AI) is increasingly integrated into healthcare systems worldwide, yet its successful clinical adoption depends critically on workforce readiness, particularly in low- and middle-income countries (LMICs) where infrastructural and training gaps persist. This cross-sectional study evaluated awareness, attitudes, preparedness, and barriers to AI adoption among 761 healthcare professionals across multiple disciplines and practice settings in Nigeria. Data were collected between December 2025 and March 2026 using a structured, validated questionnaire. Overall awareness of AI",
+      "summary_fr": "Artificial intelligence (AI) is increasingly integrated into healthcare systems worldwide, yet its successful clinical adoption depends critically on workforce readiness, particularly in low- and middle-income countries (LMICs) where infrastructural and training gaps persist. This cross-sectional study evaluated awareness, attitudes, preparedness, and barriers to AI adoption among 761 healthcare professionals across multiple disciplines and practice settings in Nigeria. Data were collected between December 2025 and March 2026 using a structured, validated questionnaire. Overall awareness of AI",
+      "resume_fr": "Artificial intelligence (AI) is increasingly integrated into healthcare systems worldwide, yet its successful clinical adoption depends critically on workforce readiness, particularly in low- and middle-income countries (LMICs) where infrastructural and training gaps persist. This cross-sectional study evaluated awareness, attitudes, preparedness, and barriers to AI adoption among 761 healthcare professionals across multiple disciplines and practice settings in Nigeria. Data were collected between December 2025 and March 2026 using a structured, validated questionnaire. Overall awareness of AI",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "MUSE: Benchmarking Large Vision-Language Models on Multi-Modal Understanding in Situated Education",
+      "url": "https://arxiv.org/abs/2609.19088v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-09-16T17:26:10.000Z",
+      "score": 50,
+      "summary_en": "Large vision-language models have achieved remarkable progress in multi-modal understanding, yet their capabilities in educational settings remain insufficiently evaluated. In AI-assisted language learning, models must interpret artistic imagery, understand its semantic, affective, and cultural content, and reason about visual context to support meaningful interaction. However, existing benchmarks primarily focus on real-world images or domain-specific educational reasoning, providing limited coverage of artistic educational content. To address this gap, we introduce MUSE, a benchmark for eval",
+      "summary_fr": "Large vision-language models have achieved remarkable progress in multi-modal understanding, yet their capabilities in educational settings remain insufficiently evaluated. In AI-assisted language learning, models must interpret artistic imagery, understand its semantic, affective, and cultural content, and reason about visual context to support meaningful interaction. However, existing benchmarks primarily focus on real-world images or domain-specific educational reasoning, providing limited coverage of artistic educational content. To address this gap, we introduce MUSE, a benchmark for eval",
+      "resume_fr": "Large vision-language models have achieved remarkable progress in multi-modal understanding, yet their capabilities in educational settings remain insufficiently evaluated. In AI-assisted language learning, models must interpret artistic imagery, understand its semantic, affective, and cultural content, and reason about visual context to support meaningful interaction. However, existing benchmarks primarily focus on real-world images or domain-specific educational reasoning, providing limited coverage of artistic educational content. To address this gap, we introduce MUSE, a benchmark for eval",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "A General Kernel Framework for Non-CND Distance Measures Using |D|-Dimensional Sparse Landmark Embeddings",
+      "url": "https://arxiv.org/abs/2609.19083v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-09-16T17:23:50.000Z",
+      "score": 70,
+      "summary_en": "Kernel methods, and Gaussian Processes (GPs) in particular, require a Hilbertian distance measure---one whose square is conditionally negative definite (CND)---to guarantee positive semi-definiteness (PSD) of the kernel matrix; a condition that fails for many natural input spaces, including smooth manifolds and spaces of probability distributions. We propose the Sparse Landmark Embedding (SLE) kernel, which eliminates this requirement entirely. Each input is embedded into a sparse feature vector via compactly supported bump functions centered at all |D| training points; applying any standard P",
+      "summary_fr": "Kernel methods, and Gaussian Processes (GPs) in particular, require a Hilbertian distance measure---one whose square is conditionally negative definite (CND)---to guarantee positive semi-definiteness (PSD) of the kernel matrix; a condition that fails for many natural input spaces, including smooth manifolds and spaces of probability distributions. We propose the Sparse Landmark Embedding (SLE) kernel, which eliminates this requirement entirely. Each input is embedded into a sparse feature vector via compactly supported bump functions centered at all |D| training points; applying any standard P",
+      "resume_fr": "Kernel methods, and Gaussian Processes (GPs) in particular, require a Hilbertian distance measure---one whose square is conditionally negative definite (CND)---to guarantee positive semi-definiteness (PSD) of the kernel matrix; a condition that fails for many natural input spaces, including smooth manifolds and spaces of probability distributions. We propose the Sparse Landmark Embedding (SLE) kernel, which eliminates this requirement entirely. Each input is embedded into a sparse feature vector via compactly supported bump functions centered at all |D| training points; applying any standard P",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "RLLBC-Lib: An Educational Code Library for Reinforcement Learning and Learning-Based Control",
+      "url": "https://arxiv.org/abs/2609.19074v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-09-16T17:15:59.000Z",
+      "score": 50,
+      "summary_en": "Reinforcement learning (RL) is an exciting concept as well as a remarkable success story worth sharing. However, RL builds on rather complex interactions between different objects that play out over several cycles. Such dynamics are often best explained with an easily accessible implementation. We present RLLBC-Lib, a carefully crafted code library with the goal of lowering the entry barrier for students and other learners of RL in the context of learning-based control. At its heart, RLLBC-Lib comprises a comprehensive library of tabular RL approaches to enforce a clear understanding of the th",
+      "summary_fr": "Reinforcement learning (RL) is an exciting concept as well as a remarkable success story worth sharing. However, RL builds on rather complex interactions between different objects that play out over several cycles. Such dynamics are often best explained with an easily accessible implementation. We present RLLBC-Lib, a carefully crafted code library with the goal of lowering the entry barrier for students and other learners of RL in the context of learning-based control. At its heart, RLLBC-Lib comprises a comprehensive library of tabular RL approaches to enforce a clear understanding of the th",
+      "resume_fr": "Reinforcement learning (RL) is an exciting concept as well as a remarkable success story worth sharing. However, RL builds on rather complex interactions between different objects that play out over several cycles. Such dynamics are often best explained with an easily accessible implementation. We present RLLBC-Lib, a carefully crafted code library with the goal of lowering the entry barrier for students and other learners of RL in the context of learning-based control. At its heart, RLLBC-Lib comprises a comprehensive library of tabular RL approaches to enforce a clear understanding of the th",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course",
+      "url": "https://arxiv.org/abs/2609.18505v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-09-16T11:40:53.000Z",
+      "score": 85,
+      "summary_en": "In practice-based design courses such as knit yarn design, students must turn visual ideas into feasible material outcomes. This is difficult because creative decisions are tied to yarn properties, stitch structures, machine operation, and limited opportunities for physical sampling. This study presents an integrated pedagogical framework that combines flipped learning, exemplar-based reference, GenAI-assisted visual prototyping, and studio feedback in an undergraduate knit yarn design course. The framework was implemented through a cross-device platform with pre-class micro-videos, formative ",
+      "summary_fr": "In practice-based design courses such as knit yarn design, students must turn visual ideas into feasible material outcomes. This is difficult because creative decisions are tied to yarn properties, stitch structures, machine operation, and limited opportunities for physical sampling. This study presents an integrated pedagogical framework that combines flipped learning, exemplar-based reference, GenAI-assisted visual prototyping, and studio feedback in an undergraduate knit yarn design course. The framework was implemented through a cross-device platform with pre-class micro-videos, formative ",
+      "resume_fr": "In practice-based design courses such as knit yarn design, students must turn visual ideas into feasible material outcomes. This is difficult because creative decisions are tied to yarn properties, stitch structures, machine operation, and limited opportunities for physical sampling. This study presents an integrated pedagogical framework that combines flipped learning, exemplar-based reference, GenAI-assisted visual prototyping, and studio feedback in an undergraduate knit yarn design course. The framework was implemented through a cross-device platform with pre-class micro-videos, formative ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Hardware-Free Robotics Laboratories in Mixed Reality",
+      "url": "https://arxiv.org/abs/2609.18434v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-09-16T10:25:41.000Z",
+      "score": 65,
+      "summary_en": "Teaching robotics relies on screen-based simulation, showing robot motion in an abstract coordinate frame rather than at real scale in the learner's own space, while access to physical hardware is limited by cost, safety, and scheduling constraints. We present MR-Robotics LAB, a mixed-reality (MR) platform that replays MATLAB-generated robot trajectories at real scale within the learner's physical environment. A browser-based service validates a MATLAB workspace file (.mat), normalizes units, and publishes a versioned JSON trajectory; a Unity application on a Meta Quest 3 then reproduces the a",
+      "summary_fr": "Teaching robotics relies on screen-based simulation, showing robot motion in an abstract coordinate frame rather than at real scale in the learner's own space, while access to physical hardware is limited by cost, safety, and scheduling constraints. We present MR-Robotics LAB, a mixed-reality (MR) platform that replays MATLAB-generated robot trajectories at real scale within the learner's physical environment. A browser-based service validates a MATLAB workspace file (.mat), normalizes units, and publishes a versioned JSON trajectory; a Unity application on a Meta Quest 3 then reproduces the a",
+      "resume_fr": "Teaching robotics relies on screen-based simulation, showing robot motion in an abstract coordinate frame rather than at real scale in the learner's own space, while access to physical hardware is limited by cost, safety, and scheduling constraints. We present MR-Robotics LAB, a mixed-reality (MR) platform that replays MATLAB-generated robot trajectories at real scale within the learner's physical environment. A browser-based service validates a MATLAB workspace file (.mat), normalizes units, and publishes a versioned JSON trajectory; a Unity application on a Meta Quest 3 then reproduces the a",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "I code or AI code: A comparative evaluation of AI-rated scores in classroom observations",
+      "url": "https://arxiv.org/abs/2609.18274v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-09-16T07:53:28.000Z",
+      "score": 50,
+      "summary_en": "Classroom observations are widely recognized as a key tool for establishing benchmarks of education quality and guiding pedagogical improvement, yet they remain resource-intensive and dependent on trained observers. This study evaluated the feasibility of using a LLM (GPT-5 model) to score teacher-child interactions in early childhood classrooms, benchmarked against human raters. The study analyzed 87 video-recorded observations from 38 classrooms across 30 kindergartens in Hong Kong. Using observation transcripts, the AI model was configured to apply the full Classroom Assessment Scoring Syst",
+      "summary_fr": "Classroom observations are widely recognized as a key tool for establishing benchmarks of education quality and guiding pedagogical improvement, yet they remain resource-intensive and dependent on trained observers. This study evaluated the feasibility of using a LLM (GPT-5 model) to score teacher-child interactions in early childhood classrooms, benchmarked against human raters. The study analyzed 87 video-recorded observations from 38 classrooms across 30 kindergartens in Hong Kong. Using observation transcripts, the AI model was configured to apply the full Classroom Assessment Scoring Syst",
+      "resume_fr": "Classroom observations are widely recognized as a key tool for establishing benchmarks of education quality and guiding pedagogical improvement, yet they remain resource-intensive and dependent on trained observers. This study evaluated the feasibility of using a LLM (GPT-5 model) to score teacher-child interactions in early childhood classrooms, benchmarked against human raters. The study analyzed 87 video-recorded observations from 38 classrooms across 30 kindergartens in Hong Kong. Using observation transcripts, the AI model was configured to apply the full Classroom Assessment Scoring Syst",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Teaching AI, Robotics, & Community: A Hubs-Based K-12 Education Framework for Reaching Rural Schools",
+      "url": "https://arxiv.org/abs/2609.18072v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-09-16T03:18:24.000Z",
+      "score": 85,
+      "summary_en": "K-12 robotics and AI education remains difficult to scale, especially in rural regions lacking sustained technical mentorship. Programs like FIRST provide competition pathways and instructional opportunities, but they do not eliminate the need for local programming and robotics expertise. We introduce AI, Robotics, & Community (ARC), a hubs-based framework where colleges train undergraduate mentors and host workshops for nearby K-12 teams. Mature school programs can become secondary hubs that support additional schools, creating a self-reinforcing education loop where mentorship reach propagat",
+      "summary_fr": "K-12 robotics and AI education remains difficult to scale, especially in rural regions lacking sustained technical mentorship. Programs like FIRST provide competition pathways and instructional opportunities, but they do not eliminate the need for local programming and robotics expertise. We introduce AI, Robotics, & Community (ARC), a hubs-based framework where colleges train undergraduate mentors and host workshops for nearby K-12 teams. Mature school programs can become secondary hubs that support additional schools, creating a self-reinforcing education loop where mentorship reach propagat",
+      "resume_fr": "K-12 robotics and AI education remains difficult to scale, especially in rural regions lacking sustained technical mentorship. Programs like FIRST provide competition pathways and instructional opportunities, but they do not eliminate the need for local programming and robotics expertise. We introduce AI, Robotics, & Community (ARC), a hubs-based framework where colleges train undergraduate mentors and host workshops for nearby K-12 teams. Mature school programs can become secondary hubs that support additional schools, creating a self-reinforcing education loop where mentorship reach propagat",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
       "url": "https://arxiv.org/abs/2609.17523v1",
@@ -1043,196 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
-      "url": "https://arxiv.org/abs/2609.02981v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-09-02T13:10:23.000Z",
-      "score": 85,
-      "summary_en": "Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning systems that can diagnose learners, recommend tasks, and provide formative feedback. This paper studies the structure and application of a new practical English textbook driven by artificial intelligence. A five-layer architecture is proposed: knowledge mapping, learner profiling, task generation, feedback orchestration, and teacher-side governance. A prototype was tested on 186 non-English-major undergraduates for eight weeks of teaching. Compared with a static digital tex",
-      "summary_fr": "Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning systems that can diagnose learners, recommend tasks, and provide formative feedback. This paper studies the structure and application of a new practical English textbook driven by artificial intelligence. A five-layer architecture is proposed: knowledge mapping, learner profiling, task generation, feedback orchestration, and teacher-side governance. A prototype was tested on 186 non-English-major undergraduates for eight weeks of teaching. Compared with a static digital tex",
-      "resume_fr": "Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning systems that can diagnose learners, recommend tasks, and provide formative feedback. This paper studies the structure and application of a new practical English textbook driven by artificial intelligence. A five-layer architecture is proposed: knowledge mapping, learner profiling, task generation, feedback orchestration, and teacher-side governance. A prototype was tested on 186 non-English-major undergraduates for eight weeks of teaching. Compared with a static digital tex",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Addressing Trust in AI Systems through Education: A Didactic Perspective",
-      "url": "https://arxiv.org/abs/2609.02453v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-09-02T11:20:14.000Z",
-      "score": 85,
-      "summary_en": "Machine learning (ML) education faces two persistent and connected obstacles: many educational tools present ML as an opaque black box, which leaves learners with a superficial understanding, and this same opacity prevents users from forming the calibrated trust that appropriate reliance on AI systems requires. We present ICE-T, a didactic framework that integrates three mutually reinforcing facets: intermodal transfer grounded in Bruner's enactive, iconic, and symbolic modes of representation, computational thinking operationalized through the Use-Modify-Create progression, and explanatory th",
-      "summary_fr": "Machine learning (ML) education faces two persistent and connected obstacles: many educational tools present ML as an opaque black box, which leaves learners with a superficial understanding, and this same opacity prevents users from forming the calibrated trust that appropriate reliance on AI systems requires. We present ICE-T, a didactic framework that integrates three mutually reinforcing facets: intermodal transfer grounded in Bruner's enactive, iconic, and symbolic modes of representation, computational thinking operationalized through the Use-Modify-Create progression, and explanatory th",
-      "resume_fr": "Machine learning (ML) education faces two persistent and connected obstacles: many educational tools present ML as an opaque black box, which leaves learners with a superficial understanding, and this same opacity prevents users from forming the calibrated trust that appropriate reliance on AI systems requires. We present ICE-T, a didactic framework that integrates three mutually reinforcing facets: intermodal transfer grounded in Bruner's enactive, iconic, and symbolic modes of representation, computational thinking operationalized through the Use-Modify-Create progression, and explanatory th",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation",
-      "url": "https://arxiv.org/abs/2609.01596v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-09-01T17:58:07.000Z",
-      "score": 70,
-      "summary_en": "Real-world robotic assembly at sub-millimeter tolerances demands spatial precision, compliant interaction, and robustness to contact failures. We present Facet-0, a robotic foundation model that predicts and values the contact consequences of its actions. Facet-0 unifies multimodal representation learning and reinforcement learning (RL) post-training around a joint action-wrench proposal: a causal wrench history is aligned with vision-language semantics and kinematic state, and flow matching generates each action chunk together with the future wrist-wrench profile it is expected to induce. Dep",
-      "summary_fr": "Real-world robotic assembly at sub-millimeter tolerances demands spatial precision, compliant interaction, and robustness to contact failures. We present Facet-0, a robotic foundation model that predicts and values the contact consequences of its actions. Facet-0 unifies multimodal representation learning and reinforcement learning (RL) post-training around a joint action-wrench proposal: a causal wrench history is aligned with vision-language semantics and kinematic state, and flow matching generates each action chunk together with the future wrist-wrench profile it is expected to induce. Dep",
-      "resume_fr": "Real-world robotic assembly at sub-millimeter tolerances demands spatial precision, compliant interaction, and robustness to contact failures. We present Facet-0, a robotic foundation model that predicts and values the contact consequences of its actions. Facet-0 unifies multimodal representation learning and reinforcement learning (RL) post-training around a joint action-wrench proposal: a causal wrench history is aligned with vision-language semantics and kinematic state, and flow matching generates each action chunk together with the future wrist-wrench profile it is expected to induce. Dep",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "StudentSim: Training LLM-based Student Simulators",
-      "url": "https://arxiv.org/abs/2609.01591v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-09-01T17:55:10.000Z",
-      "score": 50,
-      "summary_en": "AI tutors are most useful when they adapt to each student's strengths, weaknesses, and preferred guidance, but evidence about which guidance works for which student is sparse, slow, and costly to collect from real learners. Student simulators can provide this signal as a proxy, yet existing approaches are limited: state-tracking models fit student behavior but struggle to process explanations or corrections, while LLM role-play follows guidance fluently but does not reliably match the competence of the student being imitated. We present StudentSim, a training framework that turns sparse per-st",
-      "summary_fr": "AI tutors are most useful when they adapt to each student's strengths, weaknesses, and preferred guidance, but evidence about which guidance works for which student is sparse, slow, and costly to collect from real learners. Student simulators can provide this signal as a proxy, yet existing approaches are limited: state-tracking models fit student behavior but struggle to process explanations or corrections, while LLM role-play follows guidance fluently but does not reliably match the competence of the student being imitated. We present StudentSim, a training framework that turns sparse per-st",
-      "resume_fr": "AI tutors are most useful when they adapt to each student's strengths, weaknesses, and preferred guidance, but evidence about which guidance works for which student is sparse, slow, and costly to collect from real learners. Student simulators can provide this signal as a proxy, yet existing approaches are limited: state-tracking models fit student behavior but struggle to process explanations or corrections, while LLM role-play follows guidance fluently but does not reliably match the competence of the student being imitated. We present StudentSim, a training framework that turns sparse per-st",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Designing Proactive Thought Partners for Writing",
-      "url": "https://arxiv.org/abs/2609.01588v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-09-01T17:54:32.000Z",
-      "score": 70,
-      "summary_en": "Writing involves diverse cognitive activities, from ideation to revision, and writers' needs vary across individuals and moments. Proactive AI promises to provide the right support at the right time, yet existing proactive tools largely focus on generic textual assistance, such as autocomplete. This paper studies the design space of proactive thought partners: AI agents that proactively offer customizable, higher-level cognitive support during writing. We instantiated this concept in a technology probe and deployed it with 16 participants for one week. The probe allows users to create partners",
-      "summary_fr": "Writing involves diverse cognitive activities, from ideation to revision, and writers' needs vary across individuals and moments. Proactive AI promises to provide the right support at the right time, yet existing proactive tools largely focus on generic textual assistance, such as autocomplete. This paper studies the design space of proactive thought partners: AI agents that proactively offer customizable, higher-level cognitive support during writing. We instantiated this concept in a technology probe and deployed it with 16 participants for one week. The probe allows users to create partners",
-      "resume_fr": "Writing involves diverse cognitive activities, from ideation to revision, and writers' needs vary across individuals and moments. Proactive AI promises to provide the right support at the right time, yet existing proactive tools largely focus on generic textual assistance, such as autocomplete. This paper studies the design space of proactive thought partners: AI agents that proactively offer customizable, higher-level cognitive support during writing. We instantiated this concept in a technology probe and deployed it with 16 participants for one week. The probe allows users to create partners",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers",
-      "url": "https://arxiv.org/abs/2609.01567v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-09-01T17:33:41.000Z",
-      "score": 100,
-      "summary_en": "Vision-Language Models (VLMs) provide useful priors for interactive decision-making, but using them directly as policies is expensive and brittle: they must be queried at every step, do not improve from environment interaction, and can repeat systematic errors. We study how to learn a cheap autonomous policy from an online, expensive, and imperfect but informative VLM teacher. We propose SAGE (Selective Agent Guidance via Entropy), a framework that queries a VLM only when the learner is uncertain, executes the suggested action during training, and distills guidance into a lightweight Reinforce",
-      "summary_fr": "Vision-Language Models (VLMs) provide useful priors for interactive decision-making, but using them directly as policies is expensive and brittle: they must be queried at every step, do not improve from environment interaction, and can repeat systematic errors. We study how to learn a cheap autonomous policy from an online, expensive, and imperfect but informative VLM teacher. We propose SAGE (Selective Agent Guidance via Entropy), a framework that queries a VLM only when the learner is uncertain, executes the suggested action during training, and distills guidance into a lightweight Reinforce",
-      "resume_fr": "Vision-Language Models (VLMs) provide useful priors for interactive decision-making, but using them directly as policies is expensive and brittle: they must be queried at every step, do not improve from environment interaction, and can repeat systematic errors. We study how to learn a cheap autonomous policy from an online, expensive, and imperfect but informative VLM teacher. We propose SAGE (Selective Agent Guidance via Entropy), a framework that queries a VLM only when the learner is uncertain, executes the suggested action during training, and distills guidance into a lightweight Reinforce",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Retrieved but not ranked: surface-form bias in structural retrieval, from mathematics to agent trajectories",
-      "url": "https://arxiv.org/abs/2609.01556v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-09-01T17:19:57.000Z",
-      "score": 50,
-      "summary_en": "We evaluate embedding retrieval where surface form and meaning are pulled apart on purpose: retrieving items that share underlying structure but not wording, in two unrelated domains under one protocol, competition mathematics (MathNet-Retrieve; 500 queries, 117,088-item corpus) and embodied-agent trajectories (ALFWorld-derived; 118 queries, 336 trajectories). In mathematics the failure is complete: strict Hit@1 at the heaviest disguise tier is 0.0% for both production embedders (bootstrap 95% CI [0.0, 0.0]) while the correct item sits in the top 10 nearly always, and in 95.2 to 99.8% of misse",
-      "summary_fr": "We evaluate embedding retrieval where surface form and meaning are pulled apart on purpose: retrieving items that share underlying structure but not wording, in two unrelated domains under one protocol, competition mathematics (MathNet-Retrieve; 500 queries, 117,088-item corpus) and embodied-agent trajectories (ALFWorld-derived; 118 queries, 336 trajectories). In mathematics the failure is complete: strict Hit@1 at the heaviest disguise tier is 0.0% for both production embedders (bootstrap 95% CI [0.0, 0.0]) while the correct item sits in the top 10 nearly always, and in 95.2 to 99.8% of misse",
-      "resume_fr": "We evaluate embedding retrieval where surface form and meaning are pulled apart on purpose: retrieving items that share underlying structure but not wording, in two unrelated domains under one protocol, competition mathematics (MathNet-Retrieve; 500 queries, 117,088-item corpus) and embodied-agent trajectories (ALFWorld-derived; 118 queries, 336 trajectories). In mathematics the failure is complete: strict Hit@1 at the heaviest disguise tier is 0.0% for both production embedders (bootstrap 95% CI [0.0, 0.0]) while the correct item sits in the top 10 nearly always, and in 95.2 to 99.8% of misse",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "This Teen Helped Native American Students Earn Ham Radio Licenses",
-      "url": "https://spectrum.ieee.org/ruchira-shree-ham-radio",
-      "source": "IEEE Spectrum – AI",
-      "published": "2026-08-31T18:00:01.000Z",
-      "score": 50,
-      "summary_en": "For many high school students, summer vacation is a time to unplug. For Ruchira Shree, a rising sophomore at West Windsor–Plainsboro High School South, in New Jersey, the break allows her to ramp up her extracurricular pursuits. Much of her time is spent assisting with IEEE Princeton Central Jersey Section activities. She got involved with the PCJS because of her mother, IEEE Senior Member Shubha Bommalingaiahnapallya, who is the section’s vice chair. Bommalingaiahnapallya is a principal engineer at Intel. “I started going to the IEEE meetings when I was little,” Shree says. “I used to go with",
-      "summary_fr": "For many high school students, summer vacation is a time to unplug. For Ruchira Shree, a rising sophomore at West Windsor–Plainsboro High School South, in New Jersey, the break allows her to ramp up her extracurricular pursuits. Much of her time is spent assisting with IEEE Princeton Central Jersey Section activities. She got involved with the PCJS because of her mother, IEEE Senior Member Shubha Bommalingaiahnapallya, who is the section’s vice chair. Bommalingaiahnapallya is a principal engineer at Intel. “I started going to the IEEE meetings when I was little,” Shree says. “I used to go with",
-      "resume_fr": "For many high school students, summer vacation is a time to unplug. For Ruchira Shree, a rising sophomore at West Windsor–Plainsboro High School South, in New Jersey, the break allows her to ramp up her extracurricular pursuits. Much of her time is spent assisting with IEEE Princeton Central Jersey Section activities. She got involved with the PCJS because of her mother, IEEE Senior Member Shubha Bommalingaiahnapallya, who is the section’s vice chair. Bommalingaiahnapallya is a principal engineer at Intel. “I started going to the IEEE meetings when I was little,” Shree says. “I used to go with",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
-    },
-    {
-      "title": "Configurable Semantic Chunking for Biomedical Information Extraction in Retrieval-Augmented Generation",
-      "url": "https://arxiv.org/abs/2608.31139v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-08-31T17:44:54.000Z",
-      "score": 70,
-      "summary_en": "BioMedRAG introduced retrieval-augmented generation with a learned chunk scorer for biomedical information extraction. However, it relies on fixed-size chunking which can fragment semantic evidence. We propose a configurable semantic chunking framework that addresses this limitation by combining entity-preserving windows, trigger-centered chunking, proposition-first extraction, tiered trigger prioritization, and hierarchical relation resolution. The framework integrates with BioMedRAG by replacing only the chunk construction stage while preserving the embedding model, learned chunk scorer, gen",
-      "summary_fr": "BioMedRAG introduced retrieval-augmented generation with a learned chunk scorer for biomedical information extraction. However, it relies on fixed-size chunking which can fragment semantic evidence. We propose a configurable semantic chunking framework that addresses this limitation by combining entity-preserving windows, trigger-centered chunking, proposition-first extraction, tiered trigger prioritization, and hierarchical relation resolution. The framework integrates with BioMedRAG by replacing only the chunk construction stage while preserving the embedding model, learned chunk scorer, gen",
-      "resume_fr": "BioMedRAG introduced retrieval-augmented generation with a learned chunk scorer for biomedical information extraction. However, it relies on fixed-size chunking which can fragment semantic evidence. We propose a configurable semantic chunking framework that addresses this limitation by combining entity-preserving windows, trigger-centered chunking, proposition-first extraction, tiered trigger prioritization, and hierarchical relation resolution. The framework integrates with BioMedRAG by replacing only the chunk construction stage while preserving the embedding model, learned chunk scorer, gen",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "CogEvol: Towards Efficient and Reliable Learning Environment Generation",
-      "url": "https://arxiv.org/abs/2608.30968v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-08-31T15:33:38.000Z",
-      "score": 50,
-      "summary_en": "We present CogEvol, a family of models trained specifically for Learning Environment Generation: turning a course brief into a finished learning artifact (structured-JSON slides or self-contained interactive HTML pages) in a single pass. Across 220k production requests, CogEvol completes a slide in a median of 17 seconds and an interactive page in 59, replacing minutes-long multi-turn agent scaffolding. Reliability is enforced rather than hoped for: a production-grounded data pipeline turns real failures into 53,687 verified SFT samples, and a hybrid rule-plus-VLM reward drives GRPO-based RL, ",
-      "summary_fr": "We present CogEvol, a family of models trained specifically for Learning Environment Generation: turning a course brief into a finished learning artifact (structured-JSON slides or self-contained interactive HTML pages) in a single pass. Across 220k production requests, CogEvol completes a slide in a median of 17 seconds and an interactive page in 59, replacing minutes-long multi-turn agent scaffolding. Reliability is enforced rather than hoped for: a production-grounded data pipeline turns real failures into 53,687 verified SFT samples, and a hybrid rule-plus-VLM reward drives GRPO-based RL, ",
-      "resume_fr": "We present CogEvol, a family of models trained specifically for Learning Environment Generation: turning a course brief into a finished learning artifact (structured-JSON slides or self-contained interactive HTML pages) in a single pass. Across 220k production requests, CogEvol completes a slide in a median of 17 seconds and an interactive page in 59, replacing minutes-long multi-turn agent scaffolding. Reliability is enforced rather than hoped for: a production-grounded data pipeline turns real failures into 53,687 verified SFT samples, and a hybrid rule-plus-VLM reward drives GRPO-based RL, ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
