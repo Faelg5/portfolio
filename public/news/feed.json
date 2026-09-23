@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T11:29:22.638Z",
+  "generatedAt": "2026-09-23T11:27:30.982Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,101 @@
     }
   },
   "items": [
+    {
+      "title": "CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents",
+      "url": "https://arxiv.org/abs/2609.26779v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-09-22T17:55:59.000Z",
+      "score": 70,
+      "summary_en": "Agents often work on complex problems that require millions of tokens of context, which necessitates compacting across sessions due to limited context windows. We develop CliffCompaction, an autocompaction technique that reduces cost by up to 50% under a bounded context while maintaining or improving performance on Terminal-Bench and achieving new levels of efficiency for test-time scaling and state-of-the-art results on KernelBench. The per-rollout savings of CliffCompaction make the performance--cost trade-off of test-time scaling more efficient, adding over 10 percentage points on Terminal-",
+      "summary_fr": "Agents often work on complex problems that require millions of tokens of context, which necessitates compacting across sessions due to limited context windows. We develop CliffCompaction, an autocompaction technique that reduces cost by up to 50% under a bounded context while maintaining or improving performance on Terminal-Bench and achieving new levels of efficiency for test-time scaling and state-of-the-art results on KernelBench. The per-rollout savings of CliffCompaction make the performance--cost trade-off of test-time scaling more efficient, adding over 10 percentage points on Terminal-",
+      "resume_fr": "Agents often work on complex problems that require millions of tokens of context, which necessitates compacting across sessions due to limited context windows. We develop CliffCompaction, an autocompaction technique that reduces cost by up to 50% under a bounded context while maintaining or improving performance on Terminal-Bench and achieving new levels of efficiency for test-time scaling and state-of-the-art results on KernelBench. The per-rollout savings of CliffCompaction make the performance--cost trade-off of test-time scaling more efficient, adding over 10 percentage points on Terminal-",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Beyond Repeated Sampling: Learning Search Policies for LLM Reasoning",
+      "url": "https://arxiv.org/abs/2609.26704v1",
+      "source": "arXiv – cs.CL (NLP/LLM)",
+      "published": "2026-09-22T16:56:53.000Z",
+      "score": 50,
+      "summary_en": "Large language models increasingly tackle hard reasoning problems by spending more test-time compute, yet the dominant strategy remains naive repeated sampling: draw many independent solutions and hope one is correct. Because such sampling explores only through local decoding noise, it tends to produce many near duplicate attempts rather than genuinely different ideas. We ask whether exploration can instead be steered at a semantic level, by first sampling problem specific concepts, hints, or strategies and then conditioning answer generation on them. We refine this into a simple, more explora",
+      "summary_fr": "Large language models increasingly tackle hard reasoning problems by spending more test-time compute, yet the dominant strategy remains naive repeated sampling: draw many independent solutions and hope one is correct. Because such sampling explores only through local decoding noise, it tends to produce many near duplicate attempts rather than genuinely different ideas. We ask whether exploration can instead be steered at a semantic level, by first sampling problem specific concepts, hints, or strategies and then conditioning answer generation on them. We refine this into a simple, more explora",
+      "resume_fr": "Large language models increasingly tackle hard reasoning problems by spending more test-time compute, yet the dominant strategy remains naive repeated sampling: draw many independent solutions and hope one is correct. Because such sampling explores only through local decoding noise, it tends to produce many near duplicate attempts rather than genuinely different ideas. We ask whether exploration can instead be steered at a semantic level, by first sampling problem specific concepts, hints, or strategies and then conditioning answer generation on them. We refine this into a simple, more explora",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "E3Sense: Head-Confined Multimodal Sensing of Learner Engagement",
+      "url": "https://arxiv.org/abs/2609.26569v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-09-22T15:19:07.000Z",
+      "score": 50,
+      "summary_en": "Engagement-aware learning systems could provide hints or adjust pacing when learners struggle. Prior engagement sensing work distributes sensors across or outside the body rather than consolidating them at one site, or reduces engagement to shared affect or a single dimension (from behavioral, emotional, and cognitive engagement). We introduce E3Sense, a head-worn platform that co-locates electroencephalography, eye tracking, and electrodermal activity to personalize engagement measurement. During a lab study we collected 450 ratings of engagement levels on a five-level ordinal scale while par",
+      "summary_fr": "Engagement-aware learning systems could provide hints or adjust pacing when learners struggle. Prior engagement sensing work distributes sensors across or outside the body rather than consolidating them at one site, or reduces engagement to shared affect or a single dimension (from behavioral, emotional, and cognitive engagement). We introduce E3Sense, a head-worn platform that co-locates electroencephalography, eye tracking, and electrodermal activity to personalize engagement measurement. During a lab study we collected 450 ratings of engagement levels on a five-level ordinal scale while par",
+      "resume_fr": "Engagement-aware learning systems could provide hints or adjust pacing when learners struggle. Prior engagement sensing work distributes sensors across or outside the body rather than consolidating them at one site, or reduces engagement to shared affect or a single dimension (from behavioral, emotional, and cognitive engagement). We introduce E3Sense, a head-worn platform that co-locates electroencephalography, eye tracking, and electrodermal activity to personalize engagement measurement. During a lab study we collected 450 ratings of engagement levels on a five-level ordinal scale while par",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Teaching Reinforcement Learning and Humanoid Robotics to High-School Students: An Expert-Validated Curriculum Design on a Low-Cost Open Platform",
+      "url": "https://arxiv.org/abs/2609.25674v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-09-22T04:27:06.000Z",
+      "score": 50,
+      "summary_en": "Lower cost open source robots and reinforcement learning (RL) simulation tools create new opportunities for precollege students to engage with contemporary robotics. However, translating a complete research workflow, spanning mechanical assembly, electrical setup, simulation, policy learning, system identification, and physical deployment, into a coherent course for novice learners remains challenging. We present an integrated robotics course framework that organizes these activities around a shared robotic artifact. The framework combines parallel disciplinary tracks, sequencing based on tech",
+      "summary_fr": "Lower cost open source robots and reinforcement learning (RL) simulation tools create new opportunities for precollege students to engage with contemporary robotics. However, translating a complete research workflow, spanning mechanical assembly, electrical setup, simulation, policy learning, system identification, and physical deployment, into a coherent course for novice learners remains challenging. We present an integrated robotics course framework that organizes these activities around a shared robotic artifact. The framework combines parallel disciplinary tracks, sequencing based on tech",
+      "resume_fr": "Lower cost open source robots and reinforcement learning (RL) simulation tools create new opportunities for precollege students to engage with contemporary robotics. However, translating a complete research workflow, spanning mechanical assembly, electrical setup, simulation, policy learning, system identification, and physical deployment, into a coherent course for novice learners remains challenging. We present an integrated robotics course framework that organizes these activities around a shared robotic artifact. The framework combines parallel disciplinary tracks, sequencing based on tech",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "SurgGraph: Quantitative Laparoscopic Video Understanding via Geometry-Grounded Scene Graphs",
+      "url": "https://arxiv.org/abs/2609.25651v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-09-22T04:02:47.000Z",
+      "score": 50,
+      "summary_en": "Surgical videos are a primary resource for teaching trainees anatomy, tool usage, and procedural skills. Yet learning from them at scale requires systems that understand surgical scenes. Existing approaches fall short: vision-language models lack fine-grained domain reasoning, task-specific models do not generalize, and prior scene graphs omit clinically meaningful detail. We present SurgGraph, a training-free pipeline that generates quantitative scene graphs from surgical videos. Operating on segmentation masks and depth maps, SurgGraph encodes each clinically meaningful relation (attachment,",
+      "summary_fr": "Surgical videos are a primary resource for teaching trainees anatomy, tool usage, and procedural skills. Yet learning from them at scale requires systems that understand surgical scenes. Existing approaches fall short: vision-language models lack fine-grained domain reasoning, task-specific models do not generalize, and prior scene graphs omit clinically meaningful detail. We present SurgGraph, a training-free pipeline that generates quantitative scene graphs from surgical videos. Operating on segmentation masks and depth maps, SurgGraph encodes each clinically meaningful relation (attachment,",
+      "resume_fr": "Surgical videos are a primary resource for teaching trainees anatomy, tool usage, and procedural skills. Yet learning from them at scale requires systems that understand surgical scenes. Existing approaches fall short: vision-language models lack fine-grained domain reasoning, task-specific models do not generalize, and prior scene graphs omit clinically meaningful detail. We present SurgGraph, a training-free pipeline that generates quantitative scene graphs from surgical videos. Operating on segmentation masks and depth maps, SurgGraph encodes each clinically meaningful relation (attachment,",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
       "url": "https://arxiv.org/abs/2609.24983v1",
@@ -250,7 +345,7 @@
     {
       "title": "Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education",
       "url": "https://arxiv.org/abs/2609.21600v1",
-      "source": "arXiv – cs.HC + education",
+      "source": "arXiv – cs.AI + education/MOOC",
       "published": "2026-09-18T10:30:26.000Z",
       "score": 65,
       "summary_en": "Access to academic support is a key determinant of student success, yet students experience it unequally: some readily seek help from lecturers or tutors, while others hesitate due to anxiety, fear of judgement, uncertainty about expectations, or low confidence in their understanding. This may be especially evident in computing education, where programming tasks are cumulative and cognitively demanding. Although students increasingly turn to general-purpose generative AI tools, these can produce responses that are inaccurate, insufficiently contextualised, or misaligned with module expectation",
@@ -1138,101 +1233,6 @@
         "impact": 0
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "When Does Scale-Invariant Optimization Become Unstable? An Exact Schedule Law with Weight Decay",
-      "url": "https://arxiv.org/abs/2609.09116v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-09-08T17:46:17.000Z",
-      "score": 70,
-      "summary_en": "Normalization renders large parts of neural networks effectively scale invariant, inducing a hidden feedback loop in which learning-rate schedules and weight decay interact through the parameter norm to control the effective step taken by the optimizer. We show that this interaction is governed by an exact discrete-time law: a single scalar quantity captures all schedule and decay forcing, while norm growth induces an opposing geometric self-quenching effect. This yields a sharp boundary that cleanly separates contraction- and expansion-dominated effective learning rate regimes. To understand ",
-      "summary_fr": "Normalization renders large parts of neural networks effectively scale invariant, inducing a hidden feedback loop in which learning-rate schedules and weight decay interact through the parameter norm to control the effective step taken by the optimizer. We show that this interaction is governed by an exact discrete-time law: a single scalar quantity captures all schedule and decay forcing, while norm growth induces an opposing geometric self-quenching effect. This yields a sharp boundary that cleanly separates contraction- and expansion-dominated effective learning rate regimes. To understand ",
-      "resume_fr": "Normalization renders large parts of neural networks effectively scale invariant, inducing a hidden feedback loop in which learning-rate schedules and weight decay interact through the parameter norm to control the effective step taken by the optimizer. We show that this interaction is governed by an exact discrete-time law: a single scalar quantity captures all schedule and decay forcing, while norm growth induces an opposing geometric self-quenching effect. This yields a sharp boundary that cleanly separates contraction- and expansion-dominated effective learning rate regimes. To understand ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Embedded Human-Centered Data Science in a Graduate Programming Course: A Framework and Case Study",
-      "url": "https://arxiv.org/abs/2609.08982v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-09-08T16:26:39.000Z",
-      "score": 85,
-      "summary_en": "As AI and data-driven systems pervade practice, there is an imperative for instructors to embed societal impact and ethics content into computing courses. In response, we present the Human-Centered Education for Learning in Information and eXplainable Computing (HELIX) framework for information science programs, organized around three iterative pillars - knowledge building, decision-making, and empowerment - with concrete actions for instructors and students. We applied the framework in a graduate, introductory programming course using readings, algorithmic design activities, and scenario-base",
-      "summary_fr": "As AI and data-driven systems pervade practice, there is an imperative for instructors to embed societal impact and ethics content into computing courses. In response, we present the Human-Centered Education for Learning in Information and eXplainable Computing (HELIX) framework for information science programs, organized around three iterative pillars - knowledge building, decision-making, and empowerment - with concrete actions for instructors and students. We applied the framework in a graduate, introductory programming course using readings, algorithmic design activities, and scenario-base",
-      "resume_fr": "As AI and data-driven systems pervade practice, there is an imperative for instructors to embed societal impact and ethics content into computing courses. In response, we present the Human-Centered Education for Learning in Information and eXplainable Computing (HELIX) framework for information science programs, organized around three iterative pillars - knowledge building, decision-making, and empowerment - with concrete actions for instructors and students. We applied the framework in a graduate, introductory programming course using readings, algorithmic design activities, and scenario-base",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Enhancing Communication in Speech Therapy: Exploring the Cognitive Synergy Between Gesture and Speech",
-      "url": "https://arxiv.org/abs/2609.08486v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-09-08T09:29:20.000Z",
-      "score": 50,
-      "summary_en": "This paper examines the adaptation of a rhythm-based interface, originally designed for manual dexterity rehabilitation, for use in speech therapy. The interface allows users to control synthesized vocal phrases through finger tapping, leveraging the cognitive link between gesture and speech. Through interviews with four therapists and pilot tests with one speech therapist and eight children with speech impairments (autism, Down syndrome, verbal apraxia, dyslexia), we found that the interface improves motivation and therapeutic outcomes by facilitating more interactions between verbally challe",
-      "summary_fr": "This paper examines the adaptation of a rhythm-based interface, originally designed for manual dexterity rehabilitation, for use in speech therapy. The interface allows users to control synthesized vocal phrases through finger tapping, leveraging the cognitive link between gesture and speech. Through interviews with four therapists and pilot tests with one speech therapist and eight children with speech impairments (autism, Down syndrome, verbal apraxia, dyslexia), we found that the interface improves motivation and therapeutic outcomes by facilitating more interactions between verbally challe",
-      "resume_fr": "This paper examines the adaptation of a rhythm-based interface, originally designed for manual dexterity rehabilitation, for use in speech therapy. The interface allows users to control synthesized vocal phrases through finger tapping, leveraging the cognitive link between gesture and speech. Through interviews with four therapists and pilot tests with one speech therapist and eight children with speech impairments (autism, Down syndrome, verbal apraxia, dyslexia), we found that the interface improves motivation and therapeutic outcomes by facilitating more interactions between verbally challe",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "CircuTutor: Transforming Static Circuit Problems into Intelligent and Dynamic Tutoring",
-      "url": "https://arxiv.org/abs/2609.08254v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-09-08T04:56:02.000Z",
-      "score": 65,
-      "summary_en": "Learning direct current circuit concepts requires learners to connect invisible physical quantities, such as current, voltage, resistance, and power, with observable outcomes such as bulb brightness. Conventional textbook materials and general-purpose circuit simulators provide opportunities for problem solving and exploration but offer limited support for explaining why circuit behavior changes or diagnosing the reasoning behind incorrect answers. We present CircuTutor, a circuit-state-driven intelligent tutoring system that transforms static textbook circuit problems into an interactive tuto",
-      "summary_fr": "Learning direct current circuit concepts requires learners to connect invisible physical quantities, such as current, voltage, resistance, and power, with observable outcomes such as bulb brightness. Conventional textbook materials and general-purpose circuit simulators provide opportunities for problem solving and exploration but offer limited support for explaining why circuit behavior changes or diagnosing the reasoning behind incorrect answers. We present CircuTutor, a circuit-state-driven intelligent tutoring system that transforms static textbook circuit problems into an interactive tuto",
-      "resume_fr": "Learning direct current circuit concepts requires learners to connect invisible physical quantities, such as current, voltage, resistance, and power, with observable outcomes such as bulb brightness. Conventional textbook materials and general-purpose circuit simulators provide opportunities for problem solving and exploration but offer limited support for explaining why circuit behavior changes or diagnosing the reasoning behind incorrect answers. We present CircuTutor, a circuit-state-driven intelligent tutoring system that transforms static textbook circuit problems into an interactive tuto",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Style Over Substance: Content-Invariant Wrappers Flip LLM Safety-Judge Verdicts",
-      "url": "https://arxiv.org/abs/2609.08236v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-09-08T04:27:22.000Z",
-      "score": 50,
-      "summary_en": "Automatic safety judges -- systems such as Llama Guard or a GPT-4o grading prompt that decide whether a model's reply is harmful -- produce the numbers behind almost every reported jailbreak success rate, defense evaluation, and safety leaderboard. We ask whether these judges grade what a reply contains or how it sounds. We keep a reply's content fixed and add content-invariant style wrappers: fixed strings placed before or after the reply that change only its tone (an educational disclaimer, a fake safety \"reasoning\" block, a token refusal followed by the unchanged harmful body), or, on harml",
-      "summary_fr": "Automatic safety judges -- systems such as Llama Guard or a GPT-4o grading prompt that decide whether a model's reply is harmful -- produce the numbers behind almost every reported jailbreak success rate, defense evaluation, and safety leaderboard. We ask whether these judges grade what a reply contains or how it sounds. We keep a reply's content fixed and add content-invariant style wrappers: fixed strings placed before or after the reply that change only its tone (an educational disclaimer, a fake safety \"reasoning\" block, a token refusal followed by the unchanged harmful body), or, on harml",
-      "resume_fr": "Automatic safety judges -- systems such as Llama Guard or a GPT-4o grading prompt that decide whether a model's reply is harmful -- produce the numbers behind almost every reported jailbreak success rate, defense evaluation, and safety leaderboard. We ask whether these judges grade what a reply contains or how it sounds. We keep a reply's content fixed and add content-invariant style wrappers: fixed strings placed before or after the reply that change only its tone (an educational disclaimer, a fake safety \"reasoning\" block, a token refusal followed by the unchanged harmful body), or, on harml",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
