@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T11:38:28.692Z",
+  "generatedAt": "2026-09-25T11:44:33.245Z",
   "model": "gpt-4o-mini",
   "profile": "balanced",
   "threshold": 65,
@@ -95,6 +95,196 @@
     }
   },
   "items": [
+    {
+      "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
+      "url": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
+      "source": "IEEE Spectrum – AI",
+      "published": "2026-09-24T18:00:04.000Z",
+      "score": 50,
+      "summary_en": "In Guadalajara, Mexico, many high schools have motivated teachers and talented students with an interest in science, technology, engineering, and mathematics, but they lack access to advanced tools such as robotics laboratories. The resources shortfall limits the students’ opportunities for hands-on learning on cutting-edge applications. A team from ITESO, Universidad Jesuita de Guadalajara, is working to change that. Through the EPICS in IEEE initiative, a multidisciplinary group of 15 engineering students, faculty advisors, and IEEE Guadalajara Section volunteers developed RoboMeshA. The por",
+      "summary_fr": "In Guadalajara, Mexico, many high schools have motivated teachers and talented students with an interest in science, technology, engineering, and mathematics, but they lack access to advanced tools such as robotics laboratories. The resources shortfall limits the students’ opportunities for hands-on learning on cutting-edge applications. A team from ITESO, Universidad Jesuita de Guadalajara, is working to change that. Through the EPICS in IEEE initiative, a multidisciplinary group of 15 engineering students, faculty advisors, and IEEE Guadalajara Section volunteers developed RoboMeshA. The por",
+      "resume_fr": "In Guadalajara, Mexico, many high schools have motivated teachers and talented students with an interest in science, technology, engineering, and mathematics, but they lack access to advanced tools such as robotics laboratories. The resources shortfall limits the students’ opportunities for hands-on learning on cutting-edge applications. A team from ITESO, Universidad Jesuita de Guadalajara, is working to change that. Through the EPICS in IEEE initiative, a multidisciplinary group of 15 engineering students, faculty advisors, and IEEE Guadalajara Section volunteers developed RoboMeshA. The por",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
+    },
+    {
+      "title": "Agentic Detection of Online Conspiracies",
+      "url": "https://arxiv.org/abs/2609.30250v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-09-24T17:58:43.000Z",
+      "score": 50,
+      "summary_en": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers. The same surface content may express endorsement, legitimate concerns, criticism, satire, or mockery. The main challenge is therefore not only recognizing conspiracy-related claims, but inferring the speaker's intent -- the utterance's illocutionary force. We argue that this can be achieved through the use of relevant social contexts and propose an agentic framework, equipped with a set of tools supporting social queries. We demonstrate the benefits of our approach on a unique da",
+      "summary_fr": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers. The same surface content may express endorsement, legitimate concerns, criticism, satire, or mockery. The main challenge is therefore not only recognizing conspiracy-related claims, but inferring the speaker's intent -- the utterance's illocutionary force. We argue that this can be achieved through the use of relevant social contexts and propose an agentic framework, equipped with a set of tools supporting social queries. We demonstrate the benefits of our approach on a unique da",
+      "resume_fr": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers. The same surface content may express endorsement, legitimate concerns, criticism, satire, or mockery. The main challenge is therefore not only recognizing conspiracy-related claims, but inferring the speaker's intent -- the utterance's illocutionary force. We argue that this can be achieved through the use of relevant social contexts and propose an agentic framework, equipped with a set of tools supporting social queries. We demonstrate the benefits of our approach on a unique da",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech",
+      "url": "https://arxiv.org/abs/2609.30227v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-09-24T17:50:40.000Z",
+      "score": 70,
+      "summary_en": "Online misinformation increasingly appears in spoken formats such as news clips, podcasts, interviews, political speeches, and social media videos, creating a need for fact-checking systems that can verify claims directly from speech. We introduce VeriSpeak, a probe benchmark for studying speech-based fact verification in Large Audio Language Models (LALMs). VeriSpeak contains 3,879 spoken claims spanning temporal, geographical, and relational facts, with balanced true and false labels. The benchmark is designed to examine whether factual verification ability transfers from text to speech, and",
+      "summary_fr": "Online misinformation increasingly appears in spoken formats such as news clips, podcasts, interviews, political speeches, and social media videos, creating a need for fact-checking systems that can verify claims directly from speech. We introduce VeriSpeak, a probe benchmark for studying speech-based fact verification in Large Audio Language Models (LALMs). VeriSpeak contains 3,879 spoken claims spanning temporal, geographical, and relational facts, with balanced true and false labels. The benchmark is designed to examine whether factual verification ability transfers from text to speech, and",
+      "resume_fr": "Online misinformation increasingly appears in spoken formats such as news clips, podcasts, interviews, political speeches, and social media videos, creating a need for fact-checking systems that can verify claims directly from speech. We introduce VeriSpeak, a probe benchmark for studying speech-based fact verification in Large Audio Language Models (LALMs). VeriSpeak contains 3,879 spoken claims spanning temporal, geographical, and relational facts, with balanced true and false labels. The benchmark is designed to examine whether factual verification ability transfers from text to speech, and",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "PoEM: Predicting RL Outcomes from Existing Policies",
+      "url": "https://arxiv.org/abs/2609.30226v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-09-24T17:50:25.000Z",
+      "score": 50,
+      "summary_en": "Foundation models are post-trained with reinforcement learning (RL) to maximize specific rewards, such as human alignment, correctness, or instruction following. This post-training process is computationally intensive, sometimes unstable, and has to be run from scratch every time the reward model changes or when we want to combine multiple rewards. We hence ask: given a new reward function, is it possible to predict the RL outcomes without actually running RL on it? We answer this in the affirmative by introducing PoEM, a framework to predict the outputs of RL on a new reward function using a ",
+      "summary_fr": "Foundation models are post-trained with reinforcement learning (RL) to maximize specific rewards, such as human alignment, correctness, or instruction following. This post-training process is computationally intensive, sometimes unstable, and has to be run from scratch every time the reward model changes or when we want to combine multiple rewards. We hence ask: given a new reward function, is it possible to predict the RL outcomes without actually running RL on it? We answer this in the affirmative by introducing PoEM, a framework to predict the outputs of RL on a new reward function using a ",
+      "resume_fr": "Foundation models are post-trained with reinforcement learning (RL) to maximize specific rewards, such as human alignment, correctness, or instruction following. This post-training process is computationally intensive, sometimes unstable, and has to be run from scratch every time the reward model changes or when we want to combine multiple rewards. We hence ask: given a new reward function, is it possible to predict the RL outcomes without actually running RL on it? We answer this in the affirmative by introducing PoEM, a framework to predict the outputs of RL on a new reward function using a ",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "A Nearly Quadratic Lower Bound for Linear Optimization over Convex Bodies in the Membership Oracle Model",
+      "url": "https://arxiv.org/abs/2609.30215v1",
+      "source": "arXiv – cs.LG + learning analytics",
+      "published": "2026-09-24T17:45:58.000Z",
+      "score": 50,
+      "summary_en": "We prove nearly quadratic lower bounds for randomized algorithms for linear optimization and uniform sampling over convex bodies in the membership oracle model. For linear optimization, this matches the known nearly quadratic upper bound up to a polylog factor in the dimension. For uniform sampling, this improves on the previous linear lower bound. Our construction also implies the same lower bound for volume estimation.",
+      "summary_fr": "We prove nearly quadratic lower bounds for randomized algorithms for linear optimization and uniform sampling over convex bodies in the membership oracle model. For linear optimization, this matches the known nearly quadratic upper bound up to a polylog factor in the dimension. For uniform sampling, this improves on the previous linear lower bound. Our construction also implies the same lower bound for volume estimation.",
+      "resume_fr": "We prove nearly quadratic lower bounds for randomized algorithms for linear optimization and uniform sampling over convex bodies in the membership oracle model. For linear optimization, this matches the known nearly quadratic upper bound up to a polylog factor in the dimension. For uniform sampling, this improves on the previous linear lower bound. Our construction also implies the same lower bound for volume estimation.",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 15,
+        "impact": 0
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Synthetic Hospital: An Open, Verifiable, Physician-Validated Longitudinal EHR Benchmark",
+      "url": "https://arxiv.org/abs/2609.30027v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-09-24T16:00:56.000Z",
+      "score": 50,
+      "summary_en": "Frontier language models are rarely used in clinical workflows because the realistic, longitudinal benchmarks needed to develop them are scarce. Real electronic health record (EHR) data cannot be openly shared due to privacy, ethics or data use issues and it does not contain verifiable ground truth since the chart records only reflect what clinicians documented. We introduce Synthetic Hospital, an open, fully synthetic, fact-grounded longitudinal EHR benchmark that resolves the open sharing and verifiable ground truth barriers. Built entirely from public medical-education material with no prot",
+      "summary_fr": "Frontier language models are rarely used in clinical workflows because the realistic, longitudinal benchmarks needed to develop them are scarce. Real electronic health record (EHR) data cannot be openly shared due to privacy, ethics or data use issues and it does not contain verifiable ground truth since the chart records only reflect what clinicians documented. We introduce Synthetic Hospital, an open, fully synthetic, fact-grounded longitudinal EHR benchmark that resolves the open sharing and verifiable ground truth barriers. Built entirely from public medical-education material with no prot",
+      "resume_fr": "Frontier language models are rarely used in clinical workflows because the realistic, longitudinal benchmarks needed to develop them are scarce. Real electronic health record (EHR) data cannot be openly shared due to privacy, ethics or data use issues and it does not contain verifiable ground truth since the chart records only reflect what clinicians documented. We introduce Synthetic Hospital, an open, fully synthetic, fact-grounded longitudinal EHR benchmark that resolves the open sharing and verifiable ground truth barriers. Built entirely from public medical-education material with no prot",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Will It Teach as Intended? How Teachers Configure Educational AI Chatbots",
+      "url": "https://arxiv.org/abs/2609.29993v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-09-24T15:42:54.000Z",
+      "score": 50,
+      "summary_en": "Teachers are increasingly using generative AI to support instruction, yet it remains unclear how pedagogical intentions are translated into chatbot configurations and reflected in chatbot behavior. We studied a teacher-facing chatbot authoring tool in professional development workshops with 27 middle school teachers, analyzing focus-group interviews alongside configuration and interaction logs. Teachers envisioned chatbots as instructional scaffolds that could provide differentiated support, extend access to assistance, and preserve student thinking within teacher-defined boundaries. Configura",
+      "summary_fr": "Teachers are increasingly using generative AI to support instruction, yet it remains unclear how pedagogical intentions are translated into chatbot configurations and reflected in chatbot behavior. We studied a teacher-facing chatbot authoring tool in professional development workshops with 27 middle school teachers, analyzing focus-group interviews alongside configuration and interaction logs. Teachers envisioned chatbots as instructional scaffolds that could provide differentiated support, extend access to assistance, and preserve student thinking within teacher-defined boundaries. Configura",
+      "resume_fr": "Teachers are increasingly using generative AI to support instruction, yet it remains unclear how pedagogical intentions are translated into chatbot configurations and reflected in chatbot behavior. We studied a teacher-facing chatbot authoring tool in professional development workshops with 27 middle school teachers, analyzing focus-group interviews alongside configuration and interaction logs. Teachers envisioned chatbots as instructional scaffolds that could provide differentiated support, extend access to assistance, and preserve student thinking within teacher-defined boundaries. Configura",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education",
+      "url": "https://arxiv.org/abs/2609.29874v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-09-24T14:28:35.000Z",
+      "score": 85,
+      "summary_en": "Generative artificial intelligence can turn learning analytics into personalized support, but feedback systems must decide when to intervene, which evidence to use, and how much assistance to provide. We developed a risk-adaptive, evidence-constrained framework for introductory programming using 2993 failed-submission states from 215 students. Student-disjoint models predicted persistent failure and related outcomes; four matched feedback conditions were generated for 136 cases; and calibrated risk informed capacity-limited intervention policies. The validation-selected logistic regression mod",
+      "summary_fr": "Generative artificial intelligence can turn learning analytics into personalized support, but feedback systems must decide when to intervene, which evidence to use, and how much assistance to provide. We developed a risk-adaptive, evidence-constrained framework for introductory programming using 2993 failed-submission states from 215 students. Student-disjoint models predicted persistent failure and related outcomes; four matched feedback conditions were generated for 136 cases; and calibrated risk informed capacity-limited intervention policies. The validation-selected logistic regression mod",
+      "resume_fr": "Generative artificial intelligence can turn learning analytics into personalized support, but feedback systems must decide when to intervene, which evidence to use, and how much assistance to provide. We developed a risk-adaptive, evidence-constrained framework for introductory programming using 2993 failed-submission states from 215 students. Student-disjoint models predicted persistent failure and related outcomes; four matched feedback conditions were generated for 136 cases; and calibrated risk informed capacity-limited intervention policies. The validation-selected logistic regression mod",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Beyond Simple Input-Output Assessment Tasks: Leveraging Automated Programming Assessment for Non-Trivial Courses",
+      "url": "https://arxiv.org/abs/2609.29363v1",
+      "source": "arXiv – cs.AI + education/MOOC",
+      "published": "2026-09-24T10:41:16.000Z",
+      "score": 50,
+      "summary_en": "The public visibility of Artificial Intelligence (AI) is growing rapidly, driven by the positive impact of its applications across diverse fields of knowledge. In this new chapter, courses that cover the foundations of AI and machine learning become essential for understanding their role and potential in contemporary society. Therefore, understanding fundamental concepts and elementary algorithms through the close integration of theory with practice is essential in AI courses. In this essay, we report our experience designing machine learning exercises for automated assessment tools in program",
+      "summary_fr": "The public visibility of Artificial Intelligence (AI) is growing rapidly, driven by the positive impact of its applications across diverse fields of knowledge. In this new chapter, courses that cover the foundations of AI and machine learning become essential for understanding their role and potential in contemporary society. Therefore, understanding fundamental concepts and elementary algorithms through the close integration of theory with practice is essential in AI courses. In this essay, we report our experience designing machine learning exercises for automated assessment tools in program",
+      "resume_fr": "The public visibility of Artificial Intelligence (AI) is growing rapidly, driven by the positive impact of its applications across diverse fields of knowledge. In this new chapter, courses that cover the foundations of AI and machine learning become essential for understanding their role and potential in contemporary society. Therefore, understanding fundamental concepts and elementary algorithms through the close integration of theory with practice is essential in AI courses. In this essay, we report our experience designing machine learning exercises for automated assessment tools in program",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 0,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
+    {
+      "title": "Characterizing LLM-Based Family Education through the Lens of Activity Theory: A Scoping Review of the HCI Literature",
+      "url": "https://arxiv.org/abs/2609.28886v1",
+      "source": "arXiv – cs.HC + education",
+      "published": "2026-09-24T01:03:00.000Z",
+      "score": 85,
+      "summary_en": "Large language models (LLMs) are increasingly involved in family education, yet HCI has not systematically explained the educational interactions that emerge around them. This scoping review analyzes 53 HCI studies from 6,540 records across 19 venues. Using activity theory and AODM, it relates participants and educational objects to mediation, labour, and rules. We find that the literature centers on child--parent interaction and on language, AI literacy, and relational learning. The introduction of LLMs enabled conversational, embodied, and spatial systems to generate support from the context",
+      "summary_fr": "Large language models (LLMs) are increasingly involved in family education, yet HCI has not systematically explained the educational interactions that emerge around them. This scoping review analyzes 53 HCI studies from 6,540 records across 19 venues. Using activity theory and AODM, it relates participants and educational objects to mediation, labour, and rules. We find that the literature centers on child--parent interaction and on language, AI literacy, and relational learning. The introduction of LLMs enabled conversational, embodied, and spatial systems to generate support from the context",
+      "resume_fr": "Large language models (LLMs) are increasingly involved in family education, yet HCI has not systematically explained the educational interactions that emerge around them. This scoping review analyzes 53 HCI studies from 6,540 records across 19 venues. Using activity theory and AODM, it relates participants and educational objects to mediation, labour, and rules. We find that the literature centers on child--parent interaction and on language, AI literacy, and relational learning. The introduction of LLMs enabled conversational, embodied, and spatial systems to generate support from the context",
+      "tags": [],
+      "breakdown": {
+        "research": 35,
+        "policy": 35,
+        "institution": 0,
+        "impact": 15
+      },
+      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
+      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
+    },
     {
       "title": "Minimal-Norm Univariate Two-Layer ReLU Classification: Exact Solutions and Global Optimality with Skip Connections",
       "url": "https://arxiv.org/abs/2609.28438v1",
@@ -1043,196 +1233,6 @@
         "impact": 15
       },
       "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Codeveloper of Ethernet Predecessor Dies at 91",
-      "url": "https://spectrum.ieee.org/codeveloper-of-ethernet-predecessor-dies",
-      "source": "IEEE Spectrum – AI",
-      "published": "2026-09-10T20:00:04.000Z",
-      "score": 50,
-      "summary_en": "Franklin “Frank” Kuo Codeveloper of ALOHAnet Fellow, 91; died 14 April Kuo helped develop ALOHAnet, a pioneering computer system at the University of Hawaii at Mānoa, in Honolulu. The system went online in 1971 and represented the first public demonstration of a wireless packet data network. It was an inspiration for Robert Metcalfe’s development of Ethernet a couple of years later. In 2020 ALOHAnet was designated as an IEEE Milestone. Kuo earned bachelor’s, master’s, and doctoral degrees in electrical engineering from the University of Illinois, Urbana-Champaign. After earning his Ph.D. in 19",
-      "summary_fr": "Franklin “Frank” Kuo Codeveloper of ALOHAnet Fellow, 91; died 14 April Kuo helped develop ALOHAnet, a pioneering computer system at the University of Hawaii at Mānoa, in Honolulu. The system went online in 1971 and represented the first public demonstration of a wireless packet data network. It was an inspiration for Robert Metcalfe’s development of Ethernet a couple of years later. In 2020 ALOHAnet was designated as an IEEE Milestone. Kuo earned bachelor’s, master’s, and doctoral degrees in electrical engineering from the University of Illinois, Urbana-Champaign. After earning his Ph.D. in 19",
-      "resume_fr": "Franklin “Frank” Kuo Codeveloper of ALOHAnet Fellow, 91; died 14 April Kuo helped develop ALOHAnet, a pioneering computer system at the University of Hawaii at Mānoa, in Honolulu. The system went online in 1971 and represented the first public demonstration of a wireless packet data network. It was an inspiration for Robert Metcalfe’s development of Ethernet a couple of years later. In 2020 ALOHAnet was designated as an IEEE Milestone. Kuo earned bachelor’s, master’s, and doctoral degrees in electrical engineering from the University of Illinois, Urbana-Champaign. After earning his Ph.D. in 19",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=spectrum.ieee.org&sz=128"
-    },
-    {
-      "title": "Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact",
-      "url": "https://arxiv.org/abs/2609.11915v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-09-10T17:57:28.000Z",
-      "score": 70,
-      "summary_en": "Generative artificial intelligence changes how firms reach customers, but standard marketing data do not record how often users see and notice a firm's name in generated answers. We develop Generative Marketing Mix Modeling (GMMM) to estimate the causal effects of Generative Engine Optimization (GEO) and Generative Engine Marketing (GEM). For GEO, GMMM combines repeated generated answers with question counts, shares of use across generative systems, and notice probabilities. For GEM, it combines records of sponsored placements with notice probabilities. GMMM compares expected business response",
-      "summary_fr": "Generative artificial intelligence changes how firms reach customers, but standard marketing data do not record how often users see and notice a firm's name in generated answers. We develop Generative Marketing Mix Modeling (GMMM) to estimate the causal effects of Generative Engine Optimization (GEO) and Generative Engine Marketing (GEM). For GEO, GMMM combines repeated generated answers with question counts, shares of use across generative systems, and notice probabilities. For GEM, it combines records of sponsored placements with notice probabilities. GMMM compares expected business response",
-      "resume_fr": "Generative artificial intelligence changes how firms reach customers, but standard marketing data do not record how often users see and notice a firm's name in generated answers. We develop Generative Marketing Mix Modeling (GMMM) to estimate the causal effects of Generative Engine Optimization (GEO) and Generative Engine Marketing (GEM). For GEO, GMMM combines repeated generated answers with question counts, shares of use across generative systems, and notice probabilities. For GEM, it combines records of sponsored placements with notice probabilities. GMMM compares expected business response",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Distance generalization in transformers: why bother with positional encoding?",
-      "url": "https://arxiv.org/abs/2609.11913v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-09-10T17:57:19.000Z",
-      "score": 50,
-      "summary_en": "Out-of-distribution length generalization, namely to extrapolate a task from short to longer context, has been studied intensively for transformers. Here we focus on distance generalization, which probes performance when inter-token distances are changed between training and inference, while keeping a fixed context length. We construct two synthetic delay copy tasks, both involving finite distances between source and recall, where tokens are copied either fully or selectively, and test models on delays unseen during training. We address three questions: (A) Do positional encoding schemes such ",
-      "summary_fr": "Out-of-distribution length generalization, namely to extrapolate a task from short to longer context, has been studied intensively for transformers. Here we focus on distance generalization, which probes performance when inter-token distances are changed between training and inference, while keeping a fixed context length. We construct two synthetic delay copy tasks, both involving finite distances between source and recall, where tokens are copied either fully or selectively, and test models on delays unseen during training. We address three questions: (A) Do positional encoding schemes such ",
-      "resume_fr": "Out-of-distribution length generalization, namely to extrapolate a task from short to longer context, has been studied intensively for transformers. Here we focus on distance generalization, which probes performance when inter-token distances are changed between training and inference, while keeping a fixed context length. We construct two synthetic delay copy tasks, both involving finite distances between source and recall, where tokens are copied either fully or selectively, and test models on delays unseen during training. We address three questions: (A) Do positional encoding schemes such ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 15,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=15, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Geospatial AI, Dataverse Metadata, and the Study of Place-Based Government",
-      "url": "https://arxiv.org/abs/2609.11674v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-09-10T15:08:58.000Z",
-      "score": 50,
-      "summary_en": "Harvard Dataverse hosts over 150,000 research datasets, but the geographic information those datasets carry is entered as free text by depositors and has never been assembled into a searchable structure. We construct a knowledge graph from the repository's public data and metadata, organizing 102,650 datasets within a 215,985-node network of 528,003 edges linking datasets to keywords, publications, subjects, journals, and locations. Of those datasets, 43,991 (42.9 percent) carry at least one geospatial field, geographic coverage, geographic unit, or a bounding box and 96.9 percent of all nodes",
-      "summary_fr": "Harvard Dataverse hosts over 150,000 research datasets, but the geographic information those datasets carry is entered as free text by depositors and has never been assembled into a searchable structure. We construct a knowledge graph from the repository's public data and metadata, organizing 102,650 datasets within a 215,985-node network of 528,003 edges linking datasets to keywords, publications, subjects, journals, and locations. Of those datasets, 43,991 (42.9 percent) carry at least one geospatial field, geographic coverage, geographic unit, or a bounding box and 96.9 percent of all nodes",
-      "resume_fr": "Harvard Dataverse hosts over 150,000 research datasets, but the geographic information those datasets carry is entered as free text by depositors and has never been assembled into a searchable structure. We construct a knowledge graph from the repository's public data and metadata, organizing 102,650 datasets within a 215,985-node network of 528,003 edges linking datasets to keywords, publications, subjects, journals, and locations. Of those datasets, 43,991 (42.9 percent) carry at least one geospatial field, geographic coverage, geographic unit, or a bounding box and 96.9 percent of all nodes",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Autonomy, Social Norms, and Alignment: Towards a Developmental Framework for Autonomous Artificial Agents",
-      "url": "https://arxiv.org/abs/2609.11660v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-09-10T15:02:52.000Z",
-      "score": 85,
-      "summary_en": "In recent years, artificial intelligence has made extraordinary progress thanks to large-scale models capable of generalization and the generation of complex outputs. However, transferring this potential into embodied agents reveals a significant limitation: the most advanced systems rely on pre-existing datasets and human feedback strategies that are powerful but insufficient in dynamic or unknown contexts. To adapt, an agent must acquire knowledge through direct interaction with its environment. One strategy to address this challenge involves introducing higher-level mechanisms, such as intr",
-      "summary_fr": "In recent years, artificial intelligence has made extraordinary progress thanks to large-scale models capable of generalization and the generation of complex outputs. However, transferring this potential into embodied agents reveals a significant limitation: the most advanced systems rely on pre-existing datasets and human feedback strategies that are powerful but insufficient in dynamic or unknown contexts. To adapt, an agent must acquire knowledge through direct interaction with its environment. One strategy to address this challenge involves introducing higher-level mechanisms, such as intr",
-      "resume_fr": "In recent years, artificial intelligence has made extraordinary progress thanks to large-scale models capable of generalization and the generation of complex outputs. However, transferring this potential into embodied agents reveals a significant limitation: the most advanced systems rely on pre-existing datasets and human feedback strategies that are powerful but insufficient in dynamic or unknown contexts. To adapt, an agent must acquire knowledge through direct interaction with its environment. One strategy to address this challenge involves introducing higher-level mechanisms, such as intr",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration",
-      "url": "https://arxiv.org/abs/2609.11529v1",
-      "source": "arXiv – cs.HC + education",
-      "published": "2026-09-10T13:29:53.000Z",
-      "score": 85,
-      "summary_en": "Group-based ethics training for Science, Technology, Engineering and Mathematics (STEM) students is a complex challenge, requiring substantial resources and expertise. While activity-based teaching methods, such as role-playing and discussions, are commonly employed to simulate real-world scenarios, current practices are often manual and lack integration with effective online platforms for supporting group-based ethical discussions. In this work, we propose Ethics Training Agents, a group discussion system that leverages multiple LLM participants embodying distinct ethical orientations, along ",
-      "summary_fr": "Group-based ethics training for Science, Technology, Engineering and Mathematics (STEM) students is a complex challenge, requiring substantial resources and expertise. While activity-based teaching methods, such as role-playing and discussions, are commonly employed to simulate real-world scenarios, current practices are often manual and lack integration with effective online platforms for supporting group-based ethical discussions. In this work, we propose Ethics Training Agents, a group discussion system that leverages multiple LLM participants embodying distinct ethical orientations, along ",
-      "resume_fr": "Group-based ethics training for Science, Technology, Engineering and Mathematics (STEM) students is a complex challenge, requiring substantial resources and expertise. While activity-based teaching methods, such as role-playing and discussions, are commonly employed to simulate real-world scenarios, current practices are often manual and lack integration with effective online platforms for supporting group-based ethical discussions. In this work, we propose Ethics Training Agents, a group discussion system that leverages multiple LLM participants embodying distinct ethical orientations, along ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "What should AI governance in education actually cover?",
-      "url": "https://world-education-blog.org/2026/09/10/what-should-ai-governance-in-education-actually-cover/",
-      "source": "UNESCO GEM – World Education Blog",
-      "published": "2026-09-10T10:49:15.000Z",
-      "score": 65,
-      "summary_en": "By Dr Adam Edmett, Head Ed Tech Innovation, British Council and Dr Helen Crompton, Executive Director, Research Institute of Digital Innovation in Learning (RIDIL), Professor of Instructional Technology, Old Dominion University Generative artificial intelligence arrived in classrooms faster than the systems meant to govern it. Today, ministries, school leaders and universities continue to grapple with […] The post What should AI governance in education actually cover? appeared first on World Education Blog.",
-      "summary_fr": "By Dr Adam Edmett, Head Ed Tech Innovation, British Council and Dr Helen Crompton, Executive Director, Research Institute of Digital Innovation in Learning (RIDIL), Professor of Instructional Technology, Old Dominion University Generative artificial intelligence arrived in classrooms faster than the systems meant to govern it. Today, ministries, school leaders and universities continue to grapple with […] The post What should AI governance in education actually cover? appeared first on World Education Blog.",
-      "resume_fr": "By Dr Adam Edmett, Head Ed Tech Innovation, British Council and Dr Helen Crompton, Executive Director, Research Institute of Digital Innovation in Learning (RIDIL), Professor of Instructional Technology, Old Dominion University Generative artificial intelligence arrived in classrooms faster than the systems meant to govern it. Today, ministries, school leaders and universities continue to grapple with […] The post What should AI governance in education actually cover? appeared first on World Education Blog.",
-      "tags": [],
-      "breakdown": {
-        "research": 0,
-        "policy": 35,
-        "institution": 15,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=0, Politiques=35, Institution=15, Impact=15.",
-      "image": "https://www.google.com/s2/favicons?domain=world-education-blog.org&sz=128"
-    },
-    {
-      "title": "Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch",
-      "url": "https://arxiv.org/abs/2609.10525v1",
-      "source": "arXiv – cs.LG + learning analytics",
-      "published": "2026-09-09T17:54:30.000Z",
-      "score": 70,
-      "summary_en": "Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a countable universe. Generation is possible exactly when each target can be assigned a finite positive witness so that the targets activated by any finite sample have an infinite common intersection. The necessary direction follows from a universal normalization: a search through unconfirmed histories converts any successful generator into one depending only on the observed set. We then ask how large ",
-      "summary_fr": "Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a countable universe. Generation is possible exactly when each target can be assigned a finite positive witness so that the targets activated by any finite sample have an infinite common intersection. The necessary direction follows from a universal normalization: a search through unconfirmed histories converts any successful generator into one depending only on the observed set. We then ask how large ",
-      "resume_fr": "Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a countable universe. Generation is possible exactly when each target can be assigned a finite positive witness so that the targets activated by any finite sample have an infinite common intersection. The necessary direction follows from a universal normalization: a search through unconfirmed histories converts any successful generator into one depending only on the observed set. We then ask how large ",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "Can Foundation Models Moderate Online Content? Evaluating Instruction- vs. Example-Driven Policy Operationalization",
-      "url": "https://arxiv.org/abs/2609.10410v1",
-      "source": "arXiv – cs.CL (NLP/LLM)",
-      "published": "2026-09-09T16:30:15.000Z",
-      "score": 70,
-      "summary_en": "The growing complexity of content moderation policies presents a critical challenge for their consistent operationalization. While foundation models possess the basic capabilities needed to confront this challenge, whether they can reliably moderate online content remains an unanswered question. In this paper, we systematically compare two competing paradigms for Vision-Language Model (VLM) guidance: an instruction-driven approach where models reason from policy precepts, and an example-driven approach where they generalize from prior precedents. We ground this investigation in ModerationBench",
-      "summary_fr": "The growing complexity of content moderation policies presents a critical challenge for their consistent operationalization. While foundation models possess the basic capabilities needed to confront this challenge, whether they can reliably moderate online content remains an unanswered question. In this paper, we systematically compare two competing paradigms for Vision-Language Model (VLM) guidance: an instruction-driven approach where models reason from policy precepts, and an example-driven approach where they generalize from prior precedents. We ground this investigation in ModerationBench",
-      "resume_fr": "The growing complexity of content moderation policies presents a critical challenge for their consistent operationalization. While foundation models possess the basic capabilities needed to confront this challenge, whether they can reliably moderate online content remains an unanswered question. In this paper, we systematically compare two competing paradigms for Vision-Language Model (VLM) guidance: an instruction-driven approach where models reason from policy precepts, and an example-driven approach where they generalize from prior precedents. We ground this investigation in ModerationBench",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 35,
-        "institution": 0,
-        "impact": 0
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=35, Institution=0, Impact=0.",
-      "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
-    },
-    {
-      "title": "With a Thermomix You Lose the Ability to Cook: A Kitchen Machine Analogy for Applications of Generative AI in Education",
-      "url": "https://arxiv.org/abs/2609.09856v1",
-      "source": "arXiv – cs.AI + education/MOOC",
-      "published": "2026-09-09T08:10:45.000Z",
-      "score": 50,
-      "summary_en": "The rapid adoption of generative AI tools such as ChatGPT has sparked intense debate about their risks and opportunities for education, as well as the ways researchers should investigate them. In this paper, we approach these discussions through an analogy with the Thermomix, a smart kitchen appliance that has similarly provoked both enthusiasm and critique. By mapping Thermomix use cases onto examples of learning with generative AI, and situating them within the ICAP and SAMR frameworks, we show how different modes of tool use can either support or undermine meaningful engagement and learning",
-      "summary_fr": "The rapid adoption of generative AI tools such as ChatGPT has sparked intense debate about their risks and opportunities for education, as well as the ways researchers should investigate them. In this paper, we approach these discussions through an analogy with the Thermomix, a smart kitchen appliance that has similarly provoked both enthusiasm and critique. By mapping Thermomix use cases onto examples of learning with generative AI, and situating them within the ICAP and SAMR frameworks, we show how different modes of tool use can either support or undermine meaningful engagement and learning",
-      "resume_fr": "The rapid adoption of generative AI tools such as ChatGPT has sparked intense debate about their risks and opportunities for education, as well as the ways researchers should investigate them. In this paper, we approach these discussions through an analogy with the Thermomix, a smart kitchen appliance that has similarly provoked both enthusiasm and critique. By mapping Thermomix use cases onto examples of learning with generative AI, and situating them within the ICAP and SAMR frameworks, we show how different modes of tool use can either support or undermine meaningful engagement and learning",
-      "tags": [],
-      "breakdown": {
-        "research": 35,
-        "policy": 0,
-        "institution": 0,
-        "impact": 15
-      },
-      "reason": "Heuristique: Recherche=35, Politiques=0, Institution=0, Impact=15.",
       "image": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=128"
     }
   ]
